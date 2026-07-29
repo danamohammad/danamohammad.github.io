@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-29T21:09:02.352Z",
+  "generatedAt": "2026-07-29T23:52:28.042Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
-      "ok": false,
-      "count": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "count": 100,
+      "error": null
     },
     {
       "name": "Journal of Petroleum Science and Engineering",
@@ -75,6 +75,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Hydrothermal microbes shape seafloor minerals at newly found vents near Greek island",
+      "link": "https://phys.org/news/2026-07-hydrothermal-microbes-seafloor-minerals-newly.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-29T23:20:01.000Z",
+      "excerpt": "In August 2023, the German research vessel METEOR set sail on Expedition M192 to the Greek island of Milos with Dr. Solveig Bühring as chief scientist. The mission was to locate and investigate previously unknown hydroth…"
+    },
+    {
+      "title": "Lake ice loss could accelerate after winter temperatures cross critical thresholds",
+      "link": "https://phys.org/news/2026-07-lake-ice-loss-winter-temperatures.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-29T23:00:03.000Z",
+      "excerpt": "For lakes across the Northern Hemisphere, winter ice is more than a frozen surface. It is a seasonal regulator that shapes underwater ecosystems and energy balance. But as the planet warms, this frozen season is disappea…"
+    },
+    {
+      "title": "Expressway restoration may speed regional economic recovery after disasters",
+      "link": "https://phys.org/news/2026-07-expressway-regional-economic-recovery-disasters.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-29T23:00:01.000Z",
+      "excerpt": "A research team has, for the first time, demonstrated the crucial role that restoring transportation networks (such as roads and railways) plays in rebuilding regional economies and helping residents recover their liveli…"
+    },
+    {
+      "title": "Climate shapes vegetation patterns across Yellow River Basin",
+      "link": "https://phys.org/news/2026-07-climate-vegetation-patterns-yellow-river.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-29T21:40:03.000Z",
+      "excerpt": "Climate drives vegetation patterns across the Henan section of China's Yellow River Basin, research in the International Journal of Environmental Engineering shows. However, expanding agriculture and urbanization have a…"
+    },
     {
       "title": "The oceans near Australia may be the best places to fertilize for removing carbon dioxide",
       "link": "https://phys.org/news/2026-07-oceans-australia-fertilize-carbon-dioxide.html",
@@ -628,44 +660,12 @@
       "excerpt": "Peatlands are the unsung heroes of nature. These ancient wetlands form when dead and decaying plants partly decompose in wet, low-oxygen conditions. Over thousands of years, this plant material builds up and turns into a…"
     },
     {
-      "title": "New carbon calculator measures emissions per spa visit",
-      "link": "https://phys.org/news/2026-07-carbon-emissions-spa.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-28T14:20:01.000Z",
-      "excerpt": "A new tool that calculates the carbon footprint of an individual spa or wellness visit in real time has been published by researchers from the University of Surrey and Therme Group."
-    },
-    {
       "title": "TotalEnergies, Eni reach agreement to develop Cyprus’ Cronos gas field",
       "link": "https://www.offshore-technology.com/news/totalenergies-eni-cronos-gas-field/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-07-28T13:11:32.000Z",
       "excerpt": "TotalEnergies and Eni have jointly approved the development of the Cronos gas field in Cyprus offshore Block 6, following a FID."
-    },
-    {
-      "title": "Climate change and social concerns could drive more radical protests",
-      "link": "https://phys.org/news/2026-07-climate-social-radical-protests.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-28T13:00:02.000Z",
-      "excerpt": "Around the world, hundreds of thousands of people engage in conventional protests—and sometimes more radical forms of action—in the face of environmental change, harms to animals and nature, and climate inaction."
-    },
-    {
-      "title": "More green space alone won't beat urban heat",
-      "link": "https://phys.org/news/2026-07-green-space-wont-urban.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-28T12:40:01.000Z",
-      "excerpt": "New research from Victoria University (VU) reveals that reducing the impact of extreme heat in urban areas requires more than simply adding green spaces—it requires a different approach to urban planning."
-    },
-    {
-      "title": "Record snow drought drives water-hauling crisis for Rocky Mountain ranchers",
-      "link": "https://phys.org/news/2026-07-drought-hauling-crisis-rocky-mountain.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-28T10:10:59.000Z",
-      "excerpt": "As water shot into an open stock tank atop a high-country mesa, a trickle soaked the dusty earth below. Scott Snyder rose from the shade to fasten a hose and stop the spillage."
     },
     {
       "title": "Skadden, Arps, Slate, Meagher & Flom tops oil and gas M&A legal advisory by value in H1 2026",
