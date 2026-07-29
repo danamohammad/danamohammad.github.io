@@ -4,7 +4,7 @@
   "author": "Dana Mohammad Khidhir",
   "domain": "danakhidhir.is-a.dev",
   "base_url": "https://danakhidhir.is-a.dev",
-  "github_user": "PLACEHOLDER_GITHUB",
+  "github_user": "danamohammad",
   "email": "danamohammadkhidhir@gmail.com",
   "description": "Personal site: long-form articles, a curated directory of genuinely useful APIs, and archived research.",
   "nav": [
@@ -14,7 +14,7 @@
     { "label": "Research", "url": "/research/" }
   ],
   "footer_links": [
-    { "label": "GitHub", "url": "https://github.com/PLACEHOLDER_GITHUB" },
+    { "label": "GitHub", "url": "https://github.com/danamohammad" },
     { "label": "RSS", "url": "/feed.xml" }
   ]
 }
