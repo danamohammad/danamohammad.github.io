@@ -15,6 +15,16 @@ export default defineConfig({
   site: origin,
   output: 'static',
   integrations: [sitemap()],
+
+  // URLs that were public on the previous Python site. They are kept working so
+  // anything already linking to them does not land on a 404.
+  redirects: {
+    '/articles': '/blog',
+    '/articles/[...id]': '/blog/[...id]',
+    '/feed.xml': '/rss.xml',
+    '/research/making-research-citable': '/blog/making-research-citable',
+  },
+
   build: {
     // Emit `/research/index.html` rather than `/research.html`, so every route
     // resolves on GitHub Pages with or without the trailing slash.
