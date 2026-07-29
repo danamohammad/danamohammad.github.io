@@ -90,15 +90,35 @@ those by hand; `build.py` overwrites them on every run.
 
 ## Deploying
 
-1. Push to `main` on the repository named `<username>.github.io`.
-2. Settings → Pages → Source: *Deploy from a branch*, branch `main`, folder `/ (root)`.
-3. The `CNAME` file is generated from `domain` in `site.config.json`.
+Push to `main` on `danamohammad.github.io`. Pages rebuilds automatically, usually within
+a minute.
 
-## Free domain
+Live at <https://danamohammad.github.io>.
 
-The `is-a.dev` subdomain is claimed by opening a pull request against
-[is-a-dev/register](https://github.com/is-a-dev/register) with a single JSON file
-pointing at GitHub Pages.
+## Custom domain
+
+The custom domain is controlled by two keys in `site.config.json`:
+
+```json
+"domain": "danakhidhir.is-a.dev",
+"custom_domain_active": false
+```
+
+While `custom_domain_active` is `false`, no `CNAME` file is written and `base_url`
+resolves to `https://<github_user>.github.io`.
+
+**Do not set it to `true` until the domain's DNS actually resolves.** GitHub Pages treats
+a `CNAME` file as authoritative and redirects every request to that hostname — if the
+domain does not exist yet, the whole site becomes unreachable.
+
+Once the `is-a.dev` pull request is merged and DNS has propagated:
+
+1. Set `"custom_domain_active": true`
+2. `python build.py` — this writes the `CNAME` file and rewrites every canonical URL
+3. Commit and push
+
+`base_url` is derived, never hand-written, so canonical URLs, `sitemap.xml` and the RSS
+feed always agree with whichever domain is really serving the site.
 
 ## Licence
 
