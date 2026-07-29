@@ -1,0 +1,74 @@
+---
+import { getCollection, render } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { site, formatDate } from '../../lib/site';
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  return posts.map((post) => ({ params: { id: post.id }, props: { post } }));
+};
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.date.toISOString(),
+  ...(post.data.updated ? { dateModified: post.data.updated.toISOString() } : {}),
+  author: { '@type': 'Person', name: site.name },
+  keywords: post.data.tags.join(', '),
+};
+---
+
+<BaseLayout title={post.data.title} description={post.data.description} ogType="article" jsonLd={jsonLd}>
+  <article class="prose post">
+    <header>
+      <h1>{post.data.title}</h1>
+      <p class="post-meta">
+        <time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
+        {post.data.updated && <> · updated {formatDate(post.data.updated)}</>}
+      </p>
+      {
+        post.data.tags.length > 0 && (
+          <p class="post-tags">
+            {post.data.tags.map((t) => (
+              <a href={`/blog/tags/${t}/`} class="badge">
+                {t}
+              </a>
+            ))}
+          </p>
+        )
+      }
+    </header>
+
+    <Content />
+
+    <footer class="post-footer">
+      <a href="/blog/">← All posts</a>
+    </footer>
+  </article>
+</BaseLayout>
+
+<style>
+  .post header { margin-bottom: 2.5rem; }
+  .post h1 { margin-bottom: 0.3rem; }
+  .post-meta { font-size: 0.9375rem; color: var(--text-muted); margin: 0 0 0.7rem; }
+  .post-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0; }
+  .post-tags a { text-decoration: none; }
+  .post-tags a:hover { border-color: var(--accent); color: var(--accent); }
+
+  .post :global(h2) { margin-top: 2.4em; }
+  .post :global(blockquote) {
+    margin: 1.5rem 0;
+    padding-left: 1.1rem;
+    border-left: 3px solid var(--border-strong);
+    color: var(--text-muted);
+  }
+  .post :global(img) { border-radius: var(--radius); margin: 1.5rem 0; }
+
+  .post-footer { margin-top: 3.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+</style>

@@ -1,0 +1,209 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site, isPlaceholder } from '../lib/site';
+
+const bio = site.bio.filter((p) => !isPlaceholder(p));
+const focus = site.currentFocus.filter((f) => !isPlaceholder(f));
+const links = site.links.filter((l) => !isPlaceholder(l.href));
+const awaitingIntake = site.bio.some(isPlaceholder);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: site.name,
+  url: Astro.site?.href,
+  ...(isPlaceholder(site.affiliation)
+    ? {}
+    : { affiliation: { '@type': 'Organization', name: site.affiliation } }),
+  ...(isPlaceholder(site.ids.orcid) ? {} : { identifier: `https://orcid.org/${site.ids.orcid}` }),
+  sameAs: links.filter((l) => l.href.startsWith('http')).map((l) => l.href),
+};
+
+const pointers = [
+  { href: '/research/', title: 'Research', text: 'Publications, datasets and software, gathered automatically from Zenodo.' },
+  { href: '/apis/', title: 'APIs', text: 'Documentation for the APIs I build and maintain.' },
+  { href: '/news/', title: 'News', text: 'Headlines I follow, collected from a curated set of feeds.' },
+  { href: '/blog/', title: 'Blog', text: 'Longer-form notes and articles.' },
+];
+---
+
+<BaseLayout title={site.name} jsonLd={jsonLd}>
+  {
+    awaitingIntake && (
+      <p class="placeholder-note">
+        <strong>Placeholder content.</strong> Bio, portrait and profile links are awaiting Phase&nbsp;1 intake.
+        Layout and structure are final; the words and the photo are not.
+      </p>
+    )
+  }
+
+  <section class="intro">
+    <img
+      class="portrait"
+      src={site.portrait.src}
+      alt={site.portrait.alt}
+      width="168"
+      height="168"
+      fetchpriority="high"
+    />
+    <div class="intro-body">
+      <h1>{site.name}</h1>
+      {!isPlaceholder(site.tagline) && <p class="tagline">{site.tagline}</p>}
+      {!isPlaceholder(site.affiliation) && <p class="affiliation">{site.affiliation}</p>}
+      {
+        links.length > 0 && (
+          <ul class="intro-links">
+            {links.map((l) => (
+              <li>
+                <a href={l.href} rel={l.href.startsWith('http') ? 'me noopener' : undefined}>
+                  {l.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        )
+      }
+    </div>
+  </section>
+
+  <div class="prose">
+    {
+      bio.length > 0 ? (
+        bio.map((p) => <p>{p}</p>)
+      ) : (
+        <p class="muted">A short biography will appear here once the intake details arrive.</p>
+      )
+    }
+
+    {
+      focus.length > 0 && (
+        <>
+          <h2>Current focus</h2>
+          <ul>
+            {focus.map((f) => (
+              <li>{f}</li>
+            ))}
+          </ul>
+        </>
+      )
+    }
+  </div>
+
+  <h2>Elsewhere on this site</h2>
+  <ul class="pointer-grid">
+    {
+      pointers.map((p) => (
+        <li>
+          <a href={p.href}>
+            <span class="pointer-title">{p.title}</span>
+            <span class="pointer-text">{p.text}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</BaseLayout>
+
+<style>
+  .intro {
+    display: flex;
+    gap: 1.75rem;
+    align-items: center;
+    margin-bottom: 2.5rem;
+    flex-wrap: wrap;
+  }
+
+  .portrait {
+    width: 168px;
+    height: 168px;
+    border-radius: 50%;
+    object-fit: cover;
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+
+  .intro-body {
+    flex: 1 1 20rem;
+    min-width: 0;
+  }
+
+  .intro-body h1 {
+    margin-bottom: 0.2em;
+  }
+
+  .tagline {
+    font-size: 1.1rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .affiliation {
+    color: var(--text-muted);
+    margin-bottom: 0.9rem;
+  }
+
+  .intro-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 1.1rem;
+    font-size: 0.9375rem;
+  }
+
+  .muted {
+    color: var(--text-muted);
+  }
+
+  .pointer-grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 0.85rem;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  }
+
+  .pointer-grid a {
+    display: block;
+    height: 100%;
+    padding: 1.1rem 1.2rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .pointer-grid a:hover {
+    border-color: var(--accent);
+    box-shadow: var(--step-lift);
+  }
+
+  .pointer-title {
+    display: block;
+    font-family: var(--font-serif);
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: var(--accent);
+    margin-bottom: 0.15rem;
+  }
+
+  .pointer-text {
+    display: block;
+    font-size: 0.9375rem;
+    color: var(--text-muted);
+    line-height: 1.55;
+  }
+
+  @media (max-width: 30rem) {
+    .intro {
+      gap: 1.25rem;
+    }
+    .portrait {
+      width: 120px;
+      height: 120px;
+    }
+  }
+</style>

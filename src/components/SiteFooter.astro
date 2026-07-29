@@ -1,0 +1,32 @@
+---
+import { site, isPlaceholder } from '../lib/site';
+
+// Placeholder links are dropped rather than rendered as dead anchors.
+const links = site.links.filter((l) => !isPlaceholder(l.href));
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="shell">
+    {
+      links.length > 0 && (
+        <ul class="footer-links">
+          {links.map((l) => (
+            <li>
+              <a
+                href={l.href}
+                rel={l.href.startsWith('http') ? 'me noopener' : undefined}
+              >
+                {l.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      )
+    }
+    <p class="footer-meta">
+      &copy; {year} {site.name}. Built with Astro, hosted on GitHub Pages.
+      <a href="/rss.xml">RSS</a>
+    </p>
+  </div>
+</footer>

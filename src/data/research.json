@@ -1,0 +1,516 @@
+{
+  "generatedAt": "2026-07-29T21:09:52.673Z",
+  "sources": {
+    "manual": {
+      "ok": true,
+      "count": 23,
+      "error": null
+    },
+    "orcid": {
+      "ok": true,
+      "count": 6,
+      "lastSuccess": "2026-07-29T21:09:51.268Z",
+      "error": null
+    },
+    "crossref": {
+      "ok": true,
+      "count": 3,
+      "lastSuccess": "2026-07-29T21:09:52.336Z",
+      "error": null
+    },
+    "zenodo": {
+      "ok": true,
+      "count": 0,
+      "lastSuccess": "2026-07-29T21:09:52.653Z",
+      "error": null,
+      "note": "no records deposited under this ORCID yet"
+    },
+    "scholar": {
+      "ok": true,
+      "count": 20,
+      "note": "seeded by hand; Scholar blocks automated access from CI runners"
+    }
+  },
+  "metrics": {
+    "_comment": "Snapshot from the Google Scholar profile, refreshed by the weekly research workflow. Shown on /research/ with the date it was taken, never presented as live.",
+    "citations": 196,
+    "hIndex": 8,
+    "i10Index": 4,
+    "asOf": "2026-07-29"
+  },
+  "publications": [
+    {
+      "title": "Convergence analysis of nanoparticle-dispersed flow past a porous rotating disk: A Darcy-Forchheimer model with radiation and convective heating",
+      "authors": [
+        "Arafat, Hussain",
+        "Ahmed, Muhammad Faizan",
+        "Ali, Farhan",
+        "Zafar, S.S.",
+        "Anjum, Asra",
+        "Saeed, Abdulkafi Mohammed",
+        "Sid, Hamed Ould",
+        "Khidhi, Dana Mohammad",
+        "Shah, Nehad Ali"
+      ],
+      "year": 2026,
+      "venue": "Kuwait Journal of Science",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.kjs.2025.100523",
+      "url": "https://doi.org/10.1016/j.kjs.2025.100523",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 2,
+      "source": "orcid"
+    },
+    {
+      "title": "A comprehensive review of data analytics and storage methods in geothermal energy operations",
+      "authors": [
+        "Basem, Ali",
+        "Al-Nussairi, Ahmed Kateb Jumaah",
+        "Khidhir, Dana Mohammad",
+        "Singh, Narinderjit Singh Sawaran",
+        "Baghoolizadeh, Mohammadreza",
+        "Fazilati, Mohammad Ali",
+        "Salahshour, Soheil",
+        "Sajadi, S. Mohammad",
+        "Hasanabad, Ali Mohammadi"
+      ],
+      "year": 2025,
+      "venue": "Results in Engineering",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.rineng.2025.106068",
+      "url": "https://doi.org/10.1016/j.rineng.2025.106068",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 8,
+      "source": "scholar"
+    },
+    {
+      "title": "Entropy generation in radiative bioconvective Maxwell nanofluid flow",
+      "authors": [],
+      "year": 2025,
+      "venue": "Journal of Radiation Research and Applied Sciences",
+      "publisher": null,
+      "doi": null,
+      "url": null,
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 4,
+      "source": "scholar"
+    },
+    {
+      "title": "Exergy and energy analysis for dimple tube solar water heater using deionized water zinc oxide based nanofluid",
+      "authors": [
+        "Arun, M.",
+        "Barik, Debabrata",
+        "Tudu, Kapura",
+        "Praveenkumar, Seepana",
+        "Saravanan, A.",
+        "Khidhir, Dana Mohammad",
+        "Ghori, Syed Waheedullah",
+        "Khan, T. M. Yunus",
+        "Soudagar, Manzoore Elahi M.",
+        "Hasan, Nasim"
+      ],
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "doi": "10.1038/s41598-025-19498-2",
+      "url": "https://doi.org/10.1038/s41598-025-19498-2",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 7,
+      "source": "scholar"
+    },
+    {
+      "title": "FEM-based numerical study for enhanced electrical and thermal effectiveness in photovoltaic thermal systems with attached trapezoidal flow channels",
+      "authors": [
+        "Alshanbari, Huda M",
+        "Usman",
+        "Khidhir, Dana Mohammad",
+        "Muhammad, Taseer",
+        "El-Wahed Khalifa, Hamiden Abd"
+      ],
+      "year": 2025,
+      "venue": "Case Studies in Thermal Engineering",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.csite.2025.105997",
+      "url": "https://doi.org/10.1016/j.csite.2025.105997",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 7,
+      "source": "scholar"
+    },
+    {
+      "title": "Machine learning investigation of wavy fin using penta type nanomaterial with multiple Parameters: Computational design",
+      "authors": [
+        "Ayadi, Badreddine",
+        "Adnan",
+        "Khan, Sami Ullah",
+        "Bani-Fwaz, Mutasem Z.",
+        "Khidhir, Dana Mohammad",
+        "Ali, Muhammad Mahmood",
+        "Bashir, Muhammad Nasir",
+        "Ben Hamida, Mohamed Bechir"
+      ],
+      "year": 2025,
+      "venue": "Case Studies in Thermal Engineering",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.csite.2025.106816",
+      "url": "https://doi.org/10.1016/j.csite.2025.106816",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 8,
+      "source": "scholar"
+    },
+    {
+      "title": "Magneto-radiative heat transfer in Fe3O4/C2H6O2 nanofluids",
+      "authors": [],
+      "year": 2025,
+      "venue": "Journal of Radiation Research and Applied Sciences",
+      "publisher": null,
+      "doi": "10.1016/j.jrras.2025.101802",
+      "url": "https://doi.org/10.1016/j.jrras.2025.101802",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 6,
+      "source": "scholar"
+    },
+    {
+      "title": "Mixed convective peristaltic flow of Magnetohydrodynamic Xanthan gum fluid in a curved channel",
+      "authors": [
+        "Ayub, Sadia",
+        "Afzal, M.",
+        "Abduvalieva, Dilsora",
+        "Khidhir, Dana Mohammad"
+      ],
+      "year": 2025,
+      "venue": "Carbohydrate Polymer Technologies and Applications",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.carpta.2025.100886",
+      "url": "https://doi.org/10.1016/j.carpta.2025.100886",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 6,
+      "source": "scholar"
+    },
+    {
+      "title": "Modeling and design considerations for heat and mass transfer with diamond-cobalt oxide/ethylene glycol boger hybrid nanofluid in industrial systems",
+      "authors": [
+        "Galal, Ahmed M.",
+        "Aoudia, Mouloud",
+        "Abbas, Ansar",
+        "Khidhir, Dana Mohammad",
+        "Chuan Ching, Dennis Ling",
+        "Abbas, Munawar",
+        "Noor, Noor Fadiya M.",
+        "Bakouri, Mohsen",
+        "Khan, Ilyas"
+      ],
+      "year": 2025,
+      "venue": "Journal of Radiation Research and Applied Sciences",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.jrras.2025.101441",
+      "url": "https://doi.org/10.1016/j.jrras.2025.101441",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 14,
+      "source": "scholar"
+    },
+    {
+      "title": "Numerical investigation of thermal radiation effects on chemical reactive flow of microbes in hybrid nanofluid over a rotating disk",
+      "authors": [
+        "Aoudia, Mouloud",
+        "Benabdallah, Faiza",
+        "Abbas, Ansar",
+        "Khidhir, Dana Mohammad",
+        "Chuan Ching, Dennis Ling",
+        "Memon, Abid Ali",
+        "Abbas, Munawar",
+        "Khan, Ilyas",
+        "Liaqat, Saba",
+        "Galal, Ahmed M."
+      ],
+      "year": 2025,
+      "venue": "Journal of Radiation Research and Applied Sciences",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.jrras.2025.101435",
+      "url": "https://doi.org/10.1016/j.jrras.2025.101435",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 9,
+      "source": "scholar"
+    },
+    {
+      "title": "Peristaltic mechanism in particulate suspensions of Ellis's fluid flow through uniform and non-uniform channels",
+      "authors": [
+        "Zafar, Zareen",
+        "Ali, Ali B.M.",
+        "Ali, Zulfiqar",
+        "Nazeer, Mubbashar",
+        "Rasool, Ghulam",
+        "Khan, M. Ijaz",
+        "Khidhir, Dana Mohammad"
+      ],
+      "year": 2025,
+      "venue": "Results in Surfaces and Interfaces",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.rsurfi.2025.100662",
+      "url": "https://doi.org/10.1016/j.rsurfi.2025.100662",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 4,
+      "source": "scholar"
+    },
+    {
+      "title": "RETRACTED: Heat and mass transfer analysis of Williamson nanofluids under the influence of magnetic field and Joule's heating",
+      "authors": [
+        "Swami, Sharanayya",
+        "Biradar, Suresh",
+        "Tawade, Jagadish V.",
+        "Kulkarni, Nitiraj V.",
+        "Abdullaeva, Barno Sayfutdinovna",
+        "Khidhir, Dana Mohammad",
+        "Batool, Nadia",
+        "Saidani, Taoufik"
+      ],
+      "year": 2025,
+      "venue": "Partial Differential Equations in Applied Mathematics",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.padiff.2025.101148",
+      "url": "https://doi.org/10.1016/j.padiff.2025.101148",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 7,
+      "source": "scholar"
+    },
+    {
+      "title": "Thermal analysis of thermo-bioconvection flow of trihybrid nanofluid with oxytactic microbe with heat generation: applications of nanoparticles and thermal radiation",
+      "authors": [
+        "Galal, Ahmed M.",
+        "Elhag, Ahmed Babeker",
+        "Khan, Y.",
+        "Abbas, Munawar",
+        "Khidhir, Dana Mohammad",
+        "Kamolova, Nargiza",
+        "Abbas, Ansar"
+      ],
+      "year": 2025,
+      "venue": "Journal of Thermal Analysis and Calorimetry",
+      "publisher": "Springer Science and Business Media LLC",
+      "doi": "10.1007/s10973-025-14159-y",
+      "url": "https://doi.org/10.1007/s10973-025-14159-y",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 28,
+      "source": "scholar"
+    },
+    {
+      "title": "Thermal behavior of magnetized squeezing flow based on Jeffrey nanomaterial stratified flow subject to Cattaneo-Christov fluxes",
+      "authors": [
+        "Kausar, M. Salman",
+        "Nasir, M.",
+        "Shflot, A.S.",
+        "Waqas, M.",
+        "Khidhir, Dana Mohammad",
+        "Zamri, Nurnadiah"
+      ],
+      "year": 2025,
+      "venue": "Case Studies in Thermal Engineering",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.csite.2025.106736",
+      "url": "https://doi.org/10.1016/j.csite.2025.106736",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 6,
+      "source": "scholar"
+    },
+    {
+      "title": "Thermal radiation effect on SiC-Co3O4+Diamond/H2O trihybrid nanofluid with Stefan blowing and LTNE effects using classical and modified Hamilton-crosser models",
+      "authors": [
+        "Galal, Ahmed M.",
+        "Okasha, Mostafa Mohamed",
+        "Khidhi, Dana Mohammad",
+        "Albalawi, Kholoud Saad",
+        "Alqahtani, Nouf Abdulrahman",
+        "Bayram, Mustafa",
+        "Abbas, Munawar",
+        "Khan, Ilyas"
+      ],
+      "year": 2025,
+      "venue": "Journal of Radiation Research and Applied Sciences",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.jrras.2025.101638",
+      "url": "https://doi.org/10.1016/j.jrras.2025.101638",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 18,
+      "source": "scholar"
+    },
+    {
+      "title": "Thermal study of Fe3O4/blood and CoFe2O4/blood magneto nanofluids",
+      "authors": [],
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "publisher": null,
+      "doi": "10.1038/s41598-025-10029-7",
+      "url": "https://doi.org/10.1038/s41598-025-10029-7",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 8,
+      "source": "scholar"
+    },
+    {
+      "title": "Thermomechanics of radiated hybrid nanofluid interacting with MHD and heating source: Significance of nanoparticles shapes",
+      "authors": [
+        "Adnan",
+        "Rahman, Khaleeq ur",
+        "Zaidi, Syed Zulfiqar Ali",
+        "Ghodhbani, Refka",
+        "Khidhir, Dana Mohammad",
+        "Iqbal, Muhammad Asad",
+        "Tlili, Iskander"
+      ],
+      "year": 2025,
+      "venue": "Journal of Radiation Research and Applied Sciences",
+      "publisher": "Elsevier BV",
+      "doi": "10.1016/j.jrras.2025.101544",
+      "url": "https://doi.org/10.1016/j.jrras.2025.101544",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 4,
+      "source": "scholar"
+    },
+    {
+      "title": "Thermophoresis and electrophoresis particle deposition in Boger nanofluid in the presence of gyrotactic microorganisms: Marangoni convection",
+      "authors": [
+        "Okasha, Mostafa Mohamed",
+        "Abbas, Munawar",
+        "Khidhir, Dana Mohammad",
+        "Abduvalieva, Dilsora"
+      ],
+      "year": 2025,
+      "venue": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+      "publisher": "Springer Science and Business Media LLC",
+      "doi": "10.1007/s40430-025-05970-7",
+      "url": "https://doi.org/10.1007/s40430-025-05970-7",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 4,
+      "source": "scholar"
+    },
+    {
+      "title": "Unveiling the Role of Nanoparticles in Biodiesel Blends: A Comprehensive Energy‐Exergy‐Sustainability Analysis for CI Engine Optimization",
+      "authors": [
+        "Rao Bikkavolu, Joga",
+        "Rao M., Sreenivasa",
+        "Hanumanthu, Ravi",
+        "Vuddagiri, Hari Kiran",
+        "Chebattina, Kodanda Rama Rao",
+        "Pullagura, Gandhi",
+        "Khidhir, Dana Mohammad",
+        "Dennison, Milon Selvam",
+        "Seepana, Praveenkumar",
+        "Barik, Debabrata"
+      ],
+      "year": 2025,
+      "venue": "Energy Science &amp; Engineering",
+      "publisher": "Wiley",
+      "doi": "10.1002/ese3.70324",
+      "url": "https://doi.org/10.1002/ese3.70324",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": 5,
+      "source": "scholar"
+    },
+    {
+      "title": "Experimental Investigation of Asphaltene Deposition Remediation in Northern Iraqi Fields Using Green Metal Oxide Nanofluids/chemicals as Dispersants",
+      "authors": [
+        "Khidhir, Dana Mohammad",
+        "Sidiq, Hiwa"
+      ],
+      "year": 2023,
+      "venue": "Gas &amp; Oil Technology Showcase and Conference",
+      "publisher": "SPE",
+      "doi": "10.2118/214201-ms",
+      "url": "https://doi.org/10.2118/214201-ms",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": null,
+      "source": "orcid"
+    },
+    {
+      "title": "A Green Nano-Chemical Dispersant/Inhibitor Design for Asphaltene in Crudes of Iraqi Oil-Fields",
+      "authors": [
+        "Khidhir, Dana",
+        "Sidiq, Hiwa"
+      ],
+      "year": 2022,
+      "venue": "2022 2nd International Conference on Advances in Engineering Science and Technology (AEST)",
+      "publisher": "IEEE",
+      "doi": "10.1109/aest55805.2022.10413057",
+      "url": "https://doi.org/10.1109/aest55805.2022.10413057",
+      "pdf": null,
+      "type": "article",
+      "abstract": null,
+      "citations": null,
+      "source": "orcid"
+    },
+    {
+      "title": "Efficacy of Green Oxide Nanofluids as Potential Dispersants for Asphaltene in Iraqi Crudes, Experimental, Tunning and Statistical Analysis",
+      "authors": [
+        "Khidhir, Dana",
+        "Sidiq, Hiwa"
+      ],
+      "year": 2022,
+      "venue": "Energies",
+      "publisher": "MDPI AG",
+      "doi": "10.3390/en15186833",
+      "url": "https://doi.org/10.3390/en15186833",
+      "pdf": null,
+      "type": "article",
+      "abstract": "Asphaltene are large molecular crude constituents and their existence is related to numerous problems. However, nanofluids have proven to be a very stable and effective way of dealing with asphaltene agglomerations. This research addresses the effectiveness of nanofluids as compared to traditional and available (FLOW-X) commercial inhibitors. The synthesis and characterization of two green NPs and",
+      "citations": 16,
+      "source": "scholar"
+    },
+    {
+      "title": "A Study of Asphaltene Precipitation Problem in some wells in Kurdistan Region",
+      "authors": [
+        "Humoodi, akram",
+        "Aziz, Baroz",
+        "Khidhir, Dana"
+      ],
+      "year": 2020,
+      "venue": "UKH Journal of Science and Engineering",
+      "publisher": "University of Kurdistan Hewler",
+      "doi": "10.25079/ukhjse.v4n2y2020.pp27-36",
+      "url": "https://doi.org/10.25079/ukhjse.v4n2y2020.pp27-36",
+      "pdf": null,
+      "type": "article",
+      "abstract": "Throughout the production and reservoir lifecycle, the asphaltene precipitation is an ever existing problem through changing the porosity, permeability and wettability leading to decline in production. The conditions that govern Asphaltene precipitation varies from well to well and from reservoir conditions of high pressure and temperature to surface conditions and need to be studied case by case.",
+      "citations": 5,
+      "source": "scholar",
+      "alternateDoi": "10.25079/ukhjse.v4n1y2020.pp27-36"
+    }
+  ]
+}

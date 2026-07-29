@@ -1,0 +1,120 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { news, feeds, formatDate } from '../../lib/site';
+
+const items = news.items ?? [];
+
+// Group by calendar day, newest first.
+const byDay = new Map<string, typeof items>();
+for (const item of items) {
+  const day = String(item.published ?? '').slice(0, 10);
+  if (!day) continue;
+  if (!byDay.has(day)) byDay.set(day, []);
+  byDay.get(day)!.push(item);
+}
+const days = [...byDay.entries()].sort((a, b) => b[0].localeCompare(a[0]));
+
+const failed = (news.sources ?? []).filter((s: any) => s.ok === false);
+---
+
+<BaseLayout
+  title="News"
+  description="Headlines from a curated set of feeds covering petroleum engineering, energy research and open science."
+>
+  <div class="page-header">
+    <h1>News</h1>
+    <p>
+      Headlines from {feeds.feeds.length} curated feeds, refreshed every six hours. Titles and links only —
+      follow the link to read the article at its source.
+    </p>
+  </div>
+
+  {
+    failed.length > 0 && (
+      <p class="placeholder-note">
+        <strong>{failed.length} feed{failed.length > 1 ? 's' : ''} unavailable</strong> on the last run
+        ({failed.map((s: any) => s.name).join(', ')}). Everything else below is current.
+      </p>
+    )
+  }
+
+  {
+    items.length === 0 ? (
+      <div class="empty-state">
+        <p>
+          <strong>No headlines yet.</strong>
+        </p>
+        <p>
+          The news workflow has not run. It populates on its first scheduled run, or immediately via
+          <code>gh workflow run fetch-news.yml</code>.
+        </p>
+      </div>
+    ) : (
+      days.map(([day, dayItems]) => (
+        <section class="day">
+          <h2>{formatDate(day)}</h2>
+          <ul class="news-list">
+            {dayItems.map((item: any) => (
+              <li>
+                <a href={item.link} rel="noopener">
+                  {item.title}
+                </a>
+                <p class="news-meta">
+                  <span class="source">{item.source}</span>
+                  {item.excerpt && <span class="excerpt">{item.excerpt}</span>}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))
+    )
+  }
+
+  <details class="sources">
+    <summary>Feed sources ({feeds.feeds.length})</summary>
+    <ul>
+      {
+        feeds.feeds.map((f) => (
+          <li>
+            <a href={f.url} rel="noopener">{f.name}</a> <span class="badge">{f.category}</span>
+          </li>
+        ))
+      }
+    </ul>
+  </details>
+</BaseLayout>
+
+<style>
+  .day { margin-bottom: 2.5rem; }
+  .day h2 {
+    font-size: 1rem;
+    font-family: var(--font-sans);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin: 0 0 0.9rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .news-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 1.1rem; }
+  .news-list a { font-weight: 600; color: var(--text); text-decoration: none; line-height: 1.45; }
+  .news-list a:hover { color: var(--accent); text-decoration: underline; }
+
+  .news-meta {
+    margin: 0.2rem 0 0;
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.15rem 0.6rem;
+  }
+  .source { font-weight: 600; white-space: nowrap; }
+  .excerpt { max-width: 60ch; }
+
+  .sources { margin-top: 3rem; border-top: 1px solid var(--border); padding-top: 1.25rem; }
+  .sources summary { cursor: pointer; font-weight: 600; color: var(--accent); }
+  .sources ul { list-style: none; padding: 0; margin: 1rem 0 0; display: grid; gap: 0.45rem; font-size: 0.9375rem; }
+  .sources li { display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap; }
+</style>

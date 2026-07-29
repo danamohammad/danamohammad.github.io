@@ -1,0 +1,22 @@
+{
+  "_comment": "RSS/Atom sources for the News tab. Edit freely — the next cron run picks up changes. A feed that fails is skipped with a warning and never breaks the build.",
+  "_verified": "Every URL below was fetched and confirmed to return valid XML with items on 2026-07-29. Feeds deliberately left out after failing that check: SPE JPT (404), Oil & Gas Journal (403 to bots), World Oil (empty), Nature Energy (empty), DOE NETL (404), Carbon Capture Journal (TLS failure).",
+
+  "maxItems": 100,
+  "maxAgeDays": 120,
+
+  "feeds": [
+    { "name": "Geoenergy Science and Engineering", "url": "https://rss.sciencedirect.com/publication/science/29498910", "category": "reservoir" },
+    { "name": "Journal of Petroleum Science and Engineering", "url": "https://rss.sciencedirect.com/publication/science/09204105", "category": "reservoir" },
+    { "name": "Fuel", "url": "https://rss.sciencedirect.com/publication/science/00162361", "category": "processing" },
+    { "name": "International Journal of Greenhouse Gas Control", "url": "https://rss.sciencedirect.com/publication/science/17505836", "category": "carbon-storage" },
+    { "name": "Results in Engineering", "url": "https://rss.sciencedirect.com/publication/science/25901230", "category": "engineering" },
+    { "name": "Energies (MDPI)", "url": "https://www.mdpi.com/rss/journal/energies", "category": "energy" },
+    { "name": "Processes (MDPI)", "url": "https://www.mdpi.com/rss/journal/processes", "category": "processing" },
+    { "name": "ScienceDaily — Energy Technology", "url": "https://www.sciencedaily.com/rss/matter_energy/energy_technology.xml", "category": "energy" },
+    { "name": "ScienceDaily — Geology", "url": "https://www.sciencedaily.com/rss/earth_climate/geology.xml", "category": "geoscience" },
+    { "name": "arXiv — Geophysics", "url": "https://rss.arxiv.org/rss/physics.geo-ph", "category": "preprints" },
+    { "name": "Phys.org — Earth", "url": "https://phys.org/rss-feed/earth-news/", "category": "geoscience" },
+    { "name": "Offshore Technology", "url": "https://www.offshore-technology.com/feed/", "category": "industry" }
+  ]
+}

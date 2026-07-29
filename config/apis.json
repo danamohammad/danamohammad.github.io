@@ -1,0 +1,358 @@
+{
+  "_comment": "Dana's three APIs. The /apis/ page renders ENTIRELY from this file — no API detail is hardcoded in any component. To publish an API later, change that API's `baseUrl` and set `baseUrlIsPublic` to true. Nothing else needs editing.",
+
+  "_pricingPolicy": "DELIBERATE OMISSION: per-call pricing, x402/USDC payment mechanics and prepaid-credit rates are intentionally NOT published here. The is-a.dev registry requires registered subdomains to be non-commercial, and pricing tables are the clearest possible commercial signal. The free-evaluation terms below carry the access story without the sales copy. If Dana later moves to a paid domain, pricing can be reinstated — see README, 'Publishing pricing'.",
+
+  "accessNote": "These APIs are in private beta. They run on a development host and are not yet publicly routable, so the base URLs below will not resolve for general visitors. The documentation is published so the interface can be reviewed and evaluated; access keys are issued on request.",
+
+  "contactEmail": "danamohammadkhidhir@gmail.com",
+
+  "commonAuth": {
+    "header": "X-API-Key",
+    "description": "All endpoints take an API key in the `X-API-Key` request header. Beta keys are issued on request and carry low daily limits."
+  },
+
+  "apis": [
+    {
+      "id": "web-to-data",
+      "name": "Web-to-Data and Rendering API",
+      "tagline": "Turns publicly accessible webpages into clean Markdown, text, structured JSON, screenshots and PDFs.",
+      "purpose": "Converts public webpages into formats that downstream tools and AI agents can consume directly — Markdown, normalised plain text, structured JSON, screenshots, PDFs, metadata, tables, links and user-defined fields. Built for research collection, document pipelines and agent infrastructure.",
+      "baseUrl": "http://localhost:8000",
+      "baseUrlIsPublic": false,
+      "pathPrefix": "/v1/web",
+      "status": "private beta",
+      "auth": {
+        "model": "api-key",
+        "description": "API key in the `X-API-Key` header. Beta keys issued on request."
+      },
+      "freeAccessTerms": [
+        "Free public documentation and example requests",
+        "Limited beta API keys for approved testers",
+        "Low daily request limits during the beta",
+        "Publicly accessible webpages only",
+        "No CAPTCHA bypass, login automation, proxy evasion or access-control circumvention",
+        "No service-level guarantee during the free beta"
+      ],
+      "endpoints": [
+        {
+          "method": "POST", "path": "/v1/web/markdown",
+          "summary": "Convert a public webpage into clean Markdown.",
+          "parameters": [
+            { "name": "url", "in": "body", "type": "string", "required": true, "description": "Public URL to convert." },
+            { "name": "render_js", "in": "body", "type": "boolean", "required": false, "description": "Execute JavaScript before extraction. Default false." },
+            { "name": "wait_ms", "in": "body", "type": "integer", "required": false, "description": "Delay after load before extraction." },
+            { "name": "include_metadata", "in": "body", "type": "boolean", "required": false, "description": "Include page metadata. Default true." },
+            { "name": "timeout_seconds", "in": "body", "type": "integer", "required": false, "description": "Per-request timeout." }
+          ],
+          "example": {
+            "request": "curl -X POST \"$BASE_URL/v1/web/markdown\" \\\n  -H \"Content-Type: application/json\" \\\n  -H \"X-API-Key: YOUR_API_KEY\" \\\n  -d '{\n    \"url\": \"https://example.org/article\",\n    \"render_js\": false,\n    \"include_metadata\": true\n  }'",
+            "response": "{\n  \"request_id\": \"req_123456\",\n  \"status\": \"completed\",\n  \"source_url\": \"https://example.org/article\",\n  \"title\": \"Example Article\",\n  \"markdown\": \"# Example Article\\n\\nExtracted article content...\",\n  \"metadata\": {\n    \"language\": \"en\",\n    \"content_type\": \"article\"\n  }\n}"
+          }
+        },
+        {
+          "method": "POST", "path": "/v1/web/text",
+          "summary": "Convert a webpage into normalised plain text.",
+          "parameters": [
+            { "name": "url", "in": "body", "type": "string", "required": true, "description": "Public URL to convert." },
+            { "name": "render_js", "in": "body", "type": "boolean", "required": false, "description": "Execute JavaScript before extraction." },
+            { "name": "wait_ms", "in": "body", "type": "integer", "required": false, "description": "Delay after load before extraction." },
+            { "name": "include_metadata", "in": "body", "type": "boolean", "required": false, "description": "Include page metadata." },
+            { "name": "timeout_seconds", "in": "body", "type": "integer", "required": false, "description": "Per-request timeout." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/web/json",
+          "summary": "Return webpage content as structured JSON.",
+          "parameters": [
+            { "name": "url", "in": "body", "type": "string", "required": true, "description": "Public URL to convert." },
+            { "name": "render_js", "in": "body", "type": "boolean", "required": false, "description": "Execute JavaScript before extraction." },
+            { "name": "include", "in": "body", "type": "string[]", "required": false, "description": "Any of headings, paragraphs, links, tables, images, metadata." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/web/extract",
+          "summary": "Extract user-defined fields from a webpage.",
+          "parameters": [
+            { "name": "url", "in": "body", "type": "string", "required": true, "description": "Public URL to extract from." },
+            { "name": "fields", "in": "body", "type": "object", "required": true, "description": "Definition of the fields to extract." },
+            { "name": "render_js", "in": "body", "type": "boolean", "required": false, "description": "Execute JavaScript before extraction." },
+            { "name": "include_evidence", "in": "body", "type": "boolean", "required": false, "description": "Return the source snippet supporting each field." },
+            { "name": "timeout_seconds", "in": "body", "type": "integer", "required": false, "description": "Per-request timeout." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/web/screenshot",
+          "summary": "Generate a screenshot of a webpage.",
+          "parameters": [
+            { "name": "url", "in": "body", "type": "string", "required": true, "description": "Public URL to capture." },
+            { "name": "full_page", "in": "body", "type": "boolean", "required": false, "description": "Capture the full scrollable page." },
+            { "name": "viewport_width", "in": "body", "type": "integer", "required": false, "description": "Viewport width in pixels." },
+            { "name": "viewport_height", "in": "body", "type": "integer", "required": false, "description": "Viewport height in pixels." },
+            { "name": "format", "in": "body", "type": "string", "required": false, "description": "png or jpeg." },
+            { "name": "render_js", "in": "body", "type": "boolean", "required": false, "description": "Execute JavaScript before capture." },
+            { "name": "wait_ms", "in": "body", "type": "integer", "required": false, "description": "Delay after load before capture." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/web/pdf",
+          "summary": "Render a webpage as a PDF.",
+          "parameters": [
+            { "name": "url", "in": "body", "type": "string", "required": true, "description": "Public URL to render." },
+            { "name": "render_js", "in": "body", "type": "boolean", "required": false, "description": "Execute JavaScript before rendering." },
+            { "name": "page_format", "in": "body", "type": "string", "required": false, "description": "Page size, such as A4." },
+            { "name": "landscape", "in": "body", "type": "boolean", "required": false, "description": "Landscape orientation." },
+            { "name": "print_background", "in": "body", "type": "boolean", "required": false, "description": "Include background graphics." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/web/batch",
+          "summary": "Submit several URLs as one processing operation.",
+          "parameters": [
+            { "name": "urls", "in": "body", "type": "string[]", "required": true, "description": "Public URLs to process." },
+            { "name": "operation", "in": "body", "type": "string", "required": true, "description": "markdown, text, json, screenshot or pdf." },
+            { "name": "options", "in": "body", "type": "object", "required": false, "description": "Operation-specific settings." }
+          ]
+        },
+        {
+          "method": "GET", "path": "/v1/jobs/{job_id}",
+          "summary": "Retrieve the status or result of an asynchronous job.",
+          "parameters": [
+            { "name": "job_id", "in": "path", "type": "string", "required": true, "description": "Identifier returned when the job was submitted." }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "document-to-data",
+      "name": "Document-to-Structured-Data API",
+      "tagline": "Transforms PDFs, scans, images, tables, invoices and forms into Markdown, CSV and structured JSON with page references and confidence scores.",
+      "purpose": "Handles native PDFs, scanned PDFs, image OCR, layout and table extraction, invoices, receipts and forms. Every extraction can carry page-level evidence and confidence information, so results can be checked against the source rather than taken on trust.",
+      "baseUrl": "http://localhost:8000",
+      "baseUrlIsPublic": false,
+      "pathPrefix": "/v1/documents",
+      "status": "private beta",
+      "auth": {
+        "model": "api-key",
+        "description": "API key in the `X-API-Key` header. Beta keys issued on request."
+      },
+      "freeAccessTerms": [
+        "Free documentation and sample outputs",
+        "Limited beta API key access",
+        "Low daily document and page limits",
+        "Small files only during the free beta",
+        "No confidential documents until privacy controls are fully verified",
+        "Uploaded files retained only for processing and debugging, under the stated privacy policy",
+        "Heavy OCR, batch extraction and external-model processing excluded from unrestricted free use"
+      ],
+      "endpoints": [
+        {
+          "method": "POST", "path": "/v1/documents/markdown",
+          "summary": "Convert a PDF or image document into Markdown.",
+          "parameters": [
+            { "name": "file", "in": "form", "type": "file", "required": true, "description": "PDF or image to convert." },
+            { "name": "ocr", "in": "form", "type": "string", "required": false, "description": "auto, true or false." },
+            { "name": "language", "in": "form", "type": "string", "required": false, "description": "OCR language hint." },
+            { "name": "pages", "in": "form", "type": "string", "required": false, "description": "all, or a page range." },
+            { "name": "include_page_markers", "in": "form", "type": "boolean", "required": false, "description": "Insert page boundary markers." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/documents/text",
+          "summary": "Extract normalised plain text from a document.",
+          "parameters": [
+            { "name": "file", "in": "form", "type": "file", "required": true, "description": "PDF or image." },
+            { "name": "ocr", "in": "form", "type": "string", "required": false, "description": "auto, true or false." },
+            { "name": "language", "in": "form", "type": "string", "required": false, "description": "OCR language hint." },
+            { "name": "pages", "in": "form", "type": "string", "required": false, "description": "all, or a page range." },
+            { "name": "preserve_layout", "in": "form", "type": "boolean", "required": false, "description": "Keep the visual reading order." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/documents/tables",
+          "summary": "Extract tables from a document.",
+          "parameters": [
+            { "name": "file", "in": "form", "type": "file", "required": true, "description": "PDF or image." },
+            { "name": "pages", "in": "form", "type": "string", "required": false, "description": "all, or a page range." },
+            { "name": "output_format", "in": "form", "type": "string", "required": false, "description": "json or csv." },
+            { "name": "ocr", "in": "form", "type": "string", "required": false, "description": "auto, true or false." },
+            { "name": "include_coordinates", "in": "form", "type": "boolean", "required": false, "description": "Return cell coordinates." }
+          ],
+          "example": {
+            "request": "curl -X POST \"$BASE_URL/v1/documents/tables\" \\\n  -H \"X-API-Key: YOUR_API_KEY\" \\\n  -F \"file=@sample-report.pdf\" \\\n  -F \"ocr=auto\" \\\n  -F \"pages=all\" \\\n  -F \"output_format=json\" \\\n  -F \"include_coordinates=true\"",
+            "response": "{\n  \"request_id\": \"req_234567\",\n  \"status\": \"completed\",\n  \"document\": {\n    \"filename\": \"sample-report.pdf\",\n    \"pages_processed\": 8,\n    \"ocr_used\": false\n  },\n  \"tables\": [\n    {\n      \"page\": 3,\n      \"table_id\": \"table_1\",\n      \"columns\": [\"Sample\", \"Pressure\", \"Viscosity\"],\n      \"rows\": [\n        [\"A1\", \"2500 psi\", \"2.41 cP\"]\n      ],\n      \"confidence\": 0.96\n    }\n  ]\n}"
+          }
+        },
+        {
+          "method": "POST", "path": "/v1/documents/invoice",
+          "summary": "Convert an invoice into structured JSON.",
+          "parameters": [
+            { "name": "file", "in": "form", "type": "file", "required": true, "description": "Invoice document." },
+            { "name": "fields", "in": "form", "type": "object", "required": false, "description": "Specific fields to return." },
+            { "name": "currency_hint", "in": "form", "type": "string", "required": false, "description": "Expected currency." },
+            { "name": "language", "in": "form", "type": "string", "required": false, "description": "Document language." },
+            { "name": "include_evidence", "in": "form", "type": "boolean", "required": false, "description": "Return supporting source regions." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/documents/receipt",
+          "summary": "Convert a receipt into structured JSON.",
+          "parameters": [
+            { "name": "file", "in": "form", "type": "file", "required": true, "description": "Receipt document." },
+            { "name": "language", "in": "form", "type": "string", "required": false, "description": "Document language." },
+            { "name": "currency_hint", "in": "form", "type": "string", "required": false, "description": "Expected currency." },
+            { "name": "include_line_items", "in": "form", "type": "boolean", "required": false, "description": "Return individual line items." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/documents/extract",
+          "summary": "Extract user-defined fields from a document.",
+          "parameters": [
+            { "name": "file", "in": "form", "type": "file", "required": true, "description": "Source document." },
+            { "name": "fields", "in": "form", "type": "object", "required": true, "description": "Field definitions to extract." },
+            { "name": "ocr", "in": "form", "type": "string", "required": false, "description": "auto, true or false." },
+            { "name": "pages", "in": "form", "type": "string", "required": false, "description": "all, or a page range." },
+            { "name": "include_coordinates", "in": "form", "type": "boolean", "required": false, "description": "Return field coordinates." },
+            { "name": "include_confidence", "in": "form", "type": "boolean", "required": false, "description": "Return per-field confidence." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/documents/classify",
+          "summary": "Classify an uploaded document.",
+          "parameters": [
+            { "name": "file", "in": "form", "type": "file", "required": true, "description": "Document to classify." },
+            { "name": "candidate_types", "in": "form", "type": "string[]", "required": false, "description": "Restrict classification to these types." },
+            { "name": "ocr", "in": "form", "type": "string", "required": false, "description": "auto, true or false." },
+            { "name": "include_confidence", "in": "form", "type": "boolean", "required": false, "description": "Return classification confidence." }
+          ]
+        },
+        {
+          "method": "GET", "path": "/v1/jobs/{job_id}",
+          "summary": "Retrieve OCR, extraction or classification job status.",
+          "parameters": [
+            { "name": "job_id", "in": "path", "type": "string", "required": true, "description": "Identifier returned when the job was submitted." }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "scholarly-evidence",
+      "name": "Scholarly Evidence and Literature API",
+      "tagline": "Searches, verifies, deduplicates and synthesises scholarly literature, validating DOI metadata and linking claims to their sources.",
+      "purpose": "Built for evidence-based research workflows. Distinguishes metadata-level, abstract-level and full-text evidence; validates references against authoritative metadata sources; and returns warnings rather than inventing missing information.",
+      "baseUrl": "http://localhost:8000",
+      "baseUrlIsPublic": false,
+      "pathPrefix": "/v1/literature",
+      "status": "private beta",
+      "alternateName": "Reference Integrity and Scholarly Evidence API",
+      "auth": {
+        "model": "api-key",
+        "description": "API key in the `X-API-Key` header. Beta keys issued on request."
+      },
+      "freeAccessTerms": [
+        "Free public documentation",
+        "Limited metadata-search and DOI-verification beta access",
+        "Small result limits",
+        "No unrestricted full-text synthesis",
+        "No bypassing publisher paywalls — only legally available open-access material or user-supplied documents are processed",
+        "Results always identify whether evidence came from metadata, abstracts or full text",
+        "Free-beta results carry no formal systematic-review guarantee"
+      ],
+      "endpoints": [
+        {
+          "method": "POST", "path": "/v1/literature/search",
+          "summary": "Search scholarly metadata.",
+          "parameters": [
+            { "name": "query", "in": "body", "type": "string", "required": true, "description": "Research question or keywords." },
+            { "name": "year_from", "in": "body", "type": "integer", "required": false, "description": "Earliest publication year." },
+            { "name": "year_to", "in": "body", "type": "integer", "required": false, "description": "Latest publication year." },
+            { "name": "discipline", "in": "body", "type": "string", "required": false, "description": "Restrict to a discipline." },
+            { "name": "study_type", "in": "body", "type": "string", "required": false, "description": "Restrict to a study type." },
+            { "name": "language", "in": "body", "type": "string", "required": false, "description": "Publication language." },
+            { "name": "open_access_only", "in": "body", "type": "boolean", "required": false, "description": "Return only open-access records." },
+            { "name": "limit", "in": "body", "type": "integer", "required": false, "description": "Maximum records to return." },
+            { "name": "sort", "in": "body", "type": "string", "required": false, "description": "relevance, date or citations." }
+          ],
+          "example": {
+            "request": "curl -X POST \"$BASE_URL/v1/literature/search\" \\\n  -H \"Content-Type: application/json\" \\\n  -H \"X-API-Key: YOUR_API_KEY\" \\\n  -d '{\n    \"query\": \"CO2 brine rock interactions in carbonate reservoirs\",\n    \"year_from\": 2015,\n    \"year_to\": 2026,\n    \"open_access_only\": false,\n    \"limit\": 25,\n    \"sort\": \"relevance\"\n  }'",
+            "response": "{\n  \"request_id\": \"req_345678\",\n  \"status\": \"completed\",\n  \"query\": \"CO2 brine rock interactions in carbonate reservoirs\",\n  \"result_count\": 25,\n  \"records\": [\n    {\n      \"title\": \"Verified article title\",\n      \"authors\": [\"Author One\", \"Author Two\"],\n      \"year\": 2024,\n      \"journal\": \"Verified Journal\",\n      \"doi\": \"10.xxxx/example\",\n      \"doi_verified\": true,\n      \"open_access\": true,\n      \"evidence_level\": \"abstract\"\n    }\n  ],\n  \"warnings\": []\n}"
+          }
+        },
+        {
+          "method": "POST", "path": "/v1/literature/verify-references",
+          "summary": "Verify a bibliography or reference list.",
+          "parameters": [
+            { "name": "references", "in": "body", "type": "string[]", "required": true, "description": "References to verify." },
+            { "name": "verify_doi", "in": "body", "type": "boolean", "required": false, "description": "Resolve and validate each DOI." },
+            { "name": "check_retraction_indicators", "in": "body", "type": "boolean", "required": false, "description": "Flag possible retractions." },
+            { "name": "normalize_metadata", "in": "body", "type": "boolean", "required": false, "description": "Return normalised metadata." },
+            { "name": "return_warnings", "in": "body", "type": "boolean", "required": false, "description": "Include per-reference warnings." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/literature/deduplicate",
+          "summary": "Detect and merge duplicate references.",
+          "parameters": [
+            { "name": "records", "in": "body", "type": "object[]", "required": true, "description": "Reference records to deduplicate." },
+            { "name": "match_fields", "in": "body", "type": "string[]", "required": false, "description": "Any of doi, title, author, year." },
+            { "name": "similarity_threshold", "in": "body", "type": "number", "required": false, "description": "Match threshold between 0 and 1." },
+            { "name": "preserve_variants", "in": "body", "type": "boolean", "required": false, "description": "Keep the merged-away variants." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/literature/evidence-table",
+          "summary": "Build a structured evidence table.",
+          "parameters": [
+            { "name": "query", "in": "body", "type": "string", "required": true, "description": "Research question." },
+            { "name": "records", "in": "body", "type": "object[]", "required": false, "description": "Records to tabulate." },
+            { "name": "fields", "in": "body", "type": "string[]", "required": false, "description": "Objectives, methods, sample, variables, findings, limitations." },
+            { "name": "source_level", "in": "body", "type": "string", "required": false, "description": "metadata, abstract or full_text." },
+            { "name": "include_citations", "in": "body", "type": "boolean", "required": false, "description": "Attach citations to each cell." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/literature/synthesize",
+          "summary": "Produce a citation-grounded synthesis.",
+          "parameters": [
+            { "name": "research_question", "in": "body", "type": "string", "required": true, "description": "Question to answer." },
+            { "name": "records", "in": "body", "type": "object[]", "required": false, "description": "Source records." },
+            { "name": "source_level", "in": "body", "type": "string", "required": false, "description": "metadata, abstract or full_text." },
+            { "name": "max_words", "in": "body", "type": "integer", "required": false, "description": "Length ceiling." },
+            { "name": "citation_style", "in": "body", "type": "string", "required": false, "description": "Citation style for the output." },
+            { "name": "include_conflicts", "in": "body", "type": "boolean", "required": false, "description": "Surface conflicting findings." },
+            { "name": "include_limitations", "in": "body", "type": "boolean", "required": false, "description": "Surface stated limitations." },
+            { "name": "claim_traceability", "in": "body", "type": "boolean", "required": false, "description": "Link every claim to its sources." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/literature/gaps",
+          "summary": "Identify research gaps.",
+          "parameters": [
+            { "name": "research_question", "in": "body", "type": "string", "required": true, "description": "Question to analyse." },
+            { "name": "records", "in": "body", "type": "object[]", "required": false, "description": "Records to analyse." },
+            { "name": "taxonomy", "in": "body", "type": "string", "required": false, "description": "Taxonomy to organise gaps against." },
+            { "name": "minimum_supporting_sources", "in": "body", "type": "integer", "required": false, "description": "Evidence threshold for a claimed gap." }
+          ]
+        },
+        {
+          "method": "POST", "path": "/v1/literature/export",
+          "summary": "Export verified references.",
+          "parameters": [
+            { "name": "records", "in": "body", "type": "object[]", "required": true, "description": "Records to export." },
+            { "name": "format", "in": "body", "type": "string", "required": true, "description": "bibtex, ris, csv, json or formatted." },
+            { "name": "citation_style", "in": "body", "type": "string", "required": false, "description": "Style for formatted output." }
+          ]
+        },
+        {
+          "method": "GET", "path": "/v1/jobs/{job_id}",
+          "summary": "Retrieve the status and result of a long-running literature job.",
+          "parameters": [
+            { "name": "job_id", "in": "path", "type": "string", "required": true, "description": "Identifier returned when the job was submitted." }
+          ]
+        }
+      ]
+    }
+  ]
+}

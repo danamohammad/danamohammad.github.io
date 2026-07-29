@@ -1,0 +1,121 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { directory } from '../../lib/site';
+
+const apis = directory.apis ?? [];
+const categories = directory.categories ?? [...new Set(apis.map((a) => a.category))].sort();
+---
+
+<BaseLayout
+  title="API Directory"
+  description={`A curated directory of ${apis.length} third-party APIs worth using, grouped by category.`}
+>
+  <div class="page-header">
+    <h1>API Directory</h1>
+    <p>
+      {apis.length} third-party APIs I have found genuinely useful, with their authentication model and
+      what the free tier actually gives you. For the APIs I build myself, see <a href="/apis/">APIs</a>.
+    </p>
+  </div>
+
+  <div class="toolbar">
+    <div class="filter-group">
+      <label for="filter-category">Category</label>
+      <select id="filter-category">
+        <option value="">All categories</option>
+        {categories.map((c) => <option value={c}>{c}</option>)}
+      </select>
+    </div>
+    <p class="result-count" id="result-count" role="status" aria-live="polite">
+      Showing {apis.length} of {apis.length}
+    </p>
+  </div>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">API</th>
+          <th scope="col">Category</th>
+          <th scope="col">Auth</th>
+          <th scope="col">Free tier</th>
+        </tr>
+      </thead>
+      <tbody id="dir-body">
+        {
+          apis.map((a) => (
+            <tr data-category={a.category}>
+              <td>
+                <a href={a.docs} rel="noopener">
+                  {a.name}
+                </a>
+                <span class="desc">{a.description}</span>
+              </td>
+              <td class="nowrap">{a.category}</td>
+              <td class="nowrap">{a.auth}</td>
+              <td class="nowrap">{a.free_tier}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+
+  <p class="empty-state" id="empty-state" hidden>No APIs in that category.</p>
+</BaseLayout>
+
+<script>
+  const sel = document.getElementById('filter-category') as HTMLSelectElement | null;
+  const body = document.getElementById('dir-body');
+  const count = document.getElementById('result-count');
+  const empty = document.getElementById('empty-state');
+
+  if (sel && body && count && empty) {
+    const rows = Array.from(body.querySelectorAll<HTMLElement>('tr'));
+    sel.addEventListener('change', () => {
+      const c = sel.value;
+      let shown = 0;
+      for (const r of rows) {
+        const match = !c || r.dataset.category === c;
+        r.hidden = !match;
+        if (match) shown++;
+      }
+      count.textContent = `Showing ${shown} of ${rows.length}`;
+      empty.hidden = shown > 0;
+    });
+  }
+</script>
+
+<style>
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    gap: 0.75rem 1.25rem;
+    margin-bottom: 1.5rem;
+  }
+  .filter-group { display: flex; flex-direction: column; gap: 0.2rem; }
+  .filter-group label { font-size: 0.8125rem; color: var(--text-muted); font-weight: 600; }
+  .filter-group select {
+    font: inherit;
+    font-size: 0.9375rem;
+    padding: 0.35rem 0.5rem;
+    border: 1px solid var(--control-border);
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+    color: var(--text);
+    min-width: 11rem;
+  }
+  .result-count { font-size: 0.875rem; color: var(--text-muted); margin: 0 0 0.35rem; }
+
+  .desc {
+    display: block;
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+    margin-top: 0.15rem;
+    max-width: 40ch;
+  }
+  .nowrap { white-space: nowrap; font-size: 0.875rem; color: var(--text-muted); }
+  td a { font-weight: 600; }
+</style>

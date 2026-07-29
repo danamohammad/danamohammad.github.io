@@ -1,0 +1,80 @@
+{
+  "_comment": "Dana's real details from Phase 1 intake. Fields still marked PLACEHOLDER are awaiting confirmation and are hidden from the rendered site rather than shown as dead text or dead links.",
+  "name": "Dr. Dana Mohammad Khidhir",
+  "publicationName": "Dana Mohammad Khidhir",
+  "shortName": "Dana Mohammad Khidhir",
+  "tagline": "Petroleum engineer and academic researcher",
+  "affiliation": "Department of Petroleum Engineering, College of Engineering, Knowledge University, Erbil 44001, Kurdistan Region of Iraq",
+  "bio": [
+    "Dr. Dana Mohammad Khidhir is a petroleum engineer and academic researcher with a PhD in Petroleum Engineering. His research focuses on reservoir-fluid characterization, black-oil PVT analysis, crude-oil characterization, flow assurance, petroleum processing, process monitoring, and data-driven engineering.",
+    "His work also covers carbonate reservoirs, asphaltene and scale control, crude-oil desalting, produced-water treatment, carbon storage, and evidence-based scientific research workflows."
+  ],
+  "currentFocus": [
+    "Reservoir-fluid characterization and black-oil PVT analysis",
+    "Flow assurance — asphaltene deposition, scale control and crude-oil emulsions",
+    "Petroleum processing, desalting performance and refinery process monitoring",
+    "Carbon capture and geological CO₂ storage in depleted and carbonate reservoirs",
+    "Data-driven engineering and evidence-based scientific research workflows"
+  ],
+  "portrait": {
+    "src": "/img/dana.svg",
+    "alt": "Portrait of Dr. Dana Mohammad Khidhir",
+    "isPlaceholder": true
+  },
+  "site": {
+    "url": "https://danamohammad.github.io",
+    "base": "/",
+    "customDomain": null,
+    "description": "Research, open APIs, news and writing by Dr. Dana Mohammad Khidhir — petroleum engineering, reservoir-fluid characterization and data-driven engineering.",
+    "locale": "en",
+    "themeColor": "#0b5a68"
+  },
+  "ids": {
+    "orcid": "0000-0003-4181-5516",
+    "zenodoUser": "danamohammadkhidhir",
+    "zenodoCommunity": null,
+    "scholarId": "yQBpP6cAAAAJ",
+    "scholarProfile": "https://scholar.google.com/citations?user=yQBpP6cAAAAJ&hl=en",
+    "githubUser": "danamohammad"
+  },
+  "metrics": {
+    "_comment": "Snapshot from the Google Scholar profile, refreshed by the weekly research workflow. Shown on /research/ with the date it was taken, never presented as live.",
+    "citations": 196,
+    "hIndex": 8,
+    "i10Index": 4,
+    "asOf": "2026-07-29"
+  },
+  "links": [
+    {
+      "label": "Email",
+      "href": "mailto:danamohammadkhidhir@gmail.com",
+      "icon": "mail"
+    },
+    {
+      "label": "ORCID",
+      "href": "https://orcid.org/0000-0003-4181-5516",
+      "icon": "orcid"
+    },
+    {
+      "label": "Google Scholar",
+      "href": "https://scholar.google.com/citations?user=yQBpP6cAAAAJ&hl=en",
+      "icon": "scholar"
+    },
+    {
+      "label": "GitHub",
+      "href": "https://github.com/danamohammad",
+      "icon": "github"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "PLACEHOLDER — LinkedIn profile URL not yet verified",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Zenodo",
+      "href": "PLACEHOLDER — Zenodo public profile URL not yet confirmed",
+      "icon": "zenodo"
+    }
+  ],
+  "_plannedDomain": "danakhidhir.is-a.dev — verified available 2026-07-29; set site.customDomain once the is-a.dev PR merges"
+}

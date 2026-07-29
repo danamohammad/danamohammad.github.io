@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { formatDate } from '../../../lib/site';
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  const tags = [...new Set(posts.flatMap((p) => p.data.tags))];
+
+  return tags.map((tag) => ({
+    params: { tag },
+    props: {
+      tag,
+      posts: posts
+        .filter((p) => p.data.tags.includes(tag))
+        .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    },
+  }));
+};
+
+const { tag, posts } = Astro.props;
+---
+
+<BaseLayout title={`Posts tagged “${tag}”`} description={`Blog posts tagged ${tag}.`}>
+  <div class="page-header">
+    <h1>Tagged “{tag}”</h1>
+    <p>
+      {posts.length} post{posts.length === 1 ? '' : 's'}. <a href="/blog/">All posts</a>.
+    </p>
+  </div>
+
+  <ol class="post-list">
+    {
+      posts.map((post) => (
+        <li>
+          <h2>
+            <a href={`/blog/${post.id}/`}>{post.data.title}</a>
+          </h2>
+          <p class="post-meta">
+            <time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
+          </p>
+          <p class="post-desc">{post.data.description}</p>
+        </li>
+      ))
+    }
+  </ol>
+</BaseLayout>
+
+<style>
+  .post-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 2rem; }
+  .post-list h2 { font-size: 1.3rem; margin: 0 0 0.3rem; }
+  .post-list h2 a { color: var(--text); text-decoration: none; }
+  .post-list h2 a:hover { color: var(--accent); text-decoration: underline; }
+  .post-meta { font-size: 0.875rem; color: var(--text-muted); margin: 0 0 0.4rem; }
+  .post-desc { margin: 0; max-width: var(--measure); color: var(--text-muted); }
+</style>

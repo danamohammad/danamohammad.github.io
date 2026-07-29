@@ -1,0 +1,326 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { apis, site } from '../../lib/site';
+import { curlSnippet, fetchSnippet, pythonSnippet } from '../../lib/snippets';
+
+// Every snippet is built here, at build time. This page issues no network
+// request at runtime — see the verification note in the README.
+const built = apis.apis.map((api) => ({
+  ...api,
+  endpoints: api.endpoints.map((ep) => ({
+    ...ep,
+    snippets: {
+      curl: curlSnippet(ep as any, api.baseUrl, apis.commonAuth.header),
+      js: fetchSnippet(ep as any, api.baseUrl, apis.commonAuth.header),
+      py: pythonSnippet(ep as any, api.baseUrl, apis.commonAuth.header),
+    },
+  })),
+}));
+---
+
+<BaseLayout
+  title="APIs"
+  description={`REST APIs built and maintained by ${site.name}: web-to-data conversion, document structuring and scholarly evidence tooling.`}
+>
+  <div class="page-header">
+    <h1>APIs</h1>
+    <p>
+      Three REST APIs I build and maintain, documented in full. Looking for other people's APIs
+      instead? See the <a href="/directory/">curated directory</a>.
+    </p>
+  </div>
+
+  <div class="access-note" role="note">
+    <h2>Access</h2>
+    <p>{apis.accessNote}</p>
+    <p>
+      {apis.commonAuth.description} Request one at
+      <a href={`mailto:${apis.contactEmail}`}>{apis.contactEmail}</a>.
+    </p>
+  </div>
+
+  <nav class="api-jump" aria-label="Jump to API">
+    {built.map((api) => <a href={`#${api.id}`}>{api.name}</a>)}
+  </nav>
+
+  {
+    built.map((api) => (
+      <article class="api" id={api.id}>
+        <header class="api-head">
+          <h2>{api.name}</h2>
+          <p class="api-tagline">{api.tagline}</p>
+          <p class="api-badges">
+            <span class="badge badge-accent">{api.status}</span>
+            <span class="badge">{api.endpoints.length} endpoints</span>
+            {api.alternateName && <span class="badge">also: {api.alternateName}</span>}
+          </p>
+        </header>
+
+        <p class="api-purpose">{api.purpose}</p>
+
+        <dl class="api-facts">
+          <dt>Base URL</dt>
+          <dd>
+            <code>{api.baseUrl}</code>
+            {!api.baseUrlIsPublic && (
+              <span class="not-public"> — not publicly routable; access on request</span>
+            )}
+          </dd>
+          <dt>Authentication</dt>
+          <dd>{api.auth.description}</dd>
+        </dl>
+
+        <h3>Free evaluation access</h3>
+        <ul class="terms">
+          {api.freeAccessTerms.map((t) => (
+            <li>{t}</li>
+          ))}
+        </ul>
+
+        <h3>Endpoints</h3>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">Method</th>
+                <th scope="col">Path</th>
+                <th scope="col">Description</th>
+              </tr>
+            </thead>
+            <tbody>
+              {api.endpoints.map((ep) => (
+                <tr>
+                  <td>
+                    <span class={`method method-${ep.method.toLowerCase()}`}>{ep.method}</span>
+                  </td>
+                  <td>
+                    <code>{ep.path}</code>
+                  </td>
+                  <td>{ep.summary}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+
+        <h3>Endpoint reference</h3>
+        {api.endpoints.map((ep) => (
+          <section class="endpoint">
+            <h4>
+              <span class={`method method-${ep.method.toLowerCase()}`}>{ep.method}</span>
+              <code>{ep.path}</code>
+            </h4>
+            <p class="endpoint-summary">{ep.summary}</p>
+
+            {ep.parameters && ep.parameters.length > 0 && (
+              <div class="table-scroll">
+                <table>
+                  <thead>
+                    <tr>
+                      <th scope="col">Parameter</th>
+                      <th scope="col">In</th>
+                      <th scope="col">Type</th>
+                      <th scope="col">Required</th>
+                      <th scope="col">Description</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {ep.parameters.map((p) => (
+                      <tr>
+                        <td>
+                          <code>{p.name}</code>
+                        </td>
+                        <td>{p.in}</td>
+                        <td>
+                          <code>{p.type}</code>
+                        </td>
+                        <td>{p.required ? 'yes' : 'no'}</td>
+                        <td>{p.description}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+
+            <div class="snippets" data-snippets>
+              <div class="snippet-tabs" role="tablist" aria-label={`Request examples for ${ep.method} ${ep.path}`}>
+                <button type="button" role="tab" aria-selected="true" data-lang="curl">cURL</button>
+                <button type="button" role="tab" aria-selected="false" data-lang="js">JavaScript</button>
+                <button type="button" role="tab" aria-selected="false" data-lang="py">Python</button>
+              </div>
+              <div class="snippet-panel" data-lang="curl">
+                <pre><code>{ep.snippets.curl}</code></pre>
+              </div>
+              <div class="snippet-panel" data-lang="js" hidden>
+                <pre><code>{ep.snippets.js}</code></pre>
+              </div>
+              <div class="snippet-panel" data-lang="py" hidden>
+                <pre><code>{ep.snippets.py}</code></pre>
+              </div>
+            </div>
+
+            {ep.example && (
+              <details class="example">
+                <summary>Worked example</summary>
+                <h5>Request</h5>
+                <pre><code>{ep.example.request}</code></pre>
+                <h5>Response</h5>
+                <pre><code>{ep.example.response}</code></pre>
+              </details>
+            )}
+          </section>
+        ))}
+      </article>
+    ))
+  }
+</BaseLayout>
+
+<script>
+  // Tab switching only. No fetch, no XHR, no beacon anywhere on this page.
+  for (const group of document.querySelectorAll<HTMLElement>('[data-snippets]')) {
+    const tabs = group.querySelectorAll<HTMLButtonElement>('.snippet-tabs button');
+    const panels = group.querySelectorAll<HTMLElement>('.snippet-panel');
+
+    for (const tab of tabs) {
+      tab.addEventListener('click', () => {
+        const lang = tab.dataset.lang;
+        for (const t of tabs) t.setAttribute('aria-selected', String(t === tab));
+        for (const p of panels) p.hidden = p.dataset.lang !== lang;
+      });
+    }
+  }
+</script>
+
+<style>
+  .access-note {
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    background: var(--surface);
+    border-radius: var(--radius);
+    padding: 1.1rem 1.35rem;
+    margin-bottom: 2.5rem;
+  }
+  .access-note h2 { margin: 0 0 0.4rem; font-size: 1.05rem; }
+  .access-note p { margin: 0 0 0.6rem; font-size: 0.9375rem; color: var(--text-muted); max-width: var(--measure); }
+  .access-note p:last-child { margin-bottom: 0; }
+
+  .api-jump {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 3rem;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .api-jump a {
+    font-size: 0.875rem;
+    padding: 0.3rem 0.7rem;
+    border: 1px solid var(--border-strong);
+    border-radius: 999px;
+    text-decoration: none;
+  }
+  .api-jump a:hover { border-color: var(--accent); background: var(--accent-bg); }
+
+  .api { margin-bottom: 4rem; scroll-margin-top: 5rem; }
+  .api-head h2 { margin-bottom: 0.25rem; margin-top: 0; }
+  .api-tagline { color: var(--text-muted); max-width: var(--measure); margin-bottom: 0.6rem; }
+  .api-badges { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.25rem; }
+  .api-purpose { max-width: var(--measure); }
+
+  .api-facts {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 0.4rem 1.25rem;
+    margin: 1.5rem 0;
+    padding: 1rem 1.25rem;
+    background: var(--surface-2);
+    border-radius: var(--radius);
+    font-size: 0.9375rem;
+  }
+  .api-facts dt { font-weight: 600; color: var(--text-muted); }
+  .api-facts dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+  .not-public { color: var(--text-muted); font-size: 0.875rem; }
+
+  .terms { max-width: var(--measure); font-size: 0.9375rem; color: var(--text-muted); }
+  .terms li { margin-bottom: 0.3rem; }
+
+  .method {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    padding: 0.12rem 0.4rem;
+    border-radius: 4px;
+    background: var(--surface-2);
+    border: 1px solid var(--border-strong);
+    white-space: nowrap;
+  }
+  .method-get { color: #0b6b4f; }
+  .method-post { color: #8a4b00; }
+  :root[data-theme='dark'] .method-get { color: #6fd6a8; }
+  :root[data-theme='dark'] .method-post { color: #e5a55c; }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme='light']) .method-get { color: #6fd6a8; }
+    :root:not([data-theme='light']) .method-post { color: #e5a55c; }
+  }
+
+  .endpoint {
+    border-top: 1px solid var(--border);
+    padding-top: 1.5rem;
+    margin-top: 1.5rem;
+  }
+  .endpoint h4 {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin: 0 0 0.35rem;
+    font-family: var(--font-sans);
+    font-size: 1rem;
+  }
+  .endpoint h4 code { font-size: 0.9375rem; overflow-wrap: anywhere; }
+  .endpoint-summary { color: var(--text-muted); font-size: 0.9375rem; margin-bottom: 1rem; }
+
+  .snippet-tabs { display: flex; gap: 0.25rem; margin-bottom: -1px; flex-wrap: wrap; }
+  .snippet-tabs button {
+    font: inherit;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    padding: 0.35rem 0.8rem;
+    border: 1px solid var(--border);
+    border-bottom-color: transparent;
+    border-radius: var(--radius-sm) var(--radius-sm) 0 0;
+    background: transparent;
+    color: var(--text-muted);
+    cursor: pointer;
+  }
+  .snippet-tabs button[aria-selected='true'] {
+    background: var(--surface-2);
+    color: var(--text);
+    border-color: var(--border);
+  }
+  .snippet-panel pre { border-top-left-radius: 0; margin-top: 0; }
+
+  .example { margin-top: 0.5rem; }
+  .example summary {
+    cursor: pointer;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--accent);
+    padding: 0.35rem 0;
+  }
+  .example h5 {
+    font-family: var(--font-sans);
+    font-size: 0.8125rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+    margin: 1rem 0 0.4rem;
+  }
+
+  @media (max-width: 32rem) {
+    .api-facts { grid-template-columns: 1fr; gap: 0.15rem; }
+    .api-facts dt { margin-top: 0.5rem; }
+  }
+</style>

@@ -1,0 +1,56 @@
+name: Fetch news
+
+on:
+  schedule:
+    # Every 6 hours, offset off the hour.
+    - cron: '42 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Fetch configured RSS and Atom feeds
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit if the data changed
+        id: commit
+        run: |
+          if git diff --quiet -- src/data/news.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No change to news.json."
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/news.json
+          git commit -m "data: refresh news feeds"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  # See the note in fetch-research.yml: a GITHUB_TOKEN commit will not trigger
+  # the deploy workflow's `on: push`, so it is called directly.
+  deploy:
+    needs: fetch
+    if: needs.fetch.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

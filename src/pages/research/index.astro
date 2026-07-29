@@ -1,0 +1,254 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { site, research } from '../../lib/site';
+
+const pubs = research.publications ?? [];
+const years = [...new Set(pubs.map((p) => p.year).filter(Boolean))].sort((a, b) => b - a);
+const types = [...new Set(pubs.map((p) => p.type).filter(Boolean))].sort();
+const metrics = research.metrics ?? site.metrics;
+
+// One ScholarlyArticle node per publication, emitted as a single graph.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': pubs.map((p) => ({
+    '@type': 'ScholarlyArticle',
+    headline: p.title,
+    name: p.title,
+    ...(p.year ? { datePublished: String(p.year) } : {}),
+    ...(p.doi ? { identifier: `https://doi.org/${p.doi}`, sameAs: `https://doi.org/${p.doi}` } : {}),
+    ...(p.venue ? { isPartOf: { '@type': 'Periodical', name: p.venue } } : {}),
+    ...(p.publisher ? { publisher: { '@type': 'Organization', name: p.publisher } } : {}),
+    author: (p.authors ?? []).map((a) => ({ '@type': 'Person', name: a })),
+  })),
+};
+
+const sourceLabel = { orcid: 'ORCID', crossref: 'Crossref', zenodo: 'Zenodo', scholar: 'Scholar', manual: 'Manual' };
+
+const failed = Object.entries(research.sources ?? {}).filter(([, s]) => s && s.ok === false);
+---
+
+<BaseLayout
+  title="Research"
+  description={`Publications by ${site.name} — ${pubs.length} indexed works in petroleum engineering, reservoir-fluid characterization and related fields.`}
+  jsonLd={jsonLd}
+>
+  <div class="page-header">
+    <h1>Research</h1>
+    <p>
+      {pubs.length} publications, gathered automatically from ORCID and Crossref and refreshed twice a day.
+      Newest first.
+    </p>
+  </div>
+
+  {
+    metrics && (
+      <ul class="metrics" aria-label="Citation metrics">
+        <li><strong>{metrics.citations}</strong><span>Citations</span></li>
+        <li><strong>{metrics.hIndex}</strong><span>h-index</span></li>
+        <li><strong>{metrics.i10Index}</strong><span>i10-index</span></li>
+        <li class="metrics-note">
+          Google Scholar, as of {metrics.asOf}. <a href={site.ids.scholarProfile} rel="noopener">View profile</a>
+        </li>
+      </ul>
+    )
+  }
+
+  <div class="toolbar">
+    <div class="filter-group">
+      <label for="filter-year">Year</label>
+      <select id="filter-year">
+        <option value="">All years</option>
+        {years.map((y) => <option value={y}>{y}</option>)}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="filter-type">Type</label>
+      <select id="filter-type">
+        <option value="">All types</option>
+        {types.map((t) => <option value={t}>{t}</option>)}
+      </select>
+    </div>
+    <p class="result-count" id="result-count" role="status" aria-live="polite">
+      Showing {pubs.length} of {pubs.length}
+    </p>
+    <a class="bibtex-link" href="/research/bibtex.bib" download>Download all as BibTeX</a>
+  </div>
+
+  {
+    failed.length > 0 && (
+      <p class="placeholder-note">
+        <strong>Note.</strong> {failed.map(([n]) => n).join(', ')} could not be reached on the last run. The
+        list below is the most recent good data.
+      </p>
+    )
+  }
+
+  <ol class="pub-list" id="pub-list">
+    {
+      pubs.map((p) => (
+        <li class="pub" data-year={p.year ?? ''} data-type={p.type ?? ''}>
+          <h2 class="pub-title">
+            {p.doi ? (
+              <a href={`https://doi.org/${p.doi}`} rel="noopener">{p.title}</a>
+            ) : p.url ? (
+              <a href={p.url} rel="noopener">{p.title}</a>
+            ) : (
+              p.title
+            )}
+          </h2>
+
+          {p.authors?.length > 0 && (
+            <p class="pub-authors">
+              {p.authors.map((a, i) => (
+                <>
+                  <span class={/khidhir/i.test(a) ? 'is-me' : ''}>{a}</span>
+                  {i < p.authors.length - 1 ? '; ' : ''}
+                </>
+              ))}
+            </p>
+          )}
+
+          <p class="pub-meta">
+            {p.venue && <em>{p.venue}</em>}
+            {p.venue && p.year ? ' · ' : ''}
+            {p.year}
+            {p.publisher ? ` · ${p.publisher}` : ''}
+          </p>
+
+          <p class="pub-tags">
+            <span class="badge">{p.type}</span>
+            <span class="badge badge-accent">{sourceLabel[p.source] ?? p.source}</span>
+            {typeof p.citations === 'number' && p.citations > 0 && (
+              <span class="badge">{p.citations} citations</span>
+            )}
+            {p.doi && (
+              <a class="doi" href={`https://doi.org/${p.doi}`} rel="noopener">
+                doi:{p.doi}
+              </a>
+            )}
+            {p.pdf && <a href={p.pdf} rel="noopener">PDF</a>}
+          </p>
+        </li>
+      ))
+    }
+  </ol>
+
+  <p class="empty-state" id="empty-state" hidden>No publications match those filters.</p>
+</BaseLayout>
+
+<script>
+  const yearSel = document.getElementById('filter-year') as HTMLSelectElement | null;
+  const typeSel = document.getElementById('filter-type') as HTMLSelectElement | null;
+  const list = document.getElementById('pub-list');
+  const count = document.getElementById('result-count');
+  const empty = document.getElementById('empty-state');
+
+  if (yearSel && typeSel && list && count && empty) {
+    const items = Array.from(list.querySelectorAll<HTMLElement>('.pub'));
+
+    const apply = () => {
+      const y = yearSel.value;
+      const t = typeSel.value;
+      let shown = 0;
+
+      for (const el of items) {
+        const match = (!y || el.dataset.year === y) && (!t || el.dataset.type === t);
+        el.hidden = !match;
+        if (match) shown++;
+      }
+
+      count.textContent = `Showing ${shown} of ${items.length}`;
+      empty.hidden = shown > 0;
+      list.hidden = shown === 0;
+    };
+
+    yearSel.addEventListener('change', apply);
+    typeSel.addEventListener('change', apply);
+  }
+</script>
+
+<style>
+  .metrics {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem 2rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+    padding: 1rem 1.25rem;
+  }
+  .metrics li { display: flex; flex-direction: column; }
+  .metrics strong { font-family: var(--font-serif); font-size: 1.6rem; line-height: 1.1; }
+  .metrics span { font-size: 0.8125rem; color: var(--text-muted); }
+  .metrics-note {
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+    margin-left: auto;
+    max-width: 18rem;
+  }
+
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    gap: 0.75rem 1.25rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .filter-group { display: flex; flex-direction: column; gap: 0.2rem; }
+  .filter-group label { font-size: 0.8125rem; color: var(--text-muted); font-weight: 600; }
+  .filter-group select {
+    font: inherit;
+    font-size: 0.9375rem;
+    padding: 0.35rem 0.5rem;
+    border: 1px solid var(--control-border);
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+    color: var(--text);
+    min-width: 8.5rem;
+  }
+  .result-count { font-size: 0.875rem; color: var(--text-muted); margin: 0 0 0.35rem; }
+  .bibtex-link { margin-left: auto; font-size: 0.9375rem; margin-bottom: 0.35rem; }
+
+  .pub-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 1.75rem; }
+  .pub { padding-bottom: 1.75rem; border-bottom: 1px solid var(--border); }
+  .pub:last-child { border-bottom: 0; }
+
+  .pub-title {
+    font-size: 1.125rem;
+    margin: 0 0 0.4rem;
+    line-height: 1.4;
+  }
+  .pub-title a { color: var(--text); text-decoration: none; }
+  .pub-title a:hover { color: var(--accent); text-decoration: underline; }
+
+  .pub-authors {
+    font-size: 0.9375rem;
+    color: var(--text-muted);
+    margin: 0 0 0.25rem;
+    line-height: 1.5;
+  }
+  .pub-authors .is-me { color: var(--text); font-weight: 600; }
+
+  .pub-meta { font-size: 0.9375rem; color: var(--text-muted); margin: 0 0 0.6rem; }
+
+  .pub-tags {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.4rem 0.75rem;
+    margin: 0;
+    font-size: 0.8125rem;
+  }
+  .doi { font-family: var(--font-mono); font-size: 0.78rem; overflow-wrap: anywhere; }
+
+  @media (max-width: 34rem) {
+    .metrics-note { margin-left: 0; }
+    .bibtex-link { margin-left: 0; }
+  }
+</style>

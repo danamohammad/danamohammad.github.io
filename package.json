@@ -1,0 +1,26 @@
+{
+  "name": "danamohammad-github-io",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "fetch:research": "node scripts/fetch-research.mjs",
+    "fetch:news": "node scripts/fetch-news.mjs",
+    "fetch:all": "npm run fetch:research && npm run fetch:news",
+    "check:secrets": "node scripts/check-no-secrets.mjs",
+    "check:contrast": "node scripts/check-contrast.mjs",
+    "check:links": "node scripts/check-links.mjs",
+    "check": "npm run check:contrast && npm run build && npm run check:secrets && npm run check:links"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3.7.3",
+    "astro": "^7.1.6"
+  }
+}

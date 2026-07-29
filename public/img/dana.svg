@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 168" width="168" height="168" role="img" aria-label="Placeholder portrait silhouette">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e8eef0"/>
+      <stop offset="100%" stop-color="#dbe4e7"/>
+    </linearGradient>
+  </defs>
+  <rect width="168" height="168" fill="url(#bg)"/>
+  <circle cx="84" cy="65" r="27" fill="#9fb3bb"/>
+  <path d="M84 100c-27 0-49 19-52 44a84 84 0 0 0 104 0c-3-25-25-44-52-44z" fill="#9fb3bb"/>
+</svg>
