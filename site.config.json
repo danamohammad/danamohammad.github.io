@@ -1,0 +1,20 @@
+{
+  "site_name": "Dana Mohammad Khidhir",
+  "tagline": "Articles, a working API directory, and research notes.",
+  "author": "Dana Mohammad Khidhir",
+  "domain": "danakhidhir.is-a.dev",
+  "base_url": "https://danakhidhir.is-a.dev",
+  "github_user": "PLACEHOLDER_GITHUB",
+  "email": "danamohammadkhidhir@gmail.com",
+  "description": "Personal site: long-form articles, a curated directory of genuinely useful APIs, and archived research.",
+  "nav": [
+    { "label": "Home", "url": "/" },
+    { "label": "Articles", "url": "/articles/" },
+    { "label": "APIs", "url": "/apis/" },
+    { "label": "Research", "url": "/research/" }
+  ],
+  "footer_links": [
+    { "label": "GitHub", "url": "https://github.com/PLACEHOLDER_GITHUB" },
+    { "label": "RSS", "url": "/feed.xml" }
+  ]
+}

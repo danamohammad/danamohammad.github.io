@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How this site works — Dana Mohammad Khidhir</title>
+<meta name="description" content="A static site with no build dependencies, no framework and no hosting bill. Here is the whole architecture in one page.">
+<meta name="author" content="Dana Mohammad Khidhir">
+<link rel="canonical" href="https://danakhidhir.is-a.dev/articles/how-this-site-works/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="How this site works — Dana Mohammad Khidhir">
+<meta property="og:description" content="A static site with no build dependencies, no framework and no hosting bill. Here is the whole architecture in one page.">
+<meta property="og:url" content="https://danakhidhir.is-a.dev/articles/how-this-site-works/">
+<meta name="twitter:card" content="summary">
+<link rel="alternate" type="application/rss+xml" title="Dana Mohammad Khidhir" href="/feed.xml">
+<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>&#9670;</text></svg>">
+<script>
+  (function () {
+    var t = localStorage.getItem("theme");
+    if (t) document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Dana Mohammad Khidhir</a>
+    <nav class="site-nav"><a href="/">Home</a><a href="/articles/" class="active">Articles</a><a href="/apis/">APIs</a><a href="/research/">Research</a></nav>
+    <button class="theme-toggle" type="button" aria-label="Toggle colour theme"></button>
+  </div>
+</header>
+<main id="main" class="wrap">
+<article class="prose">
+  <header class="entry-head">
+    <p class="crumb"><a href="/articles/">&larr; All articles</a></p>
+    <h1>How this site works</h1>
+    <p class="entry-meta"><time datetime="2026-07-29">29 July 2026</time> · 2 min read</p>
+    <p class="lede">A static site with no build dependencies, no framework and no hosting bill. Here is the whole architecture in one page.</p>
+    
+  </header>
+  <p>This site has three jobs: publish articles, keep a directory of APIs that are actually worth using, and archive research so it can be cited. It does all three from a folder of plain text files and a single Python script.</p>
+<p>There is no framework, no <code>node_modules</code>, and nothing to install. That is deliberate — a personal site should still build in five years without a dependency archaeology session.</p>
+<h2 id="the-stack"><a class="anchor" href="#the-stack" aria-hidden="true">#</a>The stack</h2>
+<div class="table-wrap"><table><thead><tr><th>Layer</th><th>Choice</th><th>Cost</th></tr></thead><tbody><tr><td>Content</td><td>Markdown files</td><td>—</td></tr><tr><td>Build</td><td>One Python script, stdlib only</td><td>—</td></tr><tr><td>Hosting</td><td>GitHub Pages</td><td>Free</td></tr><tr><td>Domain</td><td>is-a.dev subdomain</td><td>Free</td></tr><tr><td>Research archive</td><td>Zenodo (DOIs)</td><td>Free</td></tr></tbody></table></div>
+<p>Total running cost: nothing. No account can lapse and take the site down with it.</p>
+<h2 id="writing-something-new"><a class="anchor" href="#writing-something-new" aria-hidden="true">#</a>Writing something new</h2>
+<p>Every article is one Markdown file in <code>content/articles/</code>. The front matter block at the top is all the metadata the build needs:</p>
+<pre><code class="language-markdown">---
+title: Your title here
+date: 2026-07-29
+summary: One sentence that appears in listings and search results.
+tags: [research, apis]
+---
+
+Your writing starts here.</code></pre>
+<p>Then rebuild:</p>
+<pre><code class="language-bash">python build.py</code></pre>
+<p>The script reads every Markdown file, converts it to HTML, and regenerates the index pages, the RSS feed and the sitemap. Adding <code>draft: true</code> to the front matter keeps a piece out of the build until it is ready.</p>
+<h2 id="why-markdown-and-not-a-cms"><a class="anchor" href="#why-markdown-and-not-a-cms" aria-hidden="true">#</a>Why Markdown and not a CMS</h2>
+<p>A CMS puts your writing inside somebody else's database. Markdown files in Git give you three things a CMS cannot:</p>
+<ul><li><strong>Full history.</strong> Every revision of every article is recoverable.</li><li><strong>Portability.</strong> If GitHub Pages disappears, the same folder deploys to Netlify, Cloudflare Pages or a VPS without changing a single file.</li><li><strong>Grep.</strong> Searching your own archive is <code>grep -r</code>, not a web UI.</li></ul>
+<h2 id="the-api-directory"><a class="anchor" href="#the-api-directory" aria-hidden="true">#</a>The API directory</h2>
+<p>The API list lives in <code>data/apis.json</code>, and the build renders it into a static page with client-side search and category filters. Because the HTML is generated at build time rather than fetched at runtime, the list is fully indexable by search engines and works with JavaScript disabled — the filtering is a progressive enhancement on top.</p>
+<p>Adding an entry is four fields:</p>
+<pre><code class="language-json">{
+  &quot;name&quot;: &quot;Open-Meteo&quot;,
+  &quot;category&quot;: &quot;Geo &amp; Weather&quot;,
+  &quot;description&quot;: &quot;Forecast and historical weather data with no API key at all.&quot;,
+  &quot;auth&quot;: &quot;None&quot;,
+  &quot;free_tier&quot;: &quot;Free non-commercial&quot;,
+  &quot;docs&quot;: &quot;https://open-meteo.com/en/docs&quot;
+}</code></pre>
+<p>One caveat worth stating plainly: free tiers change. The labels in the directory describe the shape of the offer, not a guaranteed quota. Always check the provider's current pricing page before you build something that depends on it.</p>
+<h2 id="research-and-dois"><a class="anchor" href="#research-and-dois" aria-hidden="true">#</a>Research and DOIs</h2>
+<p>A blog post is not citable. If a piece of research needs to be referenced by someone else, it gets deposited on <a href="https://zenodo.org" target="_blank" rel="noopener noreferrer">Zenodo</a>, which mints a permanent DOI and guarantees the archive outlives any particular website. The entry here then links to it.</p>
+<p>That separation matters: this site is the readable front end, Zenodo is the permanent record.</p>
+<h2 id="what-it-costs-to-keep-running"><a class="anchor" href="#what-it-costs-to-keep-running" aria-hidden="true">#</a>What it costs to keep running</h2>
+<p>Nothing, and that is the point. GitHub Pages serves static files at no charge, the is-a.dev registry hands out subdomains for free to developers, and Zenodo is funded by CERN. The only thing that can break this site is me writing bad Markdown.</p>
+  <footer class="entry-foot"><p class="tags"><span class="tag">meta</span><span class="tag">static-site</span><span class="tag">python</span></p></footer>
+</article>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p>© 2026 Dana Mohammad Khidhir</p>
+    <p class="footer-links"><a href="https://github.com/PLACEHOLDER_GITHUB">GitHub</a> · <a href="/feed.xml">RSS</a></p>
+  </div>
+</footer>
+<script src="/assets/js/site.js"></script>
+</body>
+</html>

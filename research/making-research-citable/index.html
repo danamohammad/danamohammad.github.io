@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Making research citable — a reproducible archiving workflow — Dana Mohammad Khidhir</title>
+<meta name="description" content="A checklist for turning a finished piece of research into something with a permanent identifier, a frozen artefact and a reproducible environment.">
+<meta name="author" content="Dana Mohammad Khidhir">
+<link rel="canonical" href="https://danakhidhir.is-a.dev/research/making-research-citable/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Making research citable — a reproducible archiving workflow — Dana Mohammad Khidhir">
+<meta property="og:description" content="A checklist for turning a finished piece of research into something with a permanent identifier, a frozen artefact and a reproducible environment.">
+<meta property="og:url" content="https://danakhidhir.is-a.dev/research/making-research-citable/">
+<meta name="twitter:card" content="summary">
+<link rel="alternate" type="application/rss+xml" title="Dana Mohammad Khidhir" href="/feed.xml">
+<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>&#9670;</text></svg>">
+<script>
+  (function () {
+    var t = localStorage.getItem("theme");
+    if (t) document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Dana Mohammad Khidhir</a>
+    <nav class="site-nav"><a href="/">Home</a><a href="/articles/">Articles</a><a href="/apis/">APIs</a><a href="/research/" class="active">Research</a></nav>
+    <button class="theme-toggle" type="button" aria-label="Toggle colour theme"></button>
+  </div>
+</header>
+<main id="main" class="wrap">
+<article class="prose">
+  <header class="entry-head">
+    <p class="crumb"><a href="/research/">&larr; All research</a></p>
+    <h1>Making research citable — a reproducible archiving workflow</h1>
+    <p class="entry-meta"><time datetime="2026-07-29">29 July 2026</time> · <span class="pill">working note</span></p>
+    <p class="lede">A checklist for turning a finished piece of research into something with a permanent identifier, a frozen artefact and a reproducible environment.</p>
+    
+  </header>
+  <p>A finished analysis that lives only on a website is not research anyone can build on. It has no permanent identifier, no frozen version, and no guarantee of existing next year. This note records the workflow I use to fix that.</p>
+<h2 id="the-problem-with-linking-to-a-webpage"><a class="anchor" href="#the-problem-with-linking-to-a-webpage" aria-hidden="true">#</a>The problem with linking to a webpage</h2>
+<p>URLs rot. Studies of reference rot in academic literature consistently find that a large share of cited web links break within a few years. A citation that points at a personal domain is a citation with an expiry date.</p>
+<p>A DOI solves this because it is a layer of indirection: the identifier is permanent and the resolver points at wherever the artefact currently lives.</p>
+<h2 id="the-workflow"><a class="anchor" href="#the-workflow" aria-hidden="true">#</a>The workflow</h2>
+<ol><li><strong>Freeze the artefact.</strong> Tag the exact commit of the code and data used to produce the result. Not "main" — a tag.</li><li><strong>Deposit to Zenodo.</strong> Zenodo accepts a GitHub release automatically once the repository is linked, or you can upload directly via its API.</li><li><strong>Record the environment.</strong> A <code>requirements.txt</code> with pinned versions, or a lockfile. Unpinned dependencies make a result unreproducible within months.</li><li><strong>Write the README as an entry point.</strong> State what the result is, how to regenerate it, and roughly how long that takes.</li><li><strong>Link back.</strong> The readable write-up cites the DOI; the deposit links to the write-up.</li></ol>
+<h2 id="what-goes-in-a-deposit"><a class="anchor" href="#what-goes-in-a-deposit" aria-hidden="true">#</a>What goes in a deposit</h2>
+<ul><li>The manuscript or write-up, as PDF</li><li>Source data, or a fetch script if the data is too large or licence-restricted</li><li>Analysis code at the tagged commit</li><li>A <code>CITATION.cff</code> file so GitHub and reference managers can generate citations</li></ul>
+<h2 id="why-zenodo-specifically"><a class="anchor" href="#why-zenodo-specifically" aria-hidden="true">#</a>Why Zenodo specifically</h2>
+<p>It is operated by CERN, funded independently of any commercial publisher, has no upload fee, and issues both a version-specific DOI and a concept DOI that always resolves to the latest version. That last detail matters more than it sounds: you can cite "the current version" or "version 2.1" and both remain valid forever.</p>
+<h2 id="deposit-checklist"><a class="anchor" href="#deposit-checklist" aria-hidden="true">#</a>Deposit checklist</h2>
+<pre><code class="language-text">[ ] Repository tagged at the exact analysis commit
+[ ] Dependencies pinned
+[ ] README explains how to reproduce, with runtime estimate
+[ ] CITATION.cff present
+[ ] Licence chosen (CC-BY for text, permissive for code)
+[ ] Zenodo deposit created, DOI recorded
+[ ] Write-up links to the DOI, deposit links to the write-up</code></pre>
+<h2 id="open-question"><a class="anchor" href="#open-question" aria-hidden="true">#</a>Open question</h2>
+<p>The step that stays awkward is data that cannot be redistributed — licence-restricted corpora, or anything with personal data in it. The usual answer is to publish a fetch script plus a checksum manifest, so a reader with their own access to the source can verify they have the same bytes. It works, but it shifts the reproducibility burden onto the reader, and I have not found a better option.</p>
+  <footer class="entry-foot"><p class="tags"><span class="tag">methodology</span><span class="tag">open-science</span><span class="tag">doi</span></p></footer>
+</article>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p>© 2026 Dana Mohammad Khidhir</p>
+    <p class="footer-links"><a href="https://github.com/PLACEHOLDER_GITHUB">GitHub</a> · <a href="/feed.xml">RSS</a></p>
+  </div>
+</footer>
+<script src="/assets/js/site.js"></script>
+</body>
+</html>

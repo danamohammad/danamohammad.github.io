@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Dana Mohammad Khidhir</title>
+  <link>https://danakhidhir.is-a.dev/</link>
+  <description>Personal site: long-form articles, a curated directory of genuinely useful APIs, and archived research.</description>
+  <language>en</language>
+  <atom:link href="https://danakhidhir.is-a.dev/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>How this site works</title>
+    <link>https://danakhidhir.is-a.dev/articles/how-this-site-works/</link>
+    <guid isPermaLink="true">https://danakhidhir.is-a.dev/articles/how-this-site-works/</guid>
+    <description>A static site with no build dependencies, no framework and no hosting bill. Here is the whole architecture in one page.</description>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Making research citable — a reproducible archiving workflow</title>
+    <link>https://danakhidhir.is-a.dev/research/making-research-citable/</link>
+    <guid isPermaLink="true">https://danakhidhir.is-a.dev/research/making-research-citable/</guid>
+    <description>A checklist for turning a finished piece of research into something with a permanent identifier, a frozen artefact and a reproducible environment.</description>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+</channel>
+</rss>
