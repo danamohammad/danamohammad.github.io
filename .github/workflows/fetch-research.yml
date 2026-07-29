@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: fetch-research
+  group: data-fetch
   cancel-in-progress: false
 
 jobs:
@@ -41,8 +41,21 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add src/data/research.json
           git commit -m "data: refresh research from ORCID/Crossref/Zenodo"
-          git push
-          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+          # Both data workflows can be in flight at once, and Dana may push by
+          # hand at any time. Rebase onto whatever landed first and retry rather
+          # than failing the run on a rejected push.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt) — rebasing onto origin/main."
+            git pull --rebase origin main
+          done
+
+          echo "Could not push after 3 attempts." >&2
+          exit 1
 
   # Commits made with GITHUB_TOKEN do not fire `on: push`, so the deploy is
   # invoked explicitly. Without this the site would fetch new data forever and
