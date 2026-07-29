@@ -632,8 +632,15 @@ def build_meta_files(cfg: dict, urls: list[str]) -> None:
     write(ROOT / "404.html", page(cfg, title="Not found", body=body, canonical="/404.html"))
 
     write(ROOT / ".nojekyll", "")
-    if cfg.get("domain") and "PLACEHOLDER" not in cfg["domain"]:
-        write(ROOT / "CNAME", cfg["domain"] + "\n")
+
+    # Only claim the custom domain once its DNS actually resolves. A CNAME file
+    # pointing at an unregistered domain makes Pages redirect there and takes the
+    # whole site offline, so this stays off until the is-a.dev PR is merged.
+    cname = ROOT / "CNAME"
+    if cfg.get("custom_domain_active") and cfg.get("domain"):
+        write(cname, cfg["domain"] + "\n")
+    elif cname.exists():
+        cname.unlink()
 
 
 # --------------------------------------------------------------------------
@@ -642,6 +649,14 @@ def build_meta_files(cfg: dict, urls: list[str]) -> None:
 
 def main() -> None:
     cfg = json.loads((ROOT / "site.config.json").read_text(encoding="utf-8"))
+
+    # Canonical URLs follow whichever domain is actually serving the site, so
+    # sitemap/RSS/og:url can never drift out of sync with reality.
+    cfg["base_url"] = (
+        f"https://{cfg['domain']}"
+        if cfg.get("custom_domain_active") and cfg.get("domain")
+        else f"https://{cfg['github_user']}.github.io"
+    )
 
     for name in GENERATED_DIRS:
         shutil.rmtree(ROOT / name, ignore_errors=True)
