@@ -137,7 +137,7 @@ if (okCount === 0) {
 
 // Deduplicate by URL, keeping the first (newest-sorted) occurrence.
 const seen = new Set();
-const items = all
+const deduped = all
   .filter((item) => {
     if (cutoff && item.published && new Date(item.published).getTime() < cutoff) return false;
     const key = item.link.replace(/[?#].*$/, '').toLowerCase();
@@ -145,8 +145,28 @@ const items = all
     seen.add(key);
     return true;
   })
-  .sort((a, b) => new Date(b.published ?? 0) - new Date(a.published ?? 0))
-  .slice(0, maxItems);
+  .sort((a, b) => new Date(b.published ?? 0) - new Date(a.published ?? 0));
+
+// Cap each source so a high-volume publisher cannot crowd out the rest.
+// Without this the two MDPI feeds alone took 52% of the page and the
+// petroleum journals — the whole point of the feed list — never appeared.
+const perSourceCap = config.maxPerSource ?? Math.max(5, Math.ceil(maxItems / Math.max(1, okCount)) * 2);
+const takenPerSource = new Map();
+const balanced = [];
+const overflow = [];
+
+for (const item of deduped) {
+  const n = takenPerSource.get(item.source) ?? 0;
+  if (n < perSourceCap) {
+    takenPerSource.set(item.source, n + 1);
+    balanced.push(item);
+  } else {
+    overflow.push(item);
+  }
+}
+
+// Backfill from the overflow if the cap left the page short.
+const items = balanced.concat(overflow).slice(0, maxItems);
 
 const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) : { items: [] };
 
