@@ -16,7 +16,9 @@
     "check:secrets": "node scripts/check-no-secrets.mjs",
     "check:contrast": "node scripts/check-contrast.mjs",
     "check:links": "node scripts/check-links.mjs",
-    "check": "npm run check:contrast && npm run build && npm run check:secrets && npm run check:links"
+    "check": "npm run check:contrast && npm run build && npm run check:secrets && npm run check:links",
+    "domain:check": "node scripts/activate-domain.mjs",
+    "domain:activate": "node scripts/activate-domain.mjs --apply"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
