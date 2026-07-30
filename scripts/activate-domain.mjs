@@ -24,35 +24,52 @@ const APPLY = process.argv.includes('--apply');
 
 console.log(`Checking ${DOMAIN}…\n`);
 
-let resolves = false;
-try {
-  const cname = await dns.resolveCname(DOMAIN).catch(() => null);
-  if (cname?.length) {
-    console.log(`  CNAME -> ${cname.join(', ')}`);
-    resolves = cname.some((c) => c.replace(/\.$/, '') === TARGET);
-  }
-  if (!resolves) {
-    const a = await dns.resolve4(DOMAIN).catch(() => null);
-    if (a?.length) {
-      console.log(`  A     -> ${a.join(', ')}`);
-      resolves = true;
-    }
-  }
-} catch {
-  /* handled below */
+// A DNS lookup alone proves nothing here. is-a.dev wildcards *every* name under
+// the zone to Cloudflare, so an unregistered subdomain resolves to the same A
+// records as a registered one and answers with a 302 to is-a.dev/available.
+// Verified against a control name that certainly is not registered.
+// The real test is what the hostname actually serves.
+const cname = await dns.resolveCname(DOMAIN).catch(() => null);
+const a = await dns.resolve4(DOMAIN).catch(() => null);
+console.log(`  CNAME  -> ${cname?.length ? cname.join(', ') : '(none — wildcard A record)'}`);
+console.log(`  A      -> ${a?.length ? a.join(', ') : '(none)'}`);
+
+const res = await fetch(`https://${DOMAIN}/`, { redirect: 'manual' }).catch(() => null);
+if (!res) {
+  console.error(`\n  ${DOMAIN} did not respond. Nothing changed.`);
+  process.exit(1);
 }
 
-if (!resolves) {
+const location = res.headers.get('location') ?? '';
+console.log(`  HTTP   -> ${res.status}${location ? ` -> ${location}` : ''}`);
+
+if (/is-a\.dev\/available/.test(location)) {
   console.error(
-    `  ${DOMAIN} does not resolve yet.\n\n` +
-      `  The is-a.dev PR has probably not merged, or DNS has not propagated.\n` +
-      `  Nothing changed. The site stays live at https://${TARGET}.`
+    `\n  NOT REGISTERED YET.\n\n` +
+      `  ${DOMAIN} still redirects to the is-a.dev "available" page, which means\n` +
+      `  the pull request has not merged. Writing public/CNAME now would point\n` +
+      `  GitHub Pages at a hostname that does not serve this site, taking\n` +
+      `  https://${TARGET} down until it was reverted.\n\n` +
+      `  Nothing changed.`
   );
   process.exit(1);
 }
 
-const res = await fetch(`https://${DOMAIN}`, { redirect: 'manual' }).catch(() => null);
-console.log(`  HTTPS  -> ${res ? res.status : 'no response yet (certificate may still be issuing)'}`);
+// Follow through and confirm the hostname really serves this site.
+const body = await fetch(`https://${DOMAIN}/`, { redirect: 'follow' })
+  .then((r) => r.text())
+  .catch(() => '');
+
+if (!body.includes('Dana Mohammad Khidhir')) {
+  console.error(
+    `\n  ${DOMAIN} resolves but is not serving this site yet.\n` +
+      `  This is normal for a short window after the PR merges while GitHub\n` +
+      `  issues the certificate. Try again shortly. Nothing changed.`
+  );
+  process.exit(1);
+}
+
+console.log('  content-> serving this site');
 
 if (!APPLY) {
   console.log('\nResolves correctly. Re-run with --apply to switch the site over.');
