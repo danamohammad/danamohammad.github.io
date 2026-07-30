@@ -18,7 +18,10 @@ import { dirname, join } from 'node:path';
 import { promises as dns } from 'node:dns';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
-const DOMAIN = 'danakhidhir.is-a.dev';
+// Domain is configurable so the same guard works for whichever hostname
+// becomes canonical. Defaults to the Cloudflare-managed domain Dana owns.
+const args = process.argv.slice(2).filter((a) => a !== '--apply');
+const DOMAIN = args[0] ?? 'dana-edu.pp.ua';
 const TARGET = 'danamohammad.github.io';
 const APPLY = process.argv.includes('--apply');
 
@@ -31,7 +34,7 @@ console.log(`Checking ${DOMAIN}…\n`);
 // The real test is what the hostname actually serves.
 const cname = await dns.resolveCname(DOMAIN).catch(() => null);
 const a = await dns.resolve4(DOMAIN).catch(() => null);
-console.log(`  CNAME  -> ${cname?.length ? cname.join(', ') : '(none — wildcard A record)'}`);
+console.log(`  CNAME  -> ${cname?.length ? cname.join(', ') : '(none)'}`);
 console.log(`  A      -> ${a?.length ? a.join(', ') : '(none)'}`);
 
 const res = await fetch(`https://${DOMAIN}/`, { redirect: 'manual' }).catch(() => null);
@@ -86,16 +89,14 @@ writeFileSync(cfgPath, JSON.stringify(cfg, null, 2) + '\n');
 console.log(`  set site.customDomain = https://${DOMAIN}`);
 
 const robotsPath = join(ROOT, 'public/robots.txt');
-writeFileSync(
-  robotsPath,
-  readFileSync(robotsPath, 'utf8').replace(`https://${TARGET}`, `https://${DOMAIN}`)
-);
+const robots = readFileSync(robotsPath, 'utf8');
+writeFileSync(robotsPath, robots.replace(/^Sitemap: .*$/m, `Sitemap: https://${DOMAIN}/sitemap-index.xml`));
 console.log('  updated robots.txt sitemap URL');
 
 console.log(
   `\nNext:\n` +
     `  1. npm run check\n` +
-    `  2. git add -A && git commit -m "Switch to danakhidhir.is-a.dev" && git push\n` +
+    `  2. git add -A && git commit -m "Switch to ${DOMAIN}" && git push\n` +
     `  3. Enable "Enforce HTTPS" in Settings > Pages once the certificate provisions.\n\n` +
     `https://${TARGET} keeps working and redirects to the custom domain.`
 );
