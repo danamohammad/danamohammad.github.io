@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T00:43:52.114Z",
+  "generatedAt": "2026-07-30T03:44:14.251Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 3575: Context-Aware Asymmetric Conformal Calibration of Renewable-Power Prediction Intervals for Day-Ahead Operational Risk Assessment",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3575",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "High renewable penetration makes day-ahead operation sensitive to the directional effects of wind and photovoltaic forecast errors. Conventional prediction intervals mainly evaluate coverage and sharpness, but lower- and…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2452: Self-Supervised CNN&ndash;Transformer Anomaly Detection for Bearing Health Monitoring",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2452",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "Reliable bearing fault detection is essential for predictive maintenance in industrial systems; however, obtaining labelled fault data is often expensive, time-consuming, and impractical in real-world deployments. To add…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2451: Simulation-Driven Matching and Lightweight Transmission Optimization of the Powertrain for a Single-Motor FSEC Race Car",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2451",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "For single-motor Formula Student Electric China (FSEC) race cars, current powertrain design methodologies commonly suffer from the disconnection among parameter matching, dynamic simulation, and structural optimization:…"
+    },
     {
       "title": "Hydrothermal microbes shape seafloor minerals at newly found vents near Greek island",
       "link": "https://phys.org/news/2026-07-hydrothermal-microbes-seafloor-minerals-newly.html",
@@ -372,14 +396,6 @@
       "excerpt": "Solid-state hydrogen storage is considered a promising and environmentally friendly approach for energy storage. However, several challenges, including sluggish hydrogen absorption/desorption kinetics and high dehydrogen…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3563: Comparative Evaluation of Direct and Recursive Multi-Step Forecasting for Electricity Demand Using Deep Learning and Gradient Boosting Models",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3563",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "Predicting electrical demand in distribution systems is a fundamental problem for the efficient operation of smart grids, especially under scenarios of high temporal variability. This study compares two multi-step foreca…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2450: Bayesian-Optimized Machine Learning Framework with SHAP Interpretation for Rockburst Intensity Prediction in Deep Underground Engineering",
       "link": "https://www.mdpi.com/2227-9717/14/15/2450",
       "source": "Processes (MDPI)",
@@ -458,22 +474,6 @@
       "category": "processing",
       "published": "2026-07-29T00:00:00.000Z",
       "excerpt": "Decarbonizing the aviation sector remains one of the most challenging aspects of the global energy transition because commercial aviation relies on high-energy-density liquid hydrocarbon fuels that cannot be readily repl…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2440: Influence of Biological, Chemical, and Combined Extraction Methods on the Physicochemical, Structural, and Mechanical Properties of Okra (Abelmoschus esculentus) Fibers for Natural Latex-Based Bio-Composite Reinforcement",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2440",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "Okra (Abelmoschus esculentus) stems represent an abundant lignocellulosic resource with considerable potential for sustainable textile and bio-composite applications. This study investigated the effects of biological, al…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2439: Pyrolysis Behavior, Char Structure Evolution, and Kinetics Characteristics of Oil Shale Under N2 and CO2 Atmospheres",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2439",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "This study investigated the effect of replacing N2 with CO2 on the pyrolysis behavior, char structure evolution, and kinetics of Fushun (FS) and Changji (CJ) oil shales. Non-isothermal thermogravimetric experiments were…"
     },
     {
       "title": "TotalEnergies, Eni reach agreement to develop Cyprus’ Cronos gas field",
