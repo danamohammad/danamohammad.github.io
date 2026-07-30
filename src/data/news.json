@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T03:44:14.251Z",
+  "generatedAt": "2026-07-30T09:16:25.839Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 8,
+      "count": 3,
       "error": null
     },
     {
@@ -76,12 +76,140 @@
   ],
   "items": [
     {
+      "title": "From disposal to resource recovery: how drilling waste management is being redefined",
+      "link": "https://www.offshore-technology.com/opinion/disposal-recovery-drilling-waste-management/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-07-30T08:55:30.000Z",
+      "excerpt": "Drilling waste management has moved beyond skips and disposal, but the greatest gains still begin inside the active mud system."
+    },
+    {
+      "title": "Rain dampens France fire, as Spain reports 'almost no flames'",
+      "link": "https://phys.org/news/2026-07-dampens-france-spain-flames.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-30T08:14:33.000Z",
+      "excerpt": "Firefighters in France on Thursday were hopeful a massive forest fire was no longer spreading, as Spain said there were \"almost no flames\" left after a similar blaze near Madrid."
+    },
+    {
+      "title": "Woodside’s Q2 2026 operating revenue jumps 28% to $4.2bn",
+      "link": "https://www.offshore-technology.com/news/woodsides-q2-2026-operating-revenue-4-2bn/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-07-30T07:41:23.000Z",
+      "excerpt": "Woodside Energy has reported an operating revenue of $4.18bn in the second quarter of 2026 (Q2 2026), marking a 28% increase from $3.27bn in Q2 2025."
+    },
+    {
+      "title": "From single projection to many possibilities: A new tool for climate risk assessment",
+      "link": "https://phys.org/news/2026-07-possibilities-tool-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-30T06:00:01.000Z",
+      "excerpt": "Assessing how climate change will affect different regions usually requires running a complex chain of models. While this approach provides valuable insights, it is expensive and can cover only a limited set of scenarios…"
+    },
+    {
+      "title": "How to quantify earthquake predictability? Advances in earthquake forecasting and predictability limits",
+      "link": "https://arxiv.org/abs/2607.26918",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-07-30T04:00:00.000Z",
+      "excerpt": "arXiv:2607.26918v1 Announce Type: new Abstract: Earthquakes resist deterministic prediction, yet their occurrence is not fully random. This paper develops a unified information-theoretic framework to quantify predictabil…"
+    },
+    {
+      "title": "Nanoscale Storage of Incompatible Elements at Olivine Grain Boundaries in Natural Basalts",
+      "link": "https://arxiv.org/abs/2607.26329",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-07-30T04:00:00.000Z",
+      "excerpt": "arXiv:2607.26329v1 Announce Type: cross Abstract: Grain boundaries are pervasive in polycrystalline olivine, yet their structure and trace-element chemistry remain poorly constrained. We characterize boundaries in undefo…"
+    },
+    {
+      "title": "A Spectral-Domain Pseudo-Inverse Construction Method for Unitary Diagonalizable Linear Inverse Problems",
+      "link": "https://arxiv.org/abs/2607.26951",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-07-30T04:00:00.000Z",
+      "excerpt": "arXiv:2607.26951v1 Announce Type: cross Abstract: Linear inverse problems are prevalent in geophysics, signal processing, image restoration, and medical imaging. Mathematically, they can be formulated as $Gm = d$. When $…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3581: Factors and Effects of Harmonic Resonance in Medium-Voltage Distribution Networks with High Photovoltaic Penetration",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3581",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "The increasing penetration of inverter-based renewable energy sources and the growing share of underground cable lines significantly modify the frequency-dependent characteristics of medium-voltage distribution networks,…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3580: Correction: Wang et al. Application and Performance Evaluation of Key Technologies in Green Buildings. Energies 2024, 17, 6418",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3580",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "In the original publication [...]"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3579: A VMD-GST-SDEO-Based Double-Ended Traveling-Wave Accurate Fault Location Method for Single-Phase-to-Ground Faults in Distribution Networks",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3579",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "A double-ended traveling-wave accurate fault location method based on variational mode decomposition (VMD), generalized S-transform (GST), and a symmetric difference energy operator (SDEO) is proposed for single-phase-to…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3578: A Controlled Benchmark for Sampling-Based Monitoring of Compound Power Quality Disturbances in Nonlinear Three-Phase Systems: Trade-Offs Between Adaptive, Uniform, and Event-Triggered Strategies",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3578",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "This paper presents a reproducible MATLAB R2025b benchmark for evaluating uniform, adaptive, and event-triggered sampling under a compound power-quality disturbance in a nonlinear three-phase system. The benchmark combin…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3577: Flow Characteristics and Resistance Coefficient of Liquid Hydrogen in the Ball Valve at Different Opening Degrees",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3577",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "Hydrogen energy is regarded as an ideal energy source due to its high efficiency, environmental friendliness, and renewability. Liquid hydrogen energy storage is considered a cost-effective method for long-distance trans…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3576: Levelized Cost of Electricity (LCOE) Assessment of Bifacial PV Systems in Uribia, Colombia: Integrating Stochastic Simulation and Machine Learning Under Fiscal Incentives",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3576",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "This study evaluates the techno-economic viability of bifacial photovoltaic (PV) systems in Uribia, La Guajira&amp;mdash;the department that holds Colombia&amp;rsquo;s strongest solar resource, with a mean global horizon…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3575: Context-Aware Asymmetric Conformal Calibration of Renewable-Power Prediction Intervals for Day-Ahead Operational Risk Assessment",
       "link": "https://www.mdpi.com/1996-1073/19/15/3575",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-07-30T00:00:00.000Z",
       "excerpt": "High renewable penetration makes day-ahead operation sensitive to the directional effects of wind and photovoltaic forecast errors. Conventional prediction intervals mainly evaluate coverage and sharpness, but lower- and…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2455: Techno-Economic Optimization of Hot-Water Flooding and Injection Conversion Strategies for a Heavy Oil Reservoir: A Case Study of the A66 Block",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2455",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "Heavy oil reservoirs typically suffer from low recovery efficiency and high development costs during thermal production. This study investigates the A66 heavy oil reservoir and proposes an integrated hot-water flooding a…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2453: Major Ion Geochemistry of Produced Water from Coalbed Methane Wells in the Gujiao Block and Its Relationship to Well Productivity",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2453",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "To elucidate the geochemical features of produced water in coalbed methane (CBM) wells of the Gujiao Block and their indicative significance for production, systematic testing of ion composition and total dissolved solid…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2454: Process Analysis of Flexible Gasification Based Thermochemical Conversion Concepts of Biogenic Residues and Wastes into Biomethane and Biochar",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2454",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-07-30T00:00:00.000Z",
+      "excerpt": "This study provides the main performance estimates for new concepts, using flexible gasification operation modes, adaptable to prevailing market conditions, for the production of bio-synthetic natural gas (bio-SNG) and b…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2452: Self-Supervised CNN&ndash;Transformer Anomaly Detection for Bearing Health Monitoring",
@@ -180,20 +308,12 @@
       "excerpt": "Extreme urban flooding is a growing challenge under climate change, threatening residents, infrastructure and urban systems. However, traditional emergency planning often relies on static population data and fixed facili…"
     },
     {
-      "title": "Restored wetlands aren't clear-cut wins against climate change, study suggests",
-      "link": "https://phys.org/news/2026-07-wetlands-climate.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-29T17:40:02.000Z",
-      "excerpt": "Wetland restoration is often promoted as a definitive way to support wildlife, improve water quality and help store carbon. However, new research from McGill University suggests the overall climate picture is more compli…"
-    },
-    {
-      "title": "More than half of England 'officially in drought': UK govt",
-      "link": "https://phys.org/news/2026-07-england-drought-uk-govt.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-29T16:20:06.000Z",
-      "excerpt": "Just over half of England has been declared to be in drought after \"record-low rainfall and exceptionally high temperatures,\" the U.K. government said Wednesday."
+      "title": "Eni Q2 2026 net profit increases to $2.65bn",
+      "link": "https://www.offshore-technology.com/news/eni-q2-2026-net-profit-increases/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-07-29T12:53:09.000Z",
+      "excerpt": "Eni reported a sharp increase in the Q2 2026 results, with adjusted net profit attributable to shareholders rising to $2.65bn, up 106% from €1.13bn in Q2 2025."
     },
     {
       "title": "Cyber espionage in mining: how big is the threat?",
@@ -234,70 +354,6 @@
       "category": "geoscience",
       "published": "2026-07-29T04:14:05.000Z",
       "excerpt": "Deep beneath submarine volcanoes, Earth may be running a natural “gold kitchen.” By analyzing volcanic glass from the Kermadec island arc north of New Zealand, researchers found that water-rich mantle repeatedly melts be…"
-    },
-    {
-      "title": "Automatic Knowledge Graph Construction and Query for Earthquake Catalogs",
-      "link": "https://arxiv.org/abs/2607.24984",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-29T04:00:00.000Z",
-      "excerpt": "arXiv:2607.24984v1 Announce Type: new Abstract: In recent years, the number of events in earthquake catalogs has significantly increased due to the utilization of more effective deep learning based detectors and phase pi…"
-    },
-    {
-      "title": "Poroelastic aquifer response drives seasonal vertical land motion in southern Louisiana",
-      "link": "https://arxiv.org/abs/2607.25429",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-29T04:00:00.000Z",
-      "excerpt": "arXiv:2607.25429v1 Announce Type: new Abstract: Coastal Louisiana is sinking, amplifying flooding and land loss, yet the seasonal component of this motion remains difficult to attribute. Satellite geodetic records from B…"
-    },
-    {
-      "title": "Crustal and upper mantle model of the Middle East based on full-waveform inversion",
-      "link": "https://arxiv.org/abs/2607.25584",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-29T04:00:00.000Z",
-      "excerpt": "arXiv:2607.25584v1 Announce Type: new Abstract: We present MEAD-M20, a new tomographic model of the Middle East and its surrounding regions, including Anatolia, Iran, and the Caucasus. The model is developed within a ful…"
-    },
-    {
-      "title": "Non-normal amplification in multitype Hawkes-ETAS models of earthquake triggering",
-      "link": "https://arxiv.org/abs/2607.26036",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-29T04:00:00.000Z",
-      "excerpt": "arXiv:2607.26036v1 Announce Type: new Abstract: Earthquake triggering is conventionally characterised by a scalar ETAS branching ratio. We develop a three-type Hawkes-ETAS model that resolves strike-slip, normal, and rev…"
-    },
-    {
-      "title": "Pressure-Induced Irreversible Disorder in $\\beta^{\\prime}$-Mn$_3$(PO$_4$)$_2$: A High-Pressure X-ray Diffraction and Density-Functional Theory Study",
-      "link": "https://arxiv.org/abs/2607.25896",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-29T04:00:00.000Z",
-      "excerpt": "arXiv:2607.25896v1 Announce Type: cross Abstract: The high-pressure structural behavior of $\\beta^\\prime$-Mn$_3$(PO$_4$)$_2$ was investigated using synchrotron X-ray diffraction up to 20 GPa combined with density-functio…"
-    },
-    {
-      "title": "Forward and Inverse Mantle Convection with Neural Operators",
-      "link": "https://arxiv.org/abs/2601.23178",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-29T04:00:00.000Z",
-      "excerpt": "arXiv:2601.23178v2 Announce Type: replace Abstract: Thermal state reconstruction--reversing convection to recover the thermal structure of the mantle at an earlier geologic time--is an important tool to understand the ev…"
-    },
-    {
-      "title": "Retreat to advance: self-blocking enables efficient mineral replacement",
-      "link": "https://arxiv.org/abs/2603.27336",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-29T04:00:00.000Z",
-      "excerpt": "arXiv:2603.27336v2 Announce Type: replace-cross Abstract: Mineral replacement reactions under advective flow often suffer from severe spatial inefficiency: dissolution causes the flow to self-focus into a few dominant wo…"
-    },
-    {
-      "title": "Forecasting Ionospheric Irregularities on GNSS Lines of Sight Using Dynamic Graphs with Ephemeris Conditioning",
-      "link": "https://arxiv.org/abs/2604.18379",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-29T04:00:00.000Z",
-      "excerpt": "arXiv:2604.18379v2 Announce Type: replace-cross Abstract: Most data-driven ionospheric models operate on gridded products, which do not preserve the time-varying sampling structure of satellite-based sensing. We instead…"
     },
     {
       "title": "One of Earth’s most explosive supervolcanoes is recharging with fresh magma",
@@ -346,54 +402,6 @@
       "category": "energy",
       "published": "2026-07-29T00:00:00.000Z",
       "excerpt": "Bio-jet fuels produced from biomass-derived feedstocks represent a promising pathway for reducing the carbon intensity of aviation energy systems. However, designing supply chain networks for bio-jet fuel production requ…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3569: Fracture Evolution Characteristics and Permeability of Coal Treated with CO2 Phase Transition Fracturing",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3569",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "Fracturing pressure serves as a pivotal parameter governing fracture expansion and permeability improvement, which is essential to enhancing coalbed methane (CBM) production via CO2 phase transition fracturing (CO2-PTF).…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3568: The Feasibility Surface: Mapping the Landscape of Run-of-River Hydropower Potential",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3568",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "Assessing run-of-river small hydropower (SHP) potential requires balancing conflicting technical, economic, and socio-environmental criteria. Traditional assessment frameworks rely on discrete point-based site inventorie…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3567: Physics-Regularized Hybrid Learning Framework for Fault Location and Classification in Aging Underground Distribution Networks",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3567",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "Underground distribution networks increasingly rely on aging cable assets whose parameter drift modifies propagation velocity, attenuation, and fault-initiated transient signatures, thereby reducing the reliability of co…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3566: The Role of Energy Storage in Decreasing Life-Cycle Carbon Emission and Increasing Renewable Energy Usage of Electric Vehicle Charging: A Case Study for the Hungarian Energy System",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3566",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "This case study investigates the potential of energy storage to reduce CO2 emissions and increase the share of renewable electricity used for electric vehicle (EV) charging in Hungary, a climatically diverse country with…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3565: From BIM2BEM: A Model-Driven Environment for Dependable Building Energy Models",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3565",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "The growing demand for energy-efficient buildings highlights the need for reliable Building Energy Modeling (BEM) to accurately predict and optimize performance throughout a building&amp;rsquo;s life cycle. However, curr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3564: Influence of Severe Plastic Deformation on Kinetics and Thermodynamics of Various Kinds of Hydrogen Storage Materials: Significance of Grain Boundaries and Lattice Defects",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3564",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "Solid-state hydrogen storage is considered a promising and environmentally friendly approach for energy storage. However, several challenges, including sluggish hydrogen absorption/desorption kinetics and high dehydrogen…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2450: Bayesian-Optimized Machine Learning Framework with SHAP Interpretation for Rockburst Intensity Prediction in Deep Underground Engineering",
@@ -452,30 +460,6 @@
       "excerpt": "Breakthrough-curve prediction is central to fixed-bed biosorption column design, but data-driven modeling remains challenging with small, unevenly distributed datasets. This study compares a feedforward multilayer percep…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2443: Evaluation of Fourier Transform Infrared (FTIR) Spectroscopy Coupled with Machine Learning for Rapid Detection and Quantification of Cross-Contamination of Gluten Sources in Gluten-Free Flours",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2443",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "Gluten-related disorders can result in serious health issues if not managed properly by maintaining a 100% gluten-free diet. In this study, FTIR coupled with supervised machine-learning (ML) approaches was evaluated for…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2442: Theoretical Modeling of Multiphysics for CO2 Phase-Change Ejection Power Unit",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2442",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "A multiphysics theoretical framework is presented for CO2 phase-change ejection power units, integrating the GERG-2008 equation of state for multiphase CO2 thermophysical properties with the Jones&amp;ndash;Wilkins&amp;n…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2441: Recent Advances in Sustainable Aviation Fuel from Renewable Feedstocks: A Biobased Perspective",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2441",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-29T00:00:00.000Z",
-      "excerpt": "Decarbonizing the aviation sector remains one of the most challenging aspects of the global energy transition because commercial aviation relies on high-energy-density liquid hydrocarbon fuels that cannot be readily repl…"
-    },
-    {
       "title": "TotalEnergies, Eni reach agreement to develop Cyprus’ Cronos gas field",
       "link": "https://www.offshore-technology.com/news/totalenergies-eni-cronos-gas-field/",
       "source": "Offshore Technology",
@@ -498,30 +482,6 @@
       "category": "industry",
       "published": "2026-07-28T09:09:58.000Z",
       "excerpt": "Italian oilfield services company Saipem has secured contracts from Eni and its affiliates for two projects, one offshore in Ivory Coast and one at a biorefinery in Italy, with a combined value of approximately €800m ($9…"
-    },
-    {
-      "title": "Expand Energy signs agreement to buy Twin Eagle for $1.25bn",
-      "link": "https://www.offshore-technology.com/news/expand-energy-to-buy-twin-eagle-1-25bn/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-07-28T07:35:02.000Z",
-      "excerpt": "US-based natural gas producer Expand Energy has signed a definitive agreement to purchase Twin Eagle from Five Point Infrastructure in a transaction valued at $1.25bn."
-    },
-    {
-      "title": "Brent could rise to $125-150 per barrel from Hormuz blockade – GlobalData poll",
-      "link": "https://www.offshore-technology.com/analyst-comment/brent-barrel-hormuz-blockade/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-07-27T14:30:51.000Z",
-      "excerpt": "GlobalData initiated a survey with our readers to assess their view on the likely ceiling for Brent crude oil prices amid this Hormuz closure during Q2 2026."
-    },
-    {
-      "title": "Santos completes first Barossa condensate cargo sale and loading",
-      "link": "https://www.offshore-technology.com/news/santos-first-barossa-condensate-cargo/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-07-27T13:14:55.000Z",
-      "excerpt": "Santos has confirmed the sale and export of the first condensate cargo from the Barossa gas project in the Timor Sea."
     },
     {
       "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
@@ -874,6 +834,46 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Highly efficient photothermal dry reforming of methane over exsolved Ni catalyst",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126024130?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part B Author(s): Haiyun Chen, Jiale Sun, Jing Nie, Yi Ding, Yueyue Dong, Hailong Xiong, Haibo Li"
+    },
+    {
+      "title": "Synergistic modification strategy of efficient sulfur-resistant CO oxidation catalysts with low Pt loading: The roles of Mo doping, H 2 reduction, and TiO 2 crystal phase",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025639?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part B Author(s): Gongxing Li, Zhanggen Huang, Haiqiang Wang, Zhongbiao Wu"
+    },
+    {
+      "title": "Integrated geothermal-ORC-PEM hydrogen production: plant-level techno-economic assessment under uncertainty",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025688?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part B Author(s): Mugahed Al-Kolaibi, Yaqoub Al-Khasawneh"
     }
   ]
 }
