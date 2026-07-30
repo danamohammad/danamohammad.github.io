@@ -101,7 +101,9 @@ const failed = Object.entries(research.sources ?? {}).filter(([, s]) => s && s.o
             <p class="pub-authors">
               {p.authors.map((a, i) => (
                 <>
-                  <span class={/khidhir/i.test(a) ? 'is-me' : ''}>{a}</span>
+                  {/* `Khidh` not `Khidhir`: Crossref's Kuwait J. Sci. record spells
+                      the surname "Khidhi", and the highlight must still catch it. */}
+                  <span class={/khidh/i.test(a) ? 'is-me' : ''}>{a}</span>
                   {i < p.authors.length - 1 ? '; ' : ''}
                 </>
               ))}

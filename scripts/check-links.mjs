@@ -27,6 +27,27 @@ const CHECK_EXTERNAL = process.argv.includes('--external');
 // Statuses that mean "the checker was blocked", not "the page is missing".
 const BLOCKED = new Set([401, 403, 405, 406, 418, 429, 503]);
 
+// Links known to be unreachable for reasons outside this repo's control.
+// Each needs a reason and a recheck date — this list must not become a dumping
+// ground for links nobody has looked at.
+const KNOWN_UNREACHABLE = [
+  {
+    match: /journals\.ukh\.edu\.krd|10\.25079\/ukhjse/,
+    reason:
+      'UKH journal host no longer resolves (no DNS record). The DOI itself is validly ' +
+      'registered and the Crossref metadata is intact, so the citation stays correct — ' +
+      'only the publisher landing page is gone. Nothing we can fix.',
+    since: '2026-07-29',
+  },
+  {
+    match: /wiki\.openstreetmap\.org/,
+    reason:
+      'Connection times out from CI and from the maintainer network, though DNS resolves. ' +
+      'Reachable in a normal browser. Ported in with the API directory.',
+    since: '2026-07-29',
+  },
+];
+
 if (!existsSync(DIST)) {
   console.error('dist/ not found — run `npm run build` first.');
   process.exit(1);
@@ -88,6 +109,7 @@ for (const b of brokenInternal) {
 /* --------------------------------------------------------------- external */
 
 let externalFailures = 0;
+const suspects = [];
 
 if (CHECK_EXTERNAL) {
   console.log(`\nExternal: probing ${external.size} unique links…`);
@@ -95,6 +117,13 @@ if (CHECK_EXTERNAL) {
   const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36';
 
   for (const [href, sources] of external) {
+    const known = KNOWN_UNREACHABLE.find((k) => k.match.test(href));
+    if (known) {
+      console.log(`  known-dead    ${href}`);
+      console.log(`                ${known.reason} (since ${known.since})`);
+      continue;
+    }
+
     let status = 0;
     let note = '';
 
@@ -121,11 +150,44 @@ if (CHECK_EXTERNAL) {
     } else if (BLOCKED.has(status)) {
       console.log(`  bot-blocked ${status}  ${href} (fine in a browser)`);
     } else {
-      externalFailures++;
-      console.error(`  BROKEN  ${status || note}  ${href}  (from ${[...sources][0]})`);
+      // Do not fail on the first miss — transient blips are common across 180
+      // links and a flaky check that blocks a deploy is worse than no check.
+      suspects.push({ href, sources, status, note });
+      console.log(`  retry?  ${status || note}  ${href}`);
     }
 
     await new Promise((r) => setTimeout(r, 250));
+  }
+
+  if (suspects.length > 0) {
+    console.log(`\nRe-checking ${suspects.length} suspect link(s) after a pause…`);
+    await new Promise((r) => setTimeout(r, 5000));
+
+    for (const s of suspects) {
+      let status = 0;
+      let note = '';
+      try {
+        const controller = new AbortController();
+        const timer = setTimeout(() => controller.abort(), 30_000);
+        const res = await fetch(s.href, {
+          redirect: 'follow',
+          signal: controller.signal,
+          headers: { 'User-Agent': UA },
+        });
+        clearTimeout(timer);
+        status = res.status;
+      } catch (err) {
+        note = err.name === 'AbortError' ? 'timeout' : err.message;
+      }
+
+      if ((status >= 200 && status < 400) || BLOCKED.has(status)) {
+        console.log(`  recovered ${status}  ${s.href}`);
+      } else {
+        externalFailures++;
+        console.error(`  BROKEN  ${status || note}  ${s.href}  (from ${[...s.sources][0]})`);
+      }
+      await new Promise((r) => setTimeout(r, 500));
+    }
   }
 } else {
   console.log(`\nExternal: ${external.size} links found (pass --external to probe them)`);

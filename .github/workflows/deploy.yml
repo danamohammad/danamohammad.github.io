@@ -39,6 +39,12 @@ jobs:
       - name: Fail if a secret reached the built output
         run: node scripts/check-no-secrets.mjs
 
+      # Internal links only. Probing 180 outbound links on every deploy would be
+      # slow and would make the build hostage to other people's uptime; run
+      # `npm run check:links -- --external` by hand for that.
+      - name: Check internal links
+        run: node scripts/check-links.mjs
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v4
