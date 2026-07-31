@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T20:05:15.117Z",
+  "generatedAt": "2026-07-31T04:04:29.542Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 3,
+      "count": 7,
       "error": null
     },
     {
@@ -75,6 +75,158 @@
     }
   ],
   "items": [
+    {
+      "title": "Earthquake Detection Using Benford's Law",
+      "link": "https://arxiv.org/abs/2607.27821",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-07-31T04:00:00.000Z",
+      "excerpt": "arXiv:2607.27821v1 Announce Type: new Abstract: Reliable detection of local earthquakes and accurate identification of P-wave onsets are fundamental tasks in seismology, yet many existing methods to accomplish them requi…"
+    },
+    {
+      "title": "Calibrated uncertainty for wide-angle crustal models: how firmly is the Dharwar Craton Moho actually constrained?",
+      "link": "https://arxiv.org/abs/2607.28199",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-07-31T04:00:00.000Z",
+      "excerpt": "arXiv:2607.28199v1 Announce Type: new Abstract: Depth uncertainties for wide-angle crustal models are usually obtained by propagating an assumed picking error, yet picks from one shot gather are mutually dependent and ve…"
+    },
+    {
+      "title": "A Distributed Acoustic Sensing Dataset for Vessel Detection and Localization in Submarine Cable Protection",
+      "link": "https://arxiv.org/abs/2607.28306",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-07-31T04:00:00.000Z",
+      "excerpt": "arXiv:2607.28306v1 Announce Type: new Abstract: Recent incidents of accidental damage and suspected sabotage to submarine telecommunication and power cables, particularly in the Baltic Sea, have underscored their vulnera…"
+    },
+    {
+      "title": "Reliability-calibrated deep residual full-waveform inversion using geometry-invariant physics encoding: synthetic validation and zero-shot Marmousi-2 testing",
+      "link": "https://arxiv.org/abs/2607.28535",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-07-31T04:00:00.000Z",
+      "excerpt": "arXiv:2607.28535v1 Announce Type: new Abstract: Neural networks that map seismic data directly to velocity models tend to memorize the acquisition geometry they were trained on, and their uncertainty estimates are rarely…"
+    },
+    {
+      "title": "Joint measurement of cosmic-ray muons and seismic w av es at laboratory scale",
+      "link": "https://arxiv.org/abs/2607.28547",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-07-31T04:00:00.000Z",
+      "excerpt": "arXiv:2607.28547v1 Announce Type: new Abstract: Current geophysical exploration methods face challenges in accurately determining gas saturation levels and elastic constants with adequate spatial resolution. Seismic wave…"
+    },
+    {
+      "title": "Modified Dynamic Mixed Subgrid-scale Models for Geophysical Flows: Forced Two-Dimensional and $\\beta$-plane Turbulence",
+      "link": "https://arxiv.org/abs/2607.27567",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-07-31T04:00:00.000Z",
+      "excerpt": "arXiv:2607.27567v1 Announce Type: cross Abstract: Subgrid-scale (SGS) models for large-eddy simulations (LES) of geophysical turbulence typically need to balance dissipative regularization with backscatter, the upscale t…"
+    },
+    {
+      "title": "The new Geological Age that never was or the multiple layers of the Transientocene",
+      "link": "https://arxiv.org/abs/2604.06224",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-07-31T04:00:00.000Z",
+      "excerpt": "arXiv:2604.06224v2 Announce Type: replace-cross Abstract: Since its humble origins, humans have left imprints on the face of the planet. From the profound transformation unleashed by the Neolithic Revolution, about 12000…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2465: Sustainable Essential Oil-Based Bioadditives for B35 Biodiesel Blends: Impacts on Fuel Quality, Engine Performance, and Emissions",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2465",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-07-31T00:00:00.000Z",
+      "excerpt": "The nationwide implementation of B35 biodiesel in Indonesia is constrained by elevated water and particulate contents, which accelerate fuel degradation and promote filter clogging. Mitigating these issues is essential t…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2464: Durability Improvement and Microscopic Damage Mechanism of Waterborne Epoxy Modified Cement Grouting Materials Under Corrosion",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2464",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-07-31T00:00:00.000Z",
+      "excerpt": "Cement-based grouting materials may suffer strength loss and impermeability degradation when exposed to oil- and gas-bearing corrosive environments. In this study, 7.0% waterborne epoxy resin was used as a polymer admixt…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2463: Flue Gas Deacidification Technologies for Waste-to-Energy Plants in China: A Review of Progress, Mechanisms, and Perspectives",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2463",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-07-31T00:00:00.000Z",
+      "excerpt": "Municipal solid waste (MSW) incineration power generation has become the dominant waste treatment technology in China. However, acid flue gas dominated by HCl and SO2 induces severe boiler corrosion, a surge in hazardous…"
+    },
+    {
+      "title": "Pacific Ocean pattern helps explain diverging wildfire trends in US and Australia",
+      "link": "https://phys.org/news/2026-07-pacific-ocean-pattern-diverging-wildfire.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-30T23:00:02.000Z",
+      "excerpt": "Two of the world's most fire-prone regions have followed strikingly different wildfire trajectories despite both experiencing a warming climate. Burned forest area has surged across the U.S. Southwest, while eastern Aust…"
+    },
+    {
+      "title": "Rural runoff funnels hurricane floodwater toward coastal cities, model finds",
+      "link": "https://phys.org/news/2026-07-rural-runoff-funnels-hurricane-floodwater.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-30T22:40:07.000Z",
+      "excerpt": "Coastal cities are at increasing risk of compound flooding events, such as when heavy rainfall and storm surges occur simultaneously during hurricanes. However, the processes that contribute to urban compound flooding ar…"
+    },
+    {
+      "title": "Turkey confronts growing wildfires on tourist coasts",
+      "link": "https://phys.org/news/2026-07-turkey-wildfires-tourist-coasts.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-30T22:00:05.000Z",
+      "excerpt": "Hundreds of Turkish firefighters on Thursday battled to contain wildfires spreading near key tourist regions on the country's Mediterranean coast."
+    },
+    {
+      "title": "Likelihood of wildfires in Southern Europe has doubled since the 80s, study shows",
+      "link": "https://phys.org/news/2026-07-likelihood-wildfires-southern-europe-80s.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-30T21:50:01.000Z",
+      "excerpt": "Summer days featuring conditions that promote wildfire ignition, intensity and spread have more than doubled across large parts of the Iberian Peninsula, France, Italy and Greece since 1981, according to a study in Scien…"
+    },
+    {
+      "title": "Southern Europe 'becoming more flammable' in hotter climate, experts say",
+      "link": "https://phys.org/news/2026-07-southern-europe-flammable-hotter-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-30T21:40:01.000Z",
+      "excerpt": "Southern Europe is \"becoming more flammable,\" with the number of summer days primed for extreme fire conditions more than doubling since 1981, a new study found Thursday."
+    },
+    {
+      "title": "Flash droughts can pull 'alarming' amounts of moisture from the landscape and intensify wildfires",
+      "link": "https://phys.org/news/2026-07-droughts-alarming-amounts-moisture-landscape.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-30T21:20:02.000Z",
+      "excerpt": "When catastrophic wildfires capture global headlines, such as the unprecedented blazes sweeping through southern Europe this summer or the devastating 2019–20 \"Black Summer\" in Australia, they are almost always preceded…"
+    },
+    {
+      "title": "Italy's Po River valley on drought alert",
+      "link": "https://phys.org/news/2026-07-italy-po-river-valley-drought.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-30T21:00:01.000Z",
+      "excerpt": "Italian authorities raised the drought alert level to \"high\" Thursday in the Po Valley, home to the country's longest river, because of worsening conditions and unfavorable weather forecasts."
+    },
+    {
+      "title": "Firefighters battle to contain deadly Crete blaze in Greece",
+      "link": "https://phys.org/news/2026-07-firefighters-deadly-crete-blaze-greece.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-30T20:40:03.000Z",
+      "excerpt": "Greece on Thursday battled to contain a spate of wildfires, including one on the tourist island of Crete that forced thousands of residents and holidaymakers to evacuate and left three firefighters dead."
+    },
+    {
+      "title": "France, Spain eye wildfire reprieve as other blazes start up in Europe",
+      "link": "https://phys.org/news/2026-07-france-spain-eye-wildfire-reprieve.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-30T20:20:04.000Z",
+      "excerpt": "France and Spain on Thursday glimpsed a reprieve from some of the worst wildfires in living memory, which have sent hundreds of thousands of people fleeing—among them Hollywood star George Clooney and his wife, Amal."
+    },
     {
       "title": "Meet WOMBATlite, the model helping researchers follow the ocean's carbon",
       "link": "https://phys.org/news/2026-07-wombatlite-ocean-carbon.html",
@@ -100,76 +252,12 @@
       "excerpt": "A 113-million-year-old marine murder mystery may finally be solved. Using chemical clues locked inside microscopic fossils, Northwestern University scientists found evidence that ocean acidification drove one of the larg…"
     },
     {
-      "title": "SMOS mission could offer early indicator of El Niño",
-      "link": "https://phys.org/news/2026-07-smos-mission-early-indicator-el.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T18:00:08.000Z",
-      "excerpt": "Sea-surface salinity, the concentration of dissolved salts in the upper layer of the ocean, is much more than a measure of how salty the sea is. It responds rapidly to changes in rainfall, evaporation, river discharge an…"
-    },
-    {
-      "title": "Rainfall across the US is increasingly coming from farther away",
-      "link": "https://phys.org/news/2026-07-rainfall.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T18:00:06.000Z",
-      "excerpt": "Before rain falls, the moisture that forms it may have traveled anywhere from just a few kilometers to hundreds or even thousands of kilometers away. It usually begins as water that evaporated from oceans, lakes, forests…"
-    },
-    {
-      "title": "Volcanic eruptions in Pacific Ring of Fire may have cooled Earth for centuries",
-      "link": "https://phys.org/news/2026-07-volcanic-eruptions-pacific-cooled-earth.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T17:20:06.000Z",
-      "excerpt": "For around 12,000 years, the Earth has been in the Holocene epoch, a warmer period following a glacial period. During this epoch, however, there have been around 22 abrupt cold phases, each lasting up to several centurie…"
-    },
-    {
-      "title": "Climate change increases wildfire risks in Yosemite and other national parks",
-      "link": "https://phys.org/news/2026-07-climate-wildfire-yosemite-national.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T17:00:01.000Z",
-      "excerpt": "New UC Berkeley-led research indicates that continued climate change could severely increase wildfire above natural levels in Yosemite, Sequoia, Kings Canyon and Lassen Volcanic national parks."
-    },
-    {
-      "title": "Biosphere reserves: Allies against deforestation in the Western Amazon",
-      "link": "https://phys.org/news/2026-07-biosphere-reserves-allies-deforestation-western.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T16:20:08.000Z",
-      "excerpt": "Biosphere reserves help curb deforestation in the Western Amazon and, taken together, have prevented the loss of more than 7,400 square kilometers (2,900 square miles) of forest over the last two decades compared with si…"
-    },
-    {
-      "title": "Your shampoo routine could be driving household water waste, new study says",
-      "link": "https://phys.org/news/2026-07-shampoo-routine-household.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T13:40:04.000Z",
-      "excerpt": "Everyday shower habits, such as applying shampoo or pausing the water while washing, are driving up water waste, argues a new study from the University of Surrey."
-    },
-    {
-      "title": "May, June heat waves caused 2,877 extra deaths in England: govt",
-      "link": "https://phys.org/news/2026-07-june-extra-deaths-england-govt.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T13:06:39.000Z",
-      "excerpt": "Record-breaking heat waves in May and June led to an estimated 2,877 excess deaths in England, the UK Health Security Agency said Wednesday."
-    },
-    {
       "title": "BP begins production from Atlantis Major Facility Expansion project",
       "link": "https://www.offshore-technology.com/news/bp-begins-production-atlantis-project/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-07-30T12:52:13.000Z",
       "excerpt": "bp has commenced production at its Atlantis Major Facility Expansion project in the US Gulf of America, thereby increasing the output of the Atlantis field by approximately 10,000boepd."
-    },
-    {
-      "title": "Cool it: AI-driven solutions to lower urban heat need community buy-in to work",
-      "link": "https://phys.org/news/2026-07-cool-ai-driven-solutions-urban.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T12:00:02.000Z",
-      "excerpt": "A new framework to cool urban areas which integrates AI-driven technical solutions with cooling schemes that are acceptable and doable for the host community, has been proposed by QUT Urban AI Hub researchers."
     },
     {
       "title": "Oil ticks up as Trump threats revive Middle East supply concerns",
@@ -196,14 +284,6 @@
       "excerpt": "Drilling waste management has moved beyond skips and disposal, but the greatest gains still begin inside the active mud system."
     },
     {
-      "title": "Rain dampens France fire, as Spain reports 'almost no flames'",
-      "link": "https://phys.org/news/2026-07-dampens-france-spain-flames.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T08:14:33.000Z",
-      "excerpt": "Firefighters in France on Thursday were hopeful a massive forest fire was no longer spreading, as Spain said there were \"almost no flames\" left after a similar blaze near Madrid."
-    },
-    {
       "title": "Woodside’s Q2 2026 operating revenue jumps 28% to $4.2bn",
       "link": "https://www.offshore-technology.com/news/woodsides-q2-2026-operating-revenue-4-2bn/",
       "source": "Offshore Technology",
@@ -218,30 +298,6 @@
       "category": "industry",
       "published": "2026-07-30T07:00:00.000Z",
       "excerpt": "Global biopower capacity is still rising, but new construction is slowing and capital is becoming more selective."
-    },
-    {
-      "title": "How to quantify earthquake predictability? Advances in earthquake forecasting and predictability limits",
-      "link": "https://arxiv.org/abs/2607.26918",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-30T04:00:00.000Z",
-      "excerpt": "arXiv:2607.26918v1 Announce Type: new Abstract: Earthquakes resist deterministic prediction, yet their occurrence is not fully random. This paper develops a unified information-theoretic framework to quantify predictabil…"
-    },
-    {
-      "title": "Nanoscale Storage of Incompatible Elements at Olivine Grain Boundaries in Natural Basalts",
-      "link": "https://arxiv.org/abs/2607.26329",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-30T04:00:00.000Z",
-      "excerpt": "arXiv:2607.26329v1 Announce Type: cross Abstract: Grain boundaries are pervasive in polycrystalline olivine, yet their structure and trace-element chemistry remain poorly constrained. We characterize boundaries in undefo…"
-    },
-    {
-      "title": "A Spectral-Domain Pseudo-Inverse Construction Method for Unitary Diagonalizable Linear Inverse Problems",
-      "link": "https://arxiv.org/abs/2607.26951",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-30T04:00:00.000Z",
-      "excerpt": "arXiv:2607.26951v1 Announce Type: cross Abstract: Linear inverse problems are prevalent in geophysics, signal processing, image restoration, and medical imaging. Mathematically, they can be formulated as $Gm = d$. When $…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3590: A Comprehensive Database and Smart-Learning Framework for Monitoring Failure Risk Factors, Maintenance, and Protection in Electrical Networks",
@@ -410,30 +466,6 @@
       "category": "processing",
       "published": "2026-07-30T00:00:00.000Z",
       "excerpt": "To elucidate the geochemical features of produced water in coalbed methane (CBM) wells of the Gujiao Block and their indicative significance for production, systematic testing of ion composition and total dissolved solid…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2454: Process Analysis of Flexible Gasification Based Thermochemical Conversion Concepts of Biogenic Residues and Wastes into Biomethane and Biochar",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2454",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-30T00:00:00.000Z",
-      "excerpt": "This study provides the main performance estimates for new concepts, using flexible gasification operation modes, adaptable to prevailing market conditions, for the production of bio-synthetic natural gas (bio-SNG) and b…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2452: Self-Supervised CNN&ndash;Transformer Anomaly Detection for Bearing Health Monitoring",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2452",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-30T00:00:00.000Z",
-      "excerpt": "Reliable bearing fault detection is essential for predictive maintenance in industrial systems; however, obtaining labelled fault data is often expensive, time-consuming, and impractical in real-world deployments. To add…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2451: Simulation-Driven Matching and Lightweight Transmission Optimization of the Powertrain for a Single-Motor FSEC Race Car",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2451",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-30T00:00:00.000Z",
-      "excerpt": "For single-motor Formula Student Electric China (FSEC) race cars, current powertrain design methodologies commonly suffer from the disconnection among parameter matching, dynamic simulation, and structural optimization:…"
     },
     {
       "title": "Eni Q2 2026 net profit increases to $2.65bn",
@@ -842,38 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
-    },
-    {
-      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Highly efficient photothermal dry reforming of methane over exsolved Ni catalyst",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126024130?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part B Author(s): Haiyun Chen, Jiale Sun, Jing Nie, Yi Ding, Yueyue Dong, Hailong Xiong, Haibo Li"
-    },
-    {
-      "title": "An integrated electrolysis-anaerobic digestion technique to enhance methane production from synthetic black liquor",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025706?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part B Author(s): R. Núñez, N. Merayo, A. Caravaca, A.J. Dos Santos-Garcia, A. Gascó, D. Hermosilla"
-    },
-    {
-      "title": "Adaptive multi-surrogate and hypervolume-guided multi-objective optimization of CO 2 enhanced oil recovery and geological storage",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126024701?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part B Author(s): Qinyang Dai, Liming Zhang, Xia Yan, Kai Zhang, Peiyin Jiang, Xiaoming Xue, Wei Zhang"
     }
   ]
 }
