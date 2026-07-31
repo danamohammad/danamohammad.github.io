@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T04:04:29.542Z",
+  "generatedAt": "2026-07-31T09:29:54.165Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,38 @@
   ],
   "items": [
     {
+      "title": "The Arctic Ocean keeps permafrost carbon firmly locked",
+      "link": "https://phys.org/news/2026-07-arctic-ocean-permafrost-carbon-firmly.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-31T09:00:03.000Z",
+      "excerpt": "Permafrost in the Arctic stores large quantities of organic carbon. When frozen ground thaws or coastal sections erode, this carbon can enter the sea, where microorganisms can break it down and convert it into climate-da…"
+    },
+    {
+      "title": "Shell’s Q2 2026 revenue soars by 45% to $94.7bn",
+      "link": "https://www.offshore-technology.com/news/shells-q2-2026-revenue-94-7bn/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-07-31T08:17:16.000Z",
+      "excerpt": "Shell has reported a revenue of $94.7bn for the second quarter of 2026 (Q2 2026), a 45% increase from $65.4bn in the same period of the previous year."
+    },
+    {
+      "title": "Spain safari park animals grazed calmly amid 'terror' of fire",
+      "link": "https://phys.org/news/2026-07-spain-safari-animals-grazed-calmly.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-31T07:50:01.000Z",
+      "excerpt": "The bison carried on grazing peacefully as the flames approached, imperturbable despite the fires ravaging the land around their wildlife park west of Madrid."
+    },
+    {
+      "title": "Turkey battles wind-fueled wildfires on tourist coasts",
+      "link": "https://phys.org/news/2026-07-turkey-fueled-wildfires-tourist-coasts.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-31T07:40:01.000Z",
+      "excerpt": "Hundreds of Turkish firefighters battled Thursday to contain wind-fueled wildfires spreading near key tourist regions on the country's Mediterranean coast."
+    },
+    {
       "title": "Earthquake Detection Using Benford's Law",
       "link": "https://arxiv.org/abs/2607.27821",
       "source": "arXiv — Geophysics",
@@ -130,6 +162,46 @@
       "category": "preprints",
       "published": "2026-07-31T04:00:00.000Z",
       "excerpt": "arXiv:2604.06224v2 Announce Type: replace-cross Abstract: Since its humble origins, humans have left imprints on the face of the planet. From the profound transformation unleashed by the Neolithic Revolution, about 12000…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3594: Integrating Machine Learning and AHP for Data-Driven Asset Renewal Prioritization in Power Distribution Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3594",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-07-31T00:00:00.000Z",
+      "excerpt": "This paper proposes an integrated framework for predictive asset management in electric power distribution systems by combining machine learning with the Analytic Hierarchy Process (AHP). Distinct utility datasets were u…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3593: EVENT: A Modular, Semi-Automated Methodology for Anomaly Detection and Event Characterization in Thermal Power Plant Operational Data with an Explicit Separation of the Analyst and Expert Roles",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3593",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-07-31T00:00:00.000Z",
+      "excerpt": "Operational data from thermal power plants are interpreted through expert judgment, following procedures that are often only partly documented and hard to reproduce. The literature offers many algorithmic techniques, yet…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3592: Risk-Aware Trading Signals for Smart Aggregators in Multi-Time-Scale Electricity Markets Using Regime-Switching and Tail-Risk Analysis",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3592",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-07-31T00:00:00.000Z",
+      "excerpt": "With the rapid expansion of renewable energy and the formal operation of provincial electricity spot markets in China, smart aggregators that coordinate flexible loads, storage resources, demand-response portfolios, and…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3591: Experimental Investigation of Multi-Swirl Inserts for Enhancing High-Heat-Flux Subcooled Flow Boiling Under One-Sided Heating Conditions",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3591",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-07-31T00:00:00.000Z",
+      "excerpt": "Subcooled flow boiling experiments were conducted to investigate the effect of multi-swirl inserts on heat transfer, critical heat flux, and pressure drop under one-sided high-heat-flux heating conditions. Water was used…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2466: Process Optimization and Quality Control of a Combined Impurity Removal&ndash;Crystallization Process: Preparation of High-Purity Silver Nitrate for Photovoltaic Back Silver Applications",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2466",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-07-31T00:00:00.000Z",
+      "excerpt": "The printing adaptability and sintering compactness of photovoltaic back silver paste are highly dependent on the physical properties of the silver powder, such as tap density and particle size distribution, which in tur…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2465: Sustainable Essential Oil-Based Bioadditives for B35 Biodiesel Blends: Impacts on Fuel Quality, Engine Performance, and Emissions",
@@ -226,30 +298,6 @@
       "category": "geoscience",
       "published": "2026-07-30T20:20:04.000Z",
       "excerpt": "France and Spain on Thursday glimpsed a reprieve from some of the worst wildfires in living memory, which have sent hundreds of thousands of people fleeing—among them Hollywood star George Clooney and his wife, Amal."
-    },
-    {
-      "title": "Meet WOMBATlite, the model helping researchers follow the ocean's carbon",
-      "link": "https://phys.org/news/2026-07-wombatlite-ocean-carbon.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T20:00:07.000Z",
-      "excerpt": "The ocean absorbs roughly a quarter of humanity's carbon dioxide emissions each year. Understanding how that happens, and how it might change, is essential for predicting our climate's future. To do that, scientists need…"
-    },
-    {
-      "title": "The surprising chemical footprint of your clothes",
-      "link": "https://phys.org/news/2026-07-chemical-footprint.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T19:00:01.000Z",
-      "excerpt": "When trying to make more sustainable clothing choices, many consumers follow a simple rule: Choose natural fibers over synthetic ones. Cotton instead of polyester. Wool instead of acrylic. Linen instead of nylon."
-    },
-    {
-      "title": "Tiny fossils crack a Cretaceous cold case: Ocean acidification triggered one of the ocean's most severe extinctions",
-      "link": "https://phys.org/news/2026-07-tiny-fossils-cretaceous-cold-case.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-30T18:00:12.000Z",
-      "excerpt": "A 113-million-year-old marine murder mystery may finally be solved. Using chemical clues locked inside microscopic fossils, Northwestern University scientists found evidence that ocean acidification drove one of the larg…"
     },
     {
       "title": "BP begins production from Atlantis Major Facility Expansion project",
@@ -364,38 +412,6 @@
       "excerpt": "This research examined whether battery energy storage could economically utilise event-conditioned curtailed wind energy by optimally allocating stored electricity between wholesale grid export and EV charging. The analy…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3583: Gamified Crowdsensing for Non-Intrusive Energy Disaggregation in Office Buildings",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3583",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-30T00:00:00.000Z",
-      "excerpt": "User activity significantly contributes to energy wastage in buildings, yet traditional load analysis relies on costly, intrusive, and privacy-invasive metering infrastructure. This paper proposes gamified crowdsensing a…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3581: Factors and Effects of Harmonic Resonance in Medium-Voltage Distribution Networks with High Photovoltaic Penetration",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3581",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-30T00:00:00.000Z",
-      "excerpt": "The increasing penetration of inverter-based renewable energy sources and the growing share of underground cable lines significantly modify the frequency-dependent characteristics of medium-voltage distribution networks,…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3580: Correction: Wang et al. Application and Performance Evaluation of Key Technologies in Green Buildings. Energies 2024, 17, 6418",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3580",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-30T00:00:00.000Z",
-      "excerpt": "In the original publication [...]"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3579: A VMD-GST-SDEO-Based Double-Ended Traveling-Wave Accurate Fault Location Method for Single-Phase-to-Ground Faults in Distribution Networks",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3579",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-30T00:00:00.000Z",
-      "excerpt": "A double-ended traveling-wave accurate fault location method based on variational mode decomposition (VMD), generalized S-transform (GST), and a symmetric difference energy operator (SDEO) is proposed for single-phase-to…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2462: Predictive Operational Safety Engineering, Part I: Foundations, Taxonomy, and Future Directions for Intelligent Industrial Process Safety",
       "link": "https://www.mdpi.com/2227-9717/14/15/2462",
       "source": "Processes (MDPI)",
@@ -460,14 +476,6 @@
       "excerpt": "Heavy oil reservoirs typically suffer from low recovery efficiency and high development costs during thermal production. This study investigates the A66 heavy oil reservoir and proposes an integrated hot-water flooding a…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2453: Major Ion Geochemistry of Produced Water from Coalbed Methane Wells in the Gujiao Block and Its Relationship to Well Productivity",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2453",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-30T00:00:00.000Z",
-      "excerpt": "To elucidate the geochemical features of produced water in coalbed methane (CBM) wells of the Gujiao Block and their indicative significance for production, systematic testing of ion composition and total dissolved solid…"
-    },
-    {
       "title": "Eni Q2 2026 net profit increases to $2.65bn",
       "link": "https://www.offshore-technology.com/news/eni-q2-2026-net-profit-increases/",
       "source": "Offshore Technology",
@@ -490,14 +498,6 @@
       "category": "industry",
       "published": "2026-07-29T10:18:07.000Z",
       "excerpt": "Cheniere Energy has received approval from the US Federal Energy Regulatory Commission (FERC) to begin introducing natural gas into Train 7 at its Corpus Christi LNG export facility located in south Texas, reported Reute…"
-    },
-    {
-      "title": "New Zealand issues first offshore petroleum permit post-ban reversal",
-      "link": "https://www.offshore-technology.com/news/new-zealand-first-offshore-petroleum-permit/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-07-29T10:09:12.000Z",
-      "excerpt": "New Zealand has issued its inaugural offshore petroleum exploration permit following the reversal of a ban introduced during Jacinda Ardern’s Labour administration."
     },
     {
       "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
