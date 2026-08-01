@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T20:06:25.148Z",
+  "generatedAt": "2026-08-01T04:03:46.809Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 7,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Isotopic analysis may help police combat illegal timber trade in Amazon",
+      "link": "https://phys.org/news/2026-07-isotopic-analysis-police-combat-illegal.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-07-31T20:20:03.000Z",
+      "excerpt": "A map showing the distribution of isotopes in Amazonian tree wood can help identify illegally harvested timber. By analyzing the ratio of different isotopes of elements such as oxygen, carbon, nitrogen and strontium, res…"
+    },
     {
       "title": "Technical flaws may inflate Australia's forest carbon credits",
       "link": "https://phys.org/news/2026-07-technical-flaws-inflate-australia-forest.html",
@@ -194,70 +202,6 @@
       "category": "industry",
       "published": "2026-07-31T08:17:16.000Z",
       "excerpt": "Shell has reported a revenue of $94.7bn for the second quarter of 2026 (Q2 2026), a 45% increase from $65.4bn in the same period of the previous year."
-    },
-    {
-      "title": "Spain safari park animals grazed calmly amid 'terror' of fire",
-      "link": "https://phys.org/news/2026-07-spain-safari-animals-grazed-calmly.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-31T07:50:01.000Z",
-      "excerpt": "The bison carried on grazing peacefully as the flames approached, imperturbable despite the fires ravaging the land around their wildlife park west of Madrid."
-    },
-    {
-      "title": "Earthquake Detection Using Benford's Law",
-      "link": "https://arxiv.org/abs/2607.27821",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-31T04:00:00.000Z",
-      "excerpt": "arXiv:2607.27821v1 Announce Type: new Abstract: Reliable detection of local earthquakes and accurate identification of P-wave onsets are fundamental tasks in seismology, yet many existing methods to accomplish them requi…"
-    },
-    {
-      "title": "Calibrated uncertainty for wide-angle crustal models: how firmly is the Dharwar Craton Moho actually constrained?",
-      "link": "https://arxiv.org/abs/2607.28199",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-31T04:00:00.000Z",
-      "excerpt": "arXiv:2607.28199v1 Announce Type: new Abstract: Depth uncertainties for wide-angle crustal models are usually obtained by propagating an assumed picking error, yet picks from one shot gather are mutually dependent and ve…"
-    },
-    {
-      "title": "A Distributed Acoustic Sensing Dataset for Vessel Detection and Localization in Submarine Cable Protection",
-      "link": "https://arxiv.org/abs/2607.28306",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-31T04:00:00.000Z",
-      "excerpt": "arXiv:2607.28306v1 Announce Type: new Abstract: Recent incidents of accidental damage and suspected sabotage to submarine telecommunication and power cables, particularly in the Baltic Sea, have underscored their vulnera…"
-    },
-    {
-      "title": "Reliability-calibrated deep residual full-waveform inversion using geometry-invariant physics encoding: synthetic validation and zero-shot Marmousi-2 testing",
-      "link": "https://arxiv.org/abs/2607.28535",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-31T04:00:00.000Z",
-      "excerpt": "arXiv:2607.28535v1 Announce Type: new Abstract: Neural networks that map seismic data directly to velocity models tend to memorize the acquisition geometry they were trained on, and their uncertainty estimates are rarely…"
-    },
-    {
-      "title": "Joint measurement of cosmic-ray muons and seismic w av es at laboratory scale",
-      "link": "https://arxiv.org/abs/2607.28547",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-31T04:00:00.000Z",
-      "excerpt": "arXiv:2607.28547v1 Announce Type: new Abstract: Current geophysical exploration methods face challenges in accurately determining gas saturation levels and elastic constants with adequate spatial resolution. Seismic wave…"
-    },
-    {
-      "title": "Modified Dynamic Mixed Subgrid-scale Models for Geophysical Flows: Forced Two-Dimensional and $\\beta$-plane Turbulence",
-      "link": "https://arxiv.org/abs/2607.27567",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-31T04:00:00.000Z",
-      "excerpt": "arXiv:2607.27567v1 Announce Type: cross Abstract: Subgrid-scale (SGS) models for large-eddy simulations (LES) of geophysical turbulence typically need to balance dissipative regularization with backscatter, the upscale t…"
-    },
-    {
-      "title": "The new Geological Age that never was or the multiple layers of the Transientocene",
-      "link": "https://arxiv.org/abs/2604.06224",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-07-31T04:00:00.000Z",
-      "excerpt": "arXiv:2604.06224v2 Announce Type: replace-cross Abstract: Since its humble origins, humans have left imprints on the face of the planet. From the profound transformation unleashed by the Neolithic Revolution, about 12000…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3609: Improved Adaptive Control Method of Virtual Synchronous Generator for Enhancing Transient Rotor Angle Stability of New Power Systems",
@@ -874,6 +818,62 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Online fouling monitoring and interpretability analysis in a solid waste co-firing CFB boiler based on a comprehensive cleanliness index",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025226?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Panhuan Wen, Ming Li, Guojun Lv, Feng Yu, Jiawei Yan, Zhonghao Guan, Dehua Liang, Enwei Lin, Haibin Cui, Fei Wang"
+    },
+    {
+      "title": "Acoustic emission-microseismic response and instability early warning of coal failure after drainage under different initial gas pressures",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025585?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Hongwei Wang, Gang Wang, Aiwen Wang, Lianman Xu, Shengliang Lu"
+    },
+    {
+      "title": "Removal of volatile organic compounds with La doped Mn based catalyst in post-plasma catalytic oxidation system − enhancing synergistic effects through mild thermal assistance",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025548?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Jiayao Chen, Jianqi Liu, Xin Liu, Fangchuan Zhong"
+    },
+    {
+      "title": "A hybrid extended kalman filter and feed-forward neural network architecture for robust state of charge estimation of lithium-ion batteries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126024828?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Mansur Mustapha, Arunachalam Sundaram"
+    },
+    {
+      "title": "Efficient hydrolytic dehydrogenation of ammonia borane catalyzed by supported Co-Sr-B thin film catalysts",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025676?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Yuntong Wang, Xiaoao Du, Wenjing Liu, Fanyue Kong, Zhencheng Yang, Yan Wang, Ke Zhang, Zhongqiu Cao, Shiwei Wu, Guode Li"
+    },
+    {
+      "title": "Laboratory-to-pilot evaluation of CO 2 absorption by aqueous KOH in packed columns",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602572X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Meng Shi, Randi Neerup, Sai H.B. Vinjarapu, Sara Vallejo Castaño, Philipp Kuntke, Anders H. Larsen, Tessa Lund Biel-Nielsen, Hubertus V.M. Hamel…"
     }
   ]
 }
