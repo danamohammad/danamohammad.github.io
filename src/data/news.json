@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T14:09:18.592Z",
+  "generatedAt": "2026-08-01T19:49:16.312Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,14 @@
   ],
   "items": [
     {
+      "title": "Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames",
+      "link": "https://phys.org/news/2026-07-ways-wildfires-generate-tornadoes-lightning.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-01T18:00:01.000Z",
+      "excerpt": "Thick smoke from massive wildfires has been spreading in North America and Europe once again in 2026. The health impacts of breathing this particle-filled air are becoming well known, but wildfires' influence on the weat…"
+    },
+    {
       "title": "Pacific cloud brightening could weaken El Nino, but models reveal risks for Europe and Asia",
       "link": "https://phys.org/news/2026-07-pacific-cloud-brightening-weaken-el.html",
       "source": "Phys.org — Earth",
@@ -122,6 +130,14 @@
       "category": "geoscience",
       "published": "2026-08-01T06:47:14.000Z",
       "excerpt": "Hungary's sole nuclear power plant will be shut down next week because of low water levels in the Danube, Prime Minister Peter Magyar said Friday as central Europe slogs through the latest in a series of heat waves."
+    },
+    {
+      "title": "Superheated magma may power towering lava fountains",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-08-01T06:38:28.000Z",
+      "excerpt": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal s…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3618: A Machine Learning-Based Untapped Potential Index for Regional Photovoltaic Sales in Poland",
@@ -274,14 +290,6 @@
       "category": "geoscience",
       "published": "2026-07-31T17:20:03.000Z",
       "excerpt": "Scorching summer temperatures have disrupted life for millions of Europeans, but for winegrowers in Italy and France who are harvesting their grapes unusually early, the hot weather offers pros as well as cons."
-    },
-    {
-      "title": "Ancient Irish volcano offers new clues about the development of its modern-day, active 'brothers and sisters'",
-      "link": "https://phys.org/news/2026-07-ancient-irish-volcano-clues-modern.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-31T17:00:03.000Z",
-      "excerpt": "An international team of volcanologists working on Carlingford Mountain has found that liquid \"magma chambers\" do not always exist beneath volcanoes. The team instead demonstrated that magma \"plumbing systems\" beneath Ea…"
     },
     {
       "title": "Chevron reports net income of $12.1bn in Q2 2026",
@@ -546,14 +554,6 @@
       "category": "geoscience",
       "published": "2026-07-05T19:41:58.000Z",
       "excerpt": "Scientists have uncovered a hidden weakness beneath the Pacific Ocean that helps explain why Japan’s catastrophic 2011 earthquake and tsunami became so devastating. By drilling deeper into the seafloor than ever before,…"
-    },
-    {
-      "title": "A massive asteroid slammed into the North Sea and triggered a 330-foot tsunami",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623011230.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-06-30T03:44:40.000Z",
-      "excerpt": "Scientists have finally confirmed the origin of the mysterious Silverpit Crater beneath the North Sea. New evidence shows that an asteroid about 160 meters wide struck the seabed roughly 43 to 46 million years ago. The i…"
     },
     {
       "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
@@ -828,52 +828,52 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
+      "title": "Cycle optimization and exergy analysis of an aero SOFC/GT hybrid power system with exhaust gas recirculation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025949?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Geng Zhi, Jiang Yuchen, Li Yifan, Chen Keyu, Cao Zhikun, Ren Shuaiying, Wang Zhilong, Gu Yujiong, Guo Yonghong"
+    },
+    {
+      "title": "Coupled effects of reactive atmospheres and heterogeneous catalysts on the yield and composition of biocrude obtained from hydrothermal liquefaction (HTL) of municipal sewage sludge",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602569X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Krzysztof Kapusta, Aleksandra Strugała-Wilczek, Wioleta Basa, Magdalena Pankiewicz-Sperka, Peigao Duan, Donghai Xu, Yulu Yang, Linxin Yin, Guanq…"
+    },
+    {
+      "title": "A shock-tube study of ammonia/methane oxidation: multi-speciation and kinetic analysis",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025354?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Mohamed A. Alya, Khair Ghunaim, Mahmoud E. Hasan, Belal Y. Belal, Mohsin Raza, Ali Elkhazraji, Sulaiman A. Alturaifi"
+    },
+    {
+      "title": "Effects of VVT-based internal EGR on combustion and knock characteristics of a heavy-duty hydrogen direct injection engine",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025871?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Guohui Zhu, Yindi Gao, Wei Chen, Qingsong Zuo, Rui Shi, Chuanfu Kou, Hui Wang, Zhuang Shen, Dezhong Ning"
+    },
+    {
+      "title": "Parametric analysis of ethanol-based recycling of mixed plastic waste in a circular economy",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025524?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Shaivya Anand, Jubil Joy, Amit Kumar"
+    },
+    {
       "title": "Online fouling monitoring and interpretability analysis in a solid waste co-firing CFB boiler based on a comprehensive cleanliness index",
       "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025226?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Panhuan Wen, Ming Li, Guojun Lv, Feng Yu, Jiawei Yan, Zhonghao Guan, Dehua Liang, Enwei Lin, Haibin Cui, Fei Wang"
-    },
-    {
-      "title": "Acoustic emission-microseismic response and instability early warning of coal failure after drainage under different initial gas pressures",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025585?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Hongwei Wang, Gang Wang, Aiwen Wang, Lianman Xu, Shengliang Lu"
-    },
-    {
-      "title": "Removal of volatile organic compounds with La doped Mn based catalyst in post-plasma catalytic oxidation system − enhancing synergistic effects through mild thermal assistance",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025548?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Jiayao Chen, Jianqi Liu, Xin Liu, Fangchuan Zhong"
-    },
-    {
-      "title": "A hybrid extended kalman filter and feed-forward neural network architecture for robust state of charge estimation of lithium-ion batteries",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126024828?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Mansur Mustapha, Arunachalam Sundaram"
-    },
-    {
-      "title": "Efficient hydrolytic dehydrogenation of ammonia borane catalyzed by supported Co-Sr-B thin film catalysts",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025676?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Yuntong Wang, Xiaoao Du, Wenjing Liu, Fanyue Kong, Zhencheng Yang, Yan Wang, Ke Zhang, Zhongqiu Cao, Shiwei Wu, Guode Li"
-    },
-    {
-      "title": "Laboratory-to-pilot evaluation of CO 2 absorption by aqueous KOH in packed columns",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602572X?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Meng Shi, Randi Neerup, Sai H.B. Vinjarapu, Sara Vallejo Castaño, Philipp Kuntke, Anders H. Larsen, Tessa Lund Biel-Nielsen, Hubertus V.M. Hamel…"
     }
   ]
 }
