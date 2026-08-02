@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T04:07:29.878Z",
+  "generatedAt": "2026-08-02T08:57:36.924Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 3621: Low-Complexity SVS Current-Reference Generation for PMSMs with and Without MTPV Endpoints",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3621",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-02T00:00:00.000Z",
+      "excerpt": "This paper proposes a low-complexity speed- and voltage-margin scheduled (SVS) current-reference generator for wide-speed-range permanent magnet synchronous motor (PMSM) drives. It blends current-efficient and voltage-re…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3620: Impact of Scrap and Hydrogen-Based Direct Reduced Iron Ratios on Energy Demand, Emissions, and Oxygen Management in Green Steelmaking",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3620",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-02T00:00:00.000Z",
+      "excerpt": "Steel production contributes significantly to global emissions, making its decarbonization essential. Electrified steelmaking based on electric arc furnaces (EAF) using hydrogen-based direct reduced iron (H2-DRI) and scr…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3619: Energy&ndash;Logistics-Cost Nexus: Assessing LCOE Volatility, Decarbonization Barriers, and SDG 7 Alignment",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3619",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-02T00:00:00.000Z",
+      "excerpt": "The Levelized Cost of Energy (LCOE) is the standard metric for evaluating renewable energy project economics; however, conventional formulations inadequately represent the dynamic effects of logistics performance, supply…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2481: Effects of Different Drying Techniques on Bioactive Compounds and Functional Properties of SCOBY-Fermented Pomelo Substrate Powders",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2481",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-02T00:00:00.000Z",
+      "excerpt": "Drying is a critical post-fermentation process because it influences product stability and the retention of bioactive compounds. The present study evaluated the effects of different drying techniques on the physicochemic…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2480: LPBF Fabrication of 17-4 PH Stainless Steel TPMS Structures and Wettability of Surface-Treated Flat Plates",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2480",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-02T00:00:00.000Z",
+      "excerpt": "This study investigates the laser powder bed fusion (LPBF) fabrication of 17-4 PH stainless steel triply periodic minimal surface (TPMS) structures and the wettability response of corresponding flat plates subjected to s…"
+    },
     {
       "title": "Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames",
       "link": "https://phys.org/news/2026-07-ways-wildfires-generate-tornadoes-lightning.html",
@@ -324,30 +364,6 @@
       "excerpt": "Shell has reported a revenue of $94.7bn for the second quarter of 2026 (Q2 2026), a 45% increase from $65.4bn in the same period of the previous year."
     },
     {
-      "title": "Energies, Vol. 19, Pages 3609: Improved Adaptive Control Method of Virtual Synchronous Generator for Enhancing Transient Rotor Angle Stability of New Power Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3609",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-31T00:00:00.000Z",
-      "excerpt": "With the increasing integration of large-scale renewable energy sources (RESs), modern power grids are evolving into low-inertia and weak-damping networks, creating challenges for transient power-angle stability. Convent…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3608: Energy-Optimal and Thermally Robust Predictive Flux Control of Industrial Induction Motor Drives",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3608",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-31T00:00:00.000Z",
-      "excerpt": "Variable-speed induction motor drives spend most of their service life at partial load, where rated-flux field-oriented control (FOC) is inefficient and where loss-minimizing control (LMC) recovers a large part of the lo…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3606: Thermodynamic Performance of Heavy-Duty Gas Turbines with Hydrogen&ndash;Ammonia Co-Fuel by Inlet Guide Vane Variations",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3606",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-07-31T00:00:00.000Z",
-      "excerpt": "When methane (natural gas) fuel gas turbines switch to hydrogen&amp;ndash;ammonia co-fuel, their thermodynamic performance undergoes significant changes. To expand the operating range of heavy-duty gas turbines when usin…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2475: Fracture Development Probability Prediction in Tight Oil Reservoirs by Integrating Fracture Response Mapping with Triangular Topology-Optimized BiLSTM",
       "link": "https://www.mdpi.com/2227-9717/14/15/2475",
       "source": "Processes (MDPI)",
@@ -394,22 +410,6 @@
       "category": "processing",
       "published": "2026-07-31T00:00:00.000Z",
       "excerpt": "To advance the goals of carbon peaking and carbon neutrality alongside the global energy transition, energy conservation and carbon reduction in refrigeration and air-conditioning systems have garnered widespread attenti…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2469: Dynamic Resource Allocation and Coordinated Dispatch of Wind&ndash;Solar-Storage Energy Systems Based on a Source&ndash;Load Association Graph",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2469",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-31T00:00:00.000Z",
-      "excerpt": "This study proposes dynamic resource allocation and coordinated dispatch based on a source&amp;ndash;load association graph for an electric&amp;ndash;gas&amp;ndash;heat system with wind, photovoltaics, fixed and mobile s…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2468: Power-System Transient Stability Assessment Based on High-Level Sample Feature Extraction and Model Updating",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2468",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-31T00:00:00.000Z",
-      "excerpt": "To address the insufficient feature representation of conventional data-driven transient stability assessment (TSA) models and their limited adaptability to changes in power-system operating conditions, which result in i…"
     },
     {
       "title": "BP begins production from Atlantis Major Facility Expansion project",
