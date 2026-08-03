@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T19:48:47.235Z",
+  "generatedAt": "2026-08-03T04:19:10.117Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 2,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Ocean Surface Gravity Waves Excited by the 2022 Eruption of Hunga Tonga-Hunga Ha'apai Volcano",
+      "link": "https://arxiv.org/abs/2607.28973",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-03T04:00:00.000Z",
+      "excerpt": "arXiv:2607.28973v1 Announce Type: new Abstract: On 15 January 2022, a massive underwater eruption occurred at the Hunga Tonga-Hunga Ha'apai Volcano. The plume reached the mesosphere, and the eruption excited a significan…"
+    },
+    {
+      "title": "On four representations of the law of aftershock evolution",
+      "link": "https://arxiv.org/abs/2607.29381",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-03T04:00:00.000Z",
+      "excerpt": "arXiv:2607.29381v1 Announce Type: new Abstract: The relaxation of the earthquake source following the main shock has been investigated both theoretically and experimentally, based on data regarding the evolution of after…"
+    },
     {
       "title": "Climate change could dramatically reduce water flowing from the West's headwaters",
       "link": "https://phys.org/news/2026-07-climate-west-headwaters.html",
@@ -858,22 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Shoujun Zou, Xiangyong Huang, Yanpeng Han, Jie Chen, Shuanglong Li, Shuang Wang, Mingyan Gu"
-    },
-    {
-      "title": "Solar-driven biomass gasification for hydrogen production over transition metal/ZSM-5 catalysts: catalytic performance, dynamic syngas regulation, energy conversion analysis, and kinetic modeling",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025792?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Yong Wang, Xiankun Huang, Cuiwei Liu, Dengyu Chen, Zhang Bai, Liqiang Zhang, Xinyu Mu, Binzhong Xi"
-    },
-    {
-      "title": "Optimal nickel loading balances dispersion and mesoporosity for efficient ethanol-CO 2 reforming to hydrogen-rich syngas",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025937?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Wei Man Liew, Sumaiya Zainal Abidin, Sunarti Abd Rahman, Siti Jamilatun, Aster Rahayu, Nurul Ainirazali"
     }
   ]
 }
