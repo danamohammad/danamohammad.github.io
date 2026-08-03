@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T04:19:10.117Z",
+  "generatedAt": "2026-08-03T10:25:55.452Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,30 @@
   ],
   "items": [
     {
+      "title": "India launches $8.8bn Samudra Manthan offshore oil and gas scheme",
+      "link": "https://www.offshore-technology.com/news/india-samudra-manthan-offshore-scheme/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-03T10:10:49.000Z",
+      "excerpt": "The Indian Union Cabinet has approved the Samudra Manthan, with a total allocated budget of Rs840.84bn ($8.83bn)."
+    },
+    {
+      "title": "Shell to sell BG Cyprus and Aphrodite gas stake to MOL Group",
+      "link": "https://www.offshore-technology.com/news/shell-aphrodite-gas-stake-mol-group/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-03T08:28:45.000Z",
+      "excerpt": "Shell has agreed to sell its wholly-owned subsidiary BG Cyprus and its Aphrodite gas field stake to MOL Group for up to $720m."
+    },
+    {
+      "title": "South Korea records its highest-ever temperature of 42.5 C",
+      "link": "https://phys.org/news/2026-08-south-korea-highest-temperature.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-03T07:13:28.000Z",
+      "excerpt": "South Korea registered its highest temperature since records began more than a century ago on Sunday, as authorities warned people to \"immediately\" stop all outdoor activities in affected areas."
+    },
+    {
       "title": "Ocean Surface Gravity Waves Excited by the 2022 Eruption of Hunga Tonga-Hunga Ha'apai Volcano",
       "link": "https://arxiv.org/abs/2607.28973",
       "source": "arXiv — Geophysics",
@@ -90,6 +114,118 @@
       "category": "preprints",
       "published": "2026-08-03T04:00:00.000Z",
       "excerpt": "arXiv:2607.29381v1 Announce Type: new Abstract: The relaxation of the earthquake source following the main shock has been investigated both theoretically and experimentally, based on data regarding the evolution of after…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3638: Bidding Decision and Clearing Optimization for Pumped-Storage Clusters Under Multi-Coupled Market Conditions",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3638",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "Under the background of China&amp;rsquo;s unified national power market, pumped-storage power stations are transforming from the traditional passive scheduling mode to the role of market entities and are showing a cluste…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3637: From Mineral Oil to Dielectric Nanofluids: Review on Breakthroughs, Bottlenecks, and the Road to Commercialization",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3637",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "Power transformers are critical components of electric power infrastructure, and their liquid insulation systems are decisive for operational safety, reliability, and longevity. Conventional insulating fluids, particular…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3636: Research on the Microscopic Residual Oil Activation Mechanism of Heavy Oil in Different Water Content Stages",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3636",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "This paper investigates the occurrence characteristics, mobilization behavior, and controlling mechanisms of microscopic remaining oil in heavy-oil systems at different water-cut stages by using a visual microfluidic pla…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3635: High-Frequency Oscillation Suppression Strategy for Interconnected Grid-Forming Energy Storage and Grid-Following HVDC Systems Based on Impedance Analysis",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3635",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "Interconnecting grid-following (GFL) and grid-forming (GFM) converters help stabilize weak grids with a high penetration of power electronics, but dynamic interactions can induce high-frequency oscillations (HFOs). The H…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3634: Demonstrating the Technical Feasibility of Deep Borehole Heat Exchange in High-Salinity Geothermal Resources: A 3000 m Field Case in the Xining Basin",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3634",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "The development of high-salinity geothermal resources is hindered by corrosion, scaling, and high water treatment costs, posing severe challenges for conventional hydrothermal systems. Deep borehole heat exchanger (DBHE)…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3633: Simulation Study on Switching Overvoltage of Submarine Cables in Flexible DC Transmission System",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3633",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "With the rapid development of wind power generation, submarine cables have become a critical transmission channel for delivering offshore wind energy to onshore power stations. Because of the difficulty of submarine-cabl…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3632: Advanced Bioethanol as a Transition Fuel in Transportation: Performance in Internal Combustion Engines, Environmental Impacts, and Technological Challenges",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3632",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "Transport decarbonization cannot rely exclusively on electrification, particularly in regions where charging infrastructure, vehicle affordability, and fleet renewal remain constrained. This review critically assesses ad…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3629: Flow-Tracing-Based Allocation of Congestion-Related Settlement Imbalances in Regional Electricity Markets with Priority-Based Implicit Transmission Rights",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3629",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "In transitional electricity markets that operate without explicit financial or physical transmission rights but retain priority generation schedules and rigidly executed medium- and long-term (MLT) contracts, network con…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3631: Multi-Objective Optimization of Nozzle Closing Strategies for High Head Pelton Turbines to Shorten the Nozzle Closing Time and Mitigate Water Hammer Effects",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3631",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "The rapid shutdown of high-head and large-capacity Pelton turbines equipped with long penstocks often induces severe water hammer effects, threatening the structural safety of the diversion system. Traditional linear or…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3630: Valorization of Bay Tree Pruning by Autohydrolysis: Chemical Characterization and Energy Potential",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3630",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "Bay laurel (Laurus nobilis L.) leaves and branches represent promising lignocellulosic residues for biorefinery and bioenergy applications. The present study evaluated the effect of autohydrolysis at different temperatur…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2487: Molecular Simulation of H2/CH4 Competitive Adsorption and Diffusion in Representative Reservoir Minerals: Implications for Hydrogen Storage in Depleted Gas Reservoirs",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2487",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "Underground hydrogen storage in depleted gas reservoirs has emerged as a key technology for large-scale hydrogen energy storage. However, the occurrence state of hydrogen is governed by residual methane and reservoir min…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2486: A Comprehensive Review of Multi-Modal Data Fusion-Driven Systematic Knowledge Construction Technologies for HVDC Operation and Maintenance",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2486",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "Large-scale UHVDC and flexible DC projects accumulate scattered multi-modal O&amp;amp;M data across independent platforms, fragmenting domain knowledge and reducing the efficiency of intelligent fault diagnosis and dispo…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2485: Adaptive Fuzzy Sliding-Mode Control for Trajectory Tracking of Six-Joint Robot Manipulators",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2485",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "This paper addresses the high-precision trajectory tracking control problem for robotic manipulators operating in uncertain environments by proposing a novel fuzzy adaptive gain-tuning sliding-mode control (FAGT-SMC) alg…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2484: Multi-Response Optimization of Dry Turning Parameters for Incoloy 800H Superalloy Using a Grey-Fuzzy Algorithm",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2484",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-03T00:00:00.000Z",
+      "excerpt": "Incoloy 800H (Fe&amp;ndash;Ni&amp;ndash;Cr) is an iron-based superalloy that is difficult to machine because of its rapid work-hardening behaviour. Although Taguchi-based grey relational analysis has previously been appl…"
     },
     {
       "title": "Climate change could dramatically reduce water flowing from the West's headwaters",
@@ -130,70 +266,6 @@
       "category": "energy",
       "published": "2026-08-02T00:00:00.000Z",
       "excerpt": "This paper presents an experimental study of vibration energy recovery from a horizontal seat suspension system in which a brushless direct current (BLDC) motor is used as both an active force actuator and a controllable…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3624: Critical Review of Artificial Intelligence and Machine Learning Methods for Data-Center Load Forecasting",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3624",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-02T00:00:00.000Z",
-      "excerpt": "Modern data centers are consuming more energy than ever before due to the rapid growth of cloud services, artificial intelligence (AI), and large-scale digital applications. As energy demand continues to rise, accurate l…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3625: Integrated Mass and Energy Balance Modelling for Energy Recovery from Wastewater Sludge Through Anaerobic Digestion Within a Circular Economy Framework",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3625",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-02T00:00:00.000Z",
-      "excerpt": "The transition towards circular economy models is driving the transformation of wastewater treatment plants (WWTPs) from energy-intensive facilities into resource recovery systems capable of generating renewable energy.…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3626: A Flexible Organic Thermoelectric Generator with Optimized Interconnects Based on Doped Single-Walled Carbon Nanotube Clays",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3626",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-02T00:00:00.000Z",
-      "excerpt": "Organic thermoelectric generators (OTEGs) are promising for wearable low-grade heat harvesting, but their device-level output is often limited by interconnect-induced losses. This study investigates flexible OTEGs based…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3623: A Semi-Markov Stochastic Model for Assessing Solar-Powered UAV Mission Feasibility Under High-Variability Conditions",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3623",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-02T00:00:00.000Z",
-      "excerpt": "This paper presents a generic stochastic simulation framework for evaluating the operational feasibility of solar-powered unmanned aerial vehicles (UAVs) executing an invariant trajectory in high-variability climates. Un…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3622: Adopting Electric Road Technologies and Energy Systems for the Electrification of Municipal Electric Buses",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3622",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-02T00:00:00.000Z",
-      "excerpt": "The electrification of road transportation has been widely proposed as a viable strategy for minimizing fossil fuel dependency and the environmental impacts of traditionally powered motor vehicles. This strategy has led…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3621: Low-Complexity SVS Current-Reference Generation for PMSMs with and Without MTPV Endpoints",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3621",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-02T00:00:00.000Z",
-      "excerpt": "This paper proposes a low-complexity speed- and voltage-margin scheduled (SVS) current-reference generator for wide-speed-range permanent magnet synchronous motor (PMSM) drives. It blends current-efficient and voltage-re…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3620: Impact of Scrap and Hydrogen-Based Direct Reduced Iron Ratios on Energy Demand, Emissions, and Oxygen Management in Green Steelmaking",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3620",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-02T00:00:00.000Z",
-      "excerpt": "Steel production contributes significantly to global emissions, making its decarbonization essential. Electrified steelmaking based on electric arc furnaces (EAF) using hydrogen-based direct reduced iron (H2-DRI) and scr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3619: Energy&ndash;Logistics-Cost Nexus: Assessing LCOE Volatility, Decarbonization Barriers, and SDG 7 Alignment",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3619",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-02T00:00:00.000Z",
-      "excerpt": "The Levelized Cost of Energy (LCOE) is the standard metric for evaluating renewable energy project economics; however, conventional formulations inadequately represent the dynamic effects of logistics performance, supply…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2482: Optimized Dynamic Classification of Offshore Gas Wells Using Principal-Factor Screening and Cluster Analysis",
@@ -292,22 +364,6 @@
       "excerpt": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal s…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3618: A Machine Learning-Based Untapped Potential Index for Regional Photovoltaic Sales in Poland",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3618",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-01T00:00:00.000Z",
-      "excerpt": "The rapid growth of the photovoltaic (PV) market in Poland has increased the importance of data-driven sales management and strategic resource allocation in renewable energy companies. Despite dynamic market expansion, s…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3617: A Residual Learning Framework for ERA5 Offshore Wind Speed Bias Correction and Gap Reconstruction Toward Offshore Wind Energy Applications",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3617",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-01T00:00:00.000Z",
-      "excerpt": "Continuous and reliable offshore wind speed time series are essential for offshore wind resource assessment, power forecasting, and long-term wind energy analysis. However, ERA5 reanalysis data may contain site-scale bia…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2479: A Graphical&ndash;Analytical Framework for Single-Diode Model Identification Using Datasheet I&ndash;V Curves",
       "link": "https://www.mdpi.com/2227-9717/14/15/2479",
       "source": "Processes (MDPI)",
@@ -356,14 +412,6 @@
       "excerpt": "AFPA has echoed serious concerns raised by Forestry Australia over the federal government's controversial new carbon credit method, warning it undermines the integrity and credibility of Australia's carbon market."
     },
     {
-      "title": "New blazes in Greece as strong winds hamper firefighting",
-      "link": "https://phys.org/news/2026-07-blazes-greece-strong-hamper-firefighting.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-07-31T19:20:01.000Z",
-      "excerpt": "New wildfires fed by strong winds broke out in Greece on Friday, giving firefighters little respite and forcing Civil Protection officials to order the partial evacuation of part of a suburb west of Athens."
-    },
-    {
       "title": "Chevron reports net income of $12.1bn in Q2 2026",
       "link": "https://www.offshore-technology.com/news/chevron-q2-2026-reports/",
       "source": "Offshore Technology",
@@ -396,38 +444,6 @@
       "excerpt": "Shell has reported a revenue of $94.7bn for the second quarter of 2026 (Q2 2026), a 45% increase from $65.4bn in the same period of the previous year."
     },
     {
-      "title": "Processes, Vol. 14, Pages 2475: Fracture Development Probability Prediction in Tight Oil Reservoirs by Integrating Fracture Response Mapping with Triangular Topology-Optimized BiLSTM",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2475",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-31T00:00:00.000Z",
-      "excerpt": "Natural fractures strongly influence fluid flow, hydraulic-fracturing performance, and production heterogeneity in tight oil reservoirs. Their identification from conventional logs remains challenging because image-log a…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2474: Prediction of Water Saturation Using Physics-Guided Machine Learning in Deep Silurian Shale Gas Reservoirs",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2474",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-31T00:00:00.000Z",
-      "excerpt": "Accurate water saturation estimation in deep shale reservoirs is complicated by clay-related additional conductivity and coupled pore, organic-matter, and structural effects. This study develops a feature-level physics-g…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2473: Hybrid Grey-Box&ndash;ARX Identification and Constrained Model Predictive Control of a 250 L Jacketed Batch Milk Pasteurizer",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2473",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-31T00:00:00.000Z",
-      "excerpt": "This study presents an experimental framework for hybrid grey-box&amp;ndash;ARX identification and constrained model predictive control (MPC) in a 250 L jacketed batch milk pasteurizer. The plant was represented as a clo…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2472: Deformation Characteristics and Breakage Mechanism of Thick-Hard Roof Based on a Medium-Thick Plate Mechanical Model",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2472",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-07-31T00:00:00.000Z",
-      "excerpt": "To solve the whole cutting-off and large-area weighting of thick-hard roof led by the high-intensity mining in working face, the mechanical mechanism of the impact pressure of thick-hard top working face in the Shendong…"
-    },
-    {
       "title": "BP begins production from Atlantis Major Facility Expansion project",
       "link": "https://www.offshore-technology.com/news/bp-begins-production-atlantis-project/",
       "source": "Offshore Technology",
@@ -458,22 +474,6 @@
       "category": "industry",
       "published": "2026-07-30T08:55:30.000Z",
       "excerpt": "Drilling waste management has moved beyond skips and disposal, but the greatest gains still begin inside the active mud system."
-    },
-    {
-      "title": "Woodside’s Q2 2026 operating revenue jumps 28% to $4.2bn",
-      "link": "https://www.offshore-technology.com/news/woodsides-q2-2026-operating-revenue-4-2bn/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-07-30T07:41:23.000Z",
-      "excerpt": "Woodside Energy has reported an operating revenue of $4.18bn in the second quarter of 2026 (Q2 2026), marking a 28% increase from $3.27bn in Q2 2025."
-    },
-    {
-      "title": "Biopower’s next decade hinges on what it displaces, not what it builds",
-      "link": "https://www.offshore-technology.com/analysis/biopower-market-displace-fuel-2/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-07-30T07:00:00.000Z",
-      "excerpt": "Global biopower capacity is still rising, but new construction is slowing and capital is becoming more selective."
     },
     {
       "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
