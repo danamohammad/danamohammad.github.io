@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T09:24:28.658Z",
+  "generatedAt": "2026-08-04T15:07:05.282Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
       "ok": true,
-      "count": 92,
+      "count": 95,
       "error": null
     },
     {
@@ -75,6 +75,46 @@
     }
   ],
   "items": [
+    {
+      "title": "L&T-led consortium secures offshore project contract from ADNOC",
+      "link": "https://www.offshore-technology.com/news/lt-led-adnoc-offshore-project/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-04T13:10:29.000Z",
+      "excerpt": "LTEH Offshore has secured a contract from ADNOC Offshore for the development of multiple offshore facilities in the Middle East."
+    },
+    {
+      "title": "This hydrogen turbine turns controlled explosions into electricity",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
+      "source": "ScienceDaily — Energy Technology",
+      "category": "energy",
+      "published": "2026-08-04T13:02:27.000Z",
+      "excerpt": "Scientists have successfully generated electricity with a hydrogen turbine that produces its own pressure through detonation waves instead of relying on a mechanical compressor. The breakthrough could unlock dramatically…"
+    },
+    {
+      "title": "These underwater bones could solve a mystery about extinct giants",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260802223428.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-08-04T12:12:43.000Z",
+      "excerpt": "Animal bones preserved in South Australia’s underwater caves reveal distinctive clues shaped by darkness, algae, bacteria, and other environmental conditions. The findings give scientists a powerful new way to reconstruc…"
+    },
+    {
+      "title": "Petrobras identifies new gas deposit at Sandia-1 well in Colombia",
+      "link": "https://www.offshore-technology.com/news/petrobras-gas-deposit-sandia-1-well-colombia/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-04T09:52:52.000Z",
+      "excerpt": "Brazilian state-controlled energy company Petrobras has identified a new natural gas deposit at the Sandia-1 exploratory well in deep waters off the coast of Colombia."
+    },
+    {
+      "title": "Williams to buy Momentum Midstream in deal worth up to $5.5bn",
+      "link": "https://www.offshore-technology.com/news/williams-to-buy-momentum-midstream-5-5bn/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-04T09:47:16.000Z",
+      "excerpt": "US-based natural gas company Williams has agreed to purchase Momentum Midstream (M6 Midstream) from EnCap Flatrock Midstream in a deal worth up to $5.5bn."
+    },
     {
       "title": "San Mateo Midstream closes $752m acquisition of Cardinal Midstream",
       "link": "https://www.offshore-technology.com/news/san-mateo-752m-acquisition-cardinal-midstream/",
@@ -196,12 +236,76 @@
       "excerpt": "arXiv:2608.00352v1 Announce Type: cross Abstract: Thermospheric mass density governs aerodynamic drag in low Earth orbit and is a primary source of uncertainty in orbit prediction and conjunction assessment, particularly…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 3668: Breaking Barriers: Strategies for Effective Protection of DC Microgrid Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3668",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-04T00:00:00.000Z",
+      "excerpt": "The direct current (DC) microgrid&amp;rsquo;s remarkable power delivery performance has led to its development into a promising distribution network. However, creating efficient protective systems remains a major challen…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3667: A Low-Voltage Mitigation Method for Rural Distribution Transformer Areas Based on Power-Mileage Aggregation",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3667",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-04T00:00:00.000Z",
+      "excerpt": "Low-voltage violations in rural distribution transformer areas (RDTAs) are a persistent and widespread problem in China, affecting over 5% of such areas and compromising the power supply quality for millions of rural end…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3666: Smart Distribution Panel Design for Integrating Non-OCPP EV Chargers into Real-Time Energy Management Systems: Hardware Implementation and Voltage Impact Analysis",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3666",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-04T00:00:00.000Z",
+      "excerpt": "Non-OCPP electric vehicle (EV) chargers lack site-integrated monitoring and supply-control, limiting their use in real-time energy management systems. This paper presents a Smart Distribution Panel that closes this gap v…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3664: Distribution Network Optimization with Aggregation and Reinforcement Learning Under Massive Distributed Resources Integration",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3664",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-04T00:00:00.000Z",
+      "excerpt": "The integration of large-scale distributed energy resources (DERs) into distribution networks (DNs) brings challenges to the effective control of DNs. In traditional approaches, mathematical or reinforcement learning (RL…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3665: Collaborative Optimization of Dynamic Characteristics and Armature Structural Safety in Electromagnetic Repulsion Mechanisms",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3665",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-04T00:00:00.000Z",
+      "excerpt": "As a driving mechanism, the electromagnetic repulsion mechanism has been widely used in mechanical switches, such as circuit breakers, current limiters, and bypass switches, owing to its high closing speed and large outp…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3663: Coordinated State-of-Charge Balancing and Energy Management for a DC Microgrid Under Dynamic Renewable Conditions",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3663",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-04T00:00:00.000Z",
+      "excerpt": "This paper presents an energy-management and state-of-charge (SoC) balancing scheme, denoted OEMSS, for a DC microgrid comprising photovoltaic generation, a fuel-cell source, two energy storage systems (ESSs), and six ho…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3662: Energy Transition and Carbon Emissions in NICs: Evidence from the CS-ARDL Approach and Dynamic ARDL Simulation",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3662",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-04T00:00:00.000Z",
+      "excerpt": "Newly Industrialized Countries (NICs) represent the most dynamic economic clusters globally and drive the marginal growth of global carbon emissions, rendering their carbon mitigation performance pivotal to delivering th…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3661: Heat Transfer Assessment of the Back-Pass Channel in an Industrial Fluidized Bed Reactor",
       "link": "https://www.mdpi.com/1996-1073/19/15/3661",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-08-04T00:00:00.000Z",
       "excerpt": "The evaluation of heat transfer in a back-pass channel for an industrial circulating fluidized bed (CFB) reactor was studied. The authors proposed a heat transfer model taking into account (i) convective heat transfer on…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3657: Scaling Laws and Thermodynamic Limits of Modular Thermoelastic Energy Harvesting from Low-Grade Heat",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3657",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-04T00:00:00.000Z",
+      "excerpt": "Low-grade thermal energy is widely available in industrial waste-heat streams and natural temperature fluctuations, yet its utilization remains limited because of weak thermodynamic driving forces and the complexity of c…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3660: Policy Enablers for Renewable Energy Self-Consumption in Decentralised Energy Systems",
@@ -228,52 +332,28 @@
       "excerpt": "Floating photovoltaics (FPV) offer a sustainable approach to renewable energy production while enhancing water resource management by reducing land use, improving module efficiency through natural cooling, and limiting w…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3655: RETRACTED: Sheng et al. Power for AI Data Centers: Energy Demand, Grid Impacts, Challenges and Perspectives. Energies 2026, 19, 722",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3655",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2499: The Influence of Different Pore Shapes on Methane Adsorption Characteristics of Coal",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2499",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-04T00:00:00.000Z",
-      "excerpt": "The journal retracts the article titled &amp;ldquo;Power for AI Data Centers: Energy Demand, Grid Impacts, Challenges and Perspectives&amp;rdquo; [...]"
+      "excerpt": "Pore shape has a significant impact on methane adsorption. In this paper, graphene was used to construct coal pore models with different pore shapes. The adsorption of methane was simulated to investigate the effect of p…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3656: Techno-Enviro-Economic-Based Comparative Analysis of Hydrogen Production Pathways Using AHP-TOPSIS Framework",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3656",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2497: Fracture Process Zone Evolution in Tight Sandstone Under Crack-Parallel Stress: A DIC Study",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2497",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-04T00:00:00.000Z",
-      "excerpt": "Hydrogen is essential for decarbonising energy systems, yet optimal production pathways remain debated. This study presents a comprehensive techno&amp;ndash;enviro&amp;ndash;economic assessment of 17 hydrogen production…"
+      "excerpt": "Crack-parallel stress modifies the near-tip stress state and may influence the development of the fracture process zone (FPZ) in rock. However, the spatial and temporal evolution of the FPZ during hydraulic fracturing ca…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3654: Fault Section Location Based on Transient Zero-Sequence Current Waveform Dissimilarity for Single-Phase Grounding Faults in Distribution Networks",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3654",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2496: Effects of Guide Vane Leading-Edge Profile on Hydraulic Performance and Interstage Erosion Characteristics of Deep-Sea Mining Pumps",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2496",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-04T00:00:00.000Z",
-      "excerpt": "A fault-section location method based on waveform-difference analysis of transient zero-sequence currents is proposed for distribution networks with small-current grounding systems. The method addresses weak single-phase…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3653: Machine Learning-Based Health Index Evaluation of Power Transformers Using Novel Parameterization for Predictive Maintenance: Data-Driven Research on Pakistan&rsquo;s National Grid Regarding Maintenance Cost Optimization",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3653",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-04T00:00:00.000Z",
-      "excerpt": "Power transformers are an integral part of electrical power system infrastructure and play a vital role in the efficient and reliable transmission of bulk electrical power to distribution networks. The careful use of the…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3652: An LES-Based Investigation of Wake Flow Characteristics of a Shrouded Wind Turbine",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3652",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-04T00:00:00.000Z",
-      "excerpt": "In this study, the author investigated the wake characteristics of a shrouded wind turbine and performed a high-resolution large-eddy simulation (LES) investigation using a supercomputer. The turbulent kinetic energy (TK…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3651: Synthetic Seasonal Weekly Load Profile Generation Based on Advanced Wasserstein-Distance Generative Adversarial Networks",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3651",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-04T00:00:00.000Z",
-      "excerpt": "The power injections variability due to volatile renewable energy sources and large dynamic loads (e.g., Plug-in Electric Vehicles and Heat Pumps) may cause excessive voltage fluctuations and power system instability. To…"
+      "excerpt": "The influence of guide-vane leading-edge profiles on interstage flow, particle transport, and erosion in multistage deep-sea mining pumps remains unclear. This study compares Convex, Linear, and Concave profiles in a two…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2495: Automated Volumetric Filling System for 60 mL Single-Dose Sauce Packaging: Design and Experimental Validation",
@@ -444,22 +524,6 @@
       "excerpt": "Coastal communities are facing a hidden threat that is making rising seas far more dangerous: the land beneath them is sinking. New research shows that people in densely populated coastal regions experience an average re…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3650: Comparative Study of Advanced MPPT Strategies and Wireless Communication Technologies in Distributed Photovoltaic Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3650",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-03T00:00:00.000Z",
-      "excerpt": "This paper presents an experimental comparative study of four advanced maximum power point tracking (MPPT) strategies&amp;mdash;backstepping, adaptive backstepping, sliding mode control, and vision-based MPPT&amp;mdash;c…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3649: Optimal Green Hydrogen Production and Transportation: Africa to Europe",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3649",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-03T00:00:00.000Z",
-      "excerpt": "This paper presents an optimization framework for green hydrogen (GH) production, which integrates the operation of subsystems consisting of photovoltaic generation, reverse-osmosis desalination, proton exchange membrane…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2492: Environmental Impact and Climate Change Mitigation of Biochar from Pyro-Gasification of Agricultural Wood Waste: A Cradle-to-Grave Study",
       "link": "https://www.mdpi.com/2227-9717/14/15/2492",
       "source": "Processes (MDPI)",
@@ -508,30 +572,6 @@
       "excerpt": "Underground hydrogen storage in depleted gas reservoirs has emerged as a key technology for large-scale hydrogen energy storage. However, the occurrence state of hydrogen is governed by residual methane and reservoir min…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2486: A Comprehensive Review of Multi-Modal Data Fusion-Driven Systematic Knowledge Construction Technologies for HVDC Operation and Maintenance",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2486",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-03T00:00:00.000Z",
-      "excerpt": "Large-scale UHVDC and flexible DC projects accumulate scattered multi-modal O&amp;amp;M data across independent platforms, fragmenting domain knowledge and reducing the efficiency of intelligent fault diagnosis and dispo…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2485: Adaptive Fuzzy Sliding-Mode Control for Trajectory Tracking of Six-Joint Robot Manipulators",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2485",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-03T00:00:00.000Z",
-      "excerpt": "This paper addresses the high-precision trajectory tracking control problem for robotic manipulators operating in uncertain environments by proposing a novel fuzzy adaptive gain-tuning sliding-mode control (FAGT-SMC) alg…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2484: Multi-Response Optimization of Dry Turning Parameters for Incoloy 800H Superalloy Using a Grey-Fuzzy Algorithm",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2484",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-03T00:00:00.000Z",
-      "excerpt": "Incoloy 800H (Fe&amp;ndash;Ni&amp;ndash;Cr) is an iron-based superalloy that is difficult to machine because of its rapid work-hardening behaviour. Although Taguchi-based grey relational analysis has previously been appl…"
-    },
-    {
       "title": "Scientists left water inside a battery and nearly doubled its power",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729043937.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -546,30 +586,6 @@
       "category": "geoscience",
       "published": "2026-08-01T06:38:28.000Z",
       "excerpt": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal s…"
-    },
-    {
-      "title": "Chevron reports net income of $12.1bn in Q2 2026",
-      "link": "https://www.offshore-technology.com/news/chevron-q2-2026-reports/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-07-31T13:39:43.000Z",
-      "excerpt": "Chevron has reported a net income of $12.1bn for the Q2 of 2026, marking a 384% increase from $2.5bn in the same period of 2025."
-    },
-    {
-      "title": "Emera receives final approval for sale of New Mexico Gas",
-      "link": "https://www.offshore-technology.com/news/emera-final-approval-sale-new-mexico-gas/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-07-31T10:11:51.000Z",
-      "excerpt": "Emera has secured final approval from the New Mexico Public Regulation Commission (NMPRC) to complete the sale of New Mexico Gas Company (NMGC) to Bernhard Capital Partners."
-    },
-    {
-      "title": "NYK targets MidOcean Energy stake via Mitsubishi SPV",
-      "link": "https://www.offshore-technology.com/news/nyk-targets-midocean-energy-stake/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-07-31T10:04:39.000Z",
-      "excerpt": "Japanese shipping firm Nippon Yusen Kabushiki Kaisha (NYK) has announced plans to participate in an investment in MidOcean Energy, an EIG-backed liquefied natural gas (LNG) company based in the UK."
     },
     {
       "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
@@ -644,14 +660,6 @@
       "excerpt": "Researchers discovered that electricity can dramatically reshape how heat flows through certain ceramic materials, increasing heat conduction by almost threefold in a preferred direction. The unexpected result could lead…"
     },
     {
-      "title": "NASA satellites are watching Earth's newest island rise from the sea",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260710003517.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-07-10T22:57:49.000Z",
-      "excerpt": "A newly discovered underwater volcanic eruption north of Papua New Guinea is unfolding in one of the world's most poorly mapped ocean basins. Satellites have spotted steam plumes, ash, thermal hotspots, and huge floating…"
-    },
-    {
       "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
       "link": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -722,14 +730,6 @@
       "category": "energy",
       "published": "2026-05-29T06:48:33.000Z",
       "excerpt": "Scientists have uncovered a surprising new way to control superconductivity — the mysterious phenomenon where electricity flows with zero energy loss. By pairing twisted layers of graphene with a synthetic diamond materi…"
-    },
-    {
-      "title": "A 100-year-old piano mystery has finally been solved",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528073949.htm",
-      "source": "ScienceDaily — Energy Technology",
-      "category": "energy",
-      "published": "2026-05-28T11:51:24.000Z",
-      "excerpt": "For more than a century, pianists and music teachers have argued over whether a performer’s touch can actually change the tone color of a piano note — and now scientists say the answer is yes. Using a cutting-edge sensor…"
     },
     {
       "title": "CO 2 leakage risk prediction during CO 2 storage in depleted oil and gas reservoirs",
