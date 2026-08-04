@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T15:07:05.282Z",
+  "generatedAt": "2026-08-04T20:11:38.173Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,54 @@
   ],
   "items": [
     {
+      "title": "How does social vulnerability evolve after a tropical cyclone?",
+      "link": "https://phys.org/news/2026-08-social-vulnerability-evolve-tropical-cyclone.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-04T19:50:01.000Z",
+      "excerpt": "After tropical cyclones, communities are often left in upheaval. Those that had few resources to begin with tend to be especially vulnerable to external stresses, and people often experience homelessness, health problems…"
+    },
+    {
+      "title": "Do aging microplastics increase environmental risks from organic contaminants? Study suggests less than expected",
+      "link": "https://phys.org/news/2026-08-aging-microplastics-environmental-contaminants.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-04T19:00:04.000Z",
+      "excerpt": "Researchers find that soil aging of polyethylene microplastics has only a limited effect on their interactions with organic contaminants. Scientists have long worried that aging microplastics in soil could become increas…"
+    },
+    {
+      "title": "Early snow loss exposes Barnes Ice Cap bare ice by mid-July",
+      "link": "https://phys.org/news/2026-08-early-loss-exposes-barnes-ice.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-04T18:30:01.000Z",
+      "excerpt": "For most of the year, the Barnes Ice Cap in the Canadian Arctic lies quiet under a blanket of snow. By summer, that snow melts back, and the ice cap transforms in texture, its bare ice dotted with turquoise ponds and its…"
+    },
+    {
+      "title": "What's in the dust? Study finds hidden metals in city streets",
+      "link": "https://phys.org/news/2026-08-hidden-metals-city-streets.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-04T18:00:01.000Z",
+      "excerpt": "If you're in an urban area with strong winds, chances are you are breathing in more than a little dust. You could be exposed to metals from cars, construction sites or pesticides used decades ago."
+    },
+    {
+      "title": "Reducing night lights in cities has ecological effects",
+      "link": "https://phys.org/news/2026-08-night-cities-ecological-effects.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-04T17:40:03.000Z",
+      "excerpt": "Artificial light at night (ALAN) can cause plants to open their buds and sprout leaves earlier in the spring. ALAN can also cause trees to delay changing the color of their leaves in the fall. These changes can ripple th…"
+    },
+    {
+      "title": "New findings on the eruption history of the West Eifel maar volcanoes",
+      "link": "https://phys.org/news/2026-08-eruption-history-west-eifel-maar.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-04T17:00:03.000Z",
+      "excerpt": "The West Eifel Volcanic Field comprises more than 100 maars—circular lakes formed by explosive eruptions. Until now, little was known about when these volcanic eruptions occurred. A research team from Heidelberg Universi…"
+    },
+    {
       "title": "L&T-led consortium secures offshore project contract from ADNOC",
       "link": "https://www.offshore-technology.com/news/lt-led-adnoc-offshore-project/",
       "source": "Offshore Technology",
@@ -137,7 +185,7 @@
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-08-04T06:46:22.000Z",
-      "excerpt": "Three lions from a Tokyo zoo have died from suspected heatstroke, and others are under treatment, a spokeswoman said Tuesday, with the big cats struggling with high humidity."
+      "excerpt": "Three lions at a Tokyo zoo have died from suspected heatstroke, and others are under treatment, a spokeswoman said Tuesday, with the big cats struggling with high humidity."
     },
     {
       "title": "Hex9: A Quasi-Authalic, Quasi-Continuous Hexagonal DGGS on the Reference Ellipsoid",
@@ -236,6 +284,22 @@
       "excerpt": "arXiv:2608.00352v1 Announce Type: cross Abstract: Thermospheric mass density governs aerodynamic drag in low Earth orbit and is a primary source of uncertainty in orbit prediction and conjunction assessment, particularly…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 3670: Understanding the Dual Role of Ionomer Content in PEMFC Catalyst Layers: Trade-Offs Between Performance and Durability",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3670",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-04T00:00:00.000Z",
+      "excerpt": "Electrochemical reactions in proton exchange membrane fuel cells (PEMFCs) predominantly occur within the membrane electrode assembly (MEA), dictating power output and lifetime. As a key functional component of the cataly…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3669: A Fusion Mechanism-Coordinated Dynamic Modeling Approach for Smartphone Battery Depletion Prediction",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3669",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-04T00:00:00.000Z",
+      "excerpt": "Accurate time-to-empty (TTE) estimation for smartphones remains challenging because battery electrochemical dynamics interact with highly variable device-level power demands. This study develops the Fusion Mechanism-Coor…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3668: Breaking Barriers: Strategies for Effective Protection of DC Microgrid Systems",
       "link": "https://www.mdpi.com/1996-1073/19/15/3668",
       "source": "Energies (MDPI)",
@@ -316,20 +380,20 @@
       "excerpt": "Renewable energy self-consumption is increasingly relevant to Saudi Arabia not only as a sustainability measure under Saudi Vision 2030 but also as a mechanism that may support electricity system resilience, demand manag…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3659: Non-Uniform Aging Diagnosis of High-Voltage Machine Stator-Winding Insulation Using Multi-Indicator Fusion of Dielectric Spectra",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3659",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2500: Response Surface Optimization of Apple Powder Incorporation and Processing Conditions for Improving the Quality of Whipped Yeast-Free Frozen Dough and Bread",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2500",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-04T00:00:00.000Z",
-      "excerpt": "Accurate assessment of the stator-winding insulation condition in high-voltage machines is crucial for safe operation. Conventional evaluation methods treat the insulation as spatially uniform and provide only a holistic…"
+      "excerpt": "Mechanically aerated yeast-free dough is particularly susceptible to freeze&amp;ndash;thaw damage because its porous structure is formed before freezing and cannot be restored during thawing due to the absence of ferment…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3658: Sentinel-2-Derived Water Surface Mapping and Bathymetric Analysis of Reservoirs for Floating PV Deployment: A Case Study of the Basilicata Region, Southern Italy",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3658",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2498: Recent Advances in the Functionalization Design and Applications of Natural Polyphenols in Metal&ndash;Organic Frameworks",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2498",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-04T00:00:00.000Z",
-      "excerpt": "Floating photovoltaics (FPV) offer a sustainable approach to renewable energy production while enhancing water resource management by reducing land use, improving module efficiency through natural cooling, and limiting w…"
+      "excerpt": "As naturally occurring bioactive molecules derived from plants, polyphenols exhibit significant potential for the functional modification and structural regulation of metal&amp;ndash;organic frameworks (MOFs) due to thei…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2499: The Influence of Different Pore Shapes on Methane Adsorption Characteristics of Coal",
@@ -410,54 +474,6 @@
       "category": "geoscience",
       "published": "2026-08-03T20:20:04.000Z",
       "excerpt": "It is six months since the main road into the village of Torcross, in South Devon, collapsed after a series of storms caused extensive damage to the community's sea defenses. Residents are still coming to terms with the…"
-    },
-    {
-      "title": "World Meteorological Organization says prepare for a strong El Niño",
-      "link": "https://phys.org/news/2026-08-world-meteorological-strong-el-nio.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-03T20:00:05.000Z",
-      "excerpt": "El Niño continues to intensify steadily and is expected to dominate global climate patterns in the August to October 2026 season, increasing the likelihood of above-normal temperatures across much of the world and drivin…"
-    },
-    {
-      "title": "Nanopore method improves detection of cyanobacteria toxins in lake water",
-      "link": "https://phys.org/news/2026-08-nanopore-method-cyanobacteria-toxins-lake.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-03T19:00:02.000Z",
-      "excerpt": "Cyanobacterial blooms, like the ones that occur in Lake Geneva, are rapid, dense growths of photosynthetic bacteria in fresh and marine waters that can threaten the health of swimmers and their pets."
-    },
-    {
-      "title": "Hurricane storm surge follows predictable patterns, study finds",
-      "link": "https://phys.org/news/2026-08-hurricane-storm-surge-patterns.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-03T18:40:07.000Z",
-      "excerpt": "When a hurricane roars toward land, forecasters try to predict how high sea levels will rise to help coastal communities prepare for the worst impacts."
-    },
-    {
-      "title": "Climate‑related 'silent adaptation' coping strategies are going beyond official directives",
-      "link": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-03T17:40:01.000Z",
-      "excerpt": "Scientific reports, political directives and national plans follow one after another, urging regions to adapt to new climate realities. Yet one question remains: How do adaptation initiatives among local communities and…"
-    },
-    {
-      "title": "HOAs are often barriers to sustainable landscaping and solar energy. Here's how they could be bridges instead",
-      "link": "https://phys.org/news/2026-08-hoas-barriers-sustainable-landscaping-solar.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-03T17:20:05.000Z",
-      "excerpt": "If you build a house in the United States today, there's a good chance you'll be living under the dictates of a neighborhood homeowners association—roughly two out of every three new homes are in an HOA, as are a third o…"
-    },
-    {
-      "title": "New models shed light on how an exotic phase of hydrogen in Earth's core may behave",
-      "link": "https://phys.org/news/2026-08-exotic-phase-hydrogen-earth-core.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-03T17:20:01.000Z",
-      "excerpt": "While Earth's core consists mostly of iron, its density implies that lighter elements are also mixed in. Because hydrogen is abundant in the universe and can mix with iron under certain conditions, scientists suspect it…"
     },
     {
       "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
@@ -554,22 +570,6 @@
       "category": "processing",
       "published": "2026-08-03T00:00:00.000Z",
       "excerpt": "This study investigates the effects of the length-to-diameter (L/D) ratio on the indirect tensile strength of red sandstone using Brazilian splitting tests combined with acoustic emission (AE) and digital image correlati…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2488: Controlled Three-Dimensional Numerical Comparison of Parallel and Serpentine Flow Field Designs in a Self-Humidified Low-Temperature PEM Fuel Cell",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2488",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-03T00:00:00.000Z",
-      "excerpt": "Proton exchange membrane fuel cells (PEMFCs) are critical parts of new-age green hydrogen energy systems where reactant distribution and water management determine performance and reliability. A three-dimensional, steady…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2487: Molecular Simulation of H2/CH4 Competitive Adsorption and Diffusion in Representative Reservoir Minerals: Implications for Hydrogen Storage in Depleted Gas Reservoirs",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2487",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-03T00:00:00.000Z",
-      "excerpt": "Underground hydrogen storage in depleted gas reservoirs has emerged as a key technology for large-scale hydrogen energy storage. However, the occurrence state of hydrogen is governed by residual methane and reservoir min…"
     },
     {
       "title": "Scientists left water inside a battery and nearly doubled its power",
