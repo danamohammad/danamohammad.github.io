@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T14:59:27.937Z",
+  "generatedAt": "2026-08-05T20:12:30.806Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,54 @@
     }
   ],
   "items": [
+    {
+      "title": "Harvesting rainwater from rooftops could help cities stay cool and cut the number of heat wave days",
+      "link": "https://phys.org/news/2026-08-harvesting-rainwater-rooftops-cities-stay.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-05T19:50:01.000Z",
+      "excerpt": "Collecting rainwater from rooftops and using it to spray buildings during hot weather could help cities cut air conditioning use, lower urban temperatures and lessen the impact of heat waves, according to new research fr…"
+    },
+    {
+      "title": "Unprecedented biomass loss in Europe's forests since 2018",
+      "link": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-05T19:00:03.000Z",
+      "excerpt": "Using satellite data, researchers at TUM have identified an unprecedented loss of aboveground biomass in Europe's forests since 2018. Unlike previous studies that focused solely on changes in tree cover, this study provi…"
+    },
+    {
+      "title": "Study finds it's where you log, not just how much, that determines flood risk",
+      "link": "https://phys.org/news/2026-08-study-finds-it-where-you.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-05T17:40:10.000Z",
+      "excerpt": "Watersheds that are flatter, drier and warmer are generally more vulnerable to increases in flooding after trees are harvested. Those with greater variation in elevation spread runoff out over time, reducing flood peaks."
+    },
+    {
+      "title": "As urban tree shade shrinks, mortality rises",
+      "link": "https://phys.org/news/2026-08-urban-tree-mortality.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-05T17:20:06.000Z",
+      "excerpt": "As trees disappear from urban neighborhoods, lives may be lost with them. In a new study, Northwestern University scientists tracked death rates and fluctuations in tree canopy cover across an 11-year period in Chicago.…"
+    },
+    {
+      "title": "Human activity more than doubles Arctic fire occurrence, satellite analysis suggests",
+      "link": "https://phys.org/news/2026-08-human-arctic-occurrence-satellite-analysis.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-05T15:20:05.000Z",
+      "excerpt": "Fires in the Arctic are not solely a regional issue, as shown by the hazy skies in Switzerland last summer despite otherwise sunny weather. Smoke from major fires in northern Canada crossed the Atlantic and reached Europ…"
+    },
+    {
+      "title": "Avalanche cracks may appear globally supersonic while remaining locally subsonic",
+      "link": "https://phys.org/news/2026-08-avalanche-globally-supersonic-locally-subsonic.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-05T15:00:13.000Z",
+      "excerpt": "Can a crack be supersonic? Can the fracture that triggers an avalanche propagate faster than the limiting velocity predicted by classical fracture mechanics? The question remains the subject of debate within the scientif…"
+    },
     {
       "title": "Act now on microplastic risks, businesses urged",
       "link": "https://phys.org/news/2026-08-microplastic-businesses-urged.html",
@@ -162,6 +210,14 @@
       "category": "geoscience",
       "published": "2026-08-05T01:40:04.000Z",
       "excerpt": "The power of social influence could be key to changing attitudes and behaviors around climate change, according to a new study by researchers at the Center for Climate Change and Social Transformations (CAST). The team e…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3693: Temporal-Feature-Enhanced Reinforcement Learning Control with Adaptive Speed-Loop Gain for PMSM Drives",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3693",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-05T00:00:00.000Z",
+      "excerpt": "The high-performance control of permanent magnet synchronous motor (PMSM) drives is challenged by operating uncertainties and coupled electromechanical dynamics. This paper proposes a temporal-feature-enhanced reinforcem…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3692: Real-World Combustion Emissions, Engine Size and Vehicle Mass Versus Euro-Class Access Criteria in Low-Emission Zones",
@@ -252,12 +308,12 @@
       "excerpt": "With the rise in small-scale distributed photovoltaic (PV) power generation technology, the behind-the-meter PV problem has greatly increased the difficulty of power system regulation and management and accurate net-load…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3681: Bi-Level Stackelberg Game-Based Optimization Model for Shared Energy Storage in Data Centers Considering Computational Flexibility",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3681",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2519: Adaptive Lagrangian Penalty-Enhanced Proximal Policy Optimization for Flexible Job Shop Rescheduling with Worker Workload Constraints Under Concurrent Dynamic Disturbances",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2519",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-05T00:00:00.000Z",
-      "excerpt": "With the explosive growth in demand for artificial intelligence and computing power, the energy consumption of data centers has sharply increased, making their green and low-carbon operation an urgent need. Shared energy…"
+      "excerpt": "When flexible job shop scheduling faces concurrent disturbances such as machine failures and rush orders, worker-centric constraints emphasized under Industry 5.0 must also be satisfied. Existing deep reinforcement learn…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2518: Effects of Hydro-Softening and Confining Pressure on the Mechanical Response and Energy-Damage Mechanisms of Argillaceous Sandstone",
@@ -346,62 +402,6 @@
       "category": "processing",
       "published": "2026-08-05T00:00:00.000Z",
       "excerpt": "The aim of this study was to develop a roasting&amp;ndash;magnetic separation technology for ferruginous manganese fines generated during the processing of ores from the Tur deposit in order to reduce iron content and in…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2508: Control Mechanism of Water Shield on Pressure Dynamics of CO2 Huff-n-Puff and Crude Oil Mobilization Effect in Tight Reservoirs",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2508",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-05T00:00:00.000Z",
-      "excerpt": "Tight oil reservoirs are characterized by poor petrophysical properties, ultra-low permeability, and limited pressure-transmission capacity. After hydraulic fracturing, retained fracturing fluid can accumulate near the f…"
-    },
-    {
-      "title": "East Africa's iconic snow peaks will soon disappear for good. What will be lost when they melt?",
-      "link": "https://phys.org/news/2026-08-east-africa-iconic-peaks-good.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-04T23:20:01.000Z",
-      "excerpt": "East Africa's shrinking mountain glaciers on three peaks in Kenya, Uganda and Tanzania will soon be no more. The 2025 State of the Climate in Africa report (page 13) estimates that the ice areas on Mount Kenya, the conti…"
-    },
-    {
-      "title": "Cannabis farming is changing streams in California, experts warn",
-      "link": "https://phys.org/news/2026-08-cannabis-farming-streams-california-experts.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-04T22:20:04.000Z",
-      "excerpt": "Groundwater pumped to irrigate cannabis crops in California's Emerald Triangle can cause some streams that normally run year-round to dry up entirely during summer, say researchers from Simon Fraser University, the Unive…"
-    },
-    {
-      "title": "Marine carbon removal technology that turns carbon dioxide in seawater into 'stone' for permanent storage",
-      "link": "https://phys.org/news/2026-08-marine-carbon-technology-dioxide-seawater.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-04T21:40:05.000Z",
-      "excerpt": "A research team led by Professor Dong-Yeun Koh of the Department of Chemical and Biomolecular Engineering, in collaboration with Professor T. Alan Hatton's group at the Massachusetts Institute of Technology (MIT), develo…"
-    },
-    {
-      "title": "After the Palisades and Eaton fires, research offers new answers for communities as they rebuild",
-      "link": "https://phys.org/news/2026-08-palisades-eaton-communities-rebuild.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-04T21:30:01.000Z",
-      "excerpt": "More than a year after the Palisades and Eaton fires, many residents are still asking: Is my yard contaminated? What about the beach? And what should I do if there is contamination?"
-    },
-    {
-      "title": "How does social vulnerability evolve after a tropical cyclone?",
-      "link": "https://phys.org/news/2026-08-social-vulnerability-evolve-tropical-cyclone.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-04T19:50:01.000Z",
-      "excerpt": "After tropical cyclones, communities are often left in upheaval. Those that had few resources to begin with tend to be especially vulnerable to external stresses, and people often experience homelessness, health problems…"
-    },
-    {
-      "title": "Do aging microplastics increase environmental risks from organic contaminants? Study suggests less than expected",
-      "link": "https://phys.org/news/2026-08-aging-microplastics-environmental-contaminants.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-04T19:00:04.000Z",
-      "excerpt": "Researchers find that soil aging of polyethylene microplastics has only a limited effect on their interactions with organic contaminants. Scientists have long worried that aging microplastics in soil could become increas…"
     },
     {
       "title": "L&T-led consortium secures offshore project contract from ADNOC",
