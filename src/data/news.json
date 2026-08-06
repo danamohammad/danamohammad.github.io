@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T03:52:50.982Z",
+  "generatedAt": "2026-08-06T09:26:28.352Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 1,
+      "count": 5,
       "error": null
     },
     {
@@ -75,6 +75,102 @@
     }
   ],
   "items": [
+    {
+      "title": "Pacific islands alarmed by Trump-backed push for deep-sea mining",
+      "link": "https://phys.org/news/2026-08-pacific-islands-alarmed-trump-deep.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-06T08:40:01.000Z",
+      "excerpt": "A Pacific island leader says there were \"no consultations\" before the U.S. announced swaths of nearby ocean could be auctioned for deep-sea mining exploration, telling AFP the industry faced strong opposition among his p…"
+    },
+    {
+      "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement",
+      "link": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-06T07:40:01.000Z",
+      "excerpt": "Human-caused climate change doubled the likelihood of the tinderbox weather conditions that sparked Canada's massive summer wildfires and in turn angered U.S. President Donald Trump, according to a study released Thursda…"
+    },
+    {
+      "title": "Fuego volcano activity that triggered evacuations in Guatemala is decreasing, but risks remain",
+      "link": "https://phys.org/news/2026-08-fuego-volcano-triggered-evacuations-guatemala.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-06T07:03:33.000Z",
+      "excerpt": "Activity at Guatemala's Fuego volcano that began Monday morning and caused widespread evacuations is gradually decreasing, authorities said Wednesday."
+    },
+    {
+      "title": "Regional Chaos Synchronization towards controlling high-dimensional open environmental systems",
+      "link": "https://arxiv.org/abs/2608.04301",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-06T04:00:00.000Z",
+      "excerpt": "arXiv:2608.04301v1 Announce Type: new Abstract: Although controlling chaos can be regarded as a form of chaos synchronization, conventional chaos synchronization does not provide a practical framework for controlling hig…"
+    },
+    {
+      "title": "Theoretical Framework for Phase-space Local-Angle-Domain Waveform Inversion in Anisotropic Elastic Media",
+      "link": "https://arxiv.org/abs/2608.04901",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-06T04:00:00.000Z",
+      "excerpt": "arXiv:2608.04901v1 Announce Type: new Abstract: We present a phase-space formulation of elastic full-waveform inversion (FWI) based on local-angle-domain (LAD) representations of seismic scattering. Instead of minimizing…"
+    },
+    {
+      "title": "Modified Hamiltonian-driven shortest-path ray tracing in dissipative anisotropic media",
+      "link": "https://arxiv.org/abs/2608.04958",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-06T04:00:00.000Z",
+      "excerpt": "arXiv:2608.04958v1 Announce Type: new Abstract: Enhancing ray tracing in dissipative anisotropic media is challenging because the subsurface exhibits both geologic and rheological discontinuities and directionally depend…"
+    },
+    {
+      "title": "Joint dynamical-geophysical evidence for a limit cycle in the Galilean moons",
+      "link": "https://arxiv.org/abs/2608.04226",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-06T04:00:00.000Z",
+      "excerpt": "arXiv:2608.04226v1 Announce Type: cross Abstract: Io, Europa, and Ganymede orbit in the Laplace mean-motion resonance, where their orbital and thermochemical evolution are strongly coupled [1-5]. Forced eccentricities su…"
+    },
+    {
+      "title": "HydroFirn: A numerical model for large-scale multidimensional firn hydrology",
+      "link": "https://arxiv.org/abs/2604.11488",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-06T04:00:00.000Z",
+      "excerpt": "arXiv:2604.11488v2 Announce Type: replace Abstract: Observations show the multidimensional dynamics of meltwater and distribution of ice layers in the firn on the Greenland Ice Sheet. However, state-of-the-art large-scal…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3695: A New Approach for the Measurement of the Complex Value of Fault-Loop Impedance in Low-Voltage Electrical Installations",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3695",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-06T00:00:00.000Z",
+      "excerpt": "The primary method for verifying the safety of electrical installations is the measurement of fault-loop impedance. The most common approach involves measuring the voltage under no-load and load conditions and determinin…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3694: T-HMM-Based Transformer Fault Diagnosis in Grid-Connected Renewable Energy Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/15/3694",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-06T00:00:00.000Z",
+      "excerpt": "Addressing multi-factor coupling, progressive degradation, and time-varying operating conditions in substation equipment under high-penetration renewable energy integration, this paper proposes a Time-varying Hidden Mark…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2522: Deep Projected Gradient Network to Accelerate Low-Carbon Economic Dispatch Considering Energy Storage",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2522",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-06T00:00:00.000Z",
+      "excerpt": "Under the strategic goals of &amp;ldquo;peak carbon emissions and carbon neutrality&amp;rdquo;, traditional methods for solving economic dispatch problems involving carbon emission trading costs, wind power, and energy s…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2521: Process-Based Geochemical Constraints on Organic Matter Enrichment and Shale Oil Potential in the Upper Jiufotang Formation, Ludong Sag, NE China",
+      "link": "https://www.mdpi.com/2227-9717/14/15/2521",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-06T00:00:00.000Z",
+      "excerpt": "Accurately identifying organic-rich shale intervals remains a major challenge in lacustrine shale oil exploration, particularly in continental rift basins characterized by rapid environmental change and pronounced vertic…"
+    },
     {
       "title": "Processes, Vol. 14, Pages 2520: Fracture Propagation Characteristics and Influencing Factors in Cross-Layer Fracturing of Interlayered Shale Reservoirs",
       "link": "https://www.mdpi.com/2227-9717/14/15/2520",
@@ -156,12 +252,12 @@
       "excerpt": "A new white paper released by experts at the UTS Business School highlights the risks businesses face if they ignore growing scientific evidence and consumer awareness of the dangers posed by microplastics."
     },
     {
-      "title": "Study finds climate-driven greening is reshaping East Asia's air pollution",
-      "link": "https://phys.org/news/2026-08-climate-driven-greening-reshaping-east.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-05T13:10:01.000Z",
-      "excerpt": "The effects of climate change extend far beyond rising temperatures. As forests and other vegetation respond to a warming world, they also change the amount of biogenic emissions released into the atmosphere, influencing…"
+      "title": "Shell to invest in Surat Gas Project Central in Queensland",
+      "link": "https://www.offshore-technology.com/news/shell-arrow-energys-surat-project-australia/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-05T12:34:10.000Z",
+      "excerpt": "Shell is set to invest in the next phase of Arrow Energy’s Surat Gas Project in Queensland, Australia, to secure ongoing gas supply for both domestic customers and its QCLNG export terminal."
     },
     {
       "title": "An essential guide to wind turbine gear oil performance tests",
@@ -188,36 +284,12 @@
       "excerpt": "ExxonMobil Global Projects has awarded Sercel a one-year contract to deploy its Marlin solution on the Whiptail project in the Stabroek Block, offshore Guyana."
     },
     {
-      "title": "Melting sea ice combines with Arctic sea to make clouds",
-      "link": "https://phys.org/news/2026-08-sea-ice-combines-arctic-clouds.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-05T09:00:03.000Z",
-      "excerpt": "Scientists have uncovered a previously unknown natural process that dramatically increases the number of cloud-forming particles in the Arctic atmosphere—potentially altering cloud cover, sunlight reflection and future c…"
-    },
-    {
       "title": "BP Q2 2026 profit surges 124% to $4.33bn",
       "link": "https://www.offshore-technology.com/news/bp-q2-2026-profit-4-33bn/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-08-05T07:52:51.000Z",
       "excerpt": "BP has announced a profit of $4.33bn for the second quarter of 2026 (Q2 2026), marking a 124.35% increase from the $1.93bn recorded in the same quarter of the previous year."
-    },
-    {
-      "title": "Fuego volcano spews more ash and mud as Guatemala shelters 1,700 who fled nearby villages",
-      "link": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-05T06:38:30.000Z",
-      "excerpt": "Guatemala remained on alert Tuesday after evacuating villages during an eruption of the Fuego volcano, one of Central America's most active."
-    },
-    {
-      "title": "Spatio-temporal evolution of low-magnitude seismicity before the May 24, 2013, Sea of Okhotsk earthquake recovered by waveform cross correlation. Is it an earthquake prediction case?",
-      "link": "https://arxiv.org/abs/2603.26717",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-05T04:00:00.000Z",
-      "excerpt": "arXiv:2603.26717v2 Announce Type: replace Abstract: According to the International Data Centre (IDC), the Sea of Okhotsk earthquake occurred at 05:44:49.7 on May 24, 2013, had coordinates 54.89{\\deg}N,153.31{\\deg}E, mb=6…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3693: Temporal-Feature-Enhanced Reinforcement Learning Control with Adaptive Speed-Loop Gain for PMSM Drives",
@@ -300,22 +372,6 @@
       "excerpt": "High photovoltaic penetration increases reserve needs in active distribution networks, while PEDF microgrid flexibility is seldom coordinated as a reserve product. This study develops a complete-information Stackelberg f…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3684: Autonomous Droop-Based Load Control in PV-Supplied DC Microgrids for Effective Power Sharing",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3684",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-05T00:00:00.000Z",
-      "excerpt": "PV-supplied DC microgrids (PV-DCMGs) are well suited to powering many off-grid applications. Droop control is an effective approach for managing sources in microgrids because it improves system reliability and scalabilit…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3682: Bi-Mamba-Based Net-Load Forecasting Method with Multidimensional Temporal Information Fusion",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3682",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-05T00:00:00.000Z",
-      "excerpt": "With the rise in small-scale distributed photovoltaic (PV) power generation technology, the behind-the-meter PV problem has greatly increased the difficulty of power system regulation and management and accurate net-load…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2519: Adaptive Lagrangian Penalty-Enhanced Proximal Policy Optimization for Flexible Job Shop Rescheduling with Worker Workload Constraints Under Concurrent Dynamic Disturbances",
       "link": "https://www.mdpi.com/2227-9717/14/15/2519",
       "source": "Processes (MDPI)",
@@ -388,22 +444,6 @@
       "excerpt": "As intelligent power grid construction accelerates, power metering warehouses increasingly require fully automatic handling of diverse and fragile devices, ranging from smart meters to current transformers. Conventional…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2510: Prior-Informed Separation of Long-Scale Shape and Short-Scale Texture on Blast Furnace Burden Surfaces",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2510",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-05T00:00:00.000Z",
-      "excerpt": "Particle-scale analysis of blast furnace burden surfaces lacks an operational criterion for separating long-scale shape from short-scale texture on complex digital elevation models. This study proposes a prior-informed f…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2509: Large-Scale Physical Simulation of CO2 Hydrate Dissociation and Reservoir Response",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2509",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-05T00:00:00.000Z",
-      "excerpt": "Large-scale physical model experiments play a critical role in understanding the coupled thermo&amp;ndash;hydro-mechanical responses during hydrate dissociation. In this study, a specially designed large-scale physical s…"
-    },
-    {
       "title": "L&T-led consortium secures offshore project contract from ADNOC",
       "link": "https://www.offshore-technology.com/news/lt-led-adnoc-offshore-project/",
       "source": "Offshore Technology",
@@ -466,14 +506,6 @@
       "category": "industry",
       "published": "2026-08-03T13:10:35.000Z",
       "excerpt": "Oil prices declined by more than $4 a barrel on 03 August after US President Donald Trump decided not to authorise a new attack on Iran."
-    },
-    {
-      "title": "‘Absolutely the right time’ for geothermal – Q&A with Baker Hughes Geothermal VP",
-      "link": "https://www.offshore-technology.com/features/absolutely-the-right-time-for-geothermal-qa-with-baker-hughes-geothermal-vp/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-03T11:12:50.000Z",
-      "excerpt": "Increasing global energy demand and improving drilling technology have driven oil and gas majors to invest in geothermal."
     },
     {
       "title": "Some coastal cities are sinking faster than the ocean is rising",
@@ -842,38 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Xiaoqing Zhang, Yuqiao Zhou, Zhaohuan Zhang, Xiao Ma, Fu-Zhen Xuan, Shijin Shuai"
-    },
-    {
-      "title": "Single fuel particle emissivity evolution of biomass, coal and coal char",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025366?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): L. Pörtner, M. Schiemann"
-    },
-    {
-      "title": "DFT study on the adsorption characteristics of NH 3 and co on FEO surfaces and their influence on iron whisker formation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026256?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Huilong Dang, Fanrui Meng, Xianchun Li, Shouhan He, Shuang Liu"
-    },
-    {
-      "title": "Impact of NO 2 and NH 3 in exhaust on NOx sensors in vehicles with different fuel types",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602586X?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Zihao Ge, Liqun Lyu, Chongyao Wang, Chen Dong, Jianwei Tan, Ying Huang, Xin Wang"
-    },
-    {
-      "title": "Lightening asymmetric combustion, improving burnout, and reducing NO x emissions based on asymmetric secondary-air distribution in the freeboard of a coal-fired grate furnace",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026220?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Hengyao Ren, Min Kuang, Wenxuan Zhu, Xinbo Zhu, Yeping Wu"
     }
   ]
 }
