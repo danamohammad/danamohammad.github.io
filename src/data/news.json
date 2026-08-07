@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:55:46.171Z",
+  "generatedAt": "2026-08-07T19:36:25.493Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -22,7 +22,7 @@
     {
       "name": "International Journal of Greenhouse Gas Control",
       "ok": true,
-      "count": 66,
+      "count": 67,
       "error": null
     },
     {
@@ -75,6 +75,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Oil dispersants reshape Arctic sea-ice microbes but do not markedly accelerate oil breakdown",
+      "link": "https://phys.org/news/2026-08-oil-dispersants-reshape-arctic-sea.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-07T17:36:42.000Z",
+      "excerpt": "By making the Arctic less ice-covered, climate warming has increased both shipping traffic and the risk of oil spills in the region. Changing ice conditions may, however, affect the effectiveness of currently available o…"
+    },
+    {
+      "title": "From mountain peaks to microclimates, new maps bring satellite big data down to Earth",
+      "link": "https://phys.org/news/2026-08-mountain-peaks-microclimates-satellite-big.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-07T14:40:03.000Z",
+      "excerpt": "Zooming from her office, Michigan State University researcher Kelly Kapsar showed satellite images from across the United States. In some, different colors revealed the precise heights of the forested ridges in the Sierr…"
+    },
     {
       "title": "ADNOC L&S buys 11 vessels in $1.3bn fleet expansion",
       "link": "https://www.offshore-technology.com/news/adnoc-ls-1-3bn-fleet-expansion/",
@@ -172,6 +188,30 @@
       "excerpt": "arXiv:2608.04901v2 Announce Type: replace Abstract: We present a phase-space formulation of elastic full-waveform inversion (FWI) based on local-angle-domain (LAD) representations of seismic scattering. Instead of minimi…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 3724: Friction-Aware Optimization of Manufacturable Balancing Cam Profiles for Passive Torque and Velocity Stabilization in Internal Combustion Engines",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3724",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-07T00:00:00.000Z",
+      "excerpt": "Torque and angular velocity fluctuations during idle and low-speed operation decrease drivetrain efficiency, increase vibration, and impose irregular loading on coupled systems such as hybrid powertrain generators and co…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3723: Energy Intensity Mapping of Battery-Electric vs. Diesel Heavy Haulage in Surface Mining: The Interplay of Payload Dynamics and Ambient Temperature",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3723",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-07T00:00:00.000Z",
+      "excerpt": "Decarbonizing heavy-duty transport in the mining sector requires a deep understanding of the interplay between specific energy consumption, payload dynamics, and ambient thermal stressors. This study presents an integrat…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3722: A Physics-Constrained Super-Resolution Framework for Wind Resource Mapping: Application to Brazil",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3722",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-07T00:00:00.000Z",
+      "excerpt": "High-resolution wind resource maps are essential for wind farm siting and renewable-energy planning, but national-scale assessment is often limited by sparse meteorological stations and the coarse resolution of reanalysi…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3721: Assessing Construction Professionals&rsquo; Perception of the Effectiveness of Sustainable Building Technologies and Design Strategies for Enhancing Building Energy Efficiency",
       "link": "https://www.mdpi.com/1996-1073/19/16/3721",
       "source": "Energies (MDPI)",
@@ -244,28 +284,28 @@
       "excerpt": "This paper investigates the use of a hybrid renewable heat-supply system based on photovoltaic&amp;ndash;thermal collectors, an industrial heat pump, thermal energy storage, and electrical energy storage for a small- to…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3712: An Integrated Experimental and Numerical Study on Water-Cut Control and Production Enhancement Strategies for Low-Permeability Reservoirs Under Edge-Water Encroachment",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3712",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2545: Theory and Application of Formation Pressure in Fractured-Vuggy Oil and Gas Reservoirs Based on Concentrated Source Theory",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2545",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "Block 116 has an annual oil production of 10.2 &amp;times; 104 t, yet the increasing edge-water encroachment has raised the natural decline rate from 7.8% to 11.4%, significantly deteriorating production performance. The…"
+      "excerpt": "In this study, a rapid analytical framework is developed for reconstructing transient formation-pressure distributions in sparsely connected fractured-vuggy carbonate reservoirs using well-test-derived fracture&amp;ndash…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3710: Regression-Based Prediction of Harmonic Current Aggregation in Domestic LED Lighting Loads: A Case Study in Indonesia",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3710",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2544: Mechanical Properties of CFRP/2024 Al Alloy Joints Fabricated by Transverse Ultrasonic-Vibration-Assisted Riveting",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2544",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "The widespread use of domestic LED lamps raises concerns about harmonic current aggregation when multiple units operate in parallel. This study presents a regression-based method for predicting aggregate current waveform…"
+      "excerpt": "The mechanical performance of CFRP/2024 Al alloy hybrid laminates joined by transverse ultrasonic vibration-assisted riveting (TUVAR) was investigated. The experiments were conducted on a self-developed ultrasonic riveti…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3711: Machine Learning for CIoT Network Selection in AMI Networks",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3711",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2543: A Comparative Study of Reliability Screening Predictions in Multifactorial DOE Industrial Trials",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2543",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "The evolution of Advanced Metering Infrastructure (AMI) requires reliable, energy-efficient, and scalable communication technologies for connecting large numbers of smart meters and gateways with utility backend systems.…"
+      "excerpt": "This paper examines the reliability of a product in terms of its lifetime, based on the investigation of certain factors within the framework of maintaining the principles of the circular economy and the sustainable desi…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2542: Techno-Economic Investigation of CO2 Injection Schemes for Geological Carbon Storage in Saline Aquifers",
@@ -338,30 +378,6 @@
       "category": "processing",
       "published": "2026-08-07T00:00:00.000Z",
       "excerpt": "Clay minerals are significant constituents of shale reservoirs, yet the confinement-induced phase behavior of hydrocarbons within clay nanopores has received comparatively less attention than in carbonaceous materials. I…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2533: Effectiveness of Microbial Composite Strains in Reducing River Sediment",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2533",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "The accumulation of sediment in rivers and lakes can elevate riverbeds, leading to a reduction in river channel flood-carrying capacity, impairment of water conservancy project benefits, and destruction of aquatic ecosys…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2531: Development and Experimental Validation of Magnetic Saturation Pulsed Eddy Current Testing for Thick Ferromagnetic Structures",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2531",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "The detection of outer-wall defects in thick ferromagnetic structures by conventional pulsed eddy current testing is limited by the shallow penetration depth caused by the high magnetic permeability of ferromagnetic mate…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2532: Polycyclic Aromatic Hydrocarbons in Meat Products: Formation, Detection and Regulatory Challenges",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2532",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "Polycyclic aromatic hydrocarbons (PAHs) are hazardous contaminants formed during incomplete combustion and frequently detected in smoked, grilled, roasted, and fried meat products. Their formation is influenced by temper…"
     },
     {
       "title": "Adding an AI tool to Google Earth shook our trust in maps that has been centuries in the making",
@@ -444,28 +460,12 @@
       "excerpt": "Jersey Oil & Gas has secured approval from the NSTA to extend the Second Term of its P2170 “Verbier” licence on the UK Continental Shelf."
     },
     {
-      "title": "Good news for our coasts and climate: Mangrove forests are bouncing back",
-      "link": "https://phys.org/news/2026-08-good-news-coasts-climate-mangrove.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-06T12:40:04.000Z",
-      "excerpt": "Mangroves are perplexing plants. They breathe through their roots, appear to stand on stilts and grow best in hot, salty seawater drawn in and out by the tide."
-    },
-    {
       "title": "Lessons from the Iran war: China’s oil buffer and energy resilience, tested",
       "link": "https://www.offshore-technology.com/news/lessons-from-the-iran-war-chinas-oil-buffer-and-energy-resilience-tested-2/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-08-06T11:06:14.000Z",
       "excerpt": "This episode analyses China's resilience against energy shocks, in light of global oil flow disruptions caused by the Iran war."
-    },
-    {
-      "title": "Low water on Germany's Rhine River threatens new blow to economy",
-      "link": "https://phys.org/news/2026-08-germany-rhine-river-threatens-economy.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-06T11:00:03.000Z",
-      "excerpt": "Dwindling water levels on Germany's major rivers, worsened by heat and drought, are raising fears that badly constrained riverboat cargo traffic may deal another blow to the struggling economy."
     },
     {
       "title": "Phillips 66 net profit rises 339% to $3.8bn in Q2 2026",
