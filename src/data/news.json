@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T03:34:56.284Z",
+  "generatedAt": "2026-08-07T07:54:50.265Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -75,6 +75,110 @@
     }
   ],
   "items": [
+    {
+      "title": "Officials will not release cool water from a Colorado River reservoir to protect threatened fish",
+      "link": "https://phys.org/news/2026-08-cool-colorado-river-reservoir-threatened.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-07T07:40:01.000Z",
+      "excerpt": "Federal officials said Thursday they will not release cool water this year from one of the Colorado River's major reservoirs, which would have protected a threatened native fish downstream but put more strain on already…"
+    },
+    {
+      "title": "BP agrees to buy Woodside’s 70% stake in Calypso gas project",
+      "link": "https://www.offshore-technology.com/news/bp-to-buy-woodsides-stake-calypso-project/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-07T07:30:46.000Z",
+      "excerpt": "BP has reached an agreement to purchase Australia-based Woodside Energy 70% interest in the Calypso gas project, located in Block TTDAA 14 offshore Trinidad and Tobago."
+    },
+    {
+      "title": "Marchenko Theory, Algorithms, and Applications: A Review",
+      "link": "https://arxiv.org/abs/2608.05214",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-07T04:00:00.000Z",
+      "excerpt": "arXiv:2608.05214v1 Announce Type: new Abstract: Seismic reflection data collected at the Earth's surface carry information from every depth in the subsurface, including the internal multiples that conventional migration…"
+    },
+    {
+      "title": "Foundation Model-Assisted Full Waveform Inversion",
+      "link": "https://arxiv.org/abs/2608.05763",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-07T04:00:00.000Z",
+      "excerpt": "arXiv:2608.05763v1 Announce Type: new Abstract: Full waveform inversion (FWI) can recover high-resolution subsurface velocity models. Conventional waveform-difference objectives, however, are vulnerable to cycle skipping…"
+    },
+    {
+      "title": "Effect of Discharge on the Nonlinear Bar Growth: A Flume Experiment",
+      "link": "https://arxiv.org/abs/2608.05593",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-07T04:00:00.000Z",
+      "excerpt": "arXiv:2608.05593v1 Announce Type: cross Abstract: Alternate bars are ubiquitous bedforms in alluvial rivers, and excessive bar-height growth can increase flood risk and disrupt ecosystems. Predicting bar-height variabili…"
+    },
+    {
+      "title": "Magnetic Dynamo Driven by Inertial Waves",
+      "link": "https://arxiv.org/abs/2608.06086",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-07T04:00:00.000Z",
+      "excerpt": "arXiv:2608.06086v1 Announce Type: cross Abstract: We demonstrate, by studying precession-driven flows, that inertial wave hydrodynamic turbulence can drive a robust magnetic dynamo action. Motivated by the stronger dampi…"
+    },
+    {
+      "title": "Dual-space posterior sampling for Bayesian inference in constrained inverse problems",
+      "link": "https://arxiv.org/abs/2603.00393",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-07T04:00:00.000Z",
+      "excerpt": "arXiv:2603.00393v2 Announce Type: replace Abstract: Inverse problems constrained by partial differential equations are often ill-conditioned due to noisy, incomplete data or inherent non-uniqueness. A prominent example i…"
+    },
+    {
+      "title": "Theoretical Framework for Phase-space Local-Angle-Domain Waveform Inversion in Anisotropic Elastic Media",
+      "link": "https://arxiv.org/abs/2608.04901",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-07T04:00:00.000Z",
+      "excerpt": "arXiv:2608.04901v2 Announce Type: replace Abstract: We present a phase-space formulation of elastic full-waveform inversion (FWI) based on local-angle-domain (LAD) representations of seismic scattering. Instead of minimi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3705: Planning of Energy Router Siting and Sizing for Load Supply Assurance Under Typical N-1 Scenarios",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3705",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-07T00:00:00.000Z",
+      "excerpt": "Ensuring continuous load supply under N-1 contingencies poses a significant challenge for active distribution networks. Traditional fault recovery relies on mechanical tie switches for network reconfiguration; however, s…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2534: Phase Behavior and Critical Properties of Hydrocarbons in Shale Illite Nanopores",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2534",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-07T00:00:00.000Z",
+      "excerpt": "Clay minerals are significant constituents of shale reservoirs, yet the confinement-induced phase behavior of hydrocarbons within clay nanopores has received comparatively less attention than in carbonaceous materials. I…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2533: Effectiveness of Microbial Composite Strains in Reducing River Sediment",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2533",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-07T00:00:00.000Z",
+      "excerpt": "The accumulation of sediment in rivers and lakes can elevate riverbeds, leading to a reduction in river channel flood-carrying capacity, impairment of water conservancy project benefits, and destruction of aquatic ecosys…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2531: Development and Experimental Validation of Magnetic Saturation Pulsed Eddy Current Testing for Thick Ferromagnetic Structures",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2531",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-07T00:00:00.000Z",
+      "excerpt": "The detection of outer-wall defects in thick ferromagnetic structures by conventional pulsed eddy current testing is limited by the shallow penetration depth caused by the high magnetic permeability of ferromagnetic mate…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2532: Polycyclic Aromatic Hydrocarbons in Meat Products: Formation, Detection and Regulatory Challenges",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2532",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-07T00:00:00.000Z",
+      "excerpt": "Polycyclic aromatic hydrocarbons (PAHs) are hazardous contaminants formed during incomplete combustion and frequently detected in smoked, grilled, roasted, and fried meat products. Their formation is influenced by temper…"
+    },
     {
       "title": "Adding an AI tool to Google Earth shook our trust in maps that has been centuries in the making",
       "link": "https://phys.org/news/2026-08-adding-ai-tool-google-earth.html",
@@ -148,6 +252,14 @@
       "excerpt": "Typhoons pose significant threats, with sudden, dangerous waves that endanger ships, offshore platforms and coastal infrastructure in the northwest Pacific Ocean. Current typhoon forecasting methods sometimes underestima…"
     },
     {
+      "title": "Jersey Oil & Gas receives extension for Verbier licence term",
+      "link": "https://www.offshore-technology.com/news/jersey-oil-gas-extension-verbier-licence-term/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-06T13:04:32.000Z",
+      "excerpt": "Jersey Oil & Gas has secured approval from the NSTA to extend the Second Term of its P2170 “Verbier” licence on the UK Continental Shelf."
+    },
+    {
       "title": "Good news for our coasts and climate: Mangrove forests are bouncing back",
       "link": "https://phys.org/news/2026-08-good-news-coasts-climate-mangrove.html",
       "source": "Phys.org — Earth",
@@ -194,54 +306,6 @@
       "category": "industry",
       "published": "2026-08-06T08:47:56.000Z",
       "excerpt": "Gran Tierra Energy has agreed to sell all its oil and gas operations in Colombia and Ecuador to Établissements Maurel & Prom (M&P)."
-    },
-    {
-      "title": "Pacific islands alarmed by Trump-backed push for deep-sea mining",
-      "link": "https://phys.org/news/2026-08-pacific-islands-alarmed-trump-deep.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-06T08:40:01.000Z",
-      "excerpt": "A Pacific island leader says there were \"no consultations\" before the U.S. announced swaths of nearby ocean could be auctioned for deep-sea mining exploration, telling AFP the industry faced strong opposition among his p…"
-    },
-    {
-      "title": "Regional Chaos Synchronization towards controlling high-dimensional open environmental systems",
-      "link": "https://arxiv.org/abs/2608.04301",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-06T04:00:00.000Z",
-      "excerpt": "arXiv:2608.04301v1 Announce Type: new Abstract: Although controlling chaos can be regarded as a form of chaos synchronization, conventional chaos synchronization does not provide a practical framework for controlling hig…"
-    },
-    {
-      "title": "Theoretical Framework for Phase-space Local-Angle-Domain Waveform Inversion in Anisotropic Elastic Media",
-      "link": "https://arxiv.org/abs/2608.04901",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-06T04:00:00.000Z",
-      "excerpt": "arXiv:2608.04901v2 Announce Type: new Abstract: We present a phase-space formulation of elastic full-waveform inversion (FWI) based on local-angle-domain (LAD) representations of seismic scattering. Instead of minimizing…"
-    },
-    {
-      "title": "Modified Hamiltonian-driven shortest-path ray tracing in dissipative anisotropic media",
-      "link": "https://arxiv.org/abs/2608.04958",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-06T04:00:00.000Z",
-      "excerpt": "arXiv:2608.04958v1 Announce Type: new Abstract: Enhancing ray tracing in dissipative anisotropic media is challenging because the subsurface exhibits both geologic and rheological discontinuities and directionally depend…"
-    },
-    {
-      "title": "Joint dynamical-geophysical evidence for a limit cycle in the Galilean moons",
-      "link": "https://arxiv.org/abs/2608.04226",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-06T04:00:00.000Z",
-      "excerpt": "arXiv:2608.04226v1 Announce Type: cross Abstract: Io, Europa, and Ganymede orbit in the Laplace mean-motion resonance, where their orbital and thermochemical evolution are strongly coupled [1-5]. Forced eccentricities su…"
-    },
-    {
-      "title": "HydroFirn: A numerical model for large-scale multidimensional firn hydrology",
-      "link": "https://arxiv.org/abs/2604.11488",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-06T04:00:00.000Z",
-      "excerpt": "arXiv:2604.11488v2 Announce Type: replace Abstract: Observations show the multidimensional dynamics of meltwater and distribution of ice layers in the firn on the Greenland Ice Sheet. However, state-of-the-art large-scal…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3704: Low-Frequency Random Vibration-Induced Cycling Degradation Behavior and Mechanisms of Sodium-Ion Batteries",
@@ -396,30 +460,6 @@
       "excerpt": "Flow-path switching is a key operating condition that enables flow regulation, zonal conversion, and filling-path redirection in sand-control completions. The associated flow characteristics directly govern the operation…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2522: Deep Projected Gradient Network to Accelerate Low-Carbon Economic Dispatch Considering Energy Storage",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2522",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-06T00:00:00.000Z",
-      "excerpt": "Under the strategic goals of &amp;ldquo;peak carbon emissions and carbon neutrality&amp;rdquo;, traditional methods for solving economic dispatch problems involving carbon emission trading costs, wind power, and energy s…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2521: Process-Based Geochemical Constraints on Organic Matter Enrichment and Shale Oil Potential in the Upper Jiufotang Formation, Ludong Sag, NE China",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2521",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-06T00:00:00.000Z",
-      "excerpt": "Accurately identifying organic-rich shale intervals remains a major challenge in lacustrine shale oil exploration, particularly in continental rift basins characterized by rapid environmental change and pronounced vertic…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2520: Fracture Propagation Characteristics and Influencing Factors in Cross-Layer Fracturing of Interlayered Shale Reservoirs",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2520",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-06T00:00:00.000Z",
-      "excerpt": "Hydraulic-fracture transmission across lithologic interfaces governs fracture-height growth and reservoir connectivity in shale&amp;ndash;sandstone interbedded reservoirs, yet the coupled effects of mechanical contrast,…"
-    },
-    {
       "title": "Shell to invest in Surat Gas Project Central in Queensland",
       "link": "https://www.offshore-technology.com/news/shell-arrow-energys-surat-project-australia/",
       "source": "Offshore Technology",
@@ -450,38 +490,6 @@
       "category": "industry",
       "published": "2026-08-05T09:39:18.000Z",
       "excerpt": "ExxonMobil Global Projects has awarded Sercel a one-year contract to deploy its Marlin solution on the Whiptail project in the Stabroek Block, offshore Guyana."
-    },
-    {
-      "title": "BP Q2 2026 profit surges 124% to $4.33bn",
-      "link": "https://www.offshore-technology.com/news/bp-q2-2026-profit-4-33bn/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-05T07:52:51.000Z",
-      "excerpt": "BP has announced a profit of $4.33bn for the second quarter of 2026 (Q2 2026), marking a 124.35% increase from the $1.93bn recorded in the same quarter of the previous year."
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3693: Temporal-Feature-Enhanced Reinforcement Learning Control with Adaptive Speed-Loop Gain for PMSM Drives",
-      "link": "https://www.mdpi.com/1996-1073/19/15/3693",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-05T00:00:00.000Z",
-      "excerpt": "The high-performance control of permanent magnet synchronous motor (PMSM) drives is challenged by operating uncertainties and coupled electromechanical dynamics. This paper proposes a temporal-feature-enhanced reinforcem…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2519: Adaptive Lagrangian Penalty-Enhanced Proximal Policy Optimization for Flexible Job Shop Rescheduling with Worker Workload Constraints Under Concurrent Dynamic Disturbances",
-      "link": "https://www.mdpi.com/2227-9717/14/15/2519",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-05T00:00:00.000Z",
-      "excerpt": "When flexible job shop scheduling faces concurrent disturbances such as machine failures and rush orders, worker-centric constraints emphasized under Industry 5.0 must also be satisfied. Existing deep reinforcement learn…"
-    },
-    {
-      "title": "L&T-led consortium secures offshore project contract from ADNOC",
-      "link": "https://www.offshore-technology.com/news/lt-led-adnoc-offshore-project/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-04T13:10:29.000Z",
-      "excerpt": "LTEH Offshore has secured a contract from ADNOC Offshore for the development of multiple offshore facilities in the Middle East."
     },
     {
       "title": "This hydrogen turbine turns controlled explosions into electricity",
@@ -866,14 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Multiscale research on caking disparity between weakly and strongly caking coals in coking process",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026311?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Wenhao Xie, Shengfu Zhang, Yucen Kuang, Kai Zhu, Zhifang Wei, Zhe Zhang, Xi Zhang"
     }
   ]
 }
