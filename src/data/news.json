@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:32:12.442Z",
+  "generatedAt": "2026-08-08T07:32:53.271Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 6,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 3725: Experimental Investigation of Oxygen-Reduced Air Injection Mechanisms for Enhanced Oil Recovery",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3725",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "This study investigates the mechanisms and performance of oxygen-reduced air flooding (ORAF) and oxygen-reduced air gravity drainage (ORAGF) through laboratory experiments on crude oil and cores from the Kunbei Oilfield.…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2546: Impedance Reshaping and Robustness Enhancement of Grid-Following Inverters Considering Phase-Locked Loop Frequency Coupling Effects",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2546",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "This paper proposes a phase-compensated enhanced second-order generalized integrator phase-locked loop (ESOGI-PLL) to suppress the frequency coupling effect (FCE) and its associated power quality degradation in grid-foll…"
+    },
     {
       "title": "New AI model reveals the volume of the world's glaciers",
       "link": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html",
@@ -162,54 +178,6 @@
       "category": "industry",
       "published": "2026-08-07T07:30:46.000Z",
       "excerpt": "BP has reached an agreement to purchase Australia-based Woodside Energy 70% interest in the Calypso gas project, located in Block TTDAA 14 offshore Trinidad and Tobago."
-    },
-    {
-      "title": "Marchenko Theory, Algorithms, and Applications: A Review",
-      "link": "https://arxiv.org/abs/2608.05214",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-07T04:00:00.000Z",
-      "excerpt": "arXiv:2608.05214v1 Announce Type: new Abstract: Seismic reflection data collected at the Earth's surface carry information from every depth in the subsurface, including the internal multiples that conventional migration…"
-    },
-    {
-      "title": "Foundation Model-Assisted Full Waveform Inversion",
-      "link": "https://arxiv.org/abs/2608.05763",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-07T04:00:00.000Z",
-      "excerpt": "arXiv:2608.05763v1 Announce Type: new Abstract: Full waveform inversion (FWI) can recover high-resolution subsurface velocity models. Conventional waveform-difference objectives, however, are vulnerable to cycle skipping…"
-    },
-    {
-      "title": "Effect of Discharge on the Nonlinear Bar Growth: A Flume Experiment",
-      "link": "https://arxiv.org/abs/2608.05593",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-07T04:00:00.000Z",
-      "excerpt": "arXiv:2608.05593v1 Announce Type: cross Abstract: Alternate bars are ubiquitous bedforms in alluvial rivers, and excessive bar-height growth can increase flood risk and disrupt ecosystems. Predicting bar-height variabili…"
-    },
-    {
-      "title": "Magnetic Dynamo Driven by Inertial Waves",
-      "link": "https://arxiv.org/abs/2608.06086",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-07T04:00:00.000Z",
-      "excerpt": "arXiv:2608.06086v1 Announce Type: cross Abstract: We demonstrate, by studying precession-driven flows, that inertial wave hydrodynamic turbulence can drive a robust magnetic dynamo action. Motivated by the stronger dampi…"
-    },
-    {
-      "title": "Dual-space posterior sampling for Bayesian inference in constrained inverse problems",
-      "link": "https://arxiv.org/abs/2603.00393",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-07T04:00:00.000Z",
-      "excerpt": "arXiv:2603.00393v2 Announce Type: replace Abstract: Inverse problems constrained by partial differential equations are often ill-conditioned due to noisy, incomplete data or inherent non-uniqueness. A prominent example i…"
-    },
-    {
-      "title": "Theoretical Framework for Phase-space Local-Angle-Domain Waveform Inversion in Anisotropic Elastic Media",
-      "link": "https://arxiv.org/abs/2608.04901",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-07T04:00:00.000Z",
-      "excerpt": "arXiv:2608.04901v2 Announce Type: replace Abstract: We present a phase-space formulation of elastic full-waveform inversion (FWI) based on local-angle-domain (LAD) representations of seismic scattering. Instead of minimi…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3724: Friction-Aware Optimization of Manufacturable Balancing Cam Profiles for Passive Torque and Velocity Stabilization in Internal Combustion Engines",
@@ -300,14 +268,6 @@
       "excerpt": "Shared energy storage (SES) can mitigate the high investment cost and low utilization efficiency associated with independently configured energy storage in user-side integrated energy systems. This paper proposes a bi-le…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3713: Analysis of Heat-Demand Coverage by a Hybrid PVT-Based System for a Small-Scale District-Heating Network Under the Climatic Conditions of Central Poland: A Case Study",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3713",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "This paper investigates the use of a hybrid renewable heat-supply system based on photovoltaic&amp;ndash;thermal collectors, an industrial heat pump, thermal energy storage, and electrical energy storage for a small- to…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2545: Theory and Application of Formation Pressure in Fractured-Vuggy Oil and Gas Reservoirs Based on Concentrated Source Theory",
       "link": "https://www.mdpi.com/2227-9717/14/16/2545",
       "source": "Processes (MDPI)",
@@ -394,14 +354,6 @@
       "category": "processing",
       "published": "2026-08-07T00:00:00.000Z",
       "excerpt": "Microalgal bioprocesses increasingly rely on predictive modelling to support automated control and reduce the cost of laboratory experimentation. Yet, the scarcity of high-quality datasets and the nonlinear nature of mic…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2534: Phase Behavior and Critical Properties of Hydrocarbons in Shale Illite Nanopores",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2534",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "Clay minerals are significant constituents of shale reservoirs, yet the confinement-induced phase behavior of hydrocarbons within clay nanopores has received comparatively less attention than in carbonaceous materials. I…"
     },
     {
       "title": "Adding an AI tool to Google Earth shook our trust in maps that has been centuries in the making",
@@ -874,6 +826,54 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Decoupling mineral catalysis and organic matter evolution in the synthetic graphitization of bituminous coal: Role transition across a maturity interval centered at ∼ 1.0% R ran",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026001?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Peng Luo, Qingyong Luo, Haijiao Yao, Wei Wang"
+    },
+    {
+      "title": "Cation-π anchoring enabled intimate interfacial coupling of 2D linear conjugated polymer/inorganic heterojunctions for efficient photocatalytic hydrogen evolution",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026190?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Dongting Wang, Tianyu Wang, Xiaoying Liu, Xianxi Zhang, Yuzhen Fang, Jinsheng Zhao, Jianhua Zheng, Zhiliang Zhang"
+    },
+    {
+      "title": "Effect of dynamic leaching on the oxidative spontaneous combustion characteristics of coal gangue",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026207?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Yaqi Qin, Chengyue Li, Xuyao Qi, Jinhu Li, Haining Qi"
+    },
+    {
+      "title": "Experimental and numerical study on hydrogen-methane-air explosion in interconnected vessels",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026141?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Zhuhe Ma, Jiaxing Zhang, Wei Gao, Yanchao Li"
+    },
+    {
+      "title": "Mixed-Ligand induced Defect-Rich CeO 2 for Advanced catalytic oxidation of Toluene: Performance and catalytic mechanism",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025299?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Lirong Lv, Sheng Wang, Lei Zhang, Tongzhou Xu, Liangliang Wang, Junxing Han, Ting Wei, Xupeng Zong, Yue Shan, Zhongguo Zhang"
+    },
+    {
+      "title": "Realizing efficient combustion of boron powders via the tailored boron-TAHT coupling interfaces and microscale explosion effect",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026232?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Huijie Zhang, Miaomiao Wu, Chong Wan, Yiqian Zhao, Chen Wang, Suhang Chen, Haixia Ma, Fengqi Zhao, Kangzhen Xu"
     }
   ]
 }
