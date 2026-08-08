@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T07:32:53.271Z",
+  "generatedAt": "2026-08-08T13:30:09.881Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,12 +76,108 @@
   ],
   "items": [
     {
+      "title": "Swarms of tiny robots remove microplastics from soil and water",
+      "link": "https://phys.org/news/2026-08-swarms-tiny-robots-microplastics-soil.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-08T12:40:01.000Z",
+      "excerpt": "Microplastics, which are plastic particles under 5 millimeters, are a major and growing threat in both soil and water. They damage soil fertility, disrupt nutrient cycling, harm aquatic and terrestrial life, and can move…"
+    },
+    {
+      "title": "Canada tries to adapt to a future of wildfires",
+      "link": "https://phys.org/news/2026-08-canada-future-wildfires.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-08T11:00:04.000Z",
+      "excerpt": "Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3732: Grid-Supportive Electrolysis in Distribution Grids: A Techno-Economic Analysis for Austrian Case Studies",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3732",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "In light of the strong expansion of renewables, electrolysis may act as an alternative to conventional grid enforcement to overcome grid constraints in a timely and effective manner, as it creates additional flexible loa…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3731: Assessment of Straw to Bioenergy Pathways Using the Analytic Hierarchy Process",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3731",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "Efficient utilization of agricultural residues plays an important role in advancing sustainable bioenergy development in China. This study established a multi-criteria evaluation framework integrating energy quality, eco…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3730: Functional MoC Thin-Film Counter Electrodes for Dye-Sensitized Solar Cells: Correlating Structural Evolution with Electrical Transport and Photovoltaic Performance",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3730",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "Molybdenum carbide (MoC) thin films were deposited by dual-target magnetron co-sputtering and investigated as platinum-free counter electrodes (CEs) for dye-sensitized solar cells (DSSCs). The effects of Mo target power…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3729: Analysis of the Impact of Complex Soil Structure and River Flow Velocity on Impulse Current Dispersion in Grounding Devices for River-Crossing Transmission Towers",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3729",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "The lightning withstand performance of transmission lines is critically affected by grounding impulse characteristics, particularly for river-crossing towers where soil conditions are complex. This study develops a coupl…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3728: Non-Intrusive Battery-Backed Grid-Forming Configuration for Grid-Following Photovoltaic Plants Retrofit",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3728",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "Existing grid-connected photovoltaic (PV) systems with grid-following (GFL) control rely on phase-locked loop (PLL)-based grid synchronization, which may become unstable under weak grid conditions. By contrast, grid-form…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3727: Short-Term Forecasting of Traction Load Based on the Integration of ODE-MMF and TimeXer-Mamba",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3727",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "This paper presents a short-term traction-load forecasting method that fuses optimization-driven dual-scale decomposition and multiscale information fusion (ODE-MMF) with TimeXer-Mamba to address non-stationary predictio…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3726: Fuzzy VSG Coordinated Frequency Control Strategy for Microgrids Based on Wind&ndash;Storage Joint Modeling",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3726",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "Virtual synchronous generator (VSG) control is widely used to improve the frequency stability of low-inertia microgrids. However, most existing adaptive VSG strategies tune the virtual inertia and damping coefficient mai…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3725: Experimental Investigation of Oxygen-Reduced Air Injection Mechanisms for Enhanced Oil Recovery",
       "link": "https://www.mdpi.com/1996-1073/19/16/3725",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-08-08T00:00:00.000Z",
       "excerpt": "This study investigates the mechanisms and performance of oxygen-reduced air flooding (ORAF) and oxygen-reduced air gravity drainage (ORAGF) through laboratory experiments on crude oil and cores from the Kunbei Oilfield.…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2549: Pulse Frequency-Induced Structural Evolution and Corrosion Resistance Enhancement of MAO Coatings on AZ31B Magnesium Alloy",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2549",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "This study focuses on how modulating the electrical pulse frequency alters both the topographic features and corrosion resistance of ceramic coatings produced via micro-arc oxidation (MAO) on an AZ31B magnesium substrate…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2548: A Systematic Evaluation of SAFT-Type Equations of State for CO2&ndash;Polar Aprotic Solvent Systems: Model Selection and Optimization Strategies",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2548",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "Accurate vapor&amp;ndash;liquid equilibrium (VLE) modeling of CO2 in polar aprotic solvents (PASs) is critical for solvent screening and the design of carbon-capture processes. This study systematically evaluates three S…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2547: Study of Methane Production Kinetics in Anaerobic Digesters Using the Monod Model and Neural Networks",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2547",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-08T00:00:00.000Z",
+      "excerpt": "This study, conducted in the Ecuadorian Andes, evaluated the anaerobic co-digestion of local crop residues (amaranth and quinoa) with llama, vicu&amp;ntilde;a, and pig manure to analyze methane production kinetics. The r…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2546: Impedance Reshaping and Robustness Enhancement of Grid-Following Inverters Considering Phase-Locked Loop Frequency Coupling Effects",
@@ -212,62 +308,6 @@
       "excerpt": "This study assessed the perceived effectiveness of sustainable building technologies and design strategies in improving building energy efficiency within the South African construction industry. Adopting a quantitative r…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3720: Reinforcement Learning for Integrated MPPT and Battery Management in Photovoltaic Systems: A Systematic Review",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3720",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "This work provides a systematic literature review on reinforcement learning (RL) for integrated maximum power point tracking (MPPT) and battery management in photovoltaic (PV) systems. As PV installations increasingly in…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3719: The Circular Economy, Ecological Footprint and Sustainable Development in the I4.0 Era: PBARDL and PQARDL Methods",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3719",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "Despite growing interest in sustainability transitions, there is the limited literature on how Industry 4.0, the circular economy, renewable energy, and ecological sustainability interact. This paper aimed to analyze the…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3718: Systematic Review of Software and Algorithms for the Implementation of Renewable Energy Communities (RECs)",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3718",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "Renewable Energy Communities (RECs) have gained traction in recent years as key instruments for the democratization of energy systems and the promotion of localized, sustainable energy production and consumption. The imp…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3716: Time-Interval-Driven Sequence Construction with a Transformer-Based Autoencoder for Anomaly Detection in NPP DCS Controller Logs",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3716",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "This study proposes a Time-Interval-Driven Sequence Construction (TIDSC) framework combined with a Transformer-based Autoencoder (Transformer-AE) for anomaly detection in nuclear power plant (NPP) Distributed Control Sys…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3717: Fuzzy Modeling as a Tool Supporting the Energy Policy of Selected Municipalities (Poland)",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3717",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "Energy planning should focus on actions to save energy and reduce consumption while also implementing renewable energy sources to support sustainable urban development. In addition to global regulations, individual count…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3714: Impulse Grounding Resistance Reduction Measures for Transmission Line Towers in Desert, Gobi, and Barren Land Regions",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3714",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "The high soil resistivity in desert, Gobi, and barren land regions limits the lightning current dissipation capability of conventional needle-type grounding electrodes, thereby increasing the lightning-related risk to tr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3715: Bi-Level Optimal Configuration of Shared Energy Storage Considering Frequency Regulation Revenue and Degradation Cost Under High-Penetration Renewable Energy",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3715",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "Shared energy storage (SES) can mitigate the high investment cost and low utilization efficiency associated with independently configured energy storage in user-side integrated energy systems. This paper proposes a bi-le…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2545: Theory and Application of Formation Pressure in Fractured-Vuggy Oil and Gas Reservoirs Based on Concentrated Source Theory",
       "link": "https://www.mdpi.com/2227-9717/14/16/2545",
       "source": "Processes (MDPI)",
@@ -332,30 +372,6 @@
       "excerpt": "Accurate prediction of NO emissions is important for the development of low-emission gas turbine combustors. This study evaluates several NO formation models for a 78 MW F-class gas turbine using a decoupled post-process…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2537: Artificial Intelligence for Hydraulic-Fracturing Decision Support: A Workflow-Oriented Critical Review",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2537",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "Hydraulic fracturing is a critical technology for unconventional oil and gas development, but its performance is strongly affected by geological heterogeneity, complex fracture propagation, operational uncertainty, and n…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2535: Mechanical Characteristics and Structural Innovation of a Deepwater Subsea Wellhead System",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2535",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "To improve the bending resistance and support the domestic development of deepwater subsea wellhead equipment, a three-dimensional finite element model (FEM) of the SXW-15 subsea wellhead system was established in ANSYS…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2536: Data-Driven Ensemble Machine Learning for Multi-Horizon Microalgal Bioprocess Forecasting",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2536",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "Microalgal bioprocesses increasingly rely on predictive modelling to support automated control and reduce the cost of laboratory experimentation. Yet, the scarcity of high-quality datasets and the nonlinear nature of mic…"
-    },
-    {
       "title": "Adding an AI tool to Google Earth shook our trust in maps that has been centuries in the making",
       "link": "https://phys.org/news/2026-08-adding-ai-tool-google-earth.html",
       "source": "Phys.org — Earth",
@@ -386,22 +402,6 @@
       "category": "geoscience",
       "published": "2026-08-06T18:00:09.000Z",
       "excerpt": "The Arctic is warming at an accelerating pace. As permafrost thaws across vast areas and wildfires become more frequent, large amounts of methane (CH4) are being released. Together, these changes are reshaping the region…"
-    },
-    {
-      "title": "Measurements trace European wildfire smoke high into upper troposphere",
-      "link": "https://phys.org/news/2026-08-european-wildfire-high-upper-troposphere.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-06T16:40:03.000Z",
-      "excerpt": "The images of the major forest fires in Spain and France, with fire clouds near Bordeaux, have shocked many people. There have been numerous reports of the formation of a pyrocumulonimbus cloud—a fire-driven thundercloud…"
-    },
-    {
-      "title": "Scientists investigate continent-wide 'moisture conveyor belt' behind extreme monsoon rains",
-      "link": "https://phys.org/news/2026-08-scientists-continent-wide-moisture-conveyor.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-06T16:20:05.000Z",
-      "excerpt": "Weather scientists have long known that typhoons even hundreds of kilometers away from the Philippines can interact with the southwest monsoon, resulting in multiday heavy rains. But the exact dynamics of this relationsh…"
     },
     {
       "title": "Jersey Oil & Gas receives extension for Verbier licence term",
@@ -644,6 +644,14 @@
       "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Grant Charles Mwakipunda, Shiying Guo, Xiubin Wang, Junwei Huang, Jinyu Tang, Riyadh I. Al-Raoush"
     },
     {
+      "title": "An optimized YOLOv8 method for identifying reservoir fracture using formation MicroScanner logging imagery",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026003659?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Shaowei Pan, Xingxing Cheng, Zongqiang Li, Siyao Yan"
+    },
+    {
       "title": "Experimental study on CO 2 injection parameter optimization via 3 dimensional physical simulation: Insights into migration and trapping in saline aquifers",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026003374?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -722,14 +730,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Jun Zhou, Chengpeng Zhang, Shaopeng Li, Pengfei Wang, Ke Gao"
-    },
-    {
-      "title": "Architectural fusion framework: Synergizing sparse representation learning with dictionary learning for advanced well log lithology identification",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026003131?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Youzhuang Sun, Shanchen Pang, Hengxiao Li, Wenxuan Wang, Sibo Qiao"
     },
     {
       "title": "A review of vertical closed-loop geothermal heating and cooling systems with an Emphasis on the importance of the subsurface",
