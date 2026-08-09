@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T13:33:47.292Z",
+  "generatedAt": "2026-08-09T19:17:45.815Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,22 @@
   ],
   "items": [
     {
+      "title": "Hong Kong weather observatory posts record high temperature",
+      "link": "https://phys.org/news/2026-08-hong-kong-weather-observatory-high.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-09T18:53:13.000Z",
+      "excerpt": "Hong Kong's weather observatory posted a record high temperature of 36.9°C (98°F) on Sunday as Typhoon Dolphin swept warm air over the city, the meteorological service said."
+    },
+    {
+      "title": "Over half of people are unaware of the environmental effects of sunscreen",
+      "link": "https://phys.org/news/2026-08-people-unaware-environmental-effects-sunscreen.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-09T15:20:01.000Z",
+      "excerpt": "This summer, millions of people across the country have been digging out sunscreen to protect themselves from a record-breaking series of heat waves."
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3740: A Computational Equivalence-Based Unit Switching Circuit Method for Efficient Simulation of Multi-Converter Power Systems",
       "link": "https://www.mdpi.com/1996-1073/19/16/3740",
       "source": "Energies (MDPI)",
@@ -138,6 +154,14 @@
       "category": "energy",
       "published": "2026-08-09T00:00:00.000Z",
       "excerpt": "Liquid metals are enabling working fluids for several advanced nuclear systems, including fast reactors, accelerator-driven systems, and fusion blankets. System thermal-hydraulic (STH) codes require thermodynamically con…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2552: Synergistic Impact of Integrated Water Control and Screen Pipe Technologies on Oil and Gas Production in Advanced Well Completions",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2552",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-09T00:00:00.000Z",
+      "excerpt": "The global expansion of oil and gas exploration into increasingly deep and geologically complex reservoirs has intensified technical challenges, particularly the detrimental effects of water intrusion and sand production…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2551: Effects of Different Speed-Change Modes on Flow Stability and Pressure Pulsation During Variable-Speed Transients in a Francis Turbine",
@@ -380,14 +404,6 @@
       "excerpt": "Addressing the challenges in quantitative characterization of post-fracture fracture geometry in unconventional reservoirs such as tight gas and shale, for which existing prediction methods provide only limited accuracy,…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2539: Production and Characterization of Poly(3-hydroxybutyrate) by Thermophilic Geobacillus sp. Strain SL28 Isolated from a Natural Hot Spring",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2539",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "Polyhydroxyalkanoates (PHAs) are biodegradable microbial polyesters that may reduce dependence on petroleum-derived plastics, but broader use remains constrained by production costs and tightly controlled cultivation. Th…"
-    },
-    {
       "title": "Adding an AI tool to Google Earth shook our trust in maps that has been centuries in the making",
       "link": "https://phys.org/news/2026-08-adding-ai-tool-google-earth.html",
       "source": "Phys.org — Earth",
@@ -402,22 +418,6 @@
       "category": "geoscience",
       "published": "2026-08-06T19:40:09.000Z",
       "excerpt": "Early last month, Utah experienced two historic wildfires at the same time, highlighting the record-setting fire season continuing to unfold in the Beehive State."
-    },
-    {
-      "title": "Earthquake sensors can help forecast how hurricanes intensify",
-      "link": "https://phys.org/news/2026-08-earthquake-sensors-hurricanes.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-06T18:00:17.000Z",
-      "excerpt": "Stanford researchers have shown that instruments primarily used to understand earthquakes can capture key details about hurricanes, helping meteorologists better predict how storms will evolve and intensify."
-    },
-    {
-      "title": "Siberia's growing methane threat could offset 20% of global methane reduction targets by 2050",
-      "link": "https://phys.org/news/2026-08-siberia-methane-threat-offset-global.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-06T18:00:09.000Z",
-      "excerpt": "The Arctic is warming at an accelerating pace. As permafrost thaws across vast areas and wildfires become more frequent, large amounts of methane (CH4) are being released. Together, these changes are reshaping the region…"
     },
     {
       "title": "Jersey Oil & Gas receives extension for Verbier licence term",
