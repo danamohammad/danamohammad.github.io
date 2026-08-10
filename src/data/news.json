@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T02:55:39.788Z",
+  "generatedAt": "2026-08-10T08:15:33.986Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 1,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,78 @@
     }
   ],
   "items": [
+    {
+      "title": "ONGC awards offshore contracts to L&T Energy Hydrocarbon Offshore",
+      "link": "https://www.offshore-technology.com/news/ongc-offshore-contracts-lt-energy-hydrocarbon-offshore/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-10T07:04:07.000Z",
+      "excerpt": "L&T Energy Hydrocarbon Offshore has been awarded a series of contracts by Oil & Natural Gas Corporation (ONGC) for projects off the west coast of India."
+    },
+    {
+      "title": "Western Europe experienced hottest June-July on record: EU monitor",
+      "link": "https://phys.org/news/2026-08-western-europe-experienced-hottest-june.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-10T06:41:43.000Z",
+      "excerpt": "Western Europe experienced its hottest June–July on record as climate change fuels a historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said Monday."
+    },
+    {
+      "title": "Estimating the sensitivity of the IceCube Upgrade to probe the interior of the Earth using atmospheric neutrino oscillations",
+      "link": "https://arxiv.org/abs/2608.06543",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-10T04:00:00.000Z",
+      "excerpt": "arXiv:2608.06543v1 Announce Type: cross Abstract: The IceCube Upgrade is a densely instrumented central region of the IceCube Neutrino Observatory, deployed during the 2025-26 polar season. It will reduce the detector's…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3745: A Model Predictive Current Control for Interior PMSM Based on Least Squares Parameter Adaptive Feedback Correction",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3745",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "The model predictive current control (MPCC) of an interior permanent magnet synchronous machine (IPMSM) requires an accurate motor parameter model to predict future currents and achieve high control performance. However,…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3744: ARLOS: Adaptive Forecasting and Risk-Calibrated Load Operation in Distribution Substations Under Distribution Shift",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3744",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "Forecast accuracy alone is an incomplete proxy for operational value when load distributions change. This paper presents ARLOS, an auditable forecast&amp;ndash;uncertainty&amp;ndash;decision framework that combines stati…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3743: Active Power Demand Forecasting for an Electric Power System Using Machine Learning Algorithms for Medium-Term Expansion Planning",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3743",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "This article forecasts electricity demand over two-month, one-year, and two-year horizons using 20 years of open-access data from the COES system operator. The proposed approach applies machine learning (ML) algorithms w…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3742: Unified Explicit&ndash;Implicit Degradation Dynamics with Physics-Informed Kolmogorov&ndash;Arnold Networks for Lithium-Ion Battery SOH Estimation and RUL Prediction Under Different Charging Protocols",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3742",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "To address challenges in state-of-health (SOH) estimation and remaining useful life (RUL) prediction for lithium-ion batteries under fast-charging conditions&amp;mdash;strong nonlinear degradation, difficulty in explicit…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3741: Method for Generating Labeled Sample Sets for Power System Load Flow Relationship Learning",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3741",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "In constructing power system load flow mapping relationships using machine learning algorithms, the fundamental prerequisite for ensuring the computational accuracy and generalization performance of the mapping model is…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2553: Temporal Fusion Transformer for Fracture Evolution Prediction in Hot Dry Rock Hydraulic Fracturing",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2553",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "Hot dry rock (HDR) represents a highly promising sustainable clean energy resource for the future, with the fracture network induced by hydraulic fracturing serving as the cornerstone for thermal energy extraction effici…"
+    },
     {
       "title": "Hong Kong weather observatory posts record high temperature",
       "link": "https://phys.org/news/2026-08-hong-kong-weather-observatory-high.html",
@@ -148,14 +220,6 @@
       "excerpt": "This study presents a full-voyage operational validation of a load optimization strategy applied to a Dual-Fuel Diesel-Electric (DFDE) liquefied natural gas (LNG) propulsion system. The proposed approach was evaluated on…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3733: An Equation of State for Liquid Metals for Use in Nuclear System Thermal-Hydraulic Codes: Formulation and Code Verification in RELAP5",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3733",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-09T00:00:00.000Z",
-      "excerpt": "Liquid metals are enabling working fluids for several advanced nuclear systems, including fast reactors, accelerator-driven systems, and fusion blankets. System thermal-hydraulic (STH) codes require thermodynamically con…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2552: Synergistic Impact of Integrated Water Control and Screen Pipe Technologies on Oil and Gas Production in Advanced Well Completions",
       "link": "https://www.mdpi.com/2227-9717/14/16/2552",
       "source": "Processes (MDPI)",
@@ -210,38 +274,6 @@
       "category": "geoscience",
       "published": "2026-08-08T11:00:04.000Z",
       "excerpt": "Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation."
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3732: Grid-Supportive Electrolysis in Distribution Grids: A Techno-Economic Analysis for Austrian Case Studies",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3732",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-08T00:00:00.000Z",
-      "excerpt": "In light of the strong expansion of renewables, electrolysis may act as an alternative to conventional grid enforcement to overcome grid constraints in a timely and effective manner, as it creates additional flexible loa…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3731: Assessment of Straw to Bioenergy Pathways Using the Analytic Hierarchy Process",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3731",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-08T00:00:00.000Z",
-      "excerpt": "Efficient utilization of agricultural residues plays an important role in advancing sustainable bioenergy development in China. This study established a multi-criteria evaluation framework integrating energy quality, eco…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3730: Functional MoC Thin-Film Counter Electrodes for Dye-Sensitized Solar Cells: Correlating Structural Evolution with Electrical Transport and Photovoltaic Performance",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3730",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-08T00:00:00.000Z",
-      "excerpt": "Molybdenum carbide (MoC) thin films were deposited by dual-target magnetron co-sputtering and investigated as platinum-free counter electrodes (CEs) for dye-sensitized solar cells (DSSCs). The effects of Mo target power…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3729: Analysis of the Impact of Complex Soil Structure and River Flow Velocity on Impulse Current Dispersion in Grounding Devices for River-Crossing Transmission Towers",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3729",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-08T00:00:00.000Z",
-      "excerpt": "The lightning withstand performance of transmission lines is critically affected by grounding impulse characteristics, particularly for river-crossing towers where soil conditions are complex. This study develops a coupl…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2549: Pulse Frequency-Induced Structural Evolution and Corrosion Resistance Enhancement of MAO Coatings on AZ31B Magnesium Alloy",
@@ -396,28 +428,12 @@
       "excerpt": "Deep saline aquifers are among the most promising formations for large-scale carbon capture and storage (CCS); however, reservoir pressure buildup, limited CO2 dissolution, plume migration, and salt precipitation can red…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2541: Intelligent Inversion Method of Fracturing Fracture Morphology Based on G-Function Constraints and CNN-LSTM",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2541",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-07T00:00:00.000Z",
-      "excerpt": "Addressing the challenges in quantitative characterization of post-fracture fracture geometry in unconventional reservoirs such as tight gas and shale, for which existing prediction methods provide only limited accuracy,…"
-    },
-    {
       "title": "Adding an AI tool to Google Earth shook our trust in maps that has been centuries in the making",
       "link": "https://phys.org/news/2026-08-adding-ai-tool-google-earth.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-08-06T20:40:05.000Z",
       "excerpt": "Throughout the 18th and 19th centuries, Europe's cartographers traded on their reputation for accuracy and detail at a time of huge societal change. But as demand grew for increasingly detailed maps of the world to suppo…"
-    },
-    {
-      "title": "Utah's historic fire season of 2026",
-      "link": "https://phys.org/news/2026-08-utah-historic-season.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-06T19:40:09.000Z",
-      "excerpt": "Early last month, Utah experienced two historic wildfires at the same time, highlighting the record-setting fire season continuing to unfold in the Beehive State."
     },
     {
       "title": "Jersey Oil & Gas receives extension for Verbier licence term",
@@ -458,14 +474,6 @@
       "category": "industry",
       "published": "2026-08-06T08:47:56.000Z",
       "excerpt": "Gran Tierra Energy has agreed to sell all its oil and gas operations in Colombia and Ecuador to Établissements Maurel & Prom (M&P)."
-    },
-    {
-      "title": "Shell to invest in Surat Gas Project Central in Queensland",
-      "link": "https://www.offshore-technology.com/news/shell-arrow-energys-surat-project-australia/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-05T12:34:10.000Z",
-      "excerpt": "Shell is set to invest in the next phase of Arrow Energy’s Surat Gas Project in Queensland, Australia, to secure ongoing gas supply for both domestic customers and its QCLNG export terminal."
     },
     {
       "title": "This hydrogen turbine turns controlled explosions into electricity",
@@ -866,14 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Alessia Cesarini, Ali J. Saadun, Filippo Longo, Jonathan Muschietti, Daniel Rentsch, Connor R. Firth, Jeroen A. van Bokhoven, Andreas Borgschult…"
-    },
-    {
-      "title": "The enhancement of CO 2 biomethanation in coal seams by in-situ hydrogen supply from straw",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602644X?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Li Gong, Weiguo Liang, Hongguang Guo, Yuedu Chen, Ngambua Ngambua Rene, Zetian Li"
     }
   ]
 }
