@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T14:02:17.561Z",
+  "generatedAt": "2026-08-10T19:37:24.360Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,12 +76,60 @@
   ],
   "items": [
     {
+      "title": "Illegal fishing captures up to 15% of global marine wild catch, analysis finds",
+      "link": "https://phys.org/news/2026-08-illegal-fishing-captures-global-marine.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-10T19:00:01.000Z",
+      "excerpt": "Industrial-scale illegal fishing continues to undermine ocean sustainability, coastal livelihoods and global seafood markets—despite decades of regulation and recent advances in surveillance technology, according to new…"
+    },
+    {
+      "title": "AI cyclone forecasts could add 30 hours of warning time",
+      "link": "https://phys.org/news/2026-08-ai-cyclone-hours.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-10T17:10:01.000Z",
+      "excerpt": "Tropical cyclones are among the most destructive natural forces on the planet, but predicting where they will go and how strong they will become is beset by challenges. Current methods are often good at tracking storm pa…"
+    },
+    {
+      "title": "Trapped gases in ancient rocks challenge global explanation for 2-billion-year-old carbon anomaly",
+      "link": "https://phys.org/news/2026-08-gases-ancient-global-explanation-billion.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-10T16:40:01.000Z",
+      "excerpt": "Roughly 2.5–2 billion years ago, Earth's surface experienced the biggest chemical change in its history when oxygen became abundant in the atmosphere, eventually leading to the evolution of complex life forms such as pla…"
+    },
+    {
+      "title": "Many Americans underestimate health risks of extreme weather, new study finds",
+      "link": "https://phys.org/news/2026-08-americans-underestimate-health-extreme-weather.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-10T16:00:06.000Z",
+      "excerpt": "A changing climate increases the health risks posed by extreme weather. However, according to the 2024 Yale Climate Opinion Maps, only 47% of U.S. survey participants believed that global warming would harm them personal…"
+    },
+    {
+      "title": "El Niño alters marine life in the Pacific",
+      "link": "https://phys.org/news/2026-08-el-nio-marine-life-pacific.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-10T14:40:06.000Z",
+      "excerpt": "As of June 2026, El Niño has officially arrived. This naturally recurring phenomenon is characterized by warmer-than-normal water temperatures in parts of the equatorial Pacific, along with changes to atmospheric and oce…"
+    },
+    {
       "title": "Urban canals can cut temperatures by more than 2°C during heat waves",
       "link": "https://phys.org/news/2026-08-urban-canals-temperatures-2c.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-08-10T12:40:04.000Z",
       "excerpt": "New research from The University of Manchester has found that urban canals can cool their immediate surroundings by more than 2°C during heat waves."
+    },
+    {
+      "title": "Scientists discover a hidden switch inside silver nanocatalysts",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
+      "source": "ScienceDaily — Energy Technology",
+      "category": "energy",
+      "published": "2026-08-10T12:27:30.000Z",
+      "excerpt": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst desi…"
     },
     {
       "title": "NASA mission maps invisible heat loss from Earth's rapidly changing poles",
@@ -148,6 +196,54 @@
       "excerpt": "arXiv:2608.06543v1 Announce Type: cross Abstract: The IceCube Upgrade is a densely instrumented central region of the IceCube Neutrino Observatory, deployed during the 2025-26 polar season. It will reduce the detector's…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 3761: Perovskite Tandem Solar Cells: A Review of Recent Progress and Future Perspectives",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3761",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "Perovskite tandem solar cells (TSCs) have emerged as a transformative photovoltaic technology, offering a viable pathway to surpass the Shockley-Queisser limit of single-junction devices by enabling broader solar spectru…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3759: Identification of Polar Substances in Transformer Insulation Oil Based on Multi-Strategy Data-Enhanced Terahertz Spectroscopy",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3759",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "Power transformers are core equipment in power grids, and polar substances in their insulating oil&amp;mdash;such as furfural, methanol, water, and formic acid&amp;mdash;serve as key biomarkers for assessing insulation c…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3760: A Source-Load-Storage Alternating Coordinated Low-Carbon Economic Dispatch Method with Response-Gap Negative-Feedback Dual Incentives",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3760",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "High-penetration renewable energy integration intensifies net-load fluctuations, renewable energy curtailment, and carbon-emission control challenges in power system dispatch. To improve low-carbon operation and source-l…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3758: A Four-Switch Single-Stage Common-Ground Buck&ndash;Boost Inverter with Series-Capacitor Compensation",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3758",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "This paper proposes a single-stage common-ground series-capacitor-compensated buck&amp;ndash;boost inverter (CG-SCC-BBI) for wide-input DC&amp;ndash;AC applications. Featuring a common-ground neutral and a series-blockin…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3757: Vibration Phenomena in Hydrogen Energy Systems: A Review",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3757",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "Hydrogen energy systems&amp;mdash;proton exchange membrane fuel cells (PEMFCs), water electrolyzers, and high-pressure hydrogen storage vessels&amp;mdash;are increasingly deployed in transportation, maritime, aerospace,…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3756: Experimental and Numerical Investigation of Combustion Chamber Modification on Combustion and Exhaust Emission in Non-Road Diesel Engine",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3756",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-10T00:00:00.000Z",
+      "excerpt": "This study compares the standart (STD) piston with a specially designed MR-1 piston that better meets modern requirements. Firstly, the experimental comparison was conducted at 3000 rpm, with static fuel injection timing…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3755: Matrix Analysis of Structural Convergence Between Sustainability and Policy in Renewable Energy Systems Research",
       "link": "https://www.mdpi.com/1996-1073/19/16/3755",
       "source": "Energies (MDPI)",
@@ -196,52 +292,12 @@
       "excerpt": "Slab reheating furnaces are among the most energy-intensive units in hot-rolling production lines, and their operating states directly affect fuel consumption, temperature uniformity, and production cost. High energy con…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3749: Environmental Assessment of Closed-Loop Regeneration of Spent LFP Batteries Based on Factory-Level Inventory Data",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3749",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2558: Study on Prediction of Sustained Annular Pressure and Annular Gas&ndash;Liquid Interface Depth in HPHT Gas Wells",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2558",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-10T00:00:00.000Z",
-      "excerpt": "The rapid expansion of electric vehicles is generating large volumes of spent lithium iron phosphate (LFP) batteries, yet the environmental performance of closed-loop regeneration under industrial conditions remains insu…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3748: Multi-Time-Scale Distributed Voltage Optimization for AC/DC Hybrid Distribution Networks with High-Penetration Photovoltaics",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3748",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-10T00:00:00.000Z",
-      "excerpt": "After high-penetration distributed photovoltaics (DPVs) are integrated into AC/DC hybrid distribution networks, stochastic source-load fluctuations, AC-DC coupling, and heterogeneous response characteristics of voltage-r…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3747: State-Dependent Merit-Order Effects in a Hydro-Dominated Market: Conditioning Variable-Renewable Price Suppression on the Marginal Fuel Regime in New Zealand",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3747",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-10T00:00:00.000Z",
-      "excerpt": "The merit-order effect (MOE), the suppression of wholesale prices by zero-marginal-cost variable renewable energy (VRE), is typically estimated as a single average coefficient per market. In a hydro-dominated system, the…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3746: Effects of Benzoylthiourea-Based Ni and Co Complexes on the Combustion Characteristics and Emissions of a Diesel Engine",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3746",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-10T00:00:00.000Z",
-      "excerpt": "This study evaluates the effects of novel metal-based fuel additives on the combustion, thermal behavior, and emissions of a common-rail diesel engine. Two transition metal complexes, Bis-[N-(1,1&amp;prime;-biphenyl)-2-c…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3745: A Model Predictive Current Control for Interior PMSM Based on Least Squares Parameter Adaptive Feedback Correction",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3745",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-10T00:00:00.000Z",
-      "excerpt": "The model predictive current control (MPCC) of an interior permanent magnet synchronous machine (IPMSM) requires an accurate motor parameter model to predict future currents and achieve high control performance. However,…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3744: ARLOS: Adaptive Forecasting and Risk-Calibrated Load Operation in Distribution Substations Under Distribution Shift",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3744",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-10T00:00:00.000Z",
-      "excerpt": "Forecast accuracy alone is an incomplete proxy for operational value when load distributions change. This paper presents ARLOS, an auditable forecast&amp;ndash;uncertainty&amp;ndash;decision framework that combines stati…"
+      "excerpt": "To accurately predict the sustained annular pressure and annular gas&amp;ndash;liquid interface depth during the production of high-pressure and high-temperature (HPHT) gas wells and address the issues of natural gas lea…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2557: SHPNet: A Solar-Historical Prior Network with Similar Historical Windows for Ultra-Short-Term Multi-Step Photovoltaic Power Forecasting",
@@ -348,14 +404,6 @@
       "excerpt": "Microplastics, which are plastic particles under 5 millimeters, are a major and growing threat in both soil and water. They damage soil fertility, disrupt nutrient cycling, harm aquatic and terrestrial life, and can move…"
     },
     {
-      "title": "Canada tries to adapt to a future of wildfires",
-      "link": "https://phys.org/news/2026-08-canada-future-wildfires.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-08T11:00:04.000Z",
-      "excerpt": "Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation."
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2549: Pulse Frequency-Induced Structural Evolution and Corrosion Resistance Enhancement of MAO Coatings on AZ31B Magnesium Alloy",
       "link": "https://www.mdpi.com/2227-9717/14/16/2549",
       "source": "Processes (MDPI)",
@@ -378,46 +426,6 @@
       "category": "processing",
       "published": "2026-08-08T00:00:00.000Z",
       "excerpt": "This study, conducted in the Ecuadorian Andes, evaluated the anaerobic co-digestion of local crop residues (amaranth and quinoa) with llama, vicu&amp;ntilde;a, and pig manure to analyze methane production kinetics. The r…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2546: Impedance Reshaping and Robustness Enhancement of Grid-Following Inverters Considering Phase-Locked Loop Frequency Coupling Effects",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2546",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-08T00:00:00.000Z",
-      "excerpt": "This paper proposes a phase-compensated enhanced second-order generalized integrator phase-locked loop (ESOGI-PLL) to suppress the frequency coupling effect (FCE) and its associated power quality degradation in grid-foll…"
-    },
-    {
-      "title": "New AI model reveals the volume of the world's glaciers",
-      "link": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-07T22:40:01.000Z",
-      "excerpt": "How much ice is stored in the world's glaciers? And where exactly is it located? A new study led by Ca' Foscari University of Venice, in collaboration with the Institute of Polar Sciences of the National Research Council…"
-    },
-    {
-      "title": "Hidden anatomy of clouds reveals how rain may begin without ice crystals",
-      "link": "https://phys.org/news/2026-08-hidden-anatomy-clouds-reveals-ice.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-07T21:40:02.000Z",
-      "excerpt": "The initiation of rain in clouds without ice remains one of the largest unsolved mysteries in atmospheric science."
-    },
-    {
-      "title": "Hydraulic traits reveal why some mountain trees move uphill while others shift downhill",
-      "link": "https://phys.org/news/2026-08-hydraulic-traits-reveal-mountain-trees.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-07T19:40:01.000Z",
-      "excerpt": "As global temperatures rise, scientists have largely assumed that mountain tree species will move uphill in search of cooler conditions. A new study published in Nature Climate Change reveals a more complex reality: Some…"
-    },
-    {
-      "title": "Oil dispersants reshape Arctic sea-ice microbes but do not markedly accelerate oil breakdown",
-      "link": "https://phys.org/news/2026-08-oil-dispersants-reshape-arctic-sea.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-07T17:36:42.000Z",
-      "excerpt": "By making the Arctic less ice-covered, climate warming has increased both shipping traffic and the risk of oil spills in the region. Changing ice conditions may, however, affect the effectiveness of currently available o…"
     },
     {
       "title": "ADNOC L&S buys 11 vessels in $1.3bn fleet expansion",
@@ -636,14 +644,6 @@
       "excerpt": "MIT researchers have shown that one fuel can power both chemical and electric spacecraft thrusters, potentially transforming what small satellites can do. The approach combines quick bursts of speed with highly efficient…"
     },
     {
-      "title": "Scientists discover a hidden quantum world inside cobalt",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm",
-      "source": "ScienceDaily — Energy Technology",
-      "category": "energy",
-      "published": "2026-06-05T09:07:05.000Z",
-      "excerpt": "Scientists have uncovered unexpected quantum complexity inside cobalt, a metal long thought to be fully understood. Advanced measurements revealed a dense network of topological electronic states that remain robust at ro…"
-    },
-    {
       "title": "CO 2 foam injection in carbonate reservoirs for enhanced oil recovery and CO 2 storage: Mechanisms, applications, and challenges",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026003441?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -836,6 +836,22 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
+      "title": "Research on energy, exergy and heat-work conversion of a high-compression-ratio liquid methane spark ignition engine",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026463?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Shijian Chen, Qi Cui, Qiming Zhu, Le Ke, Haiyi Wang, Jianqin Fu, Tamer M.M. Abdellatief, Xiongbo Duan, Feng Zhou"
+    },
+    {
+      "title": "Overall propagation characteristics of CH 4 /air premixed flames in mesoscales using a stepwise disk burner (SDB)",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026281?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Joungho Han, Nam Il Kim"
+    },
+    {
       "title": "Multi-Objective optimization of combustion, performance and emissions in a CI engine fueled with diesel-hexane-CeO 2 nanofuels using response surface methodology",
       "link": "https://www.sciencedirect.com/science/article/pii/S001623612602658X?dgcid=rss_sd_all",
       "source": "Fuel",
@@ -858,22 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Luxiao Zhang, Long Wang, Huiqing Guo, Yanqiu Lei, Fenrong Liu"
-    },
-    {
-      "title": "Physically consistent additive decoupling framework for biomass gasification: Marginal interaction effects of multi-parameters and resultant targeted modulation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026657?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Zijie Luo, Zhiping Zhu, Xiaofang Wang, Yuhua Liu, Jun Cai"
-    },
-    {
-      "title": "Support effects and design rules for enhanced phosphotungstic acid catalyzed olefin oligomerization to sustainable aviation fuels",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026372?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Alessia Cesarini, Ali J. Saadun, Filippo Longo, Jonathan Muschietti, Daniel Rentsch, Connor R. Firth, Jeroen A. van Bokhoven, Andreas Borgschult…"
     }
   ]
 }
