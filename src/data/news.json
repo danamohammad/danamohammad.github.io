@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T14:03:13.576Z",
+  "generatedAt": "2026-08-11T19:41:28.650Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,70 @@
     }
   ],
   "items": [
+    {
+      "title": "New hurricane graphic helps people identify watch areas, doesn't change risk perception",
+      "link": "https://phys.org/news/2026-08-hurricane-graphic-people-areas-doesnt.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-11T19:20:04.000Z",
+      "excerpt": "Hurricane warnings are only effective if people understand them. A new study by Florida State University faculty members in the School of Communication in the College of Communication and Information and the Department o…"
+    },
+    {
+      "title": "Under-the-radar creeks could be sweeping carbon out of salt marshes",
+      "link": "https://phys.org/news/2026-08-radar-creeks-carbon-salt-marshes.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-11T19:00:05.000Z",
+      "excerpt": "Salt marshes are coastal wetlands that are alternately inundated and exposed by tides. These marshes, like other coastal ecosystems, are hotspots of carbon cycling."
+    },
+    {
+      "title": "Biocultural families: Study centers Indigenous priorities in connections to environment",
+      "link": "https://phys.org/news/2026-08-biocultural-families-centers-indigenous-priorities.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-11T18:00:07.000Z",
+      "excerpt": "Washington State University horticulturist Jeffrey Wall partnered with members of the Mi'kmaq First Nations people of Canada to create a new, Indigenous-centered model of the connections that link humans with plants, ani…"
+    },
+    {
+      "title": "Many US public parks sit surprisingly close to hazardous waste sites and facilities that release toxic chemicals",
+      "link": "https://phys.org/news/2026-08-hazardous-sites-facilities-toxic-chemicals.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-11T17:40:01.000Z",
+      "excerpt": "While parks, playgrounds and hiking trails are generally thought of as \"healthy\" spaces, researchers from the University of Michigan have found that many of them overlap with old toxic waste sites or sit dangerously clos…"
+    },
+    {
+      "title": "Economic losses from natural disasters fall to $100 bn in first half of 2026: Swiss Re",
+      "link": "https://phys.org/news/2026-08-economic-losses-natural-disasters-fall.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-11T16:40:03.000Z",
+      "excerpt": "Economic losses from natural catastrophes worldwide are estimated to have reached $100 billion in the first half of this year, reinsurance group Swiss Re said Tuesday, a sharp decline from the same period last year."
+    },
+    {
+      "title": "Too hot to live? French buyers rethink housing choices after heat waves",
+      "link": "https://phys.org/news/2026-08-hot-french-buyers-rethink-housing.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-11T16:20:09.000Z",
+      "excerpt": "After multiple severe heat waves in a single summer, French residents are increasingly factoring high temperatures into their home hunts, realtors say, bumping up features such as shutters, air conditioning and indirect…"
+    },
+    {
+      "title": "New plastic treaty document criticized for weaker ambition",
+      "link": "https://phys.org/news/2026-08-plastic-treaty-document-criticized-weaker.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-11T16:00:09.000Z",
+      "excerpt": "A new document attempting to resuscitate a floundering global plastics treaty suggests that negotiations are trending in a less ambitious direction, a leading scientific expert told AFP on Tuesday."
+    },
+    {
+      "title": "Colombia earthquake has killed at least 132. My research helps explain why it was so destructive",
+      "link": "https://phys.org/news/2026-08-colombia-earthquake-destructive.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-11T15:00:05.000Z",
+      "excerpt": "Locals and officials in Colombia have begun a massive search and rescue effort to find survivors of a powerful earthquake that struck near San José del Palmar in Chocó, with major damage observed in the cities of Cali, M…"
+    },
     {
       "title": "Australia's plastic exports may deepen health risks in Indonesian communities",
       "link": "https://phys.org/news/2026-08-australia-plastic-exports-deepen-health.html",
@@ -156,12 +220,36 @@
       "excerpt": "Plastic pollution is not only a marine litter issue; it is also closely linked to resource circulation and chemical management. Plastic products contain a wide range of additives, including antioxidants, plasticizers, ul…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 3780: Condition-Aware Performance Health Index and Multi-Source Signal Mapping for Degradation Trend Identification in Hydropower Units",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3780",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-11T00:00:00.000Z",
+      "excerpt": "Hydropower units often operate under complex conditions caused by water head change, guide-vane regulation, and load adjustment. These condition changes make it difficult to identify gradual performance degradation from…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3779: Analysis of the Enhancement Effect of a Virtual Synchronous Generator on the Small Disturbance Synchronization Stability of a Grid-Following Renewable Energy Station",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3779",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-11T00:00:00.000Z",
+      "excerpt": "Grid-following (GFL) renewable energy stations may experience phase-locked loop (PLL)-dominated small-disturbance synchronization instability in weak grids, while grid-forming (GFM) devices can improve the damping of thi…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3777: Application of an Off-Design Transient Simulation Framework for Pump-as-Turbine in OpenFOAM: Validation and Flow Analysis",
       "link": "https://www.mdpi.com/1996-1073/19/16/3777",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-08-11T00:00:00.000Z",
       "excerpt": "Pump-as-Turbine (PaT) systems represent a cost-effective solution for hydraulic energy recovery in existing water networks and industrial processes. However, the prediction of their performance in turbine mode remains ch…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3778: Does Trade-Oriented Policy Moderate Energy Transition for Economic Prosperity in ASEAN-7 Countries: Insight from a US-Centric Focus",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3778",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-11T00:00:00.000Z",
+      "excerpt": "This article looks at how trade, energy transition indicators, and economic prosperity are connected in the ASEAN-7 countries (Cambodia, Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam) from 1995 t…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3776: Determining the Maximum Cooling Distance of a District Cooling System Relative to a Decentralized Benchmark: A Supply-Side Energy-Equivalent Approach",
@@ -228,28 +316,20 @@
       "excerpt": "Artificial intelligence has been applied to power system analysis in various ways in recent years [...]"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3768: Comprehensive Design and Structural Verification of a Tubular Steel Metal&ndash;Hydride Storage Vessel for Hydrogen Separation and Storage",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3768",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2569: Run-Level Fault Detection and SHAP-Based Diagnosis of Persistent Classification Difficulty in the Tennessee Eastman Process",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2569",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-11T00:00:00.000Z",
-      "excerpt": "Hydrogen storage and separation remain major technical challenges limiting the broader implementation of hydrogen-based energy systems. Metal&amp;ndash;hydride alloys offer a promising solution because they enable revers…"
+      "excerpt": "Reliable fault detection in nonlinear process systems requires both accurate classification and interpretable analysis of faults with weak or near-normal signatures. This study develops an explainable, data-driven, and t…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3766: Step Voltage Regulator Control Parameter Determination Using Short-Term Photovoltaic Output Estimation Adapted for Sharp Voltage Fluctuations in Distribution Networks",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3766",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2568: AI-Enhanced Evolutionary Game Theory for Intelligent Coordination and Adaptive Optimization in Low-Carbon Energy Systems: A Multi-Scale Review from Smart Grids to Carbon Markets",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2568",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-11T00:00:00.000Z",
-      "excerpt": "High photovoltaic (PV) penetration in distribution networks can cause significant voltage deviations, making effective voltage regulation a critical issue for distribution system operators. Step voltage regulators (SVRs)…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3767: Transcritical&ndash;Transcritical Cascade CO2 Heat Pump with Expansion Work Recovery: A Thermodynamic Analysis",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3767",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-11T00:00:00.000Z",
-      "excerpt": "High-temperature heat pumps are a promising pathway for electrifying industrial process heat, but their application to large-temperature-glide duties remains technically challenging. Milk powder spray drying is one such…"
+      "excerpt": "The modern energy transition has outpaced the control and optimization frameworks built to govern it. As power and energy systems fragment into webs of renewable generators, storage operators, flexible loads, and carbon-…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2567: Comparative Energy, Exergy, Environmental, and Exergoenvironmental Assessment of Two Combined Brayton sCO2&ndash;ORC Configurations with Reheating and Regeneration Driven by CSP and Coconut Shell Biomass",
@@ -324,70 +404,6 @@
       "excerpt": "In response to stochastic fluctuations in large-scale wind power integration and the resulting peak-shaving challenges, high-precision forecasting with physical consistency is essential for grid safety. To address the in…"
     },
     {
-      "title": "Traditional plastic forks shed harmful microplastics. Plastic created from sugar is an alternative",
-      "link": "https://phys.org/news/2026-08-traditional-plastic-forks-microplastics-sugar.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-10T23:20:03.000Z",
-      "excerpt": "At a Massachusetts lab, pebble-sized pellets are transformed into forks and films that won't leave persistent microplastics in the environment."
-    },
-    {
-      "title": "Report confirms record-high greenhouse gases, global sea level and ocean heat in 2025",
-      "link": "https://phys.org/news/2026-08-high-greenhouse-gases-global-sea.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-10T23:20:01.000Z",
-      "excerpt": "According to the 36th annual State of the Climate report, greenhouse gas concentrations, global sea level and ocean heat content all reached record highs in 2025."
-    },
-    {
-      "title": "US had hottest month on record in July",
-      "link": "https://phys.org/news/2026-08-hottest-month-july.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-10T22:40:01.000Z",
-      "excerpt": "July 2026 marked the hottest month on record for the contiguous United States, the National Oceanic and Atmospheric Administration said Monday, continuing a recent trend driven by human-caused climate change."
-    },
-    {
-      "title": "Drought dries major European rivers to record lows",
-      "link": "https://phys.org/news/2026-08-drought-dries-major-european-rivers.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-10T22:20:03.000Z",
-      "excerpt": "Vast tracts of many of Europe's largest rivers, including the Rhine, Rhone and Danube, have slowed to a trickle never before recorded in July, data from a European climate observatory showed Monday."
-    },
-    {
-      "title": "The sediment story: A journey that impacts India's rivers and surrounding landscapes",
-      "link": "https://phys.org/news/2026-08-sediment-story-journey-impacts-india.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-10T22:00:03.000Z",
-      "excerpt": "Every monsoon, India's rivers turn brown. To most of us, that color simply means muddy water. But hidden within it is the material that builds fertile floodplains, creates river islands, nourishes deltas and even shapes…"
-    },
-    {
-      "title": "Water quality, not just scarcity, may shape future competition for a limited resource",
-      "link": "https://phys.org/news/2026-08-quality-scarcity-future-competition-limited.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-10T21:50:01.000Z",
-      "excerpt": "Climate change is largely to blame for water scarcity. The low water levels in European rivers this summer speak volumes in that respect."
-    },
-    {
-      "title": "Fermentation emerges as key pathway for ammonium production beneath the Pearl River Delta",
-      "link": "https://phys.org/news/2026-08-fermentation-emerges-key-pathway-ammonium.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-10T21:20:01.000Z",
-      "excerpt": "A study led by Professor Jimmy Jiujiu Jiao from the Department of Earth and Planetary Sciences at The University of Hong Kong (HKU) and Professor Meng Li from Shenzhen University has identified microbial fermentation as…"
-    },
-    {
-      "title": "Record July heat in regions home to 900 million people",
-      "link": "https://phys.org/news/2026-08-july-regions-home-million-people.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-10T20:00:10.000Z",
-      "excerpt": "Regions home to around 900 million people experienced their hottest July on record in 2026, including in the Sahel, Central America, France and Spain, according to AFP analysis of Copernicus data."
-    },
-    {
       "title": "ADNOC Gas reports net income of $665m in Q2 2026",
       "link": "https://www.offshore-technology.com/news/adnoc-gas-reports-q2-2026-income/",
       "source": "Offshore Technology",
@@ -442,22 +458,6 @@
       "category": "processing",
       "published": "2026-08-10T00:00:00.000Z",
       "excerpt": "To accurately predict the sustained annular pressure and annular gas&amp;ndash;liquid interface depth during the production of high-pressure and high-temperature (HPHT) gas wells and address the issues of natural gas lea…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2557: SHPNet: A Solar-Historical Prior Network with Similar Historical Windows for Ultra-Short-Term Multi-Step Photovoltaic Power Forecasting",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2557",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-10T00:00:00.000Z",
-      "excerpt": "Photovoltaic (PV) power exhibits high variability and non-stationarity due to irradiance fluctuations, cloud shading, and seasonal changes, which complicate ultra-short-term multi-step forecasting. This study proposes a…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2556: Mechanics-Permeability Similarities Between Natural-like and Natural Coal&ndash;Rock Specimens&mdash;A Comparative Study",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2556",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-10T00:00:00.000Z",
-      "excerpt": "Investigating the mechanics-permeability similarities between natural-like and natural gas-bearing coal&amp;ndash;rock specimens provides a theoretical basis for using natural-like specimens as substitutes for natural on…"
     },
     {
       "title": "New fuel cell breakthrough could help power energy-hungry data centers",
@@ -852,6 +852,14 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
+      "title": "3D simulation of ammonia co-firing in a 550 MWe USC CFB boiler: effects of co-firing ratios on combustion and NO emissions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126024403?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Joonwoo Kweon, Yijie Zeng, Min-Jong Ku, Dong-Won Kim, Kyoungil Park, Byoung-Hwa Lee, Chung-Hwan Jeon"
+    },
+    {
       "title": "Research on energy, exergy and heat-work conversion of a high-compression-ratio liquid methane spark ignition engine",
       "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026463?dgcid=rss_sd_all",
       "source": "Fuel",
@@ -866,14 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Joungho Han, Nam Il Kim"
-    },
-    {
-      "title": "Multi-Objective optimization of combustion, performance and emissions in a CI engine fueled with diesel-hexane-CeO 2 nanofuels using response surface methodology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602658X?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Yaşar Önder Özgören, Tolga Kocakulak, Emrah Erçek"
     }
   ]
 }
