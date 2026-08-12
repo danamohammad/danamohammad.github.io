@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T03:08:01.813Z",
+  "generatedAt": "2026-08-12T08:01:51.147Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 3,
+      "count": 4,
       "error": null
     },
     {
@@ -76,6 +76,46 @@
   ],
   "items": [
     {
+      "title": "Phillips 66 and partners approve $5bn Western Gateway Pipeline",
+      "link": "https://www.offshore-technology.com/news/phillips-66-western-gateway-pipeline/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-12T07:30:52.000Z",
+      "excerpt": "Phillips 66, Kinder Morgan and HF Sinclair have made an FID on the proposed $5bn Western Gateway Pipeline in the US."
+    },
+    {
+      "title": "A micro-continuum physics-based model for cohesive sediment gravity flows across mudslide, mudflow, and turbidity current regimes",
+      "link": "https://arxiv.org/abs/2608.10192",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-12T04:00:00.000Z",
+      "excerpt": "arXiv:2608.10192v1 Announce Type: new Abstract: Gravity driven sediment flows are responsible for a major portion of sediment redistribution within oceans, reservoirs, and lakes, with important implications in coastal er…"
+    },
+    {
+      "title": "Ground-to-Cable Strain Transfer in Unburied DAS on Earth and the Moon",
+      "link": "https://arxiv.org/abs/2608.10287",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-12T04:00:00.000Z",
+      "excerpt": "arXiv:2608.10287v1 Announce Type: new Abstract: Distributed Acoustic Sensing (DAS) measures dynamic strain along a fiber-optic cable, offering a robust, densely-sampled alternative to traditional seismic sensors. To ensu…"
+    },
+    {
+      "title": "A Spectral-Domain Pseudo-Inverse Method for True 3D Gravity Inversion",
+      "link": "https://arxiv.org/abs/2608.11014",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-12T04:00:00.000Z",
+      "excerpt": "arXiv:2608.11014v1 Announce Type: new Abstract: The main difficulty in 3D gravity inversion is that surface observations lack vertical wavenumber information, making the problem underdetermined and depth resolution poor.…"
+    },
+    {
+      "title": "Unsupervised Detection of Groundwater Storage Anomalies in Ghana Using GRACE Satellite Data",
+      "link": "https://arxiv.org/abs/2608.10233",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-12T04:00:00.000Z",
+      "excerpt": "arXiv:2608.10233v1 Announce Type: cross Abstract: Groundwater variability in Ghana remains poorly characterized due to limited long-term in-situ observations. This study investigates groundwater storage anomalies using G…"
+    },
+    {
       "title": "Japan's earthquake shows extreme heat can turn one disaster into two",
       "link": "https://phys.org/news/2026-08-japan-earthquake-extreme-disaster.html",
       "source": "Phys.org — Earth",
@@ -90,6 +130,30 @@
       "category": "energy",
       "published": "2026-08-12T00:00:00.000Z",
       "excerpt": "With the rapid growth of installed capacity for renewable energy in recent years, the challenge of developing renewable electricity has become increasingly significant. Reforms in the electricity market have played a cru…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2572: Coupled Temperature&ndash;Density Effects on Acoustic Maturation of HGM-Modified Lightweight Oil Well Cement: Mechanisms and Implications for Sonic Logging Optimization",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2572",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-12T00:00:00.000Z",
+      "excerpt": "This study quantitatively investigates the coupled effects of curing temperature and slurry density on the early-age acoustic maturation of ultra-low-density Hollow Glass Microsphere (HGM)-modified oil well cement system…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2571: Research on Leakage Characteristics and Optimal Design of Electro-Hydraulic Proportional Directional Valves",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2571",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-12T00:00:00.000Z",
+      "excerpt": "Internal leakage directly affects the efficiency and positioning accuracy of electro-hydraulic proportional directional valves. This study establishes an annular-clearance leakage model incorporating eccentricity, pressu…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2570: Effect of the Flux-Assisted Thermal Treatment of Industrial Ammonium Jarosite: Thermodynamic Mechanisms and Mineralogical Evolution",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2570",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-12T00:00:00.000Z",
+      "excerpt": "Jarosite-type residues generated during zinc hydrometallurgical processing represent a significant environmental liability and a latent source of valuable metals (Zn, Pb, Ag). In this study, the thermal decomposition and…"
     },
     {
       "title": "Rivers are moving sediment in intense bursts, a worrisome new pattern uncovered by AI",
@@ -180,6 +244,14 @@
       "excerpt": "After multiple severe heat waves in a single summer, French residents are increasingly factoring high temperatures into their home hunts, realtors say, bumping up features such as shutters, air conditioning and indirect…"
     },
     {
+      "title": "Santos completes first crude oil loading from Alaska’s Pikka phase 1",
+      "link": "https://www.offshore-technology.com/news/santos-first-crude-oil-pikka-phase-1/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-11T11:46:08.000Z",
+      "excerpt": "Santos has completed the first loading of crude oil cargo from the Pikka phase 1 development located on Alaska’s North Slope, marking the start of commercial exports from the project."
+    },
+    {
       "title": "SBM Offshore selects Siemens Energy for Brazil Sergipe-Alagoas FPSOs",
       "link": "https://www.offshore-technology.com/news/siemens-energy-sergipe-alagoas-contract/",
       "source": "Offshore Technology",
@@ -202,30 +274,6 @@
       "category": "industry",
       "published": "2026-08-11T08:02:22.000Z",
       "excerpt": "Baker Hughes has secured a contract to supply subsea production systems and digital solutions for the Kutei Northern Hub development."
-    },
-    {
-      "title": "Intermittent flow paths in biofilms grown in a microfluidic channel",
-      "link": "https://arxiv.org/abs/2504.00062",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-11T04:00:00.000Z",
-      "excerpt": "arXiv:2504.00062v1 Announce Type: cross Abstract: Biofilms exposed to flow experience shear stress, which leads to a competitive interaction between the growth and development of a biofilm and shearing. In this study, Ps…"
-    },
-    {
-      "title": "An Attention-Based Stochastic Simulator for Multisite Extremes to Evaluate Nonstationary, Cascading Flood Risk",
-      "link": "https://arxiv.org/abs/2509.14162",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-11T04:00:00.000Z",
-      "excerpt": "arXiv:2509.14162v3 Announce Type: replace Abstract: Flood risk is correlated in space and time, challenging insurance systems that rely on diversification across assets. Financial instruments governing flood coverage are…"
-    },
-    {
-      "title": "How modeling assumptions shape predictions of convective mixing of carbon dioxide",
-      "link": "https://arxiv.org/abs/2604.23199",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-11T04:00:00.000Z",
-      "excerpt": "arXiv:2604.23199v2 Announce Type: replace-cross Abstract: We investigate how models of fluid properties and boundary conditions influence predictions of convective mixing in confined porous media, with relevance to subsu…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3780: Condition-Aware Performance Health Index and Multi-Source Signal Mapping for Degradation Trend Identification in Hydropower Units",
@@ -388,22 +436,6 @@
       "excerpt": "Against the backdrop of increasing renewable energy penetration, distribution networks face the dual challenges of spatiotemporal mismatch between sources and loads, as well as the surging costs of physical capacity expa…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2561: Solar-Powered Hydrothermal Recycling of Polyethylene Terephthalate Waste to Terephthalic Acid: Process Performance and Life Cycle Assessment",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2561",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-11T00:00:00.000Z",
-      "excerpt": "Decarbonizing the process heat required for chemical recycling would improve the environmental performance of plastic-waste valorization. This study presents an evaluation of the use of concentrated solar thermal energy…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2560: A Dual-Track Feature-Enhanced Physics-Informed Model for Accurate Wind Power Forecasting with Physical Consistency",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2560",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-11T00:00:00.000Z",
-      "excerpt": "In response to stochastic fluctuations in large-scale wind power integration and the resulting peak-shaving challenges, high-precision forecasting with physical consistency is essential for grid safety. To address the in…"
-    },
-    {
       "title": "ADNOC Gas reports net income of $665m in Q2 2026",
       "link": "https://www.offshore-technology.com/news/adnoc-gas-reports-q2-2026-income/",
       "source": "Offshore Technology",
@@ -452,14 +484,6 @@
       "excerpt": "L&T Energy Hydrocarbon Offshore has been awarded a series of contracts by Oil & Natural Gas Corporation (ONGC) for projects off the west coast of India."
     },
     {
-      "title": "Processes, Vol. 14, Pages 2558: Study on Prediction of Sustained Annular Pressure and Annular Gas&ndash;Liquid Interface Depth in HPHT Gas Wells",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2558",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-10T00:00:00.000Z",
-      "excerpt": "To accurately predict the sustained annular pressure and annular gas&amp;ndash;liquid interface depth during the production of high-pressure and high-temperature (HPHT) gas wells and address the issues of natural gas lea…"
-    },
-    {
       "title": "New fuel cell breakthrough could help power energy-hungry data centers",
       "link": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -476,28 +500,12 @@
       "excerpt": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from…"
     },
     {
-      "title": "ADNOC L&S buys 11 vessels in $1.3bn fleet expansion",
-      "link": "https://www.offshore-technology.com/news/adnoc-ls-1-3bn-fleet-expansion/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-07T12:24:52.000Z",
-      "excerpt": "ADNOC L&S said that it had acquired five VLGCs and six VLCCs for a combined investment of approximately Dh4.8bn ($1.3bn)."
-    },
-    {
       "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
       "link": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm",
       "source": "ScienceDaily — Geology",
       "category": "geoscience",
       "published": "2026-08-07T10:24:52.000Z",
       "excerpt": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakeni…"
-    },
-    {
-      "title": "McDermott wins ExxonMobil LoI for Rovuma LNG engineering work",
-      "link": "https://www.offshore-technology.com/news/mcdermott-exxonmobil-loi-rovuma-lng/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-07T09:43:15.000Z",
-      "excerpt": "ExxonMobil Moçambique has issued McDermott Energy Solutions (UK) a letter of intent (LoI) covering limited engineering and procurement services for the continuation of the Rovuma LNG Phase 1 midstream project."
     },
     {
       "title": "This hydrogen turbine turns controlled explosions into electricity",
@@ -866,14 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Shijian Chen, Qi Cui, Qiming Zhu, Le Ke, Haiyi Wang, Jianqin Fu, Tamer M.M. Abdellatief, Xiongbo Duan, Feng Zhou"
-    },
-    {
-      "title": "Overall propagation characteristics of CH 4 /air premixed flames in mesoscales using a stepwise disk burner (SDB)",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026281?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part C Author(s): Joungho Han, Nam Il Kim"
     }
   ]
 }
