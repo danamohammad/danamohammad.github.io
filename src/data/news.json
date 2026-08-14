@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T03:10:28.699Z",
+  "generatedAt": "2026-08-14T07:59:36.271Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 2,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -76,6 +76,86 @@
   ],
   "items": [
     {
+      "title": "Emerson wins contract for BP’s $2.9bn Shah Deniz Compression project",
+      "link": "https://www.offshore-technology.com/news/emerson-contract-bp-shah-deniz-compression/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-14T07:18:42.000Z",
+      "excerpt": "Emerson has been awarded a multi-million-dollar contract to deliver automation systems for the $2.9bn Shah Deniz Compression project, operated by BP in the Caspian Sea, Azerbaijan."
+    },
+    {
+      "title": "Functional-prior-based approaches to Bayesian PDE-constrained inversion using physics-informed neural networks",
+      "link": "https://arxiv.org/abs/2605.07060",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-14T04:00:00.000Z",
+      "excerpt": "arXiv:2605.07060v3 Announce Type: replace Abstract: Physics-informed neural networks (PINNs) provide a mesh-free framework for solving PDE-constrained inverse problems, but their extension to Bayesian inversion still fac…"
+    },
+    {
+      "title": "Quantitative mobile gamma-ray spectrometry through Bayesian inference",
+      "link": "https://arxiv.org/abs/2512.18769",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-14T04:00:00.000Z",
+      "excerpt": "arXiv:2512.18769v5 Announce Type: replace-cross Abstract: Accurate quantitative mapping of gamma-ray emitters is critical for applications ranging from radiological emergency response and environmental monitoring to nucl…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3818: Comprehensive Economic Assessment of Large-Scale Energy Storage Systems: Lifecycle LCOE and Net LCOS Analysis",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3818",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-14T00:00:00.000Z",
+      "excerpt": "The increasing penetration of renewable energy has created an urgent need for economically competitive large-scale energy storage technologies. Conventional economic evaluations mainly focus on lifecycle costs while negl…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3817: DARC: A Constraint-Diagnostic LLM Agent Framework for Day-Ahead Dispatch of Campus-Level Integrated Energy Microgrids Under Natural-Language Preferences and Forecast Uncertainty",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3817",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-14T00:00:00.000Z",
+      "excerpt": "Day-ahead dispatch of integrated energy systems (IESs) is commonly solved by mixed-integer linear programming when objectives, constraints, and forecasts are fully specified. In practice, however, operators often express…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3816: Optimal LoRaWAN Gateway Deployment for Advanced Metering Infrastructure: A Greedy Capacity-Coverage Approach with Class-C Bidirectional Capacity Analysis",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3816",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-14T00:00:00.000Z",
+      "excerpt": "Advanced Metering Infrastructure (AMI) systems require bidirectional wireless communication for remote meter reading, disconnection, and demand&amp;ndash;response management across large numbers of smart meters. LoRaWAN…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3815: Assessment of Solar and BAPV Potential in Post-WW II Social Housing Districts in Poznan: A Multi-Scale Analysis",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3815",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-14T00:00:00.000Z",
+      "excerpt": "Building-applied photovoltaics (BAPV) offer a practical retrofit pathway for the prefabricated social housing estates of Central and Eastern Europe. This study assesses the solar and photovoltaic potential of post-WW II…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3814: Decarbonising Transport, Energising the Grid: A Study of Electric Vehicle&ndash;Grid Interactions in New Zealand",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3814",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-14T00:00:00.000Z",
+      "excerpt": "The transport sector contributes nearly 20% of New Zealand&amp;rsquo;s total greenhouse gas emissions, making it crucial for interventions to meet the 2050 net-zero target. Transitioning to electric vehicles (EVs) presen…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3813: Analysis of the Influence of Selected Parameters of a Cold Crucible Induction Furnace on Its Electrical Efficiency",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3813",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-14T00:00:00.000Z",
+      "excerpt": "This publication presents the results of numerical simulations concerning changes in the cold crucible design, the influence of the cold crucible melting process parameters, and the impact of the computational model on e…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3812: Assessing the Relative Climate Mitigation Effects of Energy Efficiency, Conventional Energy, and Environmental Taxes in Australia: Evidence from a Dynamic ARDL Model",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3812",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-14T00:00:00.000Z",
+      "excerpt": "Energy efficiency (EE) is integral to a sustainable energy system and can play a significant role in climate mitigation by reducing energy consumption and the adverse effects of climate change. This paper examines the as…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3811: Quantifying the Asymmetric Socioeconomic Burden of Residential Electricity Tariffs: The Energy-Economic Impact Index Framework",
       "link": "https://www.mdpi.com/1996-1073/19/16/3811",
       "source": "Energies (MDPI)",
@@ -90,6 +170,30 @@
       "category": "energy",
       "published": "2026-08-14T00:00:00.000Z",
       "excerpt": "The sustainable development of the ceramics industry is severely impeded by its intensive energy consumption and the concomitant deficits in cooling and freshwater resources. To address these bottlenecks, this study prop…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2590: Prediction of Herschel&ndash;Bulkley Parameters for Water-Based Drilling Fluids Under Wide Temperature and Pressure Conditions Using Ambient-Condition Parameters",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2590",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-14T00:00:00.000Z",
+      "excerpt": "Accurate wellbore-pressure prediction is essential for safe drilling and pressure management in ultra-deep wells, where high temperature and pressure strongly alter drilling-fluid rheology. Existing rheological-parameter…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2588: Sensitivity-Based Reference-Time Scaling for Local Orthogonalization of Fractional-Order Model Parameters",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2588",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-14T00:00:00.000Z",
+      "excerpt": "Fractional-order models are useful for describing systems with memory, anomalous relaxation, and non-classical dynamic behavior. However, parameter estimation in these models may be affected by strong covariance between…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2589: A Hybrid Data-Driven and Knowledge-Driven Method for Commercial HVAC Load Identification",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2589",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-14T00:00:00.000Z",
+      "excerpt": "Accurate HVAC load identification from low-frequency smart-meter data is important for commercial-building demand response and energy management, but remains difficult when high-frequency measurements, detailed physical…"
     },
     {
       "title": "While Great Lakes ice cover is slipping, a 'temporary respite' may be on the way",
@@ -244,62 +348,6 @@
       "excerpt": "Fuel cells (FCs) are critical for decarbonizing the transport industry, with Life Cycle Assessment (LCA) serving as the standard evaluation framework. However, existing literature exhibits severe methodological heterogen…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3806: Cross-Border Energy Infrastructure and Regional Energy Security: Empirical Evidence from the Poland&ndash;Baltic States Corridor",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3806",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "The Baltic states disconnected from the Soviet-era BRELL ring and synchronized with the Continental European grid in February 2025, completing a decade of new electricity and gas interconnections in the Poland&amp;ndash;…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3805: Data-Driven Identification of Active Distribution Network-to-Customer Transformer Relationships: A Power Active Admittance Regression Method",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3805",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "Accurate identification of customer transformer relationships in distribution sub-zones is a fundamental prerequisite for the refined management of low-voltage distribution networks and the integration of distributed gen…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3804: Life Cycle Assessment of Hydrogen Production Technologies: A Systematic Review of Environmental Impacts and Policy Implications for the Green Energy Transition",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3804",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "Hydrogen is not intrinsically low-carbon; its environmental value depends on how, where, and with which energy system it is produced. This PRISMA 2020 systematic review synthesizes 28 peer-reviewed life cycle assessment…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3803: User Expectations and Operator Strategies in Robot-Based Electric Vehicle Charging",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3803",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "The rapid increase in electric vehicle (EV) usage requires scalable and flexible charging solutions that minimise user effort and infrastructure constraints. One such solution is robot-based EV charging, which automates…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3802: Probabilistic Load Flow Calculation for Distribution Networks Based on Advanced Source-Load Modeling and Time-Varying D-Vine Copula",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3802",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "With the large-scale integration of distributed photovoltaic generation (PV) into modern distribution networks, the inherent stochasticity and volatility of renewable energy outputs have imposed non-negligible impacts on…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3801: Risk-Window Planning of HVDC-Connected Renewable Energy Bases with a Chronological-Replay-Protected Decision Gate",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3801",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "Planning HVDC-connected renewable energy bases is constrained by the cost of full 8760 h multi-scenario replay and the risk that temporal reduction obscures coupled renewable scarcity, ramping stress, storage depletion,…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3800: Diesel Lock-In by Design: Indonesia&rsquo;s Regulatory Architecture Produces Unbankable PV-BESS Microgrids on Isolated Grids",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3800",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "Indonesia has committed to displacing diesel generation with solar PV and battery energy storage (PV-BESS) microgrids on its isolated island grids. However, no PV-BESS project on an isolated grid has reached financial cl…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2587: Physics-Informed Neural Network Prediction of Nanofluid Thermal Transport in TPMS Gyroid Heat Exchangers",
       "link": "https://www.mdpi.com/2227-9717/14/16/2587",
       "source": "Processes (MDPI)",
@@ -372,30 +420,6 @@
       "excerpt": "This study devised a blasting experiment to establish a dynamic quantified relationship between blasting and movement, failure, and ejection of rock masses. The experiment was conducted using the 3D digital image correla…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2578: The Influence of a Plant-Based Biologically Active Additive on the Physicochemical and Rheological Properties of Wheat Flour and Its Application in Crackers",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2578",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "The development of functional bakery products enriched with plant-based biologically active ingredients has attracted increasing attention due to their potential nutritional and technological benefits. This study aimed t…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2577: Water-Content Regulation of TEMPO-Based Deep Eutectic Solvent (DES) Electrolyte for Enhanced Solar Redox Flow Battery Performance",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2577",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "Deep eutectic solvents (DESs) are promising electrolyte media for solar redox flow batteries, but their high viscosity and sluggish ion transport can limit redox-species diffusion, interfacial charge transfer, and photoc…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2576: A Study of Bubble Dynamics on the Dielectric Recovery Underwater Discharge",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2576",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "This study numerically investigates the dielectric recovery characteristics of underwater pulsed discharge by coupling the Keller&amp;ndash;Miksis equation with interfacial phase-change mass transfer. The model incorpora…"
-    },
-    {
       "title": "TechnipFMC to supply flexible pipes for Azule’s West Hub Tails project",
       "link": "https://www.offshore-technology.com/news/technipfmc-azules-west-hub-tails-project/",
       "source": "Offshore Technology",
@@ -434,14 +458,6 @@
       "category": "industry",
       "published": "2026-08-11T11:46:08.000Z",
       "excerpt": "Santos has completed the first loading of crude oil cargo from the Pikka phase 1 development located on Alaska’s North Slope, marking the start of commercial exports from the project."
-    },
-    {
-      "title": "SBM Offshore selects Siemens Energy for Brazil Sergipe-Alagoas FPSOs",
-      "link": "https://www.offshore-technology.com/news/siemens-energy-sergipe-alagoas-contract/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-11T10:13:11.000Z",
-      "excerpt": "Siemens Energy has been chosen by SBM Offshore to provide power generation and gas compression systems for Petrobras’ platforms in Brazil’s Sergipe-Alagoas basin."
     },
     {
       "title": "Scientists discover a hidden switch inside silver nanocatalysts",
@@ -858,22 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Taufik Kumar, Mingming Peng, Daqian Chen, Silmina Silmina, Lijiang Fan, Eika W. Qian"
-    },
-    {
-      "title": "Selective production of even-numbered bio-alkanes from fatty acid methyl esters via cascade hydrogenation over Cu–ZnO/γ-Al 2 O 3 catalysts",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026888?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Il-Ho Choi, In-Soo Ryu, Jihye Lim, Seongeun Oh, Bogyeong Sa, Se Hun Joo, Jeong-Chul Kim, Kyung-Ran Hwang"
-    },
-    {
-      "title": "Highly efficient methanol-to-hydrogen conversion via bipolar liquid-phase pulsed discharge: Energy coupling and process intensification",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027286?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Jingyu Liu, Yanbin Xin, Quanli Wang, Yutong Yang, Jiabao Sun, Fupeng Cheng, Bing Sun"
     }
   ]
 }
