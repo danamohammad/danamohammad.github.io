@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:14:27.019Z",
+  "generatedAt": "2026-08-15T19:00:04.364Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -146,6 +146,14 @@
       "category": "energy",
       "published": "2026-08-15T00:00:00.000Z",
       "excerpt": "Evidence combining energy management and life cycle assessment of diesel-to-CNG substitution under real fleet operation remains limited. The energy and environmental assessments were jointly applied over a common functio…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2603: Integrated Biosorption, Membrane Separation, and Advanced Oxidation Processes for Sustainable Wastewater Treatment: Mechanisms, Hybrid Systems, and Future Perspectives",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2603",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-15T00:00:00.000Z",
+      "excerpt": "Increased contamination and complexity of wastewater due to rapid industrialization, urbanization, and new contaminants have highlighted the limitations of conventional treatment technologies. The treatment of complex wa…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2602: Statistical Optimization of Submerged Cultivation of Talaromyces sp. for Natural Colorant Production Using a Box&ndash;Behnken Design: Physicochemical Stability and In Vitro Cytotoxicity Assessment in Human Neonatal Dermal Fibroblasts",
@@ -394,14 +402,6 @@
       "category": "processing",
       "published": "2026-08-14T00:00:00.000Z",
       "excerpt": "In flexibly interconnected regional power systems with high penetration of renewable energy, chronological production simulation encounters combinatorial explosion and computational inefficiency, especially over medium-…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2591: Analysis and Practice of High-Temperature Control Schemes for Coal Mine Spoil Dumps",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2591",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "The coal gangue waste dumps formed by open-pit coal mining are prone to low-temperature oxidation and heat storage, creating deep hidden high-temperature abnormal areas, continuously releasing toxic gases, and causing co…"
     },
     {
       "title": "Golar LNG signs $2.5bn agreement for fourth floating LNG vessel",
@@ -836,44 +836,44 @@
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Ruina Shi, Zihan Zhang, Jiaojun Guo, Yifan Dou, Lixin Zhang, Yan Qu, Bin Li, Wei Song, Guisheng Qi, Imran Shakir, Xuping Sun, Luchao Yue"
     },
     {
-      "title": "Efficient Solar-to-Hydrogen energy conversion and selective Photo-reforming of Polylactic acid plastic using Ru Nanoparticles-Modified CeO 2 /CdS",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027298?dgcid=rss_sd_all",
+      "title": "Liptinite maceral control on oil generation and expulsion from Permian Gondwana coals: evidence from the Sydney Basin, Australia",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027389?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Meng Wu, Ziwen Wang, Jun Wang, Huanyu Chen, Qiuyu Wang, Wenyu Jia, Wanting Shi, Bo Lv"
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Terfa Elijah Garba, Khairul Azlan Mustapha, Lanre Asiwaju"
     },
     {
-      "title": "Physics-informed neural network modeling and extended state Kalman filter-based predictive control for SCR denitrification",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026694?dgcid=rss_sd_all",
+      "title": "Thermo-hydro-mechanical coupling analysis of parameter evolution and failure mechanism during deep coal and gas outbursts",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025329?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Qi Zhan, Abdulelah S. Alshehri, Miao Zhang, Li Sun"
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Xianhe Yang, Chaolin Zhang, Enyuan Wang, Dong Liu, Zhonghui Li, Yunfu Li, Shiji Yang"
     },
     {
-      "title": "Dynamic features and combustion state identification of burner flames in a 660 MW coal-fired boiler",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026608?dgcid=rss_sd_all",
+      "title": "Enhanced sintering and coke resistance of silica-supported Ce 0.75 Zr 0.25 NiO 3 catalysts for bi-reforming of methane",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026864?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Sixu Pu, Yi Zhou, Md.Moinul Hossain, Guoqing Chen, Chuanlong Xu"
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Diem Quach Trinh Hong, Tri Nguyen, Cam Anh Ha, Luu Cam Loc"
     },
     {
-      "title": "Deep aromatic reduction in linear alkylbenzene raffinate by hydrodearomatization using Ni-based catalysts for jet and rocket fuel applications",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027018?dgcid=rss_sd_all",
+      "title": "Examining experimental nitrogen-based emissions trends from ammonia/diesel and ammonia/hydrogen/diesel combustion",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026189?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Alok Singh, Minakshi Garg, Savita Singh, Shailendra K. Singh"
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Daanish Tyrewala, Shrikar Banagiri, Brian Kaul, Scott Curran"
     },
     {
-      "title": "Stress-driven transition from reaction-controlled to oxygen-transport-limited oxidation in N 2 /CO 2 -pretreated coal",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027444?dgcid=rss_sd_all",
+      "title": "Ru decorated 2D nitrogen-vacancy-enriched Mo 2 N nanosheets for highly efficient hydrogen evolution reaction in anion exchange membrane electrolyzer",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602661X?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Xiyang Fang, Haiyan Wang, Bo Tan, Hao Lu, Zhongbei Li, Kaimin Zhang, Fang Zhou"
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Yuming Li, Hongyu Liu, Yanwen Xu, Wenlong Li, Huanhuan Wang, Lina Ma, Yajun Wang"
     }
   ]
 }
