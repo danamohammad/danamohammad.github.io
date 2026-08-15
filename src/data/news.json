@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T02:02:15.543Z",
+  "generatedAt": "2026-08-15T07:09:39.869Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 2,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,54 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 3830: Forecasting UK Electricity and Gas Demand Under RCP Scenarios for Net-Zero Energy Security Using ML",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3830",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-15T00:00:00.000Z",
+      "excerpt": "Climate change is altering energy-demand patterns through changing temperatures and heating and cooling requirements. Long-term energy-demand projections are essential for energy security, infrastructure planning, and pr…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3829: Environmental and Energy Sustainability in Wastewater Transportation: Integration of ISO 50001 and ISO 14040/14044 in the Replacement of Diesel with Compressed Natural Gas, Lima, Peru",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3829",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-15T00:00:00.000Z",
+      "excerpt": "Evidence combining energy management and life cycle assessment of diesel-to-CNG substitution under real fleet operation remains limited. The energy and environmental assessments were jointly applied over a common functio…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2601: Numerical Structural Screening of a High-Pressure Sand Concentrator for Pre-Foaming Base Fluid in CO2-Foam Fracturing",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2601",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-15T00:00:00.000Z",
+      "excerpt": "Mixing a proppant-laden base fluid with high-pressure CO2 can reduce its effective sand volume fraction, thereby impairing proppant placement and fracture conductivity. This study performs a numerical structural screenin…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2600: Experimental Study on Tensile Fracturing Characteristics and Crack Propagation of Deep Coal with Different Macroscopic Compositions",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2600",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-15T00:00:00.000Z",
+      "excerpt": "The development characteristics of primary fractures in coal serve as a prerequisite, influencing reservoir stimulation outcomes. The propagation of experimentally induced tensile cracks in the reservoir is closely relat…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2599: HuberT Robust Regression and Canonical Analysis for Multi-Response Optimization of Flocculation-Sedimentation Processes with an Application to High-Ash Coal Slurry Water",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2599",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-15T00:00:00.000Z",
+      "excerpt": "Flocculation-sedimentation is a widely used solid&amp;ndash;liquid separation process in mineral processing and wastewater treatment, yet its optimization remains challenging due to nonlinear interactions among reagents,…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2598: Study on Fluid Mobility of Different Types of Deep Coal Rocks Based on Nuclear Magnetic Resonance",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2598",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-15T00:00:00.000Z",
+      "excerpt": "Deep coalbed methane (CBM) represents a strategic successor field for unconventional oil and gas exploration and development in China, and fluid mobility is a key parameter determining CBM recovery rates. Existing NMR-ba…"
+    },
     {
       "title": "Green roofs can help cool cities in the summer heat, but building them is only the first step. Many don't survive",
       "link": "https://phys.org/news/2026-08-green-roofs-cool-cities-summer.html",
@@ -212,22 +260,6 @@
       "excerpt": "Emerson has been awarded a multi-million-dollar contract to deliver automation systems for the $2.9bn Shah Deniz Compression project, operated by BP in the Caspian Sea, Azerbaijan."
     },
     {
-      "title": "Functional-prior-based approaches to Bayesian PDE-constrained inversion using physics-informed neural networks",
-      "link": "https://arxiv.org/abs/2605.07060",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-14T04:00:00.000Z",
-      "excerpt": "arXiv:2605.07060v3 Announce Type: replace Abstract: Physics-informed neural networks (PINNs) provide a mesh-free framework for solving PDE-constrained inverse problems, but their extension to Bayesian inversion still fac…"
-    },
-    {
-      "title": "Quantitative mobile gamma-ray spectrometry through Bayesian inference",
-      "link": "https://arxiv.org/abs/2512.18769",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-14T04:00:00.000Z",
-      "excerpt": "arXiv:2512.18769v5 Announce Type: replace-cross Abstract: Accurate quantitative mapping of gamma-ray emitters is critical for applications ranging from radiological emergency response and environmental monitoring to nucl…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 3828: Edge-Cloud Energy Management for AC/DC Hybrid Building Microgrids: A Knowledge-Graph-Enhanced Optimization Approach",
       "link": "https://www.mdpi.com/1996-1073/19/16/3828",
       "source": "Energies (MDPI)",
@@ -308,22 +340,6 @@
       "excerpt": "The very fast transient overvoltage (VFTO) generated by the operation of disconnectors in gas-insulated switchgears (GIS) features a wide frequency band and a steep rising edge, posing a severe threat to the safe and sta…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3818: Comprehensive Economic Assessment of Large-Scale Energy Storage Systems: Lifecycle LCOE and Net LCOS Analysis",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3818",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "The increasing penetration of renewable energy has created an urgent need for economically competitive large-scale energy storage technologies. Conventional economic evaluations mainly focus on lifecycle costs while negl…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3817: DARC: A Constraint-Diagnostic LLM Agent Framework for Day-Ahead Dispatch of Campus-Level Integrated Energy Microgrids Under Natural-Language Preferences and Forecast Uncertainty",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3817",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "Day-ahead dispatch of integrated energy systems (IESs) is commonly solved by mixed-integer linear programming when objectives, constraints, and forecasts are fully specified. In practice, however, operators often express…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2595: Sustainable Graphene-like Carbon from Ghars Date Waste for Photothermal-Enhanced Solar Desalination: A Circular Economy Approach",
       "link": "https://www.mdpi.com/2227-9717/14/16/2595",
       "source": "Processes (MDPI)",
@@ -388,22 +404,6 @@
       "excerpt": "Accurate wellbore-pressure prediction is essential for safe drilling and pressure management in ultra-deep wells, where high temperature and pressure strongly alter drilling-fluid rheology. Existing rheological-parameter…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2588: Sensitivity-Based Reference-Time Scaling for Local Orthogonalization of Fractional-Order Model Parameters",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2588",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "Fractional-order models are useful for describing systems with memory, anomalous relaxation, and non-classical dynamic behavior. However, parameter estimation in these models may be affected by strong covariance between…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2589: A Hybrid Data-Driven and Knowledge-Driven Method for Commercial HVAC Load Identification",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2589",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "Accurate HVAC load identification from low-frequency smart-meter data is important for commercial-building demand response and energy management, but remains difficult when high-frequency measurements, detailed physical…"
-    },
-    {
       "title": "Golar LNG signs $2.5bn agreement for fourth floating LNG vessel",
       "link": "https://www.offshore-technology.com/news/golar-lng-fourth-floating-lng-vessel/",
       "source": "Offshore Technology",
@@ -434,22 +434,6 @@
       "category": "industry",
       "published": "2026-08-13T07:30:13.000Z",
       "excerpt": "ConocoPhillips has commenced oil production at its Coyote 3SX development in the Kuparuk River Unit on Alaska's North Slope."
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2587: Physics-Informed Neural Network Prediction of Nanofluid Thermal Transport in TPMS Gyroid Heat Exchangers",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2587",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "Triply periodic minimal surface (TPMS) heat exchangers offer high surface-area-to-volume ratios and interconnected flow pathways, making them attractive for compact thermal management. However, accurately predicting nano…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2586: Solid Oxide Fuel Cells for AI Data Centers: Materials Durability, System Reliability, and Prospects for On-Site Firm Power",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2586",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-13T00:00:00.000Z",
-      "excerpt": "Artificial intelligence (AI) data centers are creating large, power-dense loads, often faster than transmission lines, substations, transformers, and grid interconnections can be expanded. This review assesses whether so…"
     },
     {
       "title": "TechnipFMC to supply flexible pipes for Azule’s West Hub Tails project",
@@ -874,6 +858,22 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Sixu Pu, Yi Zhou, Md.Moinul Hossain, Guoqing Chen, Chuanlong Xu"
+    },
+    {
+      "title": "Deep aromatic reduction in linear alkylbenzene raffinate by hydrodearomatization using Ni-based catalysts for jet and rocket fuel applications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027018?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Alok Singh, Minakshi Garg, Savita Singh, Shailendra K. Singh"
+    },
+    {
+      "title": "Stress-driven transition from reaction-controlled to oxygen-transport-limited oxidation in N 2 /CO 2 -pretreated coal",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027444?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Xiyang Fang, Haiyan Wang, Bo Tan, Hao Lu, Zhongbei Li, Kaimin Zhang, Fang Zhou"
     }
   ]
 }
