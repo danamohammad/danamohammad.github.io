@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T02:09:11.943Z",
+  "generatedAt": "2026-08-16T07:16:08.185Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 3836: Carbon-Emission Analysis of a Liquefied Natural Gas Regasification System Using Power-Plant Thermal Discharge",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3836",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "Low seawater temperatures constrain the operation of open rack vaporizers (ORVs) and intermediate fluid vaporizers (IFVs), while also increasing pumping-related emissions at LNG terminals. This study establishes a carbon…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3835: Control Design for High-Side Blocking of E3 High-Altitude Electromagnetic Insults",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3835",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "This paper presents a novel approach for protecting transformers during an E3 HEMP insult as well as the associated technology-agnostic voltage, power, energy storage, and bandwidth requirements of various control laws.…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3834: Hidden Energy Poverty, the Dwelling Envelope, and the Limits of Income-Based Targeting: Household Evidence from the Coal Phase-Out Region of Western Macedonia, Greece",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3834",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "Coal phase-out regions concentrate the distributional risks of the energy transition, yet the tools used to identify energy-poor households in these territories still rely mainly on income and welfare criteria. This stud…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2607: Two-Layer Source&ndash;Storage Coordinated Planning Method Coordinating Low-Carbon Economic Security Objectives and Energy Storage Market Driving",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2607",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "In the new-type power system, the traditional generation planning paradigm has shifted to a new paradigm of source&amp;ndash;storage collaborative planning. However, source&amp;ndash;storage coordinated planning is facin…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2606: Assessing Reuse Potential of TEDA-Impregnated Activated Carbon Through Physicochemical Characterization and CH3I Breakthrough Test",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2606",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "Triethylenediamine (TEDA)-impregnated activated carbon (AC) is widely used in the air purification systems of nuclear power plants to retain gaseous radioactive species. Regeneration and reuse of spent AC may reduce radi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2605: Deformation Mechanism and Control Strategies of Gob-Side Entry Retaining by Roof Cutting in Ultra-Deep Coal Mines",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2605",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "Gob-side entry retaining by roof cutting and pressure relief (CRRE) eliminates coal pillar waste and mitigates mining-induced stress concentration. Although widely applied in mines shallower than 1000 m, systematic resea…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2604: Physics-Constrained AI-Assisted Flowing Material Balance for Productivity Evaluation During High-Volume, Long-Duration Flowback in Ultra-Deep Wells",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2604",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "High-volume, long-duration flowback in ultra-deep fractured wells couples pressure, rate, water production, fracture conductivity, and stress-sensitive reservoir properties, making it difficult for pressure transient ana…"
+    },
     {
       "title": "Hurricane poised to hit Hawaii as El Niño stirs Pacific",
       "link": "https://phys.org/news/2026-08-hurricane-poised-hawaii-el-nio.html",
@@ -332,30 +388,6 @@
       "excerpt": "Following extreme disasters, hybrid wind farms comprising grid-following (GFL) and grid-forming (GFM) turbines can serve as black-start resources for power system restoration. However, wind power uncertainty, wake effect…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3824: Active Geometric Modulation of Nonlinear Energy-Harvesting Branches in a Triple-Hybrid Variable-Length Pendulum Harvester",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3824",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "This study investigates active geometric modulation in a variable-length pendulum energy harvester combining radial electromagnetic, rotational electromagnetic, and piezoelectric transduction. A reciprocal seven-state el…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3823: A Mathematical Model for Predicting the Viscosity of Oil Emulsions as a Function of Water Cut",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3823",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "The formation of oil&amp;ndash;water emulsions following reservoir-water breakthrough is widely observed during oil production. The viscosity of these polydisperse systems may increase sharply with increasing water cut,…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3822: Modeling and Simulation of Impedance Measurement for Battery Energy Storage Systems with Multi-Frequency Perturbation Signals",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3822",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "This paper aims to address the challenge of identifying early-stage short-circuit faults in lithium-ion battery modules through conventional voltage and current signals. The perturbation injection method is employed to i…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2595: Sustainable Graphene-like Carbon from Ghars Date Waste for Photothermal-Enhanced Solar Desalination: A Circular Economy Approach",
       "link": "https://www.mdpi.com/2227-9717/14/16/2595",
       "source": "Processes (MDPI)",
@@ -370,38 +402,6 @@
       "category": "processing",
       "published": "2026-08-14T00:00:00.000Z",
       "excerpt": "The Block MZ features tight reservoir physical properties and poor interlayer connectivity, making conventional injection-production patterns ineffective for formation energy supplementation. Although high initial produc…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2597: Enhancing Algae Biofilm Quantity and Value Through Controlled Light Intensity for Treatment of Municipal Anaerobic Digestor Effluent",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2597",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "Rotating algae biofilm reactors (RABRs) have been shown to remove nutrients from wastewater and to cultivate algae for bioproducts. Another key variable in RABR technology for cultivating microalgae biomass is light inte…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2594: Trustworthy Digital Auxiliary Processes for Sustainable Energy Utilization: A Targeted Process-Oriented Review and Conceptual Evidence-to-Review Framework",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2594",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "Sustainable energy systems increasingly rely on digital auxiliary processes that convert telemetry, forecasts, diagnostic evidence, and operating rules into reviewable information for authorized human decision-makers. Th…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2592: Electrospinning Combined with Microfluidic Coating for Preparation of PVP-Based Composite Nanofiber Membranes and Their Adsorption and Recycling Performance for Acidic Heavy Metals",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2592",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "In the present work, polyvinylpyrrolidone (PVP) was selected as the primary raw material and fully dissolved in N,N-dimethylformamide (DMF) solvent. Hydroxymethyl cellulose (HMC), acrylic acid (AA) monomer with outstandi…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2593: A Tailored ADMM for Chronological Production Simulation of Flexibly Interconnected Regional Power Systems",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2593",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "In flexibly interconnected regional power systems with high penetration of renewable energy, chronological production simulation encounters combinatorial explosion and computational inefficiency, especially over medium-…"
     },
     {
       "title": "Golar LNG signs $2.5bn agreement for fourth floating LNG vessel",
