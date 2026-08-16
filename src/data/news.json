@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T07:16:08.185Z",
+  "generatedAt": "2026-08-16T13:16:12.476Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,62 @@
   ],
   "items": [
     {
+      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+      "source": "ScienceDaily — Energy Technology",
+      "category": "energy",
+      "published": "2026-08-16T09:55:45.000Z",
+      "excerpt": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-s…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3841: DeepTL4SE: Deep Transfer Learning for Power System State Estimation via Physics-Informed Data Generation",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3841",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "Power system state estimation (PSSE) requires accurate and timely inference from noisy measurements, but large labeled operational datasets are often unavailable and deployment data may differ from offline training data.…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3842: Comparative Parametric Assessment of Roof- and Facade-Integrated Photovoltaic Systems for Multi-Story Student Residence Halls",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3842",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "This paper examines the energy renovation of buildings using building-integrated photovoltaic (BIPV) systems applied to facades and roofs. Although BIPVs are increasingly recognized as a vital component of sustainable re…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3840: Control-Aware Multi-Horizon PUE Forecasting for Coordinated Data Center Demand-Side Management and Microgrid Dispatch",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3840",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "Data centers can provide demand-side flexibility by coordinating computing workloads, cooling systems, and on-site energy resources. However, facility demand varies with information technology (IT) load and cooling opera…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3839: Wave-Induced Attitude Effects on Photovoltaic Power Fluctuation of a Solar Catamaran USV",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3839",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "Small catamaran unmanned surface vessels (USVs) under wave action experience continuous roll and pitch, causing the solar irradiance on deck-mounted photovoltaic (PV) panels to vary and thereby affecting power output. Th…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3837: The Impact of the Manufacturing Quality of Gas Turbine Engine Components on the Life Test Efficiency Criteria",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3837",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "The paper examines the impact of gas turbine engine component manufacturing quality on the efficiency criteria of its life test. Known methods for selecting test parameters apply maximum damageability equivalence and min…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3838: A Coordinated Control-Based Power Management Strategy for a Hybrid Solar&ndash;Wind&ndash;Battery Integrated Standalone DC Microgrid for Rural Electrification",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3838",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "Standalone DC microgrids offer a promising solution for providing reliable and sustainable electricity to remote communities in developing countries. However, the intermittent nature of solar and wind resources, combined…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3836: Carbon-Emission Analysis of a Liquefied Natural Gas Regasification System Using Power-Plant Thermal Discharge",
       "link": "https://www.mdpi.com/1996-1073/19/16/3836",
       "source": "Energies (MDPI)",
@@ -98,6 +154,14 @@
       "category": "energy",
       "published": "2026-08-16T00:00:00.000Z",
       "excerpt": "Coal phase-out regions concentrate the distributional risks of the energy transition, yet the tools used to identify energy-poor households in these territories still rely mainly on income and welfare criteria. This stud…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2608: USX-PGD: Uncertainty-Aware, Sparse, and Explainable Reduced-Order Modelling for Two-Phase Reservoir Simulation",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2608",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "High-fidelity reservoir simulation is too costly for multi-query tasks such as history matching and production optimisation. Existing reduced-order models (ROMs) mitigate this cost but generally lack uncertainty quantifi…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2607: Two-Layer Source&ndash;Storage Coordinated Planning Method Coordinating Low-Carbon Economic Security Objectives and Energy Storage Market Driving",
@@ -186,22 +250,6 @@
       "category": "energy",
       "published": "2026-08-15T00:00:00.000Z",
       "excerpt": "Effective passivation of bulk and interface defects is one of the key drivers for achieving highly efficient and stable p-i-n perovskite solar cells (PSCs). Despite the versatility of bulky ammonium cations in defect pas…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3830: Forecasting UK Electricity and Gas Demand Under RCP Scenarios for Net-Zero Energy Security Using ML",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3830",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-15T00:00:00.000Z",
-      "excerpt": "Climate change is altering energy-demand patterns through changing temperatures and heating and cooling requirements. Long-term energy-demand projections are essential for energy security, infrastructure planning, and pr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3829: Environmental and Energy Sustainability in Wastewater Transportation: Integration of ISO 50001 and ISO 14040/14044 in the Replacement of Diesel with Compressed Natural Gas, Lima, Peru",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3829",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-15T00:00:00.000Z",
-      "excerpt": "Evidence combining energy management and life cycle assessment of diesel-to-CNG substitution under real fleet operation remains limited. The energy and environmental assessments were jointly applied over a common functio…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2603: Integrated Biosorption, Membrane Separation, and Advanced Oxidation Processes for Sustainable Wastewater Treatment: Mechanisms, Hybrid Systems, and Future Perspectives",
@@ -356,52 +404,12 @@
       "excerpt": "Emerson has been awarded a multi-million-dollar contract to deliver automation systems for the $2.9bn Shah Deniz Compression project, operated by BP in the Caspian Sea, Azerbaijan."
     },
     {
-      "title": "Energies, Vol. 19, Pages 3828: Edge-Cloud Energy Management for AC/DC Hybrid Building Microgrids: A Knowledge-Graph-Enhanced Optimization Approach",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3828",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "AC/DC hybrid building microgrids require an energy management system (EMS) that coordinates distributed energy resources while maintaining fast local responses to communication and device faults. This study proposes a kn…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3827: Cross-Park Dispatch Optimization Strategy for Hybrid Energy Storage Power Systems Considering Carbon&ndash;Green Certificate Trading",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3827",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "To alleviate renewable energy curtailment and the high operating costs arising from the temporal and spatial mismatch of distributed generation, this paper develops a cross-park dispatch optimization approach for power s…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3826: Quantifying the Flexibility of Centralized Hot Water Systems at a University Campus by Considering Demand Response Participation Uncertainty",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3826",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "Centralized hot water systems in university dormitories can provide significant energy flexibility through demand response (DR). Thus far, however, existing studies have mainly focused on system-level optimization and ha…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3825: Optimal Black-Start Restoration Sequencing of Hybrid Wind Farms Considering Dynamic Wake Effects and Wind Energy Variability",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3825",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "Following extreme disasters, hybrid wind farms comprising grid-following (GFL) and grid-forming (GFM) turbines can serve as black-start resources for power system restoration. However, wind power uncertainty, wake effect…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2595: Sustainable Graphene-like Carbon from Ghars Date Waste for Photothermal-Enhanced Solar Desalination: A Circular Economy Approach",
       "link": "https://www.mdpi.com/2227-9717/14/16/2595",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-08-14T00:00:00.000Z",
       "excerpt": "The valorization of agricultural waste into high-value carbon nanomaterials offers dual benefits: it reduces pollution and provides low-cost materials for sustainable technologies. This work synthesizes graphene-like car…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2596: Application of Combined CO2 Pre-Injection and Temporary Plugging Diversion Fracturing Technology in Mature Tight Oil Fields: A Case Study of the MZ Block",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2596",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "The Block MZ features tight reservoir physical properties and poor interlayer connectivity, making conventional injection-production patterns ineffective for formation energy supplementation. Although high initial produc…"
     },
     {
       "title": "Golar LNG signs $2.5bn agreement for fourth floating LNG vessel",
@@ -628,14 +636,6 @@
       "excerpt": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer that automatically a…"
     },
     {
-      "title": "MIT’s new spacecraft engine could send tiny satellites to Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260610003051.htm",
-      "source": "ScienceDaily — Energy Technology",
-      "category": "energy",
-      "published": "2026-06-10T11:24:15.000Z",
-      "excerpt": "MIT researchers have shown that one fuel can power both chemical and electric spacecraft thrusters, potentially transforming what small satellites can do. The approach combines quick bursts of speed with highly efficient…"
-    },
-    {
       "title": "Advances in catalyst development for biomass gasification and their potential use for hydrogen production in petroleum reservoirs",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026003908?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -836,44 +836,44 @@
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Ruina Shi, Zihan Zhang, Jiaojun Guo, Yifan Dou, Lixin Zhang, Yan Qu, Bin Li, Wei Song, Guisheng Qi, Imran Shakir, Xuping Sun, Luchao Yue"
     },
     {
-      "title": "Liptinite maceral control on oil generation and expulsion from Permian Gondwana coals: evidence from the Sydney Basin, Australia",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027389?dgcid=rss_sd_all",
+      "title": "From exhaustive deashing to rational ash engineering: exploring the capacitive potential of ash in coal-based carbon materials",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027432?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Terfa Elijah Garba, Khairul Azlan Mustapha, Lanre Asiwaju"
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Yi Xiao, Haoyu Bai, Duo Dong, Tao Wang, Jiawei Wang, Lipeng Su, Jianing Liu, Yongsheng Zhang"
     },
     {
-      "title": "Thermo-hydro-mechanical coupling analysis of parameter evolution and failure mechanism during deep coal and gas outbursts",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025329?dgcid=rss_sd_all",
+      "title": "Methodology for the evaluation of low-carbon fuels in power generation gas turbine applications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026992?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Xianhe Yang, Chaolin Zhang, Enyuan Wang, Dong Liu, Zhonghui Li, Yunfu Li, Shiji Yang"
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Jon Runyon, Antonio Escamilla Perejón, Lorenzo Pilotti, Giuseppe Tilocca, Stefano Mori, Sandra Richter"
     },
     {
-      "title": "Enhanced sintering and coke resistance of silica-supported Ce 0.75 Zr 0.25 NiO 3 catalysts for bi-reforming of methane",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026864?dgcid=rss_sd_all",
+      "title": "Influence of piston cooling jet and renewable fuel blends on particulate emissions in a gasoline engine",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026529?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Diem Quach Trinh Hong, Tri Nguyen, Cam Anh Ha, Luu Cam Loc"
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): M. Krishnamoorthi, Petter Dahlander, Ayolt Helmantel, Nika Alemahdi, Kalle Lehto"
     },
     {
-      "title": "Examining experimental nitrogen-based emissions trends from ammonia/diesel and ammonia/hydrogen/diesel combustion",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026189?dgcid=rss_sd_all",
+      "title": "Thermal deactivation in underground coal Gasification: Experimental kinetics Examination and Application in CFD simulation Based on a single lithotype",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026062?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Daanish Tyrewala, Shrikar Banagiri, Brian Kaul, Scott Curran"
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Yi Xiao, Guoyao Xiong, Mingda Li, Guangqian Luo, Haoyu Zhang, Renjie Zou, Junrong Yue, Xian Li, Hong Yao"
     },
     {
-      "title": "Ru decorated 2D nitrogen-vacancy-enriched Mo 2 N nanosheets for highly efficient hydrogen evolution reaction in anion exchange membrane electrolyzer",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602661X?dgcid=rss_sd_all",
+      "title": "Combustion performance of Al-Li-B alloys: the role of microstructure in Li distribution",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027626?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Yuming Li, Hongyu Liu, Yanwen Xu, Wenlong Li, Huanhuan Wang, Lina Ma, Yajun Wang"
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): SiNan Feng, Zhe Zhu, HeFeng Lin, LiYan Chen, Wenbo Dong, XiaoXia Wang, Weiqiang Xiong, DaWen Zeng"
     }
   ]
 }
