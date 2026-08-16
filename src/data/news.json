@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T13:16:12.476Z",
+  "generatedAt": "2026-08-16T18:59:34.495Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,12 +76,36 @@
   ],
   "items": [
     {
+      "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
+      "link": "https://phys.org/news/2026-08-chinese-ship-europe-arctic-halving.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-16T15:10:04.000Z",
+      "excerpt": "A Chinese container vessel has set sail for Europe through the Arctic as part of a new weekly service on a route that cuts shipment times in half but that environmental groups warn could speed up the melting of polar ice…"
+    },
+    {
+      "title": "Firefighters battle second day of blaze on Greek island",
+      "link": "https://phys.org/news/2026-08-firefighters-day-blaze-greek-island.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-16T15:10:01.000Z",
+      "excerpt": "Firefighters battled for a second day Sunday to contain a forest fire on the Greek Aegean island of Skyros, as the local mayor voiced hope it could soon be brought under control."
+    },
+    {
       "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
       "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
       "source": "ScienceDaily — Energy Technology",
       "category": "energy",
       "published": "2026-08-16T09:55:45.000Z",
       "excerpt": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-s…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3843: Integrated Geomechanical Coupled Model for Co-Production of Tight Gas and Deep CBM and Its Parameter Sensitivity Study",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3843",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "Coal-bearing tight gas and deep coalbed methane (CBM) widely co-occur in China, and integrated commingled production outperforms separate development. Conventional separated simulation fails to capture coupled reservoir&…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3841: DeepTL4SE: Deep Transfer Learning for Power System State Estimation via Physics-Informed Data Generation",
@@ -154,6 +178,14 @@
       "category": "energy",
       "published": "2026-08-16T00:00:00.000Z",
       "excerpt": "Coal phase-out regions concentrate the distributional risks of the energy transition, yet the tools used to identify energy-poor households in these territories still rely mainly on income and welfare criteria. This stud…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2609: Editorial: Activated Carbon: Contaminant Removal for Environmental Sustainability",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2609",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-16T00:00:00.000Z",
+      "excerpt": "Population growth, industrialization, and increasing living standards have intensified the release of agricultural, industrial and pharmaceutical contaminants into aquatic environments [...]"
     },
     {
       "title": "Processes, Vol. 14, Pages 2608: USX-PGD: Uncertainty-Aware, Sparse, and Explainable Reduced-Order Modelling for Two-Phase Reservoir Simulation",
@@ -242,14 +274,6 @@
       "category": "energy",
       "published": "2026-08-15T00:00:00.000Z",
       "excerpt": "This paper investigates how the number of receiving coils in the Vertical Coil (VC) configuration affects energy transfer efficiency in Dynamic Wireless Power Transfer (DWPT) systems for electric vehicles (EVs). Building…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3831: Synergistic Defect Passivation with Enhanced Light and Thermal Resilience for p-i-n CsFA-Based Perovskite Solar Cells",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3831",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-15T00:00:00.000Z",
-      "excerpt": "Effective passivation of bulk and interface defects is one of the key drivers for achieving highly efficient and stable p-i-n perovskite solar cells (PSCs). Despite the versatility of bulky ammonium cations in defect pas…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2603: Integrated Biosorption, Membrane Separation, and Advanced Oxidation Processes for Sustainable Wastewater Treatment: Mechanisms, Hybrid Systems, and Future Perspectives",
@@ -348,22 +372,6 @@
       "excerpt": "When it comes to compounding natural hazards like landslides, wildfires, flooding and extreme heat, where you live makes all the difference. New research from Portland State University underscores this disproportionate r…"
     },
     {
-      "title": "Butterfly-inspired technology could change the way we monitor air",
-      "link": "https://phys.org/news/2026-08-butterfly-technology-air.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-14T15:20:01.000Z",
-      "excerpt": "Respiratory infectious diseases and air pollution remain persistent global health challenges. Yet the tools used to monitor airborne threats are often expensive, power-hungry and difficult to deploy outside laboratories."
-    },
-    {
-      "title": "Why climate-driven droughts and floods rarely become international news",
-      "link": "https://phys.org/news/2026-08-climate-driven-droughts-rarely-international.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-14T14:20:01.000Z",
-      "excerpt": "Three factors—spectacular images, a high death toll and strong personal ties—make it more likely that the media in one country will report on a natural disaster in another, according to a study by the University of Bonn,…"
-    },
-    {
       "title": "TGS and GTI to team up on offshore seismic projects",
       "link": "https://www.offshore-technology.com/news/tgs-gti-offshore-seismic-projects/",
       "source": "Offshore Technology",
@@ -402,14 +410,6 @@
       "category": "industry",
       "published": "2026-08-14T07:18:42.000Z",
       "excerpt": "Emerson has been awarded a multi-million-dollar contract to deliver automation systems for the $2.9bn Shah Deniz Compression project, operated by BP in the Caspian Sea, Azerbaijan."
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2595: Sustainable Graphene-like Carbon from Ghars Date Waste for Photothermal-Enhanced Solar Desalination: A Circular Economy Approach",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2595",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-14T00:00:00.000Z",
-      "excerpt": "The valorization of agricultural waste into high-value carbon nanomaterials offers dual benefits: it reduces pollution and provides low-cost materials for sustainable technologies. This work synthesizes graphene-like car…"
     },
     {
       "title": "Golar LNG signs $2.5bn agreement for fourth floating LNG vessel",
