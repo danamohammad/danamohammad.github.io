@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:06:53.145Z",
+  "generatedAt": "2026-08-17T07:36:20.317Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 6,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,86 @@
     }
   ],
   "items": [
+    {
+      "title": "Hawaii recovery efforts begin as Lala is downgraded, moves west",
+      "link": "https://phys.org/news/2026-08-hawaii-recovery-efforts-lala-downgraded.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-17T07:28:35.000Z",
+      "excerpt": "Clean-up efforts were underway Sunday as Hurricane Lala, which was downgraded to a tropical storm, rolled past Hawaii's Big Island and dumped heavy rain across the U.S. Pacific state."
+    },
+    {
+      "title": "Altitude-Dependent Near-Source Spectral Filtering of Meteor Infrasound Above 80 km and Consequences for Period-Based Energy Estimates",
+      "link": "https://arxiv.org/abs/2608.13853",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-17T04:00:00.000Z",
+      "excerpt": "arXiv:2608.13853v1 Announce Type: cross Abstract: Infrasound signal period is widely used as a proxy for source energy in bolide studies, but the reliability of period-yield relations for small, high-altitude regional me…"
+    },
+    {
+      "title": "Extending Occam's inversion with lasso fusion, overcomplete dictionaries, and isotropic total variation regularisation",
+      "link": "https://arxiv.org/abs/2608.14225",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-17T04:00:00.000Z",
+      "excerpt": "arXiv:2608.14225v1 Announce Type: cross Abstract: Occam's inversion is a robust algorithm to perform nonlinear geophysical inversion. It provides the smoothest model within observation noise, thereby discouraging geologi…"
+    },
+    {
+      "title": "Meteorology-driven Causal Nowcasting of Fugitive Landfill Emissions Enables Proactive Public Health Response",
+      "link": "https://arxiv.org/abs/2608.14254",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-17T04:00:00.000Z",
+      "excerpt": "arXiv:2608.14254v1 Announce Type: cross Abstract: Fugitive emissions from waste sites increasingly expose communities to toxic and odorous gases, yet public-health responses remain largely retrospective, with episodes in…"
+    },
+    {
+      "title": "An energy-based perspective on the correlation between stress drop and rupture speed",
+      "link": "https://arxiv.org/abs/2304.08016",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-17T04:00:00.000Z",
+      "excerpt": "arXiv:2304.08016v3 Announce Type: replace Abstract: Stress drop $\\Delta\\tau$ and rupture speed $V_r$ are two important earthquake source parameters that control the characteristics of rupture process and the associated g…"
+    },
+    {
+      "title": "A Spectral-Domain Pseudo-Inverse Method for True 3D Gravity Inversion",
+      "link": "https://arxiv.org/abs/2608.11014",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-17T04:00:00.000Z",
+      "excerpt": "arXiv:2608.11014v2 Announce Type: replace Abstract: The main difficulty in 3D gravity inversion is that surface observations lack vertical wavenumber information, making the problem underdetermined and depth resolution p…"
+    },
+    {
+      "title": "An InSAR Phase Unwrapping Framework for Large-scale and Complex Events",
+      "link": "https://arxiv.org/abs/2603.21378",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-17T04:00:00.000Z",
+      "excerpt": "arXiv:2603.21378v2 Announce Type: replace-cross Abstract: Phase unwrapping remains a critical and challenging problem in InSAR processing, particularly in scenarios involving complex deformation patterns. In earthquake-r…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3844: Experimental Study on Dynamic Performance of a 50 kW PEM Water Electrolysis System for Hydrogen Production",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3844",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "With the acceleration of the global energy transition, hydrogen is increasingly considered a potential energy carrier for renewable-energy integration, large-scale energy storage, and industrial decarbonization. Proton e…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2612: &ldquo;Four-in-One&rdquo; Coal Mine Safety Management Method for Coal Mines Based on Time and Space Characteristics of Potential Safety Hazards",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2612",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "Safety hazards in coal mines are characterized by significant spatiotemporal heterogeneity, dynamic evolution, and multi-actor coupling. Traditional safety management models, which center on periodic inspections and acci…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2611: Annulus Back-Pressure Transfer Law During Managed-Pressure Cementing Process in Ultra-Deep Wells",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2611",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "The formation pressure system of ultra-deep wells is complex, and managed pressure cementing (MPC) is a commonly used technical means of safety control and cementing quality improvement. During the MPC process, pump swit…"
+    },
     {
       "title": "Processes, Vol. 14, Pages 2610: Municipal Solid Waste for Energy Production and Resource Recovery",
       "link": "https://www.mdpi.com/2227-9717/14/16/2610",
@@ -292,14 +372,6 @@
       "excerpt": "In response to the significant seasonal fluctuations in heating and cooling loads in greenhouses for high-value fruit trees in northern China, as well as issues such as heat accumulation on the ground-source side and hig…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3832: Impact of Vertical Receiver Coil Count on Energy Transfer Efficiency in Dynamic Wireless Electric Vehicle Charging",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3832",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-15T00:00:00.000Z",
-      "excerpt": "This paper investigates how the number of receiving coils in the Vertical Coil (VC) configuration affects energy transfer efficiency in Dynamic Wireless Power Transfer (DWPT) systems for electric vehicles (EVs). Building…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2603: Integrated Biosorption, Membrane Separation, and Advanced Oxidation Processes for Sustainable Wastewater Treatment: Mechanisms, Hybrid Systems, and Future Perspectives",
       "link": "https://www.mdpi.com/2227-9717/14/16/2603",
       "source": "Processes (MDPI)",
@@ -324,22 +396,6 @@
       "excerpt": "Mixing a proppant-laden base fluid with high-pressure CO2 can reduce its effective sand volume fraction, thereby impairing proppant placement and fracture conductivity. This study performs a numerical structural screenin…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2600: Experimental Study on Tensile Fracturing Characteristics and Crack Propagation of Deep Coal with Different Macroscopic Compositions",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2600",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-15T00:00:00.000Z",
-      "excerpt": "The development characteristics of primary fractures in coal serve as a prerequisite, influencing reservoir stimulation outcomes. The propagation of experimentally induced tensile cracks in the reservoir is closely relat…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2599: HuberT Robust Regression and Canonical Analysis for Multi-Response Optimization of Flocculation-Sedimentation Processes with an Application to High-Ash Coal Slurry Water",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2599",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-15T00:00:00.000Z",
-      "excerpt": "Flocculation-sedimentation is a widely used solid&amp;ndash;liquid separation process in mineral processing and wastewater treatment, yet its optimization remains challenging due to nonlinear interactions among reagents,…"
-    },
-    {
       "title": "Green roofs can help cool cities in the summer heat, but building them is only the first step. Many don't survive",
       "link": "https://phys.org/news/2026-08-green-roofs-cool-cities-summer.html",
       "source": "Phys.org — Earth",
@@ -362,14 +418,6 @@
       "category": "geoscience",
       "published": "2026-08-14T20:00:01.000Z",
       "excerpt": "Over 4 million hectares (9.9 million acres) of protected tropical forest—an area double the size of Wales—have been lost to wildfires since 2001."
-    },
-    {
-      "title": "X-band radar data sharpen simulation of westerly weak tornado",
-      "link": "https://phys.org/news/2026-08-band-radar-sharpen-simulation-westerly.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-14T18:50:01.000Z",
-      "excerpt": "Tornadoes are among the most destructive weather phenomena on Earth. Their small scale, short life cycle and sudden onset make them extremely difficult to predict. This challenge is amplified for weak tornadoes embedded…"
     },
     {
       "title": "TGS and GTI to team up on offshore seismic projects",
@@ -826,54 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Electronic regulation via trimetallic synergy in spinel oxides for efficient nitrate reduction to ammonia",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027262?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Ruina Shi, Zihan Zhang, Jiaojun Guo, Yifan Dou, Lixin Zhang, Yan Qu, Bin Li, Wei Song, Guisheng Qi, Imran Shakir, Xuping Sun, Luchao Yue"
-    },
-    {
-      "title": "From exhaustive deashing to rational ash engineering: exploring the capacitive potential of ash in coal-based carbon materials",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027432?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Yi Xiao, Haoyu Bai, Duo Dong, Tao Wang, Jiawei Wang, Lipeng Su, Jianing Liu, Yongsheng Zhang"
-    },
-    {
-      "title": "Methodology for the evaluation of low-carbon fuels in power generation gas turbine applications",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026992?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Jon Runyon, Antonio Escamilla Perejón, Lorenzo Pilotti, Giuseppe Tilocca, Stefano Mori, Sandra Richter"
-    },
-    {
-      "title": "Influence of piston cooling jet and renewable fuel blends on particulate emissions in a gasoline engine",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026529?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): M. Krishnamoorthi, Petter Dahlander, Ayolt Helmantel, Nika Alemahdi, Kalle Lehto"
-    },
-    {
-      "title": "Thermal deactivation in underground coal Gasification: Experimental kinetics Examination and Application in CFD simulation Based on a single lithotype",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026062?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Yi Xiao, Guoyao Xiong, Mingda Li, Guangqian Luo, Haoyu Zhang, Renjie Zou, Junrong Yue, Xian Li, Hong Yao"
-    },
-    {
-      "title": "Combustion performance of Al-Li-B alloys: the role of microstructure in Li distribution",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027626?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): SiNan Feng, Zhe Zhu, HeFeng Lin, LiYan Chen, Wenbo Dong, XiaoXia Wang, Weiqiang Xiong, DaWen Zeng"
     }
   ]
 }
