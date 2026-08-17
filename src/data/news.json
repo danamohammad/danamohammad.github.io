@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T13:23:58.872Z",
+  "generatedAt": "2026-08-17T19:11:26.800Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Climate change is driving some entire communities to relocate, but simply moving isn't enough",
+      "link": "https://phys.org/news/2026-08-climate-entire-communities-relocate-simply.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-17T19:00:04.000Z",
+      "excerpt": "The abandoned houses of Old Podampetta on India's east coast tell the story of a small fishing village that no longer exists. Families once woke up to the sound of the sea and made their living by reading the tides and w…"
+    },
+    {
+      "title": "Beyond yes or no: Why Indigenous consent to resource projects is so complex",
+      "link": "https://phys.org/news/2026-08-indigenous-consent-resource-complex.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-17T18:40:01.000Z",
+      "excerpt": "The issue of whether Indigenous communities support or oppose energy or infrastructure projects is increasingly making headlines, both in Canada and elsewhere. A case study from the Philippines exemplifies the complex re…"
+    },
+    {
+      "title": "AI companies look to the ocean as a place to put more data centers",
+      "link": "https://phys.org/news/2026-08-ai-companies-ocean-centers.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-17T18:00:11.000Z",
+      "excerpt": "The artificial intelligence boom is driving unprecedented demand for data centers, raising concerns about their growing energy consumption, water use and carbon footprint. These challenges are making companies look beyon…"
+    },
+    {
+      "title": "World off-track on nearly every food system goal, latest assessment reveals",
+      "link": "https://phys.org/news/2026-08-world-track-food-goal-latest.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-17T14:20:04.000Z",
+      "excerpt": "The latest study from the Food Systems Countdown Initiative (FSCI) reveals the stark reality of where global food systems transformation stands: for most indicators on health, environment, livelihoods, governance and res…"
+    },
     {
       "title": "JAPEX begins drilling second exploratory CCS well in Tomakomai",
       "link": "https://www.offshore-technology.com/news/japex-second-exploratory-ccs-drilling-tomakomai/",
@@ -196,12 +228,84 @@
       "excerpt": "Scientists have discovered that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior, creating surprisingly strong charge separation. The finding suggests future electronics could be t…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 3861: Enhanced Initial CO2 Capture Performance of a Novel AMP&ndash;DA2MP&ndash;MEA Tri-Solvent Amine Blend for Post-Combustion Carbon Capture",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3861",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "This study investigated the initial CO2 absorption efficiency, initial average overall absorption mass transfer coefficient, absorption heat, heat of vaporization, density, and viscosity of the novel aqueous AMP&amp;ndas…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3860: Two-terminal Fault Location of MMC-HVDC Flexible Direct Current Transmission Lines Based on WOA-VMD-WSST",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3860",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "Accurate identification of the initial traveling wavefront is essential for two-terminal fault location in modular multilevel converter-based high-voltage direct-current (MMC-HVDC) lines. This study develops a coordinate…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3859: Software Supply-Chain Security of Containerized IoT Components for Sustainable Energy Systems: A Comparative Vulnerability Assessment Using Trivy and Grype",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3859",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "The digitalization of sustainable energy systems increasingly relies on containerized Internet of Things services deployed across cloud&amp;ndash;edge architectures. These services introduce software supply-chain risks a…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3858: An Adaptive Energy Management Maturity Model for SMEs: Dynamic Assessment and Action-Oriented Improvement Planning",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3858",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "Although small and medium-sized enterprises (SMEs) play a key role in decarbonization, structural and organizational constraints often hinder the adoption of structured energy management practices, while existing maturit…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3857: Pumped Hydro Energy Storage Potential and Grid-Integration Feasibility for the Cuban Power System",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3857",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "As Cuba advances toward ambitious renewable energy targets, large-scale energy storage is essential to ensure grid stability and operational flexibility. Pumped Hydro Energy Storage (PHES) is the most mature technology f…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3856: Coordinated Control and Parameter Optimization for the Energy Release Process of Large-Scale A-CAES",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3856",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "Large-scale adiabatic compressed air energy storage (A-CAES) is essential for stabilizing power grids with high renewable energy penetration. However, the complex thermo-mechanical coupling in its multistage expansion an…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3855: Dynamic Resource Allocation and Collaborative Scheduling Strategies for the Timeliness of Smart-Grid Sensing Digital-Twin Data",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3855",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "Smart-grid sensing digital twins require dynamic resource allocation and collaborative scheduling to keep status updates from feeder segments, substation equipment areas, distributed-energy-resource access points, and al…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3854: Thermodynamic and Exergoeconomic Analysis of a Supercritical CO2 Cycle Integrated with a Cascade Transcritical CO2 Cycle/LiBr-H2O Vapor Absorption Refrigeration Cycle for Combined Cooling and Power Generation",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3854",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "This investigation introduces a conceptual configuration for an innovative combined cooling and power (CCP) arrangement that harnesses waste thermal energy from a supercritical carbon dioxide (sCO2) power loop through in…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3853: Study on Gravity Override Behavior of Water-Alternating-Gas Flooding in Ultra-Thick Carbonate Reservoir",
       "link": "https://www.mdpi.com/1996-1073/19/16/3853",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-08-17T00:00:00.000Z",
       "excerpt": "Carbon dioxide water-alternating-gas (CO2-WAG) flooding simultaneously enables carbon emission mitigation, improved oil displacement efficiency, and expanded gas sweep coverage. Nevertheless, the field performance of thi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3852: Shipping Decarbonization Using Thermal Energy Storage Systems: A Review",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3852",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-17T00:00:00.000Z",
+      "excerpt": "As the global energy sector and maritime industry transition toward carbon neutrality, Carnot batteries have emerged as a critical technology for flexible, long-duration energy management. Carnot batteries, which operate…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3851: Development of an Empirical Analysis Method for PV Inverter Anti-Islanding Performance Verification Tests: Implications for Grid Connected Energy Storage System",
@@ -220,52 +324,28 @@
       "excerpt": "DC-link voltage synchronization control (DVSC), or matching control, offers a simple grid-forming (GFM) solution for two-stage photovoltaic (PV) systems by linking the DC-link voltage to converter frequency. However, its…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3849: RDA-ANN Based Real-Time Selective Harmonic Elimination in Multilevel Inverter Fed by PV Panels",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3849",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2618: Research on an Intelligent Diagnosis and Decision Support System for Pumped Storage Units Based on Multi-Source Data Fusion and Hybrid Intelligent Algorithms",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2618",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-17T00:00:00.000Z",
-      "excerpt": "This work presents a novel method known as the Red Deer Algorithm-Based Artificial Neural Network (RDA-ANN) for managing real-time voltage and harmonic control in a cascade H-bridge multilevel inverter (CHB-MLI) that is…"
+      "excerpt": "Pumped storage hydropower (PSH) is a key regulating resource for renewable energy integration and power system stability. Due to frequent start-stop operations, deep peak-load regulation, and bidirectional operating cond…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3848: Multiscale Analysis of Regional Power Load and Its Associations with Meteorological and Socioeconomic Factors: Evidence from Shandong and Inner Mongolia",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3848",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2616: Residual Conditional GAN for Structured Control-Pore-Volume Inversion from Dynamic Production Responses",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2616",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-17T00:00:00.000Z",
-      "excerpt": "Regional power load is an important basis for renewable energy accommodation, power grid capacity planning, and demand-side resource management. Its variation is jointly associated with meteorological conditions and indu…"
+      "excerpt": "Rapid inversion of coarse-scale parameters is important for history matching in reduced-order reservoir models, yet conventional methods require repeated simulation and iterative updating. This study proposes a residual…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3847: Beyond Core Building Automation: Expanding the Smart Readiness Indicator Service Catalogue for Complex Buildings",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3847",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2617: Sulfur Dioxide Disproportionation by Magnesium Sulfite as Intermediate",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2617",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-17T00:00:00.000Z",
-      "excerpt": "The Smart Readiness Indicator (SRI) provides a European framework for assessing the capacity of buildings to optimise operation, respond to occupants and interact with energy grids. Its current catalogue covers nine doma…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3845: Performance Analysis and Experimental Validation of Outer-Rotor Permanent Magnet Synchronous Motors for Drone Propulsion Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3845",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-17T00:00:00.000Z",
-      "excerpt": "As the drone industry expands rapidly, the demand for high-performance propulsion systems with high power density, superior energy efficiency, and lightweight characteristics has grown significantly. Outer-rotor permanen…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3846: Optimization Study of Oilfield Gathering and Transportation Parameters Based on the Minimum Energy Consumption of Oil-Gathering Pipeline Networks and Dehydration Stations",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3846",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-17T00:00:00.000Z",
-      "excerpt": "The oilfield gathering and transportation system is an important component of oilfield energy use and therefore provides practical opportunities for supporting the dual-carbon goals through operating-parameter optimizati…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3844: Experimental Study on Dynamic Performance of a 50 kW PEM Water Electrolysis System for Hydrogen Production",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3844",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-17T00:00:00.000Z",
-      "excerpt": "With the acceleration of the global energy transition, hydrogen is increasingly considered a potential energy carrier for renewable-energy integration, large-scale energy storage, and industrial decarbonization. Proton e…"
+      "excerpt": "Solar-assisted thermochemical cycles can convert intermittent solar energy into storable chemical fuels. Within the European SULPHURREAL project, elemental sulfur is investigated as a long-term energy-storage medium in a…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2615: Mechanisms of Pb Stabilization Using Modified Biochar in Coal Mining Areas in China",
@@ -356,30 +436,6 @@
       "excerpt": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-s…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3843: Integrated Geomechanical Coupled Model for Co-Production of Tight Gas and Deep CBM and Its Parameter Sensitivity Study",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3843",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-16T00:00:00.000Z",
-      "excerpt": "Coal-bearing tight gas and deep coalbed methane (CBM) widely co-occur in China, and integrated commingled production outperforms separate development. Conventional separated simulation fails to capture coupled reservoir&…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3841: DeepTL4SE: Deep Transfer Learning for Power System State Estimation via Physics-Informed Data Generation",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3841",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-16T00:00:00.000Z",
-      "excerpt": "Power system state estimation (PSSE) requires accurate and timely inference from noisy measurements, but large labeled operational datasets are often unavailable and deployment data may differ from offline training data.…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3842: Comparative Parametric Assessment of Roof- and Facade-Integrated Photovoltaic Systems for Multi-Story Student Residence Halls",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3842",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-16T00:00:00.000Z",
-      "excerpt": "This paper examines the energy renovation of buildings using building-integrated photovoltaic (BIPV) systems applied to facades and roofs. Although BIPVs are increasingly recognized as a vital component of sustainable re…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2609: Editorial: Activated Carbon: Contaminant Removal for Environmental Sustainability",
       "link": "https://www.mdpi.com/2227-9717/14/16/2609",
       "source": "Processes (MDPI)",
@@ -402,62 +458,6 @@
       "category": "processing",
       "published": "2026-08-16T00:00:00.000Z",
       "excerpt": "In the new-type power system, the traditional generation planning paradigm has shifted to a new paradigm of source&amp;ndash;storage collaborative planning. However, source&amp;ndash;storage coordinated planning is facin…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2606: Assessing Reuse Potential of TEDA-Impregnated Activated Carbon Through Physicochemical Characterization and CH3I Breakthrough Test",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2606",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-16T00:00:00.000Z",
-      "excerpt": "Triethylenediamine (TEDA)-impregnated activated carbon (AC) is widely used in the air purification systems of nuclear power plants to retain gaseous radioactive species. Regeneration and reuse of spent AC may reduce radi…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2605: Deformation Mechanism and Control Strategies of Gob-Side Entry Retaining by Roof Cutting in Ultra-Deep Coal Mines",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2605",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-16T00:00:00.000Z",
-      "excerpt": "Gob-side entry retaining by roof cutting and pressure relief (CRRE) eliminates coal pillar waste and mitigates mining-induced stress concentration. Although widely applied in mines shallower than 1000 m, systematic resea…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2604: Physics-Constrained AI-Assisted Flowing Material Balance for Productivity Evaluation During High-Volume, Long-Duration Flowback in Ultra-Deep Wells",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2604",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-16T00:00:00.000Z",
-      "excerpt": "High-volume, long-duration flowback in ultra-deep fractured wells couples pressure, rate, water production, fracture conductivity, and stress-sensitive reservoir properties, making it difficult for pressure transient ana…"
-    },
-    {
-      "title": "Hurricane poised to hit Hawaii as El Niño stirs Pacific",
-      "link": "https://phys.org/news/2026-08-hurricane-poised-hawaii-el-nio.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-15T10:20:01.000Z",
-      "excerpt": "A strengthening tropical storm named Lala is set to hit Hawaii's Big Island with hurricane-force gales on Saturday, bringing dangerous winds, rainfall and heavy surf."
-    },
-    {
-      "title": "Extreme weather is making work difficult for many people. This is what needs to change",
-      "link": "https://phys.org/news/2026-08-extreme-weather-difficult-people.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-15T10:00:04.000Z",
-      "excerpt": "The UK has experienced several heat waves this summer—heat stress among workers is one of the biggest causes of weather-related sick leave. Very high temperatures can cause symptoms like heat rash and cramps, or even exh…"
-    },
-    {
-      "title": "Faced with historic drought, the Dutch rethink water management",
-      "link": "https://phys.org/news/2026-08-historic-drought-dutch-rethink.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-15T08:00:01.000Z",
-      "excerpt": "On the banks of the Waal, the Dutch branch of the Rhine, swimmers are sunning themselves on a Nijmegen beach that didn't exist before the river level dropped a few months ago."
-    },
-    {
-      "title": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued",
-      "link": "https://phys.org/news/2026-08-magnitude-earthquake-coast-indonesia-tsunami.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-15T07:27:46.000Z",
-      "excerpt": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, damaging buildings and homes, and triggering a tsunami warning. Authorities urged people on affected coastlines to move to higher grou…"
     },
     {
       "title": "TGS and GTI to team up on offshore seismic projects",
