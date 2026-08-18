@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T02:03:33.299Z",
+  "generatedAt": "2026-08-18T07:22:27.318Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,86 @@
     }
   ],
   "items": [
+    {
+      "title": "Coupled Transient Processes Govern Intraplate Earthquake Swarm Evolution: Insights from the 2019-2020 Palghar Sequence",
+      "link": "https://arxiv.org/abs/2608.16317",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-18T04:00:00.000Z",
+      "excerpt": "arXiv:2608.16317v1 Announce Type: new Abstract: Earthquake swarms provide a natural window into fault response to transient perturbations, yet their driving processes are commonly interpreted using fluid-driven and aseis…"
+    },
+    {
+      "title": "Deep Earth imaging through neutrino and seismic tomography",
+      "link": "https://arxiv.org/abs/2608.15231",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-18T04:00:00.000Z",
+      "excerpt": "arXiv:2608.15231v1 Announce Type: cross Abstract: This article is a report on the Deep Earth Neutrino + Seismic Imaging and TomographY (DENSITY 2026) mini-workshop, held on 23--24 February 2026 in the Department of Earth…"
+    },
+    {
+      "title": "Rheology-controlled hydraulic selection in fracture-matrix heat transport: mechanisms and thermal signatures",
+      "link": "https://arxiv.org/abs/2608.15735",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-18T04:00:00.000Z",
+      "excerpt": "arXiv:2608.15735v1 Announce Type: cross Abstract: Geological fractures exhibit heterogeneous aperture fields that localize flow along preferential pathways and produce nonuniform fluid-matrix contact times. Heat transpor…"
+    },
+    {
+      "title": "A Model of UV-Blue Absorbance in Bulk Liquid of Venusian Cloud Aerosols Is Consistent with Efficient Organic Absorbers at High Concentrations",
+      "link": "https://arxiv.org/abs/2505.00880",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-18T04:00:00.000Z",
+      "excerpt": "arXiv:2505.00880v3 Announce Type: replace-cross Abstract: At visible wavelengths, Venus appears serene and pale-yellow, but since the 1920s, observers have noted high-contrast features in the ultraviolet. These features…"
+    },
+    {
+      "title": "The QTF-Backbone: Proposal for a Nationwide Optical Fibre Backbone in Germany for Quantum Technology and Time and Frequency Metrology",
+      "link": "https://arxiv.org/abs/2506.03998",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-18T04:00:00.000Z",
+      "excerpt": "arXiv:2506.03998v3 Announce Type: replace-cross Abstract: The recent breakthroughs in the distribution of quantum information and high-precision time and frequency (T&F) signals over long-haul optical fibre networks have…"
+    },
+    {
+      "title": "Stochastic Modeling and Upscaling of Hydrodynamic Transport in Geological Fractures",
+      "link": "https://arxiv.org/abs/2510.07272",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-18T04:00:00.000Z",
+      "excerpt": "arXiv:2510.07272v3 Announce Type: replace-cross Abstract: Characterizing hydrodynamic transport in fractured rocks is essential for carbon storage and geothermal energy production. Multiscale heterogeneities lead to anom…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3863: Enhancing Insulation Defect Detection in GIS: Comparative Study of Photon Counting, UHF, and Conventional PD Measurement Methods",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3863",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-18T00:00:00.000Z",
+      "excerpt": "High-sensitivity detection of metal contaminants during gas-insulated equipment (GIE) manufacturing is crucial to mitigating insulation risks. In this study, detection tests of metal contaminants are performed using the…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3862: Application of Ultrasound for Mineral Scale Remediation in Well Production Tubing: A Review of Advances in Scale Prevention and Removal Technologies",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3862",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-18T00:00:00.000Z",
+      "excerpt": "Mineral-scale deposition remains a persistent flow-assurance and asset-integrity constraint in oil and gas production. Calcium carbonate, calcium sulfate, barium sulfate, iron sulfide, and mixed inorganic scale deposits…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2621: Geothermal Geological Characteristics and Genetic Model of the Neogene Sandstone Geothermal Reservoirs in the Eastern Gushi Sag, Weihe Basin",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2621",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-18T00:00:00.000Z",
+      "excerpt": "The characterization of geothermal reservoirs and their genetic mechanisms is critical for understanding geothermal system evolution and evaluating geothermal resource potential. The eastern Gushi Sag of the Weihe Basin…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2620: An Offline Digital Twin Case Study for Data-Constrained Energy-Intensive Foundry Production",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2620",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-18T00:00:00.000Z",
+      "excerpt": "Energy-intensive foundries require methods to explore trade-offs among delivery performance, production horizon, electricity use, and cost when industrial data are incomplete. This paper presents an offline, process-leve…"
+    },
     {
       "title": "Trying to compete with China could slow global climate action, report warns",
       "link": "https://phys.org/news/2026-08-china-global-climate-action.html",
@@ -204,54 +284,6 @@
       "excerpt": "The beach shrinks every year in Ayetoro, in southern Nigeria, and what is left is peppered with the remains of homes swallowed by the ocean—some years ago, some just months prior."
     },
     {
-      "title": "Altitude-Dependent Near-Source Spectral Filtering of Meteor Infrasound Above 80 km and Consequences for Period-Based Energy Estimates",
-      "link": "https://arxiv.org/abs/2608.13853",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-17T04:00:00.000Z",
-      "excerpt": "arXiv:2608.13853v1 Announce Type: cross Abstract: Infrasound signal period is widely used as a proxy for source energy in bolide studies, but the reliability of period-yield relations for small, high-altitude regional me…"
-    },
-    {
-      "title": "Extending Occam's inversion with lasso fusion, overcomplete dictionaries, and isotropic total variation regularisation",
-      "link": "https://arxiv.org/abs/2608.14225",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-17T04:00:00.000Z",
-      "excerpt": "arXiv:2608.14225v1 Announce Type: cross Abstract: Occam's inversion is a robust algorithm to perform nonlinear geophysical inversion. It provides the smoothest model within observation noise, thereby discouraging geologi…"
-    },
-    {
-      "title": "Meteorology-driven Causal Nowcasting of Fugitive Landfill Emissions Enables Proactive Public Health Response",
-      "link": "https://arxiv.org/abs/2608.14254",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-17T04:00:00.000Z",
-      "excerpt": "arXiv:2608.14254v1 Announce Type: cross Abstract: Fugitive emissions from waste sites increasingly expose communities to toxic and odorous gases, yet public-health responses remain largely retrospective, with episodes in…"
-    },
-    {
-      "title": "An energy-based perspective on the correlation between stress drop and rupture speed",
-      "link": "https://arxiv.org/abs/2304.08016",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-17T04:00:00.000Z",
-      "excerpt": "arXiv:2304.08016v3 Announce Type: replace Abstract: Stress drop $\\Delta\\tau$ and rupture speed $V_r$ are two important earthquake source parameters that control the characteristics of rupture process and the associated g…"
-    },
-    {
-      "title": "A Spectral-Domain Pseudo-Inverse Method for True 3D Gravity Inversion",
-      "link": "https://arxiv.org/abs/2608.11014",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-17T04:00:00.000Z",
-      "excerpt": "arXiv:2608.11014v2 Announce Type: replace Abstract: The main difficulty in 3D gravity inversion is that surface observations lack vertical wavenumber information, making the problem underdetermined and depth resolution p…"
-    },
-    {
-      "title": "An InSAR Phase Unwrapping Framework for Large-scale and Complex Events",
-      "link": "https://arxiv.org/abs/2603.21378",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-17T04:00:00.000Z",
-      "excerpt": "arXiv:2603.21378v2 Announce Type: replace-cross Abstract: Phase unwrapping remains a critical and challenging problem in InSAR processing, particularly in scenarios involving complex deformation patterns. In earthquake-r…"
-    },
-    {
       "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
       "link": "https://www.sciencedaily.com/releases/2026/08/260815064801.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -340,22 +372,6 @@
       "excerpt": "As the global energy sector and maritime industry transition toward carbon neutrality, Carnot batteries have emerged as a critical technology for flexible, long-duration energy management. Carnot batteries, which operate…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3851: Development of an Empirical Analysis Method for PV Inverter Anti-Islanding Performance Verification Tests: Implications for Grid Connected Energy Storage System",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3851",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-17T00:00:00.000Z",
-      "excerpt": "Anti-islanding certification is generally reported as pass or fail, although response times across the active- and reactive-power (P-Q) matrix contain additional information. We analyzed 925 Condition-A measurements from…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3850: Synchronization-Damping Stabilization of DVSC-Based Grid-Forming PV Systems Across Varying Grid Strengths and Power Levels",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3850",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-17T00:00:00.000Z",
-      "excerpt": "DC-link voltage synchronization control (DVSC), or matching control, offers a simple grid-forming (GFM) solution for two-stage photovoltaic (PV) systems by linking the DC-link voltage to converter frequency. However, its…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2619: Noise-Aware Temporal Fusion Network for SCADA-Based Fault-State Recognition of Gas Pressure Regulators in Natural Gas Distribution Processes",
       "link": "https://www.mdpi.com/2227-9717/14/16/2619",
       "source": "Processes (MDPI)",
@@ -442,22 +458,6 @@
       "category": "energy",
       "published": "2026-08-16T09:55:45.000Z",
       "excerpt": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-s…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2609: Editorial: Activated Carbon: Contaminant Removal for Environmental Sustainability",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2609",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-16T00:00:00.000Z",
-      "excerpt": "Population growth, industrialization, and increasing living standards have intensified the release of agricultural, industrial and pharmaceutical contaminants into aquatic environments [...]"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2608: USX-PGD: Uncertainty-Aware, Sparse, and Explainable Reduced-Order Modelling for Two-Phase Reservoir Simulation",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2608",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-16T00:00:00.000Z",
-      "excerpt": "High-fidelity reservoir simulation is too costly for multi-query tasks such as history matching and production optimisation. Existing reduced-order models (ROMs) mitigate this cost but generally lack uncertainty quantifi…"
     },
     {
       "title": "TGS and GTI to team up on offshore seismic projects",
