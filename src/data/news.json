@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T02:05:21.269Z",
+  "generatedAt": "2026-08-19T07:23:05.446Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 6,
+      "count": 1,
       "error": null
     },
     {
@@ -76,6 +76,14 @@
   ],
   "items": [
     {
+      "title": "From complex-step differentiation to a general reconstruction framework",
+      "link": "https://arxiv.org/abs/2608.17924",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-19T04:00:00.000Z",
+      "excerpt": "arXiv:2608.17924v1 Announce Type: cross Abstract: The complex-step method is traditionally derived from the Taylor expansion of an analytic function and it is widely used as a numerical technique for derivative approxima…"
+    },
+    {
       "title": "How does wildfire smoke affect the economy?",
       "link": "https://phys.org/news/2026-08-wildfire-affect-economy.html",
       "source": "Phys.org — Earth",
@@ -92,12 +100,52 @@
       "excerpt": "Large earthquakes can dramatically reshape mountain landscapes by triggering thousands of landslides and rapidly accelerating erosion. However, the reasons why some mountain regions experience intense, long-lasting erosi…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 3883: A Hybrid Informer&ndash;TCN-Quantile Framework with IOOA-Based Hyperparameter Optimization for Wind Power Interval Forecasting",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3883",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-19T00:00:00.000Z",
+      "excerpt": "Wind power interval forecasting remains challenging due to the uncertainty and strong variability of wind generation. To capture temporal dependency and predictive uncertainty, this paper proposes a hybrid interval forec…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3882: Representative-Day Selection for PV-Storage Lifespan Estimation Using Prior SOC and DOD Binning Features",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3882",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-19T00:00:00.000Z",
+      "excerpt": "Representative-day methods reduce the computational burden of energy storage dispatch and planning. Conventional clustering criteria typically preserve operating scenarios relevant to dispatch economics, whereas lifespan…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3881: Classifying Failures in Distributed Photovoltaic Installations Using a Delphi-Based Dimension-Adjusted Fuzzy SIWEC&ndash;MABAC Framework",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3881",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-19T00:00:00.000Z",
+      "excerpt": "Distributed photovoltaic (PV) systems are increasingly important for renewable-energy transformation, prosumer participation, and low-emission electricity markets. However, failures affecting inverters, DC-side component…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3880: AI-Driven Load Forecasting for Dynamic Tariff Structuring: A Comprehensive Review",
       "link": "https://www.mdpi.com/1996-1073/19/16/3880",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-08-19T00:00:00.000Z",
       "excerpt": "Dynamic electricity tariffs are increasingly deployed to manage demand-side flexibility in decarbonising power systems, making AI-driven load forecasting a critical enabler of adaptive pricing. However, existing studies…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2639: Coalbed Methane Development Process&mdash;Advances in Theory, Technology, and Practice",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2639",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-19T00:00:00.000Z",
+      "excerpt": "Against the backdrop of an accelerating global energy transition toward low-carbon sources, coalbed methane (CBM) has attracted growing attention from both academia and industry as a critically important unconventional n…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2638: Experimental Study of Laminar Flow Characteristics in a Stirred Vessel Using Simultaneous PLIF&ndash;PIV Measurements",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2638",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-19T00:00:00.000Z",
+      "excerpt": "Isolated mixing regions (IMRs) commonly persist during steady laminar stirring and limit the attainable mixing degree. Planar laser-induced fluorescence (PLIF) and particle image velocimetry (PIV) were combined for simul…"
     },
     {
       "title": "US moves to open vast tracts of pristine forests to logging",
@@ -212,54 +260,6 @@
       "excerpt": "WhiteWater along with its joint venture (JV) partners Devon Energy, Diamondback Energy, Western Midstream Partners (WES), and MPLX have reached a final investment decision (FID) to construct the Solitude Pipeline System…"
     },
     {
-      "title": "Coupled Transient Processes Govern Intraplate Earthquake Swarm Evolution: Insights from the 2019-2020 Palghar Sequence",
-      "link": "https://arxiv.org/abs/2608.16317",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-18T04:00:00.000Z",
-      "excerpt": "arXiv:2608.16317v1 Announce Type: new Abstract: Earthquake swarms provide a natural window into fault response to transient perturbations, yet their driving processes are commonly interpreted using fluid-driven and aseis…"
-    },
-    {
-      "title": "Deep Earth imaging through neutrino and seismic tomography",
-      "link": "https://arxiv.org/abs/2608.15231",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-18T04:00:00.000Z",
-      "excerpt": "arXiv:2608.15231v1 Announce Type: cross Abstract: This article is a report on the Deep Earth Neutrino + Seismic Imaging and TomographY (DENSITY 2026) mini-workshop, held on 23--24 February 2026 in the Department of Earth…"
-    },
-    {
-      "title": "Rheology-controlled hydraulic selection in fracture-matrix heat transport: mechanisms and thermal signatures",
-      "link": "https://arxiv.org/abs/2608.15735",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-18T04:00:00.000Z",
-      "excerpt": "arXiv:2608.15735v1 Announce Type: cross Abstract: Geological fractures exhibit heterogeneous aperture fields that localize flow along preferential pathways and produce nonuniform fluid-matrix contact times. Heat transpor…"
-    },
-    {
-      "title": "A Model of UV-Blue Absorbance in Bulk Liquid of Venusian Cloud Aerosols Is Consistent with Efficient Organic Absorbers at High Concentrations",
-      "link": "https://arxiv.org/abs/2505.00880",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-18T04:00:00.000Z",
-      "excerpt": "arXiv:2505.00880v3 Announce Type: replace-cross Abstract: At visible wavelengths, Venus appears serene and pale-yellow, but since the 1920s, observers have noted high-contrast features in the ultraviolet. These features…"
-    },
-    {
-      "title": "The QTF-Backbone: Proposal for a Nationwide Optical Fibre Backbone in Germany for Quantum Technology and Time and Frequency Metrology",
-      "link": "https://arxiv.org/abs/2506.03998",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-18T04:00:00.000Z",
-      "excerpt": "arXiv:2506.03998v3 Announce Type: replace-cross Abstract: The recent breakthroughs in the distribution of quantum information and high-precision time and frequency (T&F) signals over long-haul optical fibre networks have…"
-    },
-    {
-      "title": "Stochastic Modeling and Upscaling of Hydrodynamic Transport in Geological Fractures",
-      "link": "https://arxiv.org/abs/2510.07272",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-18T04:00:00.000Z",
-      "excerpt": "arXiv:2510.07272v3 Announce Type: replace-cross Abstract: Characterizing hydrodynamic transport in fractured rocks is essential for carbon storage and geothermal energy production. Multiscale heterogeneities lead to anom…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 3879: Aerodynamic Performance and Wake Characteristics of a Four-Rotor Wind Turbine",
       "link": "https://www.mdpi.com/1996-1073/19/16/3879",
       "source": "Energies (MDPI)",
@@ -322,30 +322,6 @@
       "category": "energy",
       "published": "2026-08-18T00:00:00.000Z",
       "excerpt": "Considering carbon neutrality and fossil fuel depletion, biomass is becoming increasingly important as a renewable and sustainable energy source. However, understanding of process-dependent characteristics relevant to ch…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3871: Research and Application of a Liquid Hydrogen Tank Container Based on a Carbon Fiber Suspension Ring Support",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3871",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-18T00:00:00.000Z",
-      "excerpt": "Given that large-scale storage and transportation of liquid hydrogen are key to realizing the hydrogen economy, tank containers have attracted much attention for their flexibility. To minimize evaporation losses, efficie…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3869: A Multi-Scenario Urban Building Energy Modeling Workflow Validated Against Real Monitored Energy Data",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3869",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-18T00:00:00.000Z",
-      "excerpt": "Urban Building Energy Modeling (UBEM) offers a scalable, physics-based method to simulate energy demand at the district level, enabling data-driven district energy demand planning and optimization. However, translating U…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3870: Economic Assessment of Recycling High Assay Low Enriched Uranium Sodium Cooled Fast Reactor Used Nuclear Fuels",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3870",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-18T00:00:00.000Z",
-      "excerpt": "Sodium-cooled fast reactors (SFRs) are being developed with various fuel cycle strategies, including once-through and recycling options. Initial U.S. deployments are expected to use compact SFR cores fueled with high-ass…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2637: Multiscale Modelling of Thermal Runaway in Lithium-Ion Batteries",
@@ -426,22 +402,6 @@
       "category": "processing",
       "published": "2026-08-18T00:00:00.000Z",
       "excerpt": "Niacin (vitamin B3) is a high-value chemical widely used in the pharmaceutical and food industries. In this study, a recombinant Escherichia coli strain expressing nitrilase from Pseudomonas putida CGMCC3830 was evaluate…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2629: Influence of Volumetric Air Flow on Cyanobacteria Biomass Production in a Bubble Column Photobioreactor Using an Innovative Culture Medium and Phycocyanin Extraction",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2629",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-18T00:00:00.000Z",
-      "excerpt": "Health problems have made it necessary to look for new sources of biocompounds for the food industry. Cyanobacteria offer a solution due to the compounds inside their biomass, such as pigments and protein. Rice husk aque…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2627: A Generic Framework for Multivariate Anomaly Detection and Root-Cause Analysis Using Slow and Fast Detection in Process Industries",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2627",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-18T00:00:00.000Z",
-      "excerpt": "The digitalization of process industries via the Industrial Internet of Things (IIoT) has introduced challenges like poor generalization, lack of interpretability, and complex multi-frequency sensor data. Most existing s…"
     },
     {
       "title": "JAPEX begins drilling second exploratory CCS well in Tomakomai",
@@ -874,6 +834,46 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Comment on “Droplet velocity and size characteristics of biodiesel in an air-assisted pressure swirl atomizer during industrial furnace”",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027079?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Kiumars Khani Aminjan, Samira Marami Milani, Antonio Zuorro"
+    },
+    {
+      "title": "Electronic regulation via trimetallic synergy in spinel oxides for efficient nitrate reduction to ammonia",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027262?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Ruina Shi, Zihan Zhang, Jiaojun Guo, Yifan Dou, Lixin Zhang, Yan Qu, Bin Li, Wei Song, Guisheng Qi, Imran Shakir, Xuping Sun, Luchao Yue"
+    },
+    {
+      "title": "Simultaneous reconstruction of 3D temperature and velocity fields in MSW incinerators via acoustic tomography",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027663?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Pengcheng Qin, Yuxuan Ying, Yunfeng Ma, Zhaohui An, Jisheng Long, Xiaodong Li"
+    },
+    {
+      "title": "Research on lean combustion characteristics of opposed rotary piston engine based on intake strategy optimization and vortex-tumble synergy",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126025834?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Jilong Song, Yufeng Wang, Zihui Yang, Gang Yi, Wei Wang, Yaohui Nie, Binbin Song, Jianbing Gao"
+    },
+    {
+      "title": "Techno-economic assessment of process intensification configurations for CO 2 capture using CESAR 1",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027328?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Meisam Ansarpour, Shervan Babamohammadi, Sara Elmarghni, Tohid N. Borhani"
     }
   ]
 }
