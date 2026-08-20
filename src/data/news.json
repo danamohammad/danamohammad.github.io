@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T02:04:45.297Z",
+  "generatedAt": "2026-08-20T07:25:50.440Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 1,
+      "count": 4,
       "error": null
     },
     {
@@ -76,12 +76,84 @@
   ],
   "items": [
     {
+      "title": "SeisEvo: Evolution of Seismic Data Reconstruction Algorithms by Agents",
+      "link": "https://arxiv.org/abs/2608.18272",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-20T04:00:00.000Z",
+      "excerpt": "arXiv:2608.18272v1 Announce Type: new Abstract: Classical seismic data reconstruction relies on manually designed structural priors and iterative operators, whose coupled design space is far larger than manual trial and…"
+    },
+    {
+      "title": "Scaling-law-informed neural point processes for earthquake sequence forecasting",
+      "link": "https://arxiv.org/abs/2608.18791",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-20T04:00:00.000Z",
+      "excerpt": "arXiv:2608.18791v1 Announce Type: new Abstract: Earthquake sequence forecasting requires models that can learn nonlinear history dependence while retaining robust statistical structure. We develop a scaling-law-informed…"
+    },
+    {
+      "title": "Effect of style of faulting on the probabilistic characterization of directionality of horizontal response spectral ordinates",
+      "link": "https://arxiv.org/abs/2608.19142",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-20T04:00:00.000Z",
+      "excerpt": "arXiv:2608.19142v1 Announce Type: new Abstract: Horizontal earthquake ground motions exhibit substantial changes in amplitude with changes in orientation. While the effects of style of faulting on central tendency measur…"
+    },
+    {
+      "title": "MorphoGP: A Nonparametric Framework for Predicting Equilibrium Beach Profiles Under Tidal Influence",
+      "link": "https://arxiv.org/abs/2608.18558",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-20T04:00:00.000Z",
+      "excerpt": "arXiv:2608.18558v1 Announce Type: cross Abstract: The prediction of equilibrium beach profiles under tidal influence is of fundamental importance for sustainable coastal development, informing shoreline protection strate…"
+    },
+    {
+      "title": "Fine-particle pollution may undermine plants' ability to absorb carbon and conserve water",
+      "link": "https://phys.org/news/2026-08-fine-particle-pollution-undermine-ability.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T02:40:01.000Z",
+      "excerpt": "Researchers at the Faculty of Social Sciences at the University of Hong Kong (HKU) have discovered that fine particulate pollution (PM2.5) significantly impairs plants' ability to use water efficiently and absorb carbon…"
+    },
+    {
+      "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
+      "source": "ScienceDaily — Energy Technology",
+      "category": "energy",
+      "published": "2026-08-20T01:32:04.000Z",
+      "excerpt": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The disco…"
+    },
+    {
       "title": "Climate change is rewriting England's 'green and pleasant' story",
       "link": "https://phys.org/news/2026-08-climate-rewriting-england-green-pleasant.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-08-20T00:20:01.000Z",
       "excerpt": "In 1804, William Blake wrote in his poem Jerusalem of England's \"green and pleasant\" land. This idealized vision of English pastoral has resonated through two centuries, fusing the character of the nation with its landsc…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3905: From Two Birds to Two Loops: Electric Cooking and the Reinvention of Energy Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3905",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-20T00:00:00.000Z",
+      "excerpt": "This paper examines how the body of research and innovation on electric cooking for low- and middle-income countries has evolved to the extent that electric cooking can now be argued to have the potential to influence en…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3904: RBF-SVR Significantly Outperforms Tree-Based Models for Weather-Sensitive Air Conditioning Load Prediction Under Extreme Conditions",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3904",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-20T00:00:00.000Z",
+      "excerpt": "Accurate air conditioning (AC) load prediction under extreme weather conditions is critical for power grid stability and energy management. While tree-based ensemble methods such as XGBoost, LightGBM, and Gradient Boosti…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2651: Load Characteristics of Mechanical Cutters When Cutting Different Coal and Rock Formations and Entropy Features of the Samples",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2651",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-20T00:00:00.000Z",
+      "excerpt": "The load characteristics and dynamic behavior of shearer drums under complex geological conditions&amp;mdash;particularly coal seams with gangue interlayers, roofs, and floors&amp;mdash;remain insufficiently understood d…"
     },
     {
       "title": "Solar panels can cool crops—and workers",
@@ -172,14 +244,6 @@
       "excerpt": "Before booking a vacation, it pays to check the weather."
     },
     {
-      "title": "Peru's highest mountain confirms tropics were a major methane source before the industrial era",
-      "link": "https://phys.org/news/2026-08-peru-highest-mountain-tropics-major.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-19T15:00:17.000Z",
-      "excerpt": "A new analysis of ice cores collected from the Andes in Peru has produced the first global record of historical tropical methane, filling a critical gap in our understanding of the origins of Earth's greenhouse gases."
-    },
-    {
       "title": "Aker BP to take stakes in Losgann/Froskelår and Slagugle discoveries",
       "link": "https://www.offshore-technology.com/news/aker-bp-stakes-losgann-froskelar-slagugle/",
       "source": "Offshore Technology",
@@ -218,14 +282,6 @@
       "category": "industry",
       "published": "2026-08-19T07:28:27.000Z",
       "excerpt": "Equinor has agreed to acquire a 17.4% participating interest in petroleum exploration licence 90 (PEL 90) in the Orange Basin off the coast of Namibia, from Harmattan Energy, a subsidiary of Chevron."
-    },
-    {
-      "title": "From complex-step differentiation to a general reconstruction framework",
-      "link": "https://arxiv.org/abs/2608.17924",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-19T04:00:00.000Z",
-      "excerpt": "arXiv:2608.17924v1 Announce Type: cross Abstract: The complex-step method is traditionally derived from the Taylor expansion of an analytic function and it is widely used as a numerical technique for derivative approxima…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3903: Real-Time Residential Energy Optimization in Smart Grids: A Deep Reinforcement Learning Framework for Demand-Side Management",
@@ -306,22 +362,6 @@
       "category": "energy",
       "published": "2026-08-19T00:00:00.000Z",
       "excerpt": "In the broader context of ecological transition, it is essential to identify solutions that ensure indoor environmental quality encompassing thermal, visual, acoustic, and indoor air quality conditions to safeguard occup…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3893: Can Battery Storage Arbitrage Pay Off? Evidence from the Portuguese Day-Ahead Electricity Market",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3893",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-19T00:00:00.000Z",
-      "excerpt": "This study evaluates the economic feasibility of standalone Battery Energy Storage Systems (BESS) for energy arbitrage in the Portuguese day-ahead electricity market. A Mixed-Integer Linear Programming (MILP) model is de…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3890: How Large Should Railway Solar Be? A Real Options Analysis of Scale Flexibility Under SMP and REC Uncertainty",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3890",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-19T00:00:00.000Z",
-      "excerpt": "Railway idle land offers a large and underused space for solar power, yet its economic value has not been evaluated. Revenue depends on the volatile System Marginal Price (SMP) and Renewable Energy Certificate (REC) mark…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2649: WB-SatNet: Water-Balance-Guided, Production-History-Conditioned Reconstruction of Water-Saturation Fields",
@@ -410,14 +450,6 @@
       "category": "processing",
       "published": "2026-08-19T00:00:00.000Z",
       "excerpt": "In the development of carbonate reservoirs via water flooding huff-n-puff, the osmotic pressure effect is frequently overlooked, and existing models inadequately quantify the matrix imbibition and oil expulsion driven by…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2639: Coalbed Methane Development Process&mdash;Advances in Theory, Technology, and Practice",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2639",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-19T00:00:00.000Z",
-      "excerpt": "Against the backdrop of an accelerating global energy transition toward low-carbon sources, coalbed methane (CBM) has attracted growing attention from both academia and industry as a critically important unconventional n…"
     },
     {
       "title": "Monumental Energy’s Tirua Point permit accepted for review",
@@ -636,14 +668,6 @@
       "excerpt": "The global cobalt supply chain is more interconnected—and more vulnerable—than previously thought, with disruptions capable of triggering far-reaching cascades across multiple countries and industries. Researchers warn t…"
     },
     {
-      "title": "Superconductivity breakthrough could unlock ultra-efficient electronics",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260617032211.htm",
-      "source": "ScienceDaily — Energy Technology",
-      "category": "energy",
-      "published": "2026-06-17T08:24:20.000Z",
-      "excerpt": "A clever nanoscale redesign may have solved one of superconductivity’s biggest problems. Researchers in Sweden discovered that by subtly sculpting the surface beneath an ultrathin superconducting material, they could mak…"
-    },
-    {
       "title": "Solids deposition and flow assurance for deepwater waxy crude oil pipelines: A review",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026003957?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -850,30 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Ruina Shi, Zihan Zhang, Jiaojun Guo, Yifan Dou, Lixin Zhang, Yan Qu, Bin Li, Wei Song, Guisheng Qi, Imran Shakir, Xuping Sun, Luchao Yue"
-    },
-    {
-      "title": "Role of heating rate and atmosphere in pore structure evolution and reactivity of mineral-free biomass-derived chars",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027705?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Christin Pflieger, Tim Eisenbach, Christian Ontyd, Francesca Cerciello, Viktor Scherer, Roland Span, Martin Muhler, Carsten Wedler"
-    },
-    {
-      "title": "Dealloyed PtRu catalysts for isopropanol oxidation in direct isopropanol fuel cells",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027481?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Jihyeon Ok, KyoungHyun Jang, Taeho Lim"
-    },
-    {
-      "title": "Catalytic effects of (Y, Sm) 2 O 3 @C co-doping on hydrogen storage performance of Mg–Ce–Ni alloys",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027729?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part D Author(s): Hao Wang, Ting Han, Hui Yong, Shuai Wang, Yanghuan Zhang, Minyan Yan, Jifan Hu"
     }
   ]
 }
