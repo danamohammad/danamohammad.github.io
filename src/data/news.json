@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T19:16:57.352Z",
+  "generatedAt": "2026-08-21T02:10:55.414Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,28 +76,108 @@
   ],
   "items": [
     {
+      "title": "Processes, Vol. 14, Pages 2669: The Hydrochemical Characteristics and Formation Mechanism of High TDS Groundwater in Arid and Semi-Arid Coal Mining Area",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2669",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-21T00:00:00.000Z",
+      "excerpt": "Understanding the formation of high-total-dissolved-solids (TDS) groundwater is essential for mine-water source identification, treatment, and resource utilization in arid and semi-arid coal mining areas. However, previo…"
+    },
+    {
+      "title": "Rising carbon dioxide is supercharging grass growth in African savannas, study finds",
+      "link": "https://phys.org/news/2026-08-carbon-dioxide-supercharging-grass-growth.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T23:00:01.000Z",
+      "excerpt": "Rising atmospheric carbon dioxide is boosting grass growth in Africa's water-limited savannas, according to a new study led by the University of Sheffield."
+    },
+    {
+      "title": "Researchers build 'digital twin' to model Manhattan air quality",
+      "link": "https://phys.org/news/2026-08-digital-twin-manhattan-air-quality.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T22:40:07.000Z",
+      "excerpt": "Cornell engineers have developed a \"digital twin\" framework that creates a real-time virtual representation of urban carbon dioxide conditions, providing a tool that could help city planners monitor emissions, identify h…"
+    },
+    {
+      "title": "North Sea wind farm expansion may shift rain offshore, simulations suggest",
+      "link": "https://phys.org/news/2026-08-north-sea-farm-expansion-shift.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T22:40:02.000Z",
+      "excerpt": "Offshore wind farms are a key pillar of the energy transition. The European Union plans to expand offshore wind capacity in the North Sea by 2050. A new study by the Helmholtz-Zentrum Hereon indicates that a very extensi…"
+    },
+    {
+      "title": "Natural forest regrowth offers a lower-cost path to climate and biodiversity goals",
+      "link": "https://phys.org/news/2026-08-natural-forest-regrowth-path-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T21:40:03.000Z",
+      "excerpt": "As nations race to restore ecosystems and curb climate change, research has shown that letting nature do the work is a cost-effective, viable solution. A study from the University of Queensland and the University of Newc…"
+    },
+    {
+      "title": "Dynamics of the Icelandic ice sheet altered North Atlantic seawater chemistry, environmental physicists reveal",
+      "link": "https://phys.org/news/2026-08-dynamics-icelandic-ice-sheet-north.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T21:00:01.000Z",
+      "excerpt": "Over the past 230,000 years, the growth and retreat of the Icelandic ice sheet have led to major changes in the seawater chemistry of the North Atlantic, caused by the interaction between volcanism and ice in Iceland. Sc…"
+    },
+    {
+      "title": "Scorching summer triggers record rockfalls in Alps, scientist says",
+      "link": "https://phys.org/news/2026-08-summer-triggers-rockfalls-alps-scientist.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T20:40:06.000Z",
+      "excerpt": "The exceptionally hot summer in the Alps has been marked by a record number of rockfalls, some of them fatal, with \"a large majority attributable to the climate crisis,\" according to scientist Ludovic Ravanel."
+    },
+    {
+      "title": "Rising ocean temperatures reduce the natural carbon storage capacity of seagrass meadows",
+      "link": "https://phys.org/news/2026-08-ocean-temperatures-natural-carbon-storage.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T20:40:01.000Z",
+      "excerpt": "A new study published in Communications Earth & Environment, with contributions from researchers at the Leibniz Centre for Tropical Marine Research (ZMT), shows that higher seawater temperatures could significantly reduc…"
+    },
+    {
+      "title": "Belgium's fire of the century now 'under control'",
+      "link": "https://phys.org/news/2026-08-belgium-century.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T20:20:08.000Z",
+      "excerpt": "Belgium's largest wildfire in a century was brought \"under control\" Thursday after a seven-day fight involving hundreds of firefighters in the boggy terrain of the High Fens nature reserve."
+    },
+    {
+      "title": "As Europe's rivers recede, shippers scramble to limit damage",
+      "link": "https://phys.org/news/2026-08-europe-rivers-recede-shippers-scramble.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T20:00:01.000Z",
+      "excerpt": "Exceptionally low river levels in a Europe hit hard by drought and record heat have plunged transporters into turmoil this summer, driving up costs that everyday consumers could end up bearing."
+    },
+    {
+      "title": "Europe's heat waves scorch 80 million with 40 C heat",
+      "link": "https://phys.org/news/2026-08-europe-million.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T19:40:04.000Z",
+      "excerpt": "Europe's deadly, record-breaking summer heat waves sent temperatures above 40°C (104°F) in areas inhabited by 80 million people from mid-June to mid-August, according to official data analyzed by AFP, with many of those…"
+    },
+    {
+      "title": "'Wall-to-wall' map of NYC trees could help cool cities worldwide",
+      "link": "https://phys.org/news/2026-08-wall-nyc-trees-cool-cities.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-20T19:20:09.000Z",
+      "excerpt": "Researchers have created an interactive map identifying 1.8 million individual trees in New York City, using a new approach that could optimize the placement of trees for cooling in cities around the world."
+    },
+    {
       "title": "Extreme rain shifts toward larger, less frequent storms across eastern US",
       "link": "https://phys.org/news/2026-08-extreme-shifts-larger-frequent-storms.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-08-20T18:40:06.000Z",
       "excerpt": "Extreme precipitation events are among the most damaging natural disasters and a major concern in our changing climate. In the U.S., since 1980, the most destructive events alone have caused more than 2,800 deaths and $7…"
-    },
-    {
-      "title": "Soil methane sink may be larger than thought, three-model analysis finds",
-      "link": "https://phys.org/news/2026-08-soil-methane-larger-thought-analysis.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-20T17:20:07.000Z",
-      "excerpt": "Methane-munching microbes in soil might be more important than previously thought, a new study finds. Soil is an important carbon sink, and scientists are still learning much about the diversity of its microbial communit…"
-    },
-    {
-      "title": "Over 75% of UK wetlands have been destroyed—restoring them would help prevent wildfires",
-      "link": "https://phys.org/news/2026-08-uk-wetlands-destroyed-wildfires.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-20T15:00:01.000Z",
-      "excerpt": "Firefighters have been battling a vast wildfire in the hills above Blaenavon in south Wales, spreading across more than 4,000 hectares (9,900 acres), for three weeks."
     },
     {
       "title": "Asia to spearhead global upcoming conventional refineries growth additions by 2030",
@@ -108,44 +188,12 @@
       "excerpt": "Asia is expected to lead global conventional refinery capacity additions during 2026 to 2030, supported by new build and expansion projects."
     },
     {
-      "title": "Homebuyers are choosing homes with much higher carbon footprints than they realize",
-      "link": "https://phys.org/news/2026-08-homebuyers-homes-higher-carbon-footprints.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-20T14:40:06.000Z",
-      "excerpt": "When people shop for a home, they tend to focus on the information listings put front and center: price, floor area, number of bedrooms and location. Rarely do listings show how a home can shape a household's carbon foot…"
-    },
-    {
-      "title": "Dark boreal forests of Canada absorb enough heat to cancel up to a 5th of their climate benefit, scientists warn",
-      "link": "https://phys.org/news/2026-08-dark-boreal-forests-canada-absorb.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-20T14:00:02.000Z",
-      "excerpt": "Dense evergreen plantations in Canada's boreal forest absorb so much winter sunlight that the resulting surface warming can offset 6% to 20% of the climate benefit they are credited with. Canada's current carbon accounti…"
-    },
-    {
-      "title": "Researchers gain access to crucial deliberations on deep-sea mining",
-      "link": "https://phys.org/news/2026-08-gain-access-crucial-deliberations-deep.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-20T13:40:02.000Z",
-      "excerpt": "As competition between the United States and China intensifies over critical minerals, pressure is mounting to begin exploitation of deep-sea minerals before a code to regulate mining of the seabed in areas beyond nation…"
-    },
-    {
       "title": "DeepOcean connects Teal West field to Anasuria FPSO in North Sea",
       "link": "https://www.offshore-technology.com/news/deepocean-teal-west-field-anasuria-fpso/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-08-20T12:32:49.000Z",
       "excerpt": "DeepOcean has completed subsea construction and tie-in operations for the Teal West development, an offshore oil and gas project situated in the Central North Sea on the UK Continental Shelf."
-    },
-    {
-      "title": "New analysis reveals 'encouraging' global mangrove cover increase despite losses in key regions",
-      "link": "https://phys.org/news/2026-08-analysis-reveals-global-mangrove-losses.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-20T11:20:05.000Z",
-      "excerpt": "Global mangrove cover—vegetation vital to tackling climate change—has increased over the past 40 years, despite significant losses in some key regions, according to a new analysis."
     },
     {
       "title": "Horizon announces first gas from Sinphuhorm Pad D in Thailand",
@@ -162,22 +210,6 @@
       "category": "industry",
       "published": "2026-08-20T10:04:47.000Z",
       "excerpt": "CN Energy Group (CNEY) has announced that production has begun at an oil well project in the Cold Lake region of Alberta, Canada, in which CNEY Canada, its Canadian fully owned subsidiary, has an investment interest."
-    },
-    {
-      "title": "Area affected by wildfires in Europe could almost triple due to climate change",
-      "link": "https://phys.org/news/2026-08-area-affected-wildfires-europe-triple.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-20T09:10:01.000Z",
-      "excerpt": "Increasingly hot, dry and windy conditions could substantially extend the area affected by wildfires across Europe, according to a new study led by the Potsdam Institute for Climate Impact Research (PIK) with contributio…"
-    },
-    {
-      "title": "Honduras places 80% of country on El Niño drought alert",
-      "link": "https://phys.org/news/2026-08-honduras-country-el-nio-drought.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-20T08:50:02.000Z",
-      "excerpt": "The Honduran government on Wednesday placed 80% of the country, including the capital, on drought alert as El Niño scorches harvests and causes livestock to die of thirst."
     },
     {
       "title": "Panoro to acquire stake in Côte d’Ivoire’s Block CI-27 from DNO",
@@ -220,28 +252,12 @@
       "excerpt": "arXiv:2608.18558v1 Announce Type: cross Abstract: The prediction of equilibrium beach profiles under tidal influence is of fundamental importance for sustainable coastal development, informing shoreline protection strate…"
     },
     {
-      "title": "Fine-particle pollution may undermine plants' ability to absorb carbon and conserve water",
-      "link": "https://phys.org/news/2026-08-fine-particle-pollution-undermine-ability.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-20T02:40:01.000Z",
-      "excerpt": "Researchers at the Faculty of Social Sciences at the University of Hong Kong (HKU) have discovered that fine particulate pollution (PM2.5) significantly impairs plants' ability to use water efficiently and absorb carbon…"
-    },
-    {
       "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
       "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
       "source": "ScienceDaily — Energy Technology",
       "category": "energy",
       "published": "2026-08-20T01:32:04.000Z",
       "excerpt": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The disco…"
-    },
-    {
-      "title": "Climate change is rewriting England's 'green and pleasant' story",
-      "link": "https://phys.org/news/2026-08-climate-rewriting-england-green-pleasant.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-20T00:20:01.000Z",
-      "excerpt": "In 1804, William Blake wrote in his poem Jerusalem of England's \"green and pleasant\" land. This idealized vision of English pastoral has resonated through two centuries, fusing the character of the nation with its landsc…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3924: Foreign Direct Investment and Energy Infrastructure in Sub-Saharan Africa: Does Energy Infrastructure Condition the Sustainable Development Effects of FDI?",
@@ -426,22 +442,6 @@
       "category": "processing",
       "published": "2026-08-20T00:00:00.000Z",
       "excerpt": "To clarify how shale-reservoir heterogeneity constrains hydraulic-fracturing effectiveness in complex structural areas, this study analyzes exploration well X in the Mugan&amp;ndash;Shoushan area, Yunnan Province, using…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2657: Streamwise Evolution of Flame Stretch in Linearly-Arranged Multi-Swirl Lean Hydrogen Flames",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2657",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-20T00:00:00.000Z",
-      "excerpt": "Compared with single-swirl configurations, linearly arranged multi-swirl burners introduce complex inter-jet interactions that significantly alter flame dynamics; however, the underlying mechanisms remain poorly understo…"
-    },
-    {
-      "title": "Solar panels can cool crops—and workers",
-      "link": "https://phys.org/news/2026-08-solar-panels-cool-crops-workers.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-19T22:40:03.000Z",
-      "excerpt": "Photovoltaic technology, most commonly seen as bulky solar panels used on solar farms, is expected to become a dominant energy source by 2050. But these panels are often installed on land that might otherwise be used to…"
     },
     {
       "title": "Oil and gas contracts value reports increase in Q2 2026",
