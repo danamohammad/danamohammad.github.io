@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T02:10:55.414Z",
+  "generatedAt": "2026-08-21T07:26:35.924Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
@@ -75,6 +75,78 @@
     }
   ],
   "items": [
+    {
+      "title": "Co-seismic surface fault displacement captured in videos: image tracking across three earthquakes",
+      "link": "https://arxiv.org/abs/2608.19656",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-21T04:00:00.000Z",
+      "excerpt": "arXiv:2608.19656v1 Announce Type: new Abstract: Cases have been reported in which surface displacements, including co-seismic fault slip, were captured by closed-circuit television (CCTV) cameras. Such video recordings m…"
+    },
+    {
+      "title": "3-D numerical modelling of the feedback between deformation and thermal structure during subduction initiation for the French Lesser Antilles",
+      "link": "https://arxiv.org/abs/2608.19990",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-21T04:00:00.000Z",
+      "excerpt": "arXiv:2608.19990v1 Announce Type: new Abstract: We used 3-D thermomechanical modelling to investigate conditions during subduction-zone initiation and early thermal development with focus on the Lesser Antilles. Our mode…"
+    },
+    {
+      "title": "SoilWaterNow: Soil water nowcasting for mapping plant available water (PAW) across paddocks for improved on-farm decision-making",
+      "link": "https://arxiv.org/abs/2608.19930",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-21T04:00:00.000Z",
+      "excerpt": "arXiv:2608.19930v1 Announce Type: cross Abstract: Timely, paddock-scale estimates of plant-available water (PAW) can support crop management in water-limited grain systems. We present the Sydney Soil Water-Energy Balance…"
+    },
+    {
+      "title": "Core and mantle thermal evolution constraints on the onset of plate tectonics and a long-lived geodynamo",
+      "link": "https://arxiv.org/abs/2603.25232",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-21T04:00:00.000Z",
+      "excerpt": "arXiv:2603.25232v2 Announce Type: replace-cross Abstract: Earth's long-lived geodynamo is difficult to reconcile with recent high estimates of the core thermal conductivity, a problem known as the new core paradox. At th…"
+    },
+    {
+      "title": "From complex-step differentiation to a general reconstruction framework",
+      "link": "https://arxiv.org/abs/2608.17924",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-21T04:00:00.000Z",
+      "excerpt": "arXiv:2608.17924v2 Announce Type: replace-cross Abstract: The complex-step method is traditionally derived from the Taylor expansion of an analytic function and is widely used as a numerical technique for derivative appr…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3926: Environmental Impact Assessment of Photovoltaic Parks Through a RIAM-Based Environmental Indicator Matrix",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3926",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-21T00:00:00.000Z",
+      "excerpt": "Photovoltaic parks support climate change mitigation by generating low-emission electricity. However, their environmental impacts strongly depend on site features and proximity to environmentally sensitive areas. The aim…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3925: Probabilistic Prediction of Ice-Shedding Jump Height of Overhead Transmission Lines Using a Dimensionless-Group-Guided Bayesian Neural Network",
+      "link": "https://www.mdpi.com/1996-1073/19/16/3925",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-21T00:00:00.000Z",
+      "excerpt": "The jump height of overhead transmission lines after ice shedding is closely related to electrical clearance, and structural safety. For different conductor parameters, span lengths, horizontal stress, and icing conditio…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2671: A Study on Geochemical Characteristics and Genesis Mechanisms of Coalbed Methane in the Dafosi Well Field, Huang-Long Jurassic Coalfield",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2671",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-21T00:00:00.000Z",
+      "excerpt": "The Dafosi well field is a typical Huang-Long Jurassic low-rank coalbed methane (CBM) field. Clarifying its CBM geochemical characteristics and the mechanisms of its formation is of significant importance for deepening t…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2670: NMR Characterization of Plastic Pyrolysis Oils Obtained over Clay Catalysts",
+      "link": "https://www.mdpi.com/2227-9717/14/16/2670",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-21T00:00:00.000Z",
+      "excerpt": "The accumulation of plastic waste has become a significant environmental challenge, stimulating the development of efficient recycling technologies capable of converting polymers into valuable products. In this study, po…"
+    },
     {
       "title": "Processes, Vol. 14, Pages 2669: The Hydrochemical Characteristics and Formation Mechanism of High TDS Groundwater in Arid and Semi-Arid Coal Mining Area",
       "link": "https://www.mdpi.com/2227-9717/14/16/2669",
@@ -220,38 +292,6 @@
       "excerpt": "Panoro Energy has agreed to acquire DNO’s subsidiary DNO CI, which holds an indirect 9.09% interest in the gas-producing Block CI-27 offshore Côte d’Ivoire."
     },
     {
-      "title": "SeisEvo: Evolution of Seismic Data Reconstruction Algorithms by Agents",
-      "link": "https://arxiv.org/abs/2608.18272",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-20T04:00:00.000Z",
-      "excerpt": "arXiv:2608.18272v1 Announce Type: new Abstract: Classical seismic data reconstruction relies on manually designed structural priors and iterative operators, whose coupled design space is far larger than manual trial and…"
-    },
-    {
-      "title": "Scaling-law-informed neural point processes for earthquake sequence forecasting",
-      "link": "https://arxiv.org/abs/2608.18791",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-20T04:00:00.000Z",
-      "excerpt": "arXiv:2608.18791v1 Announce Type: new Abstract: Earthquake sequence forecasting requires models that can learn nonlinear history dependence while retaining robust statistical structure. We develop a scaling-law-informed…"
-    },
-    {
-      "title": "Effect of style of faulting on the probabilistic characterization of directionality of horizontal response spectral ordinates",
-      "link": "https://arxiv.org/abs/2608.19142",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-20T04:00:00.000Z",
-      "excerpt": "arXiv:2608.19142v1 Announce Type: new Abstract: Horizontal earthquake ground motions exhibit substantial changes in amplitude with changes in orientation. While the effects of style of faulting on central tendency measur…"
-    },
-    {
-      "title": "MorphoGP: A Nonparametric Framework for Predicting Equilibrium Beach Profiles Under Tidal Influence",
-      "link": "https://arxiv.org/abs/2608.18558",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-20T04:00:00.000Z",
-      "excerpt": "arXiv:2608.18558v1 Announce Type: cross Abstract: The prediction of equilibrium beach profiles under tidal influence is of fundamental importance for sustainable coastal development, informing shoreline protection strate…"
-    },
-    {
       "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
       "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -273,7 +313,7 @@
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-08-20T00:00:00.000Z",
-      "excerpt": "Wave energy in short-fetch, semi-enclosedfigur seas depends on how closely the response of a converter matches locally generated, short-period waves. This study makes that match explicit for the Black Sea, the Sea of Mar…"
+      "excerpt": "Wave energy in short-fetch, semi-enclosed seas depends on how closely the response of a converter matches locally generated, short-period waves. This study makes that match explicit for the Black Sea, the Sea of Marmara,…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3922: Novel Performance of T-S Fuzzy Power System Based on a New Slack Lemma and an Optimization Algorithm",
@@ -338,22 +378,6 @@
       "category": "energy",
       "published": "2026-08-20T00:00:00.000Z",
       "excerpt": "As data centers become major and schedulable loads of the new power system, connecting them to multiple microgrids offers a promising route to absorb local renewable energy through cross-domain coordination. However, whe…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3913: An Innovative Method for Modeling Inertia in Wind Turbine Emulators: Concept, Implementation, and Laboratory Testing",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3913",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-20T00:00:00.000Z",
-      "excerpt": "This monograph synthesizes the current state of knowledge on mathematical models and wind turbine (WT) modeling methods, in particular in the field of implementation of wind turbine emulators (WTE). The areas covered inc…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3915: Optimal Scheduling of a Photovoltaic&ndash;Storage&ndash;Charging System Considering Charging Services, Ancillary Service Markets, and Spot Markets",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3915",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-20T00:00:00.000Z",
-      "excerpt": "Current research on photovoltaic&amp;ndash;storage&amp;ndash;charging (PSC) systems operating in market-oriented environments mainly focuses on individual service types, such as charging services or ancillary services, w…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2668: Reduced-Order Small-Signal Modeling of PV Storage Systems Considering Dynamic Interactions",
@@ -426,22 +450,6 @@
       "category": "processing",
       "published": "2026-08-20T00:00:00.000Z",
       "excerpt": "Beech (Fagus sylvatica L.) kernels are a sustainable plant material suitable for human consumption. This study analyzes the impact of moistening and roasting (thermal treatment) beech kernels on the development of novel…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2659: High-Strength and Biodegradable Golf Tees Fabricated from Solid Waste-Based Composites Using Discarded Chestnut Shells as Raw Material",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2659",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-20T00:00:00.000Z",
-      "excerpt": "Background: With the growing popularity of golf, the wood consumption and white pollution caused by traditional wooden and plastic golf tees create an urgent need for green, degradable, high-performance alternatives. Mat…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2658: Longmaxi&ndash;Wufeng Shales in Northeastern Yunnan, China: Engineering Geological Facies Differentiation and Implications for Fracturing",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2658",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-20T00:00:00.000Z",
-      "excerpt": "To clarify how shale-reservoir heterogeneity constrains hydraulic-fracturing effectiveness in complex structural areas, this study analyzes exploration well X in the Mugan&amp;ndash;Shoushan area, Yunnan Province, using…"
     },
     {
       "title": "Oil and gas contracts value reports increase in Q2 2026",
@@ -866,14 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Oytun Öner, Seth B. Dworkin, Ahmet E. Karataş"
-    },
-    {
-      "title": "Natural gas separation using the hydrate technology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026414?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): E.R. Podgornaya, N.E. Shlegel, P.A. Strizhak"
     }
   ]
 }
