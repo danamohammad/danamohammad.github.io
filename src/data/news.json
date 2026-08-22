@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T02:03:07.093Z",
+  "generatedAt": "2026-08-22T07:16:48.356Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 5,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 3943: AC-Screened Robust Restoration of Weather-Stressed PV&ndash;Storage&ndash;EV Distribution Networks via Graph Learning and Multi-Agent Control",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3943",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Extreme weather couples spatially correlated component damage with photovoltaic (PV) derating, changing electric-vehicle (EV) demand, repair delay, and time-varying network topology. This paper develops a coordinated res…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3942: Blasingame Production Decline Model of CO2 Miscible Flooding in the Tight Oil Reservoirs with Stress Sensitivity",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3942",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "For tight oil reservoirs, analyzing the characteristics of the Blasingame production decline curves of production wells under CO2 flooding can effectively evaluate the development performance of CO2 miscible flooding. Ho…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2678: Recovery of High-Purity Grade B-Phycoerythrin from Porphyridium cruentum by the Two-Step Ultrasound-Based UltraBlu Process",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2678",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Phycobiliproteins are water-soluble photosynthetic pigments extracted mainly from microalgae and cyanobacteria with many potential biotechnological applications, such as healthy food colorants, nutraceuticals, fluorescen…"
+    },
     {
       "title": "Inside the race to prepare cities for extreme heat",
       "link": "https://phys.org/news/2026-08-cities-extreme.html",
@@ -204,46 +228,6 @@
       "excerpt": "US-based Continental Resources has signed a heads of agreement (HoA) to acquire a 50% interest in Phoenix Global Resources, an independent upstream oil and gas company, controlled by Mercuria Energy Group."
     },
     {
-      "title": "Co-seismic surface fault displacement captured in videos: image tracking across three earthquakes",
-      "link": "https://arxiv.org/abs/2608.19656",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-21T04:00:00.000Z",
-      "excerpt": "arXiv:2608.19656v1 Announce Type: new Abstract: Cases have been reported in which surface displacements, including co-seismic fault slip, were captured by closed-circuit television (CCTV) cameras. Such video recordings m…"
-    },
-    {
-      "title": "3-D numerical modelling of the feedback between deformation and thermal structure during subduction initiation for the French Lesser Antilles",
-      "link": "https://arxiv.org/abs/2608.19990",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-21T04:00:00.000Z",
-      "excerpt": "arXiv:2608.19990v1 Announce Type: new Abstract: We used 3-D thermomechanical modelling to investigate conditions during subduction-zone initiation and early thermal development with focus on the Lesser Antilles. Our mode…"
-    },
-    {
-      "title": "SoilWaterNow: Soil water nowcasting for mapping plant available water (PAW) across paddocks for improved on-farm decision-making",
-      "link": "https://arxiv.org/abs/2608.19930",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-21T04:00:00.000Z",
-      "excerpt": "arXiv:2608.19930v1 Announce Type: cross Abstract: Timely, paddock-scale estimates of plant-available water (PAW) can support crop management in water-limited grain systems. We present the Sydney Soil Water-Energy Balance…"
-    },
-    {
-      "title": "Core and mantle thermal evolution constraints on the onset of plate tectonics and a long-lived geodynamo",
-      "link": "https://arxiv.org/abs/2603.25232",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-21T04:00:00.000Z",
-      "excerpt": "arXiv:2603.25232v2 Announce Type: replace-cross Abstract: Earth's long-lived geodynamo is difficult to reconcile with recent high estimates of the core thermal conductivity, a problem known as the new core paradox. At th…"
-    },
-    {
-      "title": "From complex-step differentiation to a general reconstruction framework",
-      "link": "https://arxiv.org/abs/2608.17924",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-21T04:00:00.000Z",
-      "excerpt": "arXiv:2608.17924v2 Announce Type: replace-cross Abstract: The complex-step method is traditionally derived from the Taylor expansion of an analytic function and is widely used as a numerical technique for derivative appr…"
-    },
-    {
       "title": "A lost mega-cliff may explain the Grand Canyon’s missing billion years",
       "link": "https://www.sciencedaily.com/releases/2026/08/260820202828.htm",
       "source": "ScienceDaily — Geology",
@@ -330,22 +314,6 @@
       "category": "energy",
       "published": "2026-08-21T00:00:00.000Z",
       "excerpt": "As variable renewable generation grows, intermittent dispatch of run-of-river hydropower plants may transfer required environmental-flow releases from turbines to spillways, creating conditions that favor total dissolved…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3931: Numerical Study on the Energy-Harvesting Performance of a Flapping Foil Under Vortical-Gust Encounters",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3931",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Coherent vortices alter flapping-foil energy harvesting, but wake-generated vortex properties and timing are coupled to upstream-body kinematics. We use two-dimensional immersed boundary&amp;ndash;lattice Boltzmann simul…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3930: A Numerical&ndash;Textual Dual-Channel Forecasting Framework for Short-Term Load Forecasting",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3930",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Short-term load forecasting underpins power-system dispatching, yet classical models degrade when historical samples are scarce. This paper proposes NTSForecast, a numerical&amp;ndash;textual dual-channel framework: a tr…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2677: Hierarchical Sensitivity Analysis of PV Converter Operating Profiles Under Climatic and Grid Uncertainty",
@@ -490,14 +458,6 @@
       "category": "processing",
       "published": "2026-08-20T00:00:00.000Z",
       "excerpt": "In the construction industry, a large portion of energy is spent on heating and cooling, which both increases costs and contributes to resource depletion. The aim of the study was to provide and evaluate a robust ML mode…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2666: Study on the Coupling Characteristics Between Unsteady Flow and Hydrodynamic Loads in the Guide Vane Region of a Pump&ndash;Turbine Under Runaway Condition",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2666",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-20T00:00:00.000Z",
-      "excerpt": "To elucidate the coupling characteristics between unsteady flow and hydrodynamic loads in the guide vane region of a pump&amp;ndash;turbine under runaway conditions, a model pump&amp;ndash;turbine of a high-head pumped s…"
     },
     {
       "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
@@ -874,6 +834,46 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Wensong Jia, Xing Li, Mengfan Zhang, Honglin Guo, Yi Xia"
+    },
+    {
+      "title": "Experimental and numerical studies of the effect of local heating on hydrogen dispersion in confined spaces",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027833?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Zilong Zhang, Shengqi Lyu, Yuqi Zhou, Xinmeng Zhang, Jiangtao Sun, Yujie Ouyang, Zhaotong Zhang, Juan Mei, Hongyan Wang, Jing Zhang, Bin Li, Lif…"
+    },
+    {
+      "title": "Spatially separated and temporally decoupled reforming of tar over Ni/C and LaFe 0.5 Ni 0.5 O 3 for flexible syngas production: unveiling the lattice-oxygen-mediated carbon storage and release",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602733X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Qihui Song, Jing Zhang, Jingwen Wang, Baojun Huang, Xi Zeng, Bingyan Sun, Xiaopeng Shi, Kaige Wang"
+    },
+    {
+      "title": "Application of 20% ammonia co-firing in a 1000 MW coal-fired power plant",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027845?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Hiroki Ishii, Haruki Maeda, Ryo Hanaoka, Takamasa Ito, Toshiro Fujimori"
+    },
+    {
+      "title": "Performance–emission trade-offs in a hydrogen dual-fuel engine fueled with MWCNT-enriched biodiesel pilot fuel: Experimental evaluation and explainable XGBoost modeling",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026797?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Prasenjit Barman, Bhaskar Jyoti Medhi, Bhaskor Jyoti Bora, Paragmoni Kalita, Prabhakar Sharma"
+    },
+    {
+      "title": "Synergistic conversion of pyrolysis char and CO 2 in a fluidized-bed reactor for activated carbon and syngas production: experiments and mechanism analysis",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026839?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Zexin Li, Haixia Zhang, Junrong Yue, Yu Guan, Lei Shao, Jiao Liu"
     }
   ]
 }
