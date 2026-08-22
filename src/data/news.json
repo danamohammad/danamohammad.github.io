@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T13:16:29.022Z",
+  "generatedAt": "2026-08-22T19:01:12.098Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,54 @@
     }
   ],
   "items": [
+    {
+      "title": "AI mapping reveals hidden stage of Arctic freeze with climate implications",
+      "link": "https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-22T17:00:01.000Z",
+      "excerpt": "As autumn gives way to winter across the Arctic, the ground doesn't immediately freeze solid. Instead, soils often linger near the freezing point for days or even weeks in a phase called the zero curtain. In a new NASA-l…"
+    },
+    {
+      "title": "Heat wave-hit Europe logs over 30,000 excess summer deaths: First figures",
+      "link": "https://phys.org/news/2026-08-europe-excess-summer-deaths-figures.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-22T16:20:03.000Z",
+      "excerpt": "Europe saw at least 30,000 excess deaths across a blistering summer of back-to-back heat waves and drought that scientists have blamed on man-made climate change, according to provisional figures."
+    },
+    {
+      "title": "Arctic shipping a daunting prospect in hotly contested region",
+      "link": "https://phys.org/news/2026-08-arctic-shipping-daunting-prospect-hotly.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-22T15:30:01.000Z",
+      "excerpt": "With Gulf turmoil slashing Suez Canal traffic, shipping firms are tempted to try the Arctic for quicker trips between Europe and Asia—but commercial prospects are unlikely to match countries' strategic ambitions for the…"
+    },
+    {
+      "title": "Thawing Arctic riverbeds may erode up to 10 times faster than unfrozen ground",
+      "link": "https://phys.org/news/2026-08-arctic-riverbeds-erode-faster-unfrozen.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-22T15:20:05.000Z",
+      "excerpt": "Sometimes science throws up the unexpected. When a team of researchers set out to model river erosion in Canada's High Arctic, they did not expect the findings to defy common sense."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3954: Generalized Sequence Impedance Modeling and Analysis of Grid-Forming Converters with Multi-Loop Control",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3954",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Grid-forming converters are pivotal for stability support in modern power systems, where their interactive behavior is significantly determined by control parameters. However, prevalent impedance-based analysis is confin…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3953: Dynamic Modeling of Circulating Fluidized Bed Power Plants for Flexible Operation: Progress, Challenges and Future",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3953",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "The increasing penetration of renewable energy has significantly intensified the demand for flexible operation of thermal power plants, making dynamic simulation an essential tool for understanding transient behaviors an…"
+    },
     {
       "title": "Energies, Vol. 19, Pages 3952: A Levelized Comparison of Low-Load NG RCCI Combustion with Different Pilot Fuels at Constant Combustion Phasing",
       "link": "https://www.mdpi.com/1996-1073/19/17/3952",
@@ -156,12 +204,20 @@
       "excerpt": "Extreme weather couples spatially correlated component damage with photovoltaic (PV) derating, changing electric-vehicle (EV) demand, repair delay, and time-varying network topology. This paper develops a coordinated res…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3942: Blasingame Production Decline Model of CO2 Miscible Flooding in the Tight Oil Reservoirs with Stress Sensitivity",
-      "link": "https://www.mdpi.com/1996-1073/19/17/3942",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2684: Material Degradation Assessment in Hydrogenation Reactors: Multi-Mechanism Coupled Methodology and Application",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2684",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-22T00:00:00.000Z",
-      "excerpt": "For tight oil reservoirs, analyzing the characteristics of the Blasingame production decline curves of production wells under CO2 flooding can effectively evaluate the development performance of CO2 miscible flooding. Ho…"
+      "excerpt": "Hydrogenation reactors are critical equipment in the petrochemical industry, yet their material degradation is governed by coupled multi-mechanism damage. Current assessment practices largely neglect this complexity, rem…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2683: Electrode Engineering for Triboelectric Nanogenerators: Materials, Structures, Fabrication and Applications",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2683",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Triboelectric nanogenerators (TENGs) provide a powerful route for translating mechanical interactions into electrical signals, offering unique opportunities for self-powered sensing and human-machine interfaces (HMIs). Y…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2682: Myceliophthora thermophila as a Biotechnological Platform for Cellulase Production and Lignocellulose Valorization",
@@ -268,36 +324,12 @@
       "excerpt": "Not all of Indonesia's seagrass meadows are faring alike. A study has revealed substantial spatial differences in the condition of 21 seagrass meadows across central and eastern Indonesia, providing a clearer picture of…"
     },
     {
-      "title": "After a wildfire, Britain's moors and heaths can be green again within weeks—but the real recovery takes much longer",
-      "link": "https://phys.org/news/2026-08-wildfire-britain-heaths-green-weeks.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-21T15:00:03.000Z",
-      "excerpt": "Wildfires that have swept across Britain's upland moors and lowland heaths in unprecedented tinder-dry conditions have left behind expanses of smoking, blackened vegetation."
-    },
-    {
-      "title": "We're building a New York‑sized city every month. That's worrying for our climate",
-      "link": "https://phys.org/news/2026-08-yorksized-city-month-climate.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-21T14:40:05.000Z",
-      "excerpt": "We each need a roof over our heads, classrooms to learn in and offices or spaces to work in. To meet this unprecedented demand for new buildings, globally, we're constructing the equivalent of an entire New York City eve…"
-    },
-    {
       "title": "Gorgon stage three tie-back gets first TechnipFMC Subsea 2.0 tree",
       "link": "https://www.offshore-technology.com/news/gorgon-stage-3-tieback-technipfmc-subsea/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-08-21T14:31:00.000Z",
       "excerpt": "TechnipFMC has delivered its first 7-in. Subsea 2.0 horizontal christmas tree to Chevron Australia for the Gorgon Stage 3 project, offshore in the north-west of WA."
-    },
-    {
-      "title": "What comes after fire? What forests need to survive in a warming world",
-      "link": "https://phys.org/news/2026-08-forests-survive-world.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-21T11:20:02.000Z",
-      "excerpt": "Jennifer Bhatnagar spent the summer of 2023 traversing barren hillsides blackened by wildfire in northern California. She walked through devastated properties, examined the hot soil beneath her feet, collected samples an…"
     },
     {
       "title": "Corinth Pipeworks wins Rovuma LNG pipe contract",
@@ -316,14 +348,6 @@
       "excerpt": "Indian government-owned Oil and Natural Gas Corporation (ONGC) has entered into a two-year binding letter of award (LoA) with Transocean for deploying the latter’s Dhirubhai Deepwater KG2 drillship in India."
     },
     {
-      "title": "What a record-breaking El Niño could mean for the world",
-      "link": "https://phys.org/news/2026-08-el-nio-world.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-21T09:10:01.000Z",
-      "excerpt": "This year's El Niño is on track to be the strongest on record, threatening to unleash extreme weather across the globe and make 2027 the hottest recorded year by far."
-    },
-    {
       "title": "Continental signs HoA for 50% stake in Phoenix from Mercuria",
       "link": "https://www.offshore-technology.com/news/continental-hoa-50-stake-phoenix-from-mercuria/",
       "source": "Offshore Technology",
@@ -338,14 +362,6 @@
       "category": "geoscience",
       "published": "2026-08-21T03:43:10.000Z",
       "excerpt": "A colossal cliff system created as the supercontinent Rodinia broke apart may have exposed the heart of the Grand Canyon nearly a billion years before the Colorado River carved it. The ancient landscape could also help e…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3941: Collaborative Optimization of Numerical Empowerment-Driven Campus IES Public Services Considering Elderly-Oriented Renovation",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3941",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "With the continued advancement of low-carbon campus transformation and the increasing penetration of renewable energy, campus integrated energy systems have become key infrastructure for green campus development. However…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2677: Hierarchical Sensitivity Analysis of PV Converter Operating Profiles Under Climatic and Grid Uncertainty",
@@ -386,22 +402,6 @@
       "category": "processing",
       "published": "2026-08-21T00:00:00.000Z",
       "excerpt": "Prunus tangutica is an underused wild nut of the Chinese highlands. Its kernels are rich in polyphenols and flavonoids but also contain amygdalin, so debittering must precede roasting, and how the two steps act together…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2672: Experimental and Numerical Investigation of Heat Transfer and Fluid Flow in Triply Periodic Minimal Surface Structures: Influence of Base Integration",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2672",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "This study investigates the heat transfer and fluid flow characteristics of six triply periodic minimal surface (TPMS) structures, specifically Gyroid (G3P6, G3P7, G3P8, G1P7) and Diamond (D1P7 and D3P7) configurations,…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2671: A Study on Geochemical Characteristics and Genesis Mechanisms of Coalbed Methane in the Dafosi Well Field, Huang-Long Jurassic Coalfield",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2671",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "The Dafosi well field is a typical Huang-Long Jurassic low-rank coalbed methane (CBM) field. Clarifying its CBM geochemical characteristics and the mechanisms of its formation is of significant importance for deepening t…"
     },
     {
       "title": "Asia to dominate global butadiene capacity additions by 2030",
