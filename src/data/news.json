@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:16:48.356Z",
+  "generatedAt": "2026-08-22T13:16:29.022Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,78 @@
   ],
   "items": [
     {
+      "title": "Energies, Vol. 19, Pages 3952: A Levelized Comparison of Low-Load NG RCCI Combustion with Different Pilot Fuels at Constant Combustion Phasing",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3952",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Reactivity-controlled compression ignition (RCCI) enhances engine performance while mitigating the diesel soot&amp;ndash;NOx tradeoff. In this work, natural gas (NG) RCCI combustion was investigated on a heavy-duty singl…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3951: Combustion Phasing, Performance and Emissions of a Single-Cylinder Diesel Engine with Intake Manifold Hydrogen Addition Under Varying Load and Speed",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3951",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "The addition of hydrogen to diesel engines is increasingly being seen as a promising interim solution to reduce fossil fuel consumption and carbon emissions without changing the basic architecture of the compression-igni…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3950: On the Methodological Harmonization of the Life Cycle Assessment of Woody Biomass-to-Energy Conversion Pathways&mdash;A Review",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3950",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Woody biomass is often promoted as a low-carbon energy source in global decarbonization efforts. However, LCA (life cycle assessment) evaluations of woody biomass-to-energy systems show very different environmental perfo…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3947: Techno-Economic Comparison of Data Center Cooling Using Magnetic Bearing Chillers and Aquifer Thermal Energy Storage",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3947",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Data centers are large and rapidly growing electricity consumers, and cooling systems account for a substantial share of their energy demand. A key contribution of this study is a climate-sensitive, hourly techno-economi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3949: Perfect-Foresight Flow-Rate Control of a Photovoltaic&ndash;Thermal Collector for Thermochemical Storage: An Exergy Upper Bound",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3949",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Photovoltaic&amp;ndash;thermal (PVT) collectors coupled to thermochemical energy storage (TCES) can turn intermittent low-grade solar heat into a dispatchable service, but solar intermittency poses a closed-loop control…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3948: Multi-Objective Optimization of a Hydrogen-Coupled Integrated Energy System with Cascade Waste-Heat Utilization for Low-Carbon Industrial Parks",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3948",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Continuous carbon anode roasting in industrial parks requires a stable high-temperature heat supply and remains highly dependent on grid electricity and natural gas. However, existing energy-system studies rarely coordin…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3944: Process Stability, Methane Yield, and Microbial Community Structure in Two-Stage Co-Digestion of Plant and Animal Substrates Using Real-World Feedstock from an Agricultural Biogas Plant",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3944",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "In the context of the global shift toward sustainable energy systems and circular economy strategies, anaerobic digestion is a well-established biotechnology for the valorisation of organic residues, the production of bi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3946: Anaerobic Co-Digestion of Gerbera Flower Residues, Non-Marketable Apples and Pig Slurry: Biochemical Methane Potential, Synergistic Effects and Kinetic Modelling",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3946",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Floricultural residues represent a substantial and largely unvalorised organic stream in Europe, yet their anaerobic digestion has received limited attention. This study benchmarked the biochemical methane potential and…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3945: Fast Adaptive Reactive-Power Compensation Control for Renewable Power Plants Considering Dynamic Active-Power&ndash;Voltage Coupling",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3945",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Renewable power plants connected to low-system-strength grids are increasingly dominated by inverter-based resources (IBRs). Their point of common coupling (PCC) voltage is therefore shaped not only by reactive-power sup…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3943: AC-Screened Robust Restoration of Weather-Stressed PV&ndash;Storage&ndash;EV Distribution Networks via Graph Learning and Multi-Agent Control",
       "link": "https://www.mdpi.com/1996-1073/19/17/3943",
       "source": "Energies (MDPI)",
@@ -90,6 +162,38 @@
       "category": "energy",
       "published": "2026-08-22T00:00:00.000Z",
       "excerpt": "For tight oil reservoirs, analyzing the characteristics of the Blasingame production decline curves of production wells under CO2 flooding can effectively evaluate the development performance of CO2 miscible flooding. Ho…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2682: Myceliophthora thermophila as a Biotechnological Platform for Cellulase Production and Lignocellulose Valorization",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2682",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Lignocellulosic biomass deconstruction requires robust biocatalysts capable of operating under demanding industrial conditions. The thermophilic fungus Myceliophthorathermophila is a promising biotechnological platform f…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2681: Machine Learning Across the Heavy Oil Value Chain: A Review of Methodological Maturity and Industrial Deployability",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2681",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Heavy and extra-heavy oils represent a large and growing share of recoverable hydrocarbon resources, yet their extreme viscosity, high heteroatom content, and non-Newtonian behavior routinely defeat empirical correlation…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2680: Multiscale Coupled Modeling of Shale Gas Horizontal Wells Considering Wellbore Friction Loss",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2680",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Shale gas reservoirs are characterized by low permeability, nanoscale pore structures, and complex fracture networks. Multistage fractured horizontal wells are an important technology for commercial shale gas development…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2679: Molecular-Level Crude Oil Distillation Unit Model",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2679",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-22T00:00:00.000Z",
+      "excerpt": "Crude oil distillation is often simulated with pseudo-components. This treatment is efficient, but it limits the prediction of molecular-level product information. In this work, a molecular-level model based on molecule-…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2678: Recovery of High-Purity Grade B-Phycoerythrin from Porphyridium cruentum by the Two-Step Ultrasound-Based UltraBlu Process",
@@ -244,78 +348,6 @@
       "excerpt": "With the continued advancement of low-carbon campus transformation and the increasing penetration of renewable energy, campus integrated energy systems have become key infrastructure for green campus development. However…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3940: A Modified 2-DoF Wave Buoy with an Embedded Tunable Magnetic-Spring Electromagnetic Energy Harvester: Concept, Dynamic Modeling and Numerical Analysis",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3940",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "This paper presents a modified two-degree-of-freedom wave buoy with an embedded tunable magnetic-spring electromagnetic energy harvester. The proposed device is modeled as a branched kinematic chain composed of a rotatio…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3939: An Enhanced Lightweight YOLOv11 Algorithm for Real-Time Detection of High-Voltage Line Insulators",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3939",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "UAV-based insulator detection is challenging because insulators often occupy small regions of aerial images and appear against complex backgrounds, while subtle local features may be lost during feature extraction and do…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3937: Segmented Finite Line Source Analysis of Mid-Deep UBHE with Geothermal Gradient and Stratification",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3937",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "This study develops an analytical model for a mid-deep U-shaped borehole heat exchanger (UBHE) based on the segmented finite line source method, integrating geothermal gradient, five-layer geological stratification, and…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3938: Power and Fatigue&ndash;Load Assessment of Static Wake Steering in a Floating Wind Farm with 15 MW Turbines",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3938",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Static wake steering can increase wind-farm power production, but its application to floating offshore wind farms requires assessment of the coupled wake, platform, structural, and station-keeping response. This study ev…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3936: An Integrated Stochastic Decision-Support Framework: Hybrid Commercialization of Marginal Dry Gas Wells",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3936",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Natural gas production from mature fields is progressively shifting toward low-rate wells operating near their economic limit, creating challenges for long-term asset management. This study proposes an integrated stochas…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3935: From Prediction to Decision: A Unified Dual-Stage LLM-Driven Framework for Intelligent Energy Management with Unstructured Information",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3935",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Modern energy systems, including those supporting transportation electrification, are increasingly exposed to volatile market conditions and external events. Effective decision-making therefore requires the integration o…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3934: Hierarchical Distributed Optimal Scheduling of Integrated Electricity&ndash;Gas&ndash;Heat Systems: An ATC&ndash;ADMM Approach",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3934",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Integrated electricity&amp;ndash;gas&amp;ndash;heat systems require coordinated scheduling while limiting data sharing and representing network constraints. This paper develops a day-ahead model incorporating reactive po…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3933: Surface Hydraulic Fracturing with L-Shaped Wells for Rock Burst Prevention in Hard Roof Key Strata of Deep Coal Mines",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3933",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Targeting the rock burst hazard induced by the hard roof key stratum during deep mining at the Mengcun Coal Mine in the Binchang mining area, this study takes the No. 403109 working face as the engineering background and…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3932: Basin-Scale Screening of Spillway-Related Total Dissolved Gas Generation Potential Under Intermittent Hydropower Operation in the Brazilian Amazon and Tocantins&ndash;Araguaia Basins",
-      "link": "https://www.mdpi.com/1996-1073/19/16/3932",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "As variable renewable generation grows, intermittent dispatch of run-of-river hydropower plants may transfer required environmental-flow releases from turbines to spillways, creating conditions that favor total dissolved…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2677: Hierarchical Sensitivity Analysis of PV Converter Operating Profiles Under Climatic and Grid Uncertainty",
       "link": "https://www.mdpi.com/2227-9717/14/16/2677",
       "source": "Processes (MDPI)",
@@ -372,22 +404,6 @@
       "excerpt": "The Dafosi well field is a typical Huang-Long Jurassic low-rank coalbed methane (CBM) field. Clarifying its CBM geochemical characteristics and the mechanisms of its formation is of significant importance for deepening t…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2670: NMR Characterization of Plastic Pyrolysis Oils Obtained over Clay Catalysts",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2670",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "The accumulation of plastic waste has become a significant environmental challenge, stimulating the development of efficient recycling technologies capable of converting polymers into valuable products. In this study, po…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2669: The Hydrochemical Characteristics and Formation Mechanism of High TDS Groundwater in Arid and Semi-Arid Coal Mining Area",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2669",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Understanding the formation of high-total-dissolved-solids (TDS) groundwater is essential for mine-water source identification, treatment, and resource utilization in arid and semi-arid coal mining areas. However, previo…"
-    },
-    {
       "title": "Asia to dominate global butadiene capacity additions by 2030",
       "link": "https://www.offshore-technology.com/analyst-comment/asia-global-butadiene-capacity-additions-2030/",
       "source": "Offshore Technology",
@@ -442,22 +458,6 @@
       "category": "energy",
       "published": "2026-08-20T01:32:04.000Z",
       "excerpt": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The disco…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2668: Reduced-Order Small-Signal Modeling of PV Storage Systems Considering Dynamic Interactions",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2668",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-20T00:00:00.000Z",
-      "excerpt": "The complexity of circuit structures and control loops in three-level interleaved parallel DC-DC converters (TIPDCs) presents significant challenges to the small-signal reduced-order modeling of multi-converter PV storag…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2667: A Robust Model Evaluation Process for Early-Stage Cooling Load Prediction of Buildings",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2667",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-20T00:00:00.000Z",
-      "excerpt": "In the construction industry, a large portion of energy is spent on heating and cooling, which both increases costs and contributes to resource depletion. The aim of the study was to provide and evaluate a robust ML mode…"
     },
     {
       "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
@@ -660,6 +660,14 @@
       "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Grant Charles Mwakipunda, Shiying Guo, Xiubin Wang, Junwei Huang, Jinyu Tang, Riyadh I. Al-Raoush"
     },
     {
+      "title": "A hybrid physics-informed LSTM model for wave velocity and pore structure prediction in tight sandstone reservoirs",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026003775?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Ding Gong, Haiyan Zhu, Zhaopeng Zhang, Liang Huang, Zhiqi Zhong, Lei Wang, Reza Rezaee, Bing Zhang"
+    },
+    {
       "title": "CDEM-based numerical study on multi-cluster fracture propagation in geothermal reservoirs",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026003969?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -722,14 +730,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Harri A. Williams, Niklas Heinemann, Ian L. Molnar, Toni Gladding, Tarek L. Rashwan"
-    },
-    {
-      "title": "LATT-BiGRU-NSWOA-leader: A multi-objective optimization approach for CO 2 flooding and sequestration under small-sample constraints",
-      "link": "https://www.sciencedirect.com/science/article/pii/S294989102600388X?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Yanhui Li, Tingyu Dou"
     },
     {
       "title": "A review of vertical closed-loop geothermal heating and cooling systems with an Emphasis on the importance of the subsurface",
@@ -836,44 +836,44 @@
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Wensong Jia, Xing Li, Mengfan Zhang, Honglin Guo, Yi Xia"
     },
     {
+      "title": "Waste PET conversion into solid fuel ReaxFF MD coupled with multi-scale experiments reveal atomistic PAH growth and pyrolytic char coking pathways",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027778?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Min Zhang, Xiaopan Zhang, Ruiyi Li, Guan Wang, Shuanghui Deng, Xuebin Wang, Mo Zheng"
+    },
+    {
+      "title": "Interface-Engineered Co 3 O 4 /CoFe-LDH Core-Shell nanoneedle arrays on nickel foam for efficient alkaline overall water splitting",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027900?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Zhaokun Wang, Tengyu Guo, Wenbin Yang, Xueting Yan"
+    },
+    {
+      "title": "Catalytic performance of Co/Cor for NaBH 4 hydrolysis in continuous-flow reactors: insights into catalyst particle mesh size",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027560?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Shuai Hao, Lijun Lei, Zhenyi Zhao, Xueyan Dai, Xuefei Si, Pengyong Xie, Feng Liu, Jianlong Chang"
+    },
+    {
+      "title": "Synergistic regulation of Brønsted acid site accessibility and Ce location over Y zeolites for the ultra-deep desulfurization",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602750X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Jingjing Wang, Jinchuan Zhao, Junjie Liao, Liping Chang, Jiancheng Wang, Weiren Bao, Kechang Xie"
+    },
+    {
       "title": "Experimental and numerical studies of the effect of local heating on hydrogen dispersion in confined spaces",
       "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027833?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Zilong Zhang, Shengqi Lyu, Yuqi Zhou, Xinmeng Zhang, Jiangtao Sun, Yujie Ouyang, Zhaotong Zhang, Juan Mei, Hongyan Wang, Jing Zhang, Bin Li, Lif…"
-    },
-    {
-      "title": "Spatially separated and temporally decoupled reforming of tar over Ni/C and LaFe 0.5 Ni 0.5 O 3 for flexible syngas production: unveiling the lattice-oxygen-mediated carbon storage and release",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602733X?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Qihui Song, Jing Zhang, Jingwen Wang, Baojun Huang, Xi Zeng, Bingyan Sun, Xiaopeng Shi, Kaige Wang"
-    },
-    {
-      "title": "Application of 20% ammonia co-firing in a 1000 MW coal-fired power plant",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027845?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Hiroki Ishii, Haruki Maeda, Ryo Hanaoka, Takamasa Ito, Toshiro Fujimori"
-    },
-    {
-      "title": "Performance–emission trade-offs in a hydrogen dual-fuel engine fueled with MWCNT-enriched biodiesel pilot fuel: Experimental evaluation and explainable XGBoost modeling",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026797?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Prasenjit Barman, Bhaskar Jyoti Medhi, Bhaskor Jyoti Bora, Paragmoni Kalita, Prabhakar Sharma"
-    },
-    {
-      "title": "Synergistic conversion of pyrolysis char and CO 2 in a fluidized-bed reactor for activated carbon and syngas production: experiments and mechanism analysis",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026839?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Zexin Li, Haixia Zhang, Junrong Yue, Yu Guan, Lei Shao, Jiao Liu"
     }
   ]
 }
