@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T02:11:47.337Z",
+  "generatedAt": "2026-08-23T07:18:24.822Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 3955: Hub-Height Optimization of Offshore Wind Farm Based on the Tian Ji&rsquo;s Horse Racing Algorithm and Collaborative Staggering Layout Considering Primary and Secondary Wind Directions",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3955",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-23T00:00:00.000Z",
+      "excerpt": "In offshore wind farm micro-siting, maximizing annual power generation across all wind directions often involves a trade-off among different directional conditions, especially when the primary and secondary wind directio…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3956: Comparative Numerical Simulation on Heat Transfer Performance of CO2 and Water in Closed-Cycle Geothermal Development Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3956",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-23T00:00:00.000Z",
+      "excerpt": "Driven by China&amp;rsquo;s &amp;ldquo;Dual Carbon&amp;rdquo; strategy, medium-deep closed-loop geothermal energy has become a mainstream clean heating technology owing to the advantage of &amp;ldquo;heat extraction with…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2685: Integrated Bioprocessing of Phytoremediation-Derived Chlorella Biomass: Enzymatic Activity Profiles During Saccharification and Fermentation with Wickerhamomyces sp.",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2685",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-23T00:00:00.000Z",
+      "excerpt": "Residual microalgal biomass generated during wastewater phytoremediation represents an underexploited resource for developing sustainable bioprocesses. This study investigated the biotechnological valorization of phytore…"
+    },
     {
       "title": "AI mapping reveals hidden stage of Arctic freeze with climate implications",
       "link": "https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html",
@@ -186,22 +210,6 @@
       "category": "energy",
       "published": "2026-08-22T00:00:00.000Z",
       "excerpt": "Floricultural residues represent a substantial and largely unvalorised organic stream in Europe, yet their anaerobic digestion has received limited attention. This study benchmarked the biochemical methane potential and…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3945: Fast Adaptive Reactive-Power Compensation Control for Renewable Power Plants Considering Dynamic Active-Power&ndash;Voltage Coupling",
-      "link": "https://www.mdpi.com/1996-1073/19/17/3945",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-22T00:00:00.000Z",
-      "excerpt": "Renewable power plants connected to low-system-strength grids are increasingly dominated by inverter-based resources (IBRs). Their point of common coupling (PCC) voltage is therefore shaped not only by reactive-power sup…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3943: AC-Screened Robust Restoration of Weather-Stressed PV&ndash;Storage&ndash;EV Distribution Networks via Graph Learning and Multi-Agent Control",
-      "link": "https://www.mdpi.com/1996-1073/19/17/3943",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-22T00:00:00.000Z",
-      "excerpt": "Extreme weather couples spatially correlated component damage with photovoltaic (PV) derating, changing electric-vehicle (EV) demand, repair delay, and time-varying network topology. This paper develops a coordinated res…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2684: Material Degradation Assessment in Hydrogenation Reactors: Multi-Mechanism Coupled Methodology and Application",
@@ -394,14 +402,6 @@
       "category": "processing",
       "published": "2026-08-21T00:00:00.000Z",
       "excerpt": "Surface fissures induced by shallow coal seam mining create interconnected pathways for ambient air leakage, significantly aggravating coal spontaneous combustion (CSC) risks in goafs. However, the spatiotemporal evoluti…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2673: Effects of Roasting on Bioactive Components and Volatile Compounds of Prunus tangutica Kernels",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2673",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Prunus tangutica is an underused wild nut of the Chinese highlands. Its kernels are rich in polyphenols and flavonoids but also contain amygdalin, so debittering must precede roasting, and how the two steps act together…"
     },
     {
       "title": "Asia to dominate global butadiene capacity additions by 2030",
