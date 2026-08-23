@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:17:15.826Z",
+  "generatedAt": "2026-08-23T19:00:42.499Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,14 @@
   ],
   "items": [
     {
+      "title": "Energies, Vol. 19, Pages 3962: Permeability Prediction and Hydraulic Rock Typing of a Heterogeneous Dolomite Reservoir Based on Centrifuge and NMR Data",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3962",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-23T00:00:00.000Z",
+      "excerpt": "Permeability prediction and hydraulic rock typing in carbonate reservoirs remain challenging because similar porosity values may correspond to markedly different flow capacities controlled by pore throat size, connectivi…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3961: Multi-Objective Optimal Scheduling of an Integrated PV&ndash;Energy Storage System Based on MOPSO",
       "link": "https://www.mdpi.com/1996-1073/19/17/3961",
       "source": "Energies (MDPI)",
@@ -130,6 +138,14 @@
       "category": "energy",
       "published": "2026-08-23T00:00:00.000Z",
       "excerpt": "Driven by China&amp;rsquo;s &amp;ldquo;Dual Carbon&amp;rdquo; strategy, medium-deep closed-loop geothermal energy has become a mainstream clean heating technology owing to the advantage of &amp;ldquo;heat extraction with…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2687: Machine Learning-Driven Design of Metal Oxide Gas Sensors: From Mechanisms to Intelligent Sensing: A Review",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2687",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-23T00:00:00.000Z",
+      "excerpt": "The growing problem of air pollution and its direct impact on human health have created an urgent need for reliable, intelligent, and machine learning (ML)-enabled gas-sensing technologies. Among various sensing platform…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2686: Optimization of Process Parameters for Protein Extraction from Sludge by Isoelectric Point Precipitation Based on Ensemble Learning",
@@ -210,14 +226,6 @@
       "category": "energy",
       "published": "2026-08-22T00:00:00.000Z",
       "excerpt": "The addition of hydrogen to diesel engines is increasingly being seen as a promising interim solution to reduce fossil fuel consumption and carbon emissions without changing the basic architecture of the compression-igni…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3950: On the Methodological Harmonization of the Life Cycle Assessment of Woody Biomass-to-Energy Conversion Pathways&mdash;A Review",
-      "link": "https://www.mdpi.com/1996-1073/19/17/3950",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-22T00:00:00.000Z",
-      "excerpt": "Woody biomass is often promoted as a low-carbon energy source in global decarbonization efforts. However, LCA (life cycle assessment) evaluations of woody biomass-to-energy systems show very different environmental perfo…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2684: Material Degradation Assessment in Hydrogenation Reactors: Multi-Mechanism Coupled Methodology and Application",
@@ -394,14 +402,6 @@
       "category": "processing",
       "published": "2026-08-21T00:00:00.000Z",
       "excerpt": "Under ISO 50001, energy performance is monitored through Energy Performance Indicators (EnPIs) and energy baselines. In practice, the energy-to-production ratio (kWh/t) is commonly adopted by default and validated solely…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2675: Pareto-Active-Region-Guided Sequential Surrogate Modeling for CFD-Based Multi-Objective Optimization of Liquid-Cooled Battery Thermal Management Systems",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2675",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Computational fluid dynamics (CFD)-driven optimization of engineering systems is often constrained by high computational cost, particularly when surrogate models must be constructed from limited simulation samples. Altho…"
     },
     {
       "title": "Asia to dominate global butadiene capacity additions by 2030",
