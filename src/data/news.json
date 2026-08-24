@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:00:42.499Z",
+  "generatedAt": "2026-08-24T02:09:58.989Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 3963: Current-Step-Based Fast Electrochemical Parameter Identification for PEMWE Using a Physics-Informed Neural Network",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3963",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-24T00:00:00.000Z",
+      "excerpt": "Electrochemical parameter identification is crucial for evaluating the electrochemical processes in proton exchange membrane water electrolysis (PEMWE). Conventional characterization techniques-including polarization-cur…"
+    },
     {
       "title": "Energies, Vol. 19, Pages 3962: Permeability Prediction and Hydraulic Rock Typing of a Heterogeneous Dolomite Reservoir Based on Centrifuge and NMR Data",
       "link": "https://www.mdpi.com/1996-1073/19/17/3962",
@@ -218,14 +226,6 @@
       "category": "energy",
       "published": "2026-08-22T00:00:00.000Z",
       "excerpt": "Reactivity-controlled compression ignition (RCCI) enhances engine performance while mitigating the diesel soot&amp;ndash;NOx tradeoff. In this work, natural gas (NG) RCCI combustion was investigated on a heavy-duty singl…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3951: Combustion Phasing, Performance and Emissions of a Single-Cylinder Diesel Engine with Intake Manifold Hydrogen Addition Under Varying Load and Speed",
-      "link": "https://www.mdpi.com/1996-1073/19/17/3951",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-22T00:00:00.000Z",
-      "excerpt": "The addition of hydrogen to diesel engines is increasingly being seen as a promising interim solution to reduce fossil fuel consumption and carbon emissions without changing the basic architecture of the compression-igni…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2684: Material Degradation Assessment in Hydrogenation Reactors: Multi-Mechanism Coupled Methodology and Application",
