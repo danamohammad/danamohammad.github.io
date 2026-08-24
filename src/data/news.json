@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T02:09:58.989Z",
+  "generatedAt": "2026-08-24T07:42:10.356Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 5,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -76,12 +76,84 @@
   ],
   "items": [
     {
+      "title": "Time-Resolved Surface-Fault Displacement During the 2026 Kumamoto Earthquake From CCTV Video",
+      "link": "https://arxiv.org/abs/2608.21045",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-24T04:00:00.000Z",
+      "excerpt": "arXiv:2608.21045v1 Announce Type: new Abstract: Video recordings can provide unusually direct constraints on the time evolution of coseismic surface-fault displacement, but quantitative analysis is complicated when camer…"
+    },
+    {
+      "title": "Revisiting the hydromechanical formulation of a micromechanics-based phase-field model for poro-elastoplastic media",
+      "link": "https://arxiv.org/abs/2608.20422",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-24T04:00:00.000Z",
+      "excerpt": "arXiv:2608.20422v1 Announce Type: cross Abstract: Even for tension-dominated fracture propagation, porous materials may deform plastically adjacent to the propagating fracture. As is common for porous materials, existing…"
+    },
+    {
+      "title": "Data-Driven Characterisation of Wave-Forced Turbulence Using Time-Resolved Forecast-Error Growth",
+      "link": "https://arxiv.org/abs/2608.20931",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-24T04:00:00.000Z",
+      "excerpt": "arXiv:2608.20931v1 Announce Type: cross Abstract: Periodic surface-wave forcing can reorganise turbulent flows through coherent spectral response, synchronization, intermittency, and changes in short-term predictability,…"
+    },
+    {
+      "title": "Matching Urban Flood Sensor Placement to Monitoring Objectives Using Bayesian Optimal Experimental Design",
+      "link": "https://arxiv.org/abs/2608.21182",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-24T04:00:00.000Z",
+      "excerpt": "arXiv:2608.21182v1 Announce Type: cross Abstract: Flood-monitoring sensors are often placed according to coverage, access, or expected inundation. However, the value of a measurement depends on the prediction or decision…"
+    },
+    {
+      "title": "On the Fr\\'echet interaction density of certain wave equations",
+      "link": "https://arxiv.org/abs/2512.09609",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-24T04:00:00.000Z",
+      "excerpt": "arXiv:2512.09609v2 Announce Type: replace Abstract: We extend the adjoint method to complex-valued PDEs and introduce the \\emph{Fr\\'echet interaction density}, as the most fundamental interaction from which Fr\\'echet sen…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3964: Reversible Electrolyte-Supported Solid Oxide Cells Fabricated by Aqueous Mold-Casting",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3964",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-24T00:00:00.000Z",
+      "excerpt": "Reversible Solid Oxide Cells (rSOCs) are highly efficient energy conversion systems for power generation in fuel cell mode (SOFC) and energy storage in electrolysis mode (SOEC). These devices are typically manufactured t…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3965: A Computation-Oriented Bi-Layer Optimization for EV Scheduling Under Renewable Uncertainties via Information-Gap Decision Theory",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3965",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-24T00:00:00.000Z",
+      "excerpt": "With the rapid penetration of electric vehicles (EVs) and renewable energy generation in distribution networks, the coordinated scheduling of flexible EV loads and uncertain renewable resources has become a critical rese…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 3963: Current-Step-Based Fast Electrochemical Parameter Identification for PEMWE Using a Physics-Informed Neural Network",
       "link": "https://www.mdpi.com/1996-1073/19/17/3963",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-08-24T00:00:00.000Z",
       "excerpt": "Electrochemical parameter identification is crucial for evaluating the electrochemical processes in proton exchange membrane water electrolysis (PEMWE). Conventional characterization techniques-including polarization-cur…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2689: A Multidimensional Comparative Assessment of Diesel and Battery-Electric Shunting Locomotives in In-Plant Railway Operations: A Case Study from the Seza Cement Plant",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2689",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-24T00:00:00.000Z",
+      "excerpt": "This single-site industrial case study compares a leased diesel shunting locomotive with a battery-electric shunting locomotive used for the same class of in-plant railway tasks at the Seza Cement Plant. The evidence bas…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2688: Accelerating Sustainable Hydrogen Production: A Scalable Machine Learning Approach for Predictive Modeling and Performance Assessment of Proton Exchange Membrane Electrolyzers",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2688",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-24T00:00:00.000Z",
+      "excerpt": "This study investigates machine learning techniques for predicting the behavior of proton exchange membrane electrolyzers, which are vital for sustainable hydrogen production. This work addresses these challenges by inte…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3962: Permeability Prediction and Hydraulic Rock Typing of a Heterogeneous Dolomite Reservoir Based on Centrifuge and NMR Data",
@@ -210,22 +282,6 @@
       "category": "energy",
       "published": "2026-08-22T00:00:00.000Z",
       "excerpt": "Grid-forming converters are pivotal for stability support in modern power systems, where their interactive behavior is significantly determined by control parameters. However, prevalent impedance-based analysis is confin…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3953: Dynamic Modeling of Circulating Fluidized Bed Power Plants for Flexible Operation: Progress, Challenges and Future",
-      "link": "https://www.mdpi.com/1996-1073/19/17/3953",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-22T00:00:00.000Z",
-      "excerpt": "The increasing penetration of renewable energy has significantly intensified the demand for flexible operation of thermal power plants, making dynamic simulation an essential tool for understanding transient behaviors an…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 3952: A Levelized Comparison of Low-Load NG RCCI Combustion with Different Pilot Fuels at Constant Combustion Phasing",
-      "link": "https://www.mdpi.com/1996-1073/19/17/3952",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-22T00:00:00.000Z",
-      "excerpt": "Reactivity-controlled compression ignition (RCCI) enhances engine performance while mitigating the diesel soot&amp;ndash;NOx tradeoff. In this work, natural gas (NG) RCCI combustion was investigated on a heavy-duty singl…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2684: Material Degradation Assessment in Hydrogenation Reactors: Multi-Mechanism Coupled Methodology and Application",
@@ -386,22 +442,6 @@
       "category": "geoscience",
       "published": "2026-08-21T03:43:10.000Z",
       "excerpt": "A colossal cliff system created as the supercontinent Rodinia broke apart may have exposed the heart of the Grand Canyon nearly a billion years before the Colorado River carved it. The ancient landscape could also help e…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2677: Hierarchical Sensitivity Analysis of PV Converter Operating Profiles Under Climatic and Grid Uncertainty",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2677",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Photovoltaic converters operate under varying climatic conditions and non-ideal grid regimes, but factor importance is often assessed either through isolated local metrics or through pooled operating data that hide regim…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2676: A Multistage Sufficiency Test for Selecting Energy Performance Indicators in Industry: Beyond R2 Toward the Variable Associated with Significant Energy Use",
-      "link": "https://www.mdpi.com/2227-9717/14/16/2676",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-21T00:00:00.000Z",
-      "excerpt": "Under ISO 50001, energy performance is monitored through Energy Performance Indicators (EnPIs) and energy baselines. In practice, the energy-to-production ratio (kWh/t) is commonly adopted by default and validated solely…"
     },
     {
       "title": "Asia to dominate global butadiene capacity additions by 2030",
@@ -834,46 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Wensong Jia, Xing Li, Mengfan Zhang, Honglin Guo, Yi Xia"
-    },
-    {
-      "title": "Synthesis of superior porous carbon from Canada goldenrod via component regulation coupled with dual-template strategy",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027808?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Suyun Liu, Chen Liu, Yang Wang, Xiaojun Zheng, Shuang Wang, Shan Zhong"
-    },
-    {
-      "title": "Supercritical CO 2 competes with asphaltenes for the interface and weakens the interfacial activity of asphaltenes: A molecular dynamics simulation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027961?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Fujun Sheng, Guangyu Sun, Fei Yang, Chuanxian Li, Bo Yao, Xue Xia"
-    },
-    {
-      "title": "Techno-economic performance of an advanced process for synergistic removal of NO/SO 2 /CO 2 via H 2 O 2 pre-oxidation coupled with ammonia scrubbing",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028097?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Jiaxing Du, Qingqing Liang, Yifan Wang, Hui Xu, Linlin Xu, Yan Liang, Guangying Wang, Lei Bei, Chuanwei Li, Zewei Zhang, Lushi Sun"
-    },
-    {
-      "title": "Mechanistic insights into KOH activation temperature for enhanced electrochemical performance of ammonolysis-pretreated lignite-derived carbon",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028036?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Wei Deng, Linjing Hao, Daoguang Teng, Guixia Fan, Baolin Xing, Hongyan Nan, Peng Li"
-    },
-    {
-      "title": "A novel hydrophobically associating polymer integrating thickening, emulsification and viscosity reduction for enhanced heavy oil recovery",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028206?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Hao Peng, Bei Hu, Zihao Yang, Yiqi Pan, HaoLing Yang, LiCheng Lu, Qi Mao, MeiQin Lin, Zhaoxia Dong"
     }
   ]
 }
