@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T02:11:49.018Z",
+  "generatedAt": "2026-08-26T07:29:24.336Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 12,
+      "count": 4,
       "error": null
     },
     {
@@ -75,6 +75,78 @@
     }
   ],
   "items": [
+    {
+      "title": "Halliburton wins integrated contract from bp for Bumerangue field",
+      "link": "https://www.offshore-technology.com/news/halliburton-integrated-contract-bp-bumerangue/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-08-26T07:22:27.000Z",
+      "excerpt": "Halliburton has secured an integrated contract from BP for the first appraisal campaign in the Bumerangue field, located in deepwater offshore Brazil."
+    },
+    {
+      "title": "Even low-level traffic noise can reduce birdsong's stress-relieving effects",
+      "link": "https://phys.org/news/2026-08-traffic-noise-birdsong-stress-relieving.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-26T05:00:01.000Z",
+      "excerpt": "Traffic noise disrupts recognized benefits of birdsong and other sounds from nature, a new study from the University of Surrey reports."
+    },
+    {
+      "title": "An Evolving Cosmic Shoreline and Sandbar Bounding the Rocky Airless Valley",
+      "link": "https://arxiv.org/abs/2608.23912",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-26T04:00:00.000Z",
+      "excerpt": "arXiv:2608.23912v1 Announce Type: cross Abstract: Recent JWST observations challenge the traditional 'cosmic shoreline' from both sides, revealing thick volatile atmospheres on the hottest close-in 'lava worlds,' where i…"
+    },
+    {
+      "title": "Co-seismic surface fault displacement captured in videos: image tracking across three earthquakes",
+      "link": "https://arxiv.org/abs/2608.19656",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-26T04:00:00.000Z",
+      "excerpt": "arXiv:2608.19656v2 Announce Type: replace Abstract: Surface displacements, including co-seismic fault slip, have occasionally been captured by closed-circuit television (CCTV) cameras. Such video recordings may provide i…"
+    },
+    {
+      "title": "Topology enables learning-based hydrodynamic prediction of the global river system",
+      "link": "https://arxiv.org/abs/2602.22293",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-26T04:00:00.000Z",
+      "excerpt": "arXiv:2602.22293v2 Announce Type: replace-cross Abstract: Accurate river prediction is essential for water, food and energy security, yet remains challenging across entire river networks. Machine learning has transformed…"
+    },
+    {
+      "title": "Interaction between vegetation and Snowball phases in the late Proterozoic Earth",
+      "link": "https://arxiv.org/abs/2603.25321",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-26T04:00:00.000Z",
+      "excerpt": "arXiv:2603.25321v2 Announce Type: replace-cross Abstract: Between 2.4 and 0.6 Gy ago, our planet underwent several episodes of global glaciations, including the Snowball Earth case that ended 635 My ago. Causes of this l…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 3994: Directional Fault-Response Matrices for Multi-Infeed LCC-HVDC Siting",
+      "link": "https://www.mdpi.com/1996-1073/19/17/3994",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-26T00:00:00.000Z",
+      "excerpt": "Multi-infeed LCC-HVDC siting requires a static strength test, a finite-fault propagation assessment, and an auditable rule for selecting the subset of candidates that receives detailed electromagnetic-transient (EMT) eva…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2727: Slip Behavior of Gelled Oil and Restart-Pressure Prediction in High-Water-Cut Inclined Pipelines",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2727",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-26T00:00:00.000Z",
+      "excerpt": "In high-water-cut inclined gathering pipelines, shutdown may lead to blockage due to the flotation and wall slip of gelled crude oil. This study investigates the slip behavior and critical conditions of gelled crude oil…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2726: Research on Virtual Synchronous Machine Control of Air Conditioner Loads Participating in Power Frequency Regulation",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2726",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-26T00:00:00.000Z",
+      "excerpt": "High penetration of renewable energy reduces power-system inertia and increases the need for fast-frequency-support resources. This study proposes an integrated virtual synchronous machine (VSM) control framework for clu…"
+    },
     {
       "title": "Could we protect all western US communities from wildfires and facilitate restoring fire to wildlands within a decade?",
       "link": "https://phys.org/news/2026-08-western-communities-wildfires-wildlands-decade.html",
@@ -172,14 +244,6 @@
       "excerpt": "Scientists may have solved the mystery of why Antarctica froze millions of years before the Arctic. Slow-moving waves deep inside Earth gradually lifted East Antarctica, building mountains and a high plateau where snow a…"
     },
     {
-      "title": "'Wartime situation': Tornado ravages French village",
-      "link": "https://phys.org/news/2026-08-wartime-situation-tornado-ravages-french.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-25T17:10:01.000Z",
-      "excerpt": "A tornado of rare intensity devastated a village in southern France, causing widespread destruction and leaving residents in shock Tuesday, with the mayor describing the aftermath as resembling \"wartime.\""
-    },
-    {
       "title": "Africa to drive global upcoming conventional refineries capacity additions by 2030",
       "link": "https://www.offshore-technology.com/analyst-comment/africa-global-upcoming-conventional-refineries-capacity-2030/",
       "source": "Offshore Technology",
@@ -242,102 +306,6 @@
       "category": "industry",
       "published": "2026-08-25T07:56:26.000Z",
       "excerpt": "The Abu Dhabi National Oil Company (ADNOC) has awarded McDermott an engineering, procurement, construction, and installation (EPCI) contract for Package 4 of the Umm Shaif Integrated Gas Cap and Surface Pressure Boosting…"
-    },
-    {
-      "title": "Simple data fusion from several ocean and atmosphere hindcast models improves surface drifter trajectory prediction",
-      "link": "https://arxiv.org/abs/2608.21875",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2608.21875v1 Announce Type: new Abstract: Simulating the trajectory of surface drifters in the ocean matters for search and rescue, pollution tracking, oil and chemical spill response, and marine risk analysis. Acc…"
-    },
-    {
-      "title": "Basin-Scale Modeling of Multiple Storage Projects in the Broom Creek Formation, North Dakota, USA: Unified Model and Uncertainty Quantification",
-      "link": "https://arxiv.org/abs/2608.22163",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2608.22163v1 Announce Type: new Abstract: Quantifying the interactions between neighboring projects will be essential as carbon storage operations expand in scale. However, many existing basin-scale studies are det…"
-    },
-    {
-      "title": "The spatial anatomy of urban wildfire vulnerability: a spatially validated GeoAI framework reveals the roles of building density and vegetation moisture in structure loss during the 2025 Palisades Fire",
-      "link": "https://arxiv.org/abs/2608.22293",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2608.22293v1 Announce Type: new Abstract: Urban wildfire resilience depends on interactions among built form, vegetation condition, and extreme fire weather, yet city-scale risk models often overlook whether predic…"
-    },
-    {
-      "title": "A scalable Bayesian framework for modern sea-level inference",
-      "link": "https://arxiv.org/abs/2608.22336",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2608.22336v1 Announce Type: new Abstract: This paper presents a scalable Bayesian framework for the inference of modern-day sea-level change and surface mass redistribution. To motivate this approach, we first revi…"
-    },
-    {
-      "title": "A 3D VTI factored eikonal solver using six-tetrahedron pyramidal stencil",
-      "link": "https://arxiv.org/abs/2608.22949",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2608.22949v1 Announce Type: new Abstract: Accurate traveltime computation for the eikonal equation is essential in seismic applications such as tomography and migration. The fast sweeping method (FSM) is widely use…"
-    },
-    {
-      "title": "Rapid Earthquake-to-Tsunami Waveform Generation via Large-Scale Multi-GPU FFT Convolution Applied to the Cascadia Subduction Zone",
-      "link": "https://arxiv.org/abs/2608.21763",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2608.21763v1 Announce Type: cross Abstract: Data-driven methods for earthquake and tsunami early warning rely on large ensembles of rupture scenarios and their resulting waveforms, but generating such datasets with…"
-    },
-    {
-      "title": "Tracing the Unlabeled Storm: Cross-Variable Transfer in a Lagrangian Atmospheric JEPA Framework",
-      "link": "https://arxiv.org/abs/2608.22358",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2608.22358v1 Announce Type: cross Abstract: Deep atmospheric convection governs South Asian monsoon variability, yet attempting to learn its latent world model directly from zero-inflated, heavy-tailed precipitatio…"
-    },
-    {
-      "title": "Noise Effects on Ordinal Pattern Statistics via Majorization",
-      "link": "https://arxiv.org/abs/2608.22463",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2608.22463v1 Announce Type: cross Abstract: The Bandt-Pompe permutation entropy framework, alongside the complexity-entropy causality plane, has become a standard tool for characterizing the dynamical properties of…"
-    },
-    {
-      "title": "Quantum observables as Fr\\'echet sensitivity kernels",
-      "link": "https://arxiv.org/abs/2608.23191",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2608.23191v1 Announce Type: cross Abstract: We present a variational--adjoint interpretation of quantum mechanics in which the interaction between forward and adjoint wavefunctions defines a general sensitivity ker…"
-    },
-    {
-      "title": "Physically-based dimensionless features for pluvial flood mapping with machine learning",
-      "link": "https://arxiv.org/abs/2211.00636",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2211.00636v4 Announce Type: replace Abstract: Rapid delineation of flash flood extents is critical to mobilize emergency resources and to manage evacuations, thereby saving lives and property. Machine learning (ML)…"
-    },
-    {
-      "title": "Time-Resolved Surface-Fault Displacement During the 2026 Kumamoto Earthquake From Near-Fault Video",
-      "link": "https://arxiv.org/abs/2608.21045",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2608.21045v2 Announce Type: replace Abstract: Video recordings can reveal how rapidly fault displacement develops at the Earth's surface, but camera motion and recording artifacts can obscure the ground signal. We…"
-    },
-    {
-      "title": "Verification of a sequential thermo-poroelasticity formulation in PFLOTRAN",
-      "link": "https://arxiv.org/abs/2607.01156",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-25T04:00:00.000Z",
-      "excerpt": "arXiv:2607.01156v3 Announce Type: replace-cross Abstract: We present the verification of a thermo--hydrologic--mechanical capability implemented within the PFLOTRAN framework, with emphasis on benchmark-based assessment…"
     },
     {
       "title": "Energies, Vol. 19, Pages 3993: Genetic-Algorithm-Based Approach for Wind Turbine Foundation Optimisation",
@@ -428,14 +396,6 @@
       "excerpt": "The complexity of voltage stability assessment in modern smart grids has increased significantly with the growing penetration of renewable energy sources and the dynamic nature of load variations. Although standard analy…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 3982: Distributed Generation Integration in Honduras: Regulatory Gaps, Tariff Challenges, and the Role of DERMS",
-      "link": "https://www.mdpi.com/1996-1073/19/17/3982",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-25T00:00:00.000Z",
-      "excerpt": "Distributed generation (DG) is reshaping distribution networks through bidirectional power flows, operational variability, and dependence on coordinated regulation, pricing, and control. This paper examines how regulator…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2725: Particle Migration Behavior of Coal Gasification Fine Slag During Spiral Chute Separation",
       "link": "https://www.mdpi.com/2227-9717/14/17/2725",
       "source": "Processes (MDPI)",
@@ -516,22 +476,6 @@
       "excerpt": "During CO2 flooding, unfavorable mobility ratios and interlayer heterogeneity can induce preferential flow through high-permeability intervals, leaving central low-permeability intervals insufficiently swept and rich in…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2715: Influence of Geometric Parameters on Hybrid Darrieus&ndash;Savonius Hydrokinetic Turbine Performance: A CFD and Experimental Study",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2715",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-25T00:00:00.000Z",
-      "excerpt": "Reliable electricity supply in Colombia&amp;rsquo;s Non-Interconnected Zones requires sustainable and low-cost energy technologies. Vertical-axis hydrokinetic turbines are promising for this purpose; however, their relat…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2714: A Data-Driven EWMA-KNN Run-to-Run Controller for Drift-Dominant Processes with Application to Chemical Mechanical Planarization",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2714",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-25T00:00:00.000Z",
-      "excerpt": "This paper presents a data-driven run-to-run (R2R) controller for manufacturing processes subject to process drift. The proposed approach combines the exponentially weighted moving average (EWMA) method with the K-neares…"
-    },
-    {
       "title": "Jade Gas submits TTCBM development plan in Mongolia",
       "link": "https://www.offshore-technology.com/news/jade-gas-submits-ttcbm-development-plan-in-mongolia/",
       "source": "Offshore Technology",
@@ -546,14 +490,6 @@
       "category": "industry",
       "published": "2026-08-24T10:45:02.000Z",
       "excerpt": "The Middle East is expected to remain a key centre for global gas processing capacity additions through 2030."
-    },
-    {
-      "title": "Iran reports discovery of 7.5tcf of natural gas reserves in Fars province",
-      "link": "https://www.offshore-technology.com/news/iran-discovery-natural-gas-reserves-fars-province/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-24T09:57:10.000Z",
-      "excerpt": "Iran has discovered more than 7.5 trillion cubic feet (tcf) of natural gas in the southern province of Fars, Oil Minister Mohsen Paknejad claimed on state television, Bloomberg reported."
     },
     {
       "title": "A lost mega-cliff may explain the Grand Canyon’s missing billion years",
@@ -874,6 +810,70 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Huiying Tang, Zhicheng Wen, Liehui Zhang, Junsheng Zeng, Xiao He, Jianfa Wu, Jian Zheng"
+    },
+    {
+      "title": "Lithofacies analysis and paleosedimentary evolution of Taiyuan Formation in Southern North China Basin",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009792?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Yanxia Peng, Shaobin Guo"
+    },
+    {
+      "title": "Evaluation of hematite and Micromax-based cement systems for high- density well cementing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009779?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Abdulmalek Ahmed, Ahmed Abdelaal, Salaheldin Elkatatny"
+    },
+    {
+      "title": "Dynamic effect of gas initial desorption in coals with different moisture contents and energy-controlling mechanism for outburst prevention of water injection in coal seams",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011226?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
+    },
+    {
+      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Effect of intermediate principal stress on CO 2 –water two-phase flow in a tight sandstone",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027717?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Wensong Jia, Xing Li, Mengfan Zhang, Honglin Guo, Yi Xia"
+    },
+    {
+      "title": "Energy input: The physical essence of electrorheological structural behaviors in waxy crude oil",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028346?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Fuel, Volume 429, Part E Author(s): Hongying Li, Chaoyue Zhang, Jiabao Kang, Yiwei Xie, Qibing Li, Yang Su, Quande Li, Yichen Wei, Jinjun Zhang"
     }
   ]
 }
