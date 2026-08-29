@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T22:36:06.812Z",
+  "generatedAt": "2026-08-29T07:19:47.292Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 4,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,78 @@
     }
   ],
   "items": [
+    {
+      "title": "Many cities buried urban streams. Here's how to bring them back",
+      "link": "https://phys.org/news/2026-08-cities-urban-streams.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-29T02:40:04.000Z",
+      "excerpt": "As many cities developed, streams that once flowed on the surface were buried underground to make way for growing infrastructure. However, as heavier rainfall, extreme weather and aging infrastructure place growing press…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4060: Low-Carbon Economic Dispatch of Integrated Energy Systems Considering Carbon Capture Decoupling and V2G Collaboration",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4060",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-29T00:00:00.000Z",
+      "excerpt": "High wind-power penetration increases balancing requirements in integrated energy systems (IESs), while solvent-storage-assisted carbon capture power plants (CCPPs) and electric vehicle (EV) aggregators provide complemen…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4058: Spectral Attribution of Electromagnetically Induced Stator Vibration in a Hydro-Generator",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4058",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-29T00:00:00.000Z",
+      "excerpt": "Electromagnetic force is an important excitation source of stator-core vibration in hydro-generators. The methodological novelty of this study lies in an order-specific spectral-attribution framework for electromagnetica…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4059: Modeling, Optimization and Experimental Investigation of Heat Exchangers for Power Plants",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4059",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-29T00:00:00.000Z",
+      "excerpt": "Contemporary energy systems face the need to increase the efficiency of energy conversion and utilization while simultaneously reducing energy losses, as well as the size and weight of equipment [...]"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2775: Mass Transfer in Electro-Catalytic Ozonation: Quantitative Insights for Reactor Design",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2775",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-29T00:00:00.000Z",
+      "excerpt": "Electro-catalytic ozonation (ECO) achieves exceptional pollutant removal, yet the mass transfer limitations governing ozone delivery remain poorly characterized. This study presents the first systematic evaluation of ozo…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2774: Cross-Seasonal Optimal Dispatch of a Wind&ndash;Photovoltaic Hybrid Pumped-Storage Multi-Energy Complementary System",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2774",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-29T00:00:00.000Z",
+      "excerpt": "A hybrid pumped-storage power station (hereinafter referred to as the &amp;ldquo;hybrid station&amp;rdquo;) is developed by installing reversible pump&amp;ndash;turbine units between cascade reservoirs, providing both co…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2773: Multi-Attribute Clustering for Volcanic Facies Analysis: A Case Study in Block A12, Songliao Basin, China",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2773",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-29T00:00:00.000Z",
+      "excerpt": "Volcanic reservoirs exhibit strong lithological heterogeneity and complex seismic responses, making lithofacies prediction between wells challenging, particularly in the Yingcheng Formation of the Songliao Basin. To addr…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2772: Structural Optimization of the Connecting Ring Between the Front and Rear Chambers of an Aero-Engine Test Chamber",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2772",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-29T00:00:00.000Z",
+      "excerpt": "An aero-engine test chamber is a critical facility for aero-engine high-altitude simulation testing, and its structural strength, thermal-deformation compatibility, and axial stability directly affect the safety and reli…"
+    },
+    {
+      "title": "Climate policy could learn from people who already live within the limits of sufficiency",
+      "link": "https://phys.org/news/2026-08-climate-policy-people-limits-sufficiency.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-28T23:40:01.000Z",
+      "excerpt": "Tina Nyfors, who recently defended her doctoral thesis at the University of Helsinki, studied sufficiency, a way of living and a principle for organizing society to stay within environmental limits while ensuring that pe…"
+    },
     {
       "title": "Galápagos corals show El Niño events are more extreme now than in past 1,000 years",
       "link": "https://phys.org/news/2026-08-galpagos-corals-el-nio-events.html",
@@ -156,22 +228,6 @@
       "excerpt": "Have you ever wondered what your Melbourne suburb looked like before all the streets and houses?"
     },
     {
-      "title": "Engineered bacteria offer a new way to accelerate rock weathering for carbon removal",
-      "link": "https://phys.org/news/2026-08-bacteria-weathering-carbon.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-28T14:20:01.000Z",
-      "excerpt": "Rock weathering, the breakdown and dissolving of rocks and minerals caused by their exposure to water, air and biological life, is a major regulator of Earth's atmospheric CO2 levels and climate. Throughout Earth's histo…"
-    },
-    {
-      "title": "'Damaging the Antarctic damages us all'—scientists warn of the potential impacts of coastal freshening",
-      "link": "https://phys.org/news/2026-08-antarctic-scientists-potential-impacts-coastal.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-28T11:20:02.000Z",
-      "excerpt": "Many of Antarctica's smallest inhabitants have evolved over millions of years so that their body fluids are similar in chemical composition to those of seawater. However, a combination of melting glaciers, increased rain…"
-    },
-    {
       "title": "Energean plans to buy bp’s Egyptian oil and gas assets for $1bn",
       "link": "https://www.offshore-technology.com/news/energean-buy-bps-egyptian-oil-gas-assets-1bn/",
       "source": "Offshore Technology",
@@ -194,38 +250,6 @@
       "category": "industry",
       "published": "2026-08-28T07:49:37.000Z",
       "excerpt": "Enbridge and KKR have agreed to form a joint venture (JV) that will provide funding for the Aspen Point and Sunrise Expansion Programmes of the Westcoast natural gas pipeline system in British Columbia (BC), Canada."
-    },
-    {
-      "title": "Global Prevalence of Anti-similar Earthquakes at Intermediate Depth",
-      "link": "https://arxiv.org/abs/2608.26448",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-28T04:00:00.000Z",
-      "excerpt": "arXiv:2608.26448v1 Announce Type: new Abstract: Anti-similar earthquakes, those with nearly identical but flipped waveforms, remain an uncommon observation. We document three locations where these events occur at interme…"
-    },
-    {
-      "title": "Quantifying the effects of nickel on Earth's inner-core nucleation",
-      "link": "https://arxiv.org/abs/2608.27139",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-28T04:00:00.000Z",
-      "excerpt": "arXiv:2608.27139v1 Announce Type: new Abstract: The formation of Earth's solid inner core marks a major transition in the thermal and chemical evolution of the deep Earth, yet its origin remains paradoxical, as initial n…"
-    },
-    {
-      "title": "Effects of microstructural heterogeneity on the macroscopic spectrum of elastically accommodated grain-boundary sliding",
-      "link": "https://arxiv.org/abs/2606.12090",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-28T04:00:00.000Z",
-      "excerpt": "arXiv:2606.12090v2 Announce Type: replace Abstract: Elastically accommodated grain-boundary sliding (EAGBS) is a plausible source of upper-mantle seismic attenuation and dispersion, yet classical theory predicts a locali…"
-    },
-    {
-      "title": "Learning and retrieval for warm-starting charge-self-consistent DFT+DMFT",
-      "link": "https://arxiv.org/abs/2512.25061",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-28T04:00:00.000Z",
-      "excerpt": "arXiv:2512.25061v4 Announce Type: replace-cross Abstract: Charge-self-consistent (CSC) DFT+DMFT delivers quantitative correlated-electron physics one configuration at a time, making ensemble sampling dependent on reliabl…"
     },
     {
       "title": "Scientists find a huge hidden ice reservoir beneath Utah’s mountains",
@@ -308,30 +332,6 @@
       "excerpt": "Artificial intelligence (AI) is transforming lithium-ion battery (LIB) research by linking heterogeneous data, predictive modeling, mechanistic interpretation, and experimental validation within a closed-loop paradigm. A…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4049: Robust Planning of Battery&ndash;Hydrogen Hybrid Energy Storage Under Heatwave-Induced Source&ndash;Load Uncertainty",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4049",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-28T00:00:00.000Z",
-      "excerpt": "Extreme heat events can cause sustained load growth, reduced renewable power output, and increased source&amp;ndash;load uncertainty, posing challenges to supply&amp;ndash;demand balance in power systems with high renewa…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4048: Strategic Management of Airport Readiness for Digital-Twin-Enabled Smart-Energy Systems: A Reliability-Aware Bayesian Decision Framework",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4048",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-28T00:00:00.000Z",
-      "excerpt": "Airports face growing pressure to decarbonize energy-intensive infrastructure while integrating digital twins, artificial intelligence, real-time monitoring, electrification, renewable-energy systems, and resilient opera…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4046: Power-Sharing Control Strategy for an Open-End Winding Dual-Inverter Photovoltaic&ndash;Energy Storage System Based on Decoupled Modulation",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4046",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-28T00:00:00.000Z",
-      "excerpt": "The open-winding dual inverter topology has the advantages of a multilevel output, high DC voltage utilization, large modulation freedom, and easy fault tolerance, and is widely used in photovoltaic grid-connected system…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2771: Distributionally Robust Optimization Configuration of Microgrid Hybrid Energy Storage Based on Reliability",
       "link": "https://www.mdpi.com/2227-9717/14/17/2771",
       "source": "Processes (MDPI)",
@@ -394,38 +394,6 @@
       "category": "processing",
       "published": "2026-08-28T00:00:00.000Z",
       "excerpt": "Five pathways&amp;mdash;diesel, renewable hydrogen, green ammonia, Fischer&amp;ndash;Tropsch e-diesel, and B100 waste cooking oil fatty acid methyl ester (WCO-FAME)&amp;mdash;were compared on a common service basis using…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2763: Simulation and Economic Assessment of Citrus Waste Valorization Through Supercritical CO2 Extraction of Essential Oils",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2763",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-28T00:00:00.000Z",
-      "excerpt": "In this work we present an integrated market, experimental, technical and economic approach to citrus waste valorization based on the extraction of essential oils from orange, lemon, lime and tangerine peels using superc…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2762: Dynamic Modeling and Operational Parameter Optimization of a Bidirectional Eccentric Reaming Tool in the While-Drilling Reaming Process",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2762",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-28T00:00:00.000Z",
-      "excerpt": "Eccentric reaming tools are widely integrated into bottom-hole assemblies during while-drilling reaming operations to improve borehole quality and enhance drilling-assembly passability. However, their eccentric geometry…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2761: Numerical Study on Drilling Fluid Loss in Fracture&ndash;Vuggy Formations Considering Multi-Medium Fluid&ndash;Solid Coupling",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2761",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-28T00:00:00.000Z",
-      "excerpt": "Structural fractures and karst cavities are widely developed in deep and ultra-deep carbonate reservoirs, providing preferential pathways for rapid fluid migration while increasing the risk of severe drilling fluid loss.…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2760: Fast Generation of Feasible Unit Commitment Schedules Based on Standardized Net-Load Trajectory Similarity and Historical Schedule Transfer",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2760",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-28T00:00:00.000Z",
-      "excerpt": "High penetration of wind and photovoltaic generation reshapes power system net-load profiles and increases the computational burden of repeatedly solving security-constrained unit commitment problems under multiple renew…"
     },
     {
       "title": "TotalEnergies exits Arctic LNG 2 with 10% stake sale to NordLine",
@@ -874,6 +842,38 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Zechuan Cui, Zhanpeng Wang, Shuo Yin, Yuantao Yu, Mingyuan Ye, Jiangping Tian"
+    },
+    {
+      "title": "Molecular architecture and microporous structure of low mature lacustrine kerogen: A multi-parameter modeling of the Triassic Yanchang Formation, Ordos Basin",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028656?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Yinhai Song, Meijun Li, Xiaoqiang Liu, Xia Luo, Qingyong Luo, Qingbin Xie, Haochen Chen, Zhihao Wang"
+    },
+    {
+      "title": "Development of structural correlations and predictive models for NH 3 emission in an amine-based post-combustion CO 2 capture process",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028966?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Pailin Muchan, Pichaya Jandokmai, Jedsadaporn Jinasena, Teeradet Supap, Jessica Narku-Tetteh, Supranee Lisawadi, Patchanok Srisuradetchai, Raphael…"
+    },
+    {
+      "title": "Symbiotic effects of high-pressure acid etching on the oxidation characteristics of coal during coal-and-gas co-mining",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028681?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Lin Li, Xinyi Chen, Xiangjun Chen, Jishan Liu, Jie Zeng, Chao Pan, Furu Kang, Junwei Yuan, Yunfei Du"
+    },
+    {
+      "title": "Experimental investigation of ignition energy effects on lean hydrogen flame kernel development and propagation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028747?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Xiao-wei Sun, Bai-gang Sun, Ling-zhi Bao, Qing-he Luo, Long Hu"
     }
   ]
 }
