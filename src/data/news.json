@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T21:10:04.051Z",
+  "generatedAt": "2026-08-30T05:45:28.407Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 4075: Bess Model for Composite Reliability Assessment by Non-Sequential Monte Carlo Simulation Based on Historic or Synthetic Data",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4075",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Battery Energy Storage System (BESS) models for reliability evaluation, as well as other power system simulation studies, are typically characterized by two key variables: State of Charge (SOC), representing the stored e…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2783: Electrochemical Corrosion Mechanisms of Reinforcement in Subway Shield Tunnels Under Coupled Sulfate Corrosion and Stray Current Effects",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2783",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Shield tunnels are the primary structural form of subway tunnels. Under the influence of sulfate ions and stray currents, the internal bars in shield tunnels will corrode rapidly, affecting the safe operation of the subw…"
+    },
     {
       "title": "Takeaway cups may be releasing microplastics into your coffee",
       "link": "https://phys.org/news/2026-08-takeaway-cups-microplastics-coffee.html",
@@ -186,14 +202,6 @@
       "category": "energy",
       "published": "2026-08-29T00:00:00.000Z",
       "excerpt": "With the increasing penetration of distributed generation, electric vehicles and single-phase loads in the low-voltage distribution network, flexible interconnected systems face more prominent three-phase unbalance and d…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4064: A Hybrid Microchannel Heat Sink Featuring Micro Pin-Fins with Secondary Channels for Hotspot Suppression",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4064",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "Non-uniform heat flux in high-power electronic devices can induce local hotspots. To address hotspot thermal management, a hybrid microchannel heat sink featuring micro pin-fins with secondary channels (MPSCs) is propose…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2782: Hydrothermal Geothermal Systems: Progress in Multi-Field Coupled Numerical Simulation",
@@ -394,14 +402,6 @@
       "category": "geoscience",
       "published": "2026-08-28T03:48:29.000Z",
       "excerpt": "Beneath the rocky slopes of Mount Timpanogos lies far more ice than anyone walking across the surface might suspect. Researchers used gravity measurements to map the buried glacier in 3D and found it is about 83% ice, wi…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2771: Distributionally Robust Optimization Configuration of Microgrid Hybrid Energy Storage Based on Reliability",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2771",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-28T00:00:00.000Z",
-      "excerpt": "To improve the reliability of microgrid operation and the capability for off-grid autonomous operation, this study proposes a robust reliability-based optimal configuration method for microgrid hybrid energy storage syst…"
     },
     {
       "title": "TotalEnergies exits Arctic LNG 2 with 10% stake sale to NordLine",
