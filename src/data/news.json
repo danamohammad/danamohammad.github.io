@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T12:11:25.141Z",
+  "generatedAt": "2026-08-30T16:56:45.893Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,46 @@
   ],
   "items": [
     {
+      "title": "Tropical Storm Karina strengthens into a hurricane in the Pacific, could be a major storm this week",
+      "link": "https://phys.org/news/2026-08-tropical-storm-karina-hurricane-pacific.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-08-30T15:40:01.000Z",
+      "excerpt": "Tropical Storm Karina strengthened into a hurricane in the Pacific Ocean on Sunday and could become a major storm this week, forecasters said. The cyclone's center was at far out sea and was not threatening land."
+    },
+    {
+      "title": "The next Cascadia megaquake could hit Oregon harder than expected",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082350.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-08-30T04:12:10.000Z",
+      "excerpt": "The Juan de Fuca plate beneath northern Oregon appears to be shallower than previously estimated, potentially making shaking from a future Cascadia megathrust earthquake significantly stronger. Scientists also found a de…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4088: A Distributed Photovoltaic Power Forecasting Method Assisted by Satellite Cloud Imagery",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4088",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Owing to their geographical dispersion and high deployment costs, distributed photovoltaic (DPV) stations often lack access to high-precision meteorological data, which degrades power forecasting accuracy and threatens g…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4087: Machine Learning-Based Anomaly Detection in Hydrogen Fuel Cells: A Path Toward Sustainable and Reliable Energy Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4087",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "To encourage the use of hydrogen energy and improve the dependability of hydrogen fuel cells, this study develops a two-stage semi-supervised framework for anomaly pattern discovery and codification. Isolation Forest, On…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4086: Multi-Time-Scale Cloud&ndash;Edge&ndash;Terminal Energy Management of an Electricity&ndash;Hydrogen&ndash;Thermal System for Rail Transit Hub Non-Traction Loads",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4086",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Rail stations have non-traction electricity and heat demands, requiring coordinated renewable generation, storage, and conversion. We develop a cloud&amp;ndash;edge&amp;ndash;terminal energy-management framework for an e…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4085: Effect of Operating Void Fraction on Wall-Deposited Decay Heat in the Main Loop of a Molten Salt Reactor",
       "link": "https://www.mdpi.com/1996-1073/19/17/4085",
       "source": "Energies (MDPI)",
@@ -148,20 +188,20 @@
       "excerpt": "Fish processing and aquaculture wastes are protein- and lipid-rich by-products that can be used to produce renewable energy. However, evidence on their anaerobic valorization is limited. This bibliometric and systematic…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4076: Optimal Scheduling of Photovoltaic&ndash;Storage&ndash;Charging Integrated Stations Based on a PriceSOC-Guided Initialization Particle Swarm Optimization Algorithm",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4076",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2789: Projection-Iterative-Method-Based Coordinated Power Control for Renewable-Rich Islanded Microgrids",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2789",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-30T00:00:00.000Z",
-      "excerpt": "Against the backdrop of the &amp;ldquo;dual-carbon&amp;rdquo; strategy (carbon peaking and carbon neutrality), countries worldwide are committed to advancing the application of new energy in the transportation sector. Th…"
+      "excerpt": "High renewable-energy penetration introduces rapid source-load variations and operating uncertainties into islanded microgrids, challenging conventional droop control in terms of dynamic frequency/voltage regulation and…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4075: Bess Model for Composite Reliability Assessment by Non-Sequential Monte Carlo Simulation Based on Historic or Synthetic Data",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4075",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2788: Optimization Inversion of Pseudo-NMR Echo Derived from Imaging Logging and New Porosity Calculation Using Support Vector Machine",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2788",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-08-30T00:00:00.000Z",
-      "excerpt": "Battery Energy Storage System (BESS) models for reliability evaluation, as well as other power system simulation studies, are typically characterized by two key variables: State of Charge (SOC), representing the stored e…"
+      "excerpt": "Due to the complex pore structure and strong heterogeneity of carbonate reservoirs, accurately characterizing reservoir properties remains a major challenge. Electrical imaging logs and nuclear magnetic resonance (NMR) l…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2787: Adaptive Seamless Switching Strategy Considering Current Limiting for Renewable Energy Converters Based on PCC Condition Awareness",
@@ -228,14 +268,6 @@
       "excerpt": "As many cities developed, streams that once flowed on the surface were buried underground to make way for growing infrastructure. However, as heavier rainfall, extreme weather and aging infrastructure place growing press…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4074: Field-Validated Probabilistic Digital Twin of a Shipboard Microgrid for Reliability-Oriented Operation: Applications to Hybrid and Unmanned Vessels",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4074",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "The transition toward unmanned and hybrid vessels increases the requirements for diagnosability and continuity of power supply to critical consumers under physical and information-layer faults. The aim of this study is t…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2782: Hydrothermal Geothermal Systems: Progress in Multi-Field Coupled Numerical Simulation",
       "link": "https://www.mdpi.com/2227-9717/14/17/2782",
       "source": "Processes (MDPI)",
@@ -274,22 +306,6 @@
       "category": "processing",
       "published": "2026-08-29T00:00:00.000Z",
       "excerpt": "Soy protein, apple fiber, and corn starch are widely used functional ingredients, yet their combined effects on food matrix properties remain poorly characterized. A D-optimal mixture design (16 runs) was used to evaluat…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2778: 3D CFD Simulation of a H-Darrieus Turbine with Variable Pitch: A Quantitative Vorticity Analysis",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2778",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "Vortices and dynamic stall play a critical role in the performance of vertical-axis wind turbines, often leading to significant energy losses. Active and passive control strategies can be employed to delay the dynamic st…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2776: Numerical Investigation of Gas Dispersion, Drag-Coefficient Distribution, and Mixing Performance in a Rushton-Turbine Stirred Tank Using a Euler&ndash;Euler Model",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2776",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "Gas dispersion and liquid circulation are critical factors governing the performance of gas&amp;ndash;liquid stirred tanks, yet the coupled effects of operating conditions and impeller geometry on hydrodynamic behavior r…"
     },
     {
       "title": "Climate policy could learn from people who already live within the limits of sufficiency",
@@ -362,14 +378,6 @@
       "category": "geoscience",
       "published": "2026-08-28T15:20:01.000Z",
       "excerpt": "Even as rescuers worked through mud and debris Friday in areas devastated by a catastrophic flash flood along the Himalayan border between Nepal and China, authorities warned that a newly formed, overflowing lake could t…"
-    },
-    {
-      "title": "Nepal's devastating floods reveal the danger of 'cascading hazards' in Himalayas",
-      "link": "https://phys.org/news/2026-08-nepal-devastating-reveal-danger-cascading.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-28T14:40:04.000Z",
-      "excerpt": "The devastating floods that have swept through the Nepal–Tibet border region are first and foremost a human tragedy. Hundreds of people have died or remain missing. But as scientists begin to reconstruct what happened, t…"
     },
     {
       "title": "Energean plans to buy bp’s Egyptian oil and gas assets for $1bn",
@@ -596,14 +604,6 @@
       "excerpt": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal s…"
     },
     {
-      "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214628.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-07-29T04:14:05.000Z",
-      "excerpt": "Deep beneath submarine volcanoes, Earth may be running a natural “gold kitchen.” By analyzing volcanic glass from the Kermadec island arc north of New Zealand, researchers found that water-rich mantle repeatedly melts be…"
-    },
-    {
       "title": "This electric field trick boosted heat flow by nearly 300%",
       "link": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -668,6 +668,22 @@
       "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Grant Charles Mwakipunda, Shiying Guo, Xiubin Wang, Junwei Huang, Jinyu Tang, Riyadh I. Al-Raoush"
     },
     {
+      "title": "Deep learning-based super-resolution prediction of CO 2 migration dynamics in saline aquifers from coarse-scale simulation data",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026003404?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Abir H. Bhuiyan, Zhen Qin, Jodel Cornelio, Harun Ates, Behnam Jafarpour"
+    },
+    {
+      "title": "A study on liquid CO 2 jet erosion mechanism in hydrate-bearing sediments",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004173?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Xiao Hu, Yiqun Zhang, Youkeren An, Xiaoya Wu, Haochen Huang, Haizhu Wang"
+    },
+    {
       "title": "Influences of temperature and pressure-dependent water thermal properties on the performances of deep borehole heat exchanger",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004227?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -714,22 +730,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Deni S. Pratama, Cindy Dianita, Ardian Nengkoda, Muhammad Luthfi, Andi Mardianza, Nadhilah Reyseliani, Rahma Muthia, Benjap…"
-    },
-    {
-      "title": "Predicting nanoconfined natural gas density using machine learning and a new correlation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004070?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Almat Saginbayev, Ming Ma, Hamid Emami-Meybodi"
-    },
-    {
-      "title": "Preparation and mechanism study of a novel LDHs-based cement stone corrosion inhibitor against H 2 S acid gas",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004185?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Kaiyuan Mei, Xuefeng Liang, Jiaojiao Cai, Ran An, Minhui He, Chunmei Zhang, Xiaowei Cheng"
     },
     {
       "title": "A review of vertical closed-loop geothermal heating and cooling systems with an Emphasis on the importance of the subsurface",
@@ -828,52 +828,52 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
-      "title": "Biomass-based micro-nano combustion promoter for enhanced oil recovery and carbon oxide emission reduction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028838?dgcid=rss_sd_all",
+      "title": "A theoretical and modeling study on the NH 2 , NO, and NO 2 -initiated H-abstraction mechanism in NH 3 /acetone and NH 3 /2-butanone combustion",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029145?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Ying Yang, Renbao Zhao, Haitao Ren, Yizhen Zhao, Jiyang Liu"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Jinsheng Zhang, Tong Yan, Pan Wang, Jianmin Liu, Lidong Zhang, Lili Lei"
     },
     {
-      "title": "Revealing the thermal runaway characteristics of confined HMX-based aluminized explosives in aqueous environments of varying pH",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028693?dgcid=rss_sd_all",
+      "title": "Alkaline-thermal and enzymatic pretreatment of PLA/PBAT plastics boosts methane production from anaerobic co-digestion with food waste",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029066?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Gang Li, Zhiyuan Jin, Qian Yu, Jie Chen, Fang Yang, Jie Zhou, Yu Liu, Chuande Zhao"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Jue Wang, Lang Chen, Yuxuan Xie, Hailin Shao, Pan Wang, Xingyao Meng, Lianhai Ren"
     },
     {
-      "title": "Study on swirl combustion characteristics of iron particles in a thermal atmosphere generated by methane combustion",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602867X?dgcid=rss_sd_all",
+      "title": "Multiscale elucidation of the crystallization-condensation competition in CO 2 -alkane systems for pressurized liquefied natural gas technology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028930?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Yilan Yang, Kaijie Li, Yanyan Gao, Qianqian Li, Xiao Cai, Jinhua Wang, Zuohua Huang"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Shanlin Du, Weijie Cai, Zhaoxi Wang, Guodong Qiu, Qian Li, Wentao Wu, Weihua Cai"
     },
     {
-      "title": "Increasing solid holdup and de-clustering in downer reactors by counter-current operation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028644?dgcid=rss_sd_all",
+      "title": "Phenol hydrodeoxygenation and descriptor based on TM@Mo 2 C single-atom catalysts",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029030?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Talal A. Aldugman, Mengmeng Cui, Salman Aldossary, D.Krishna Raja, Andres A. Aguirre-Pablo, Lujain Alfilfil, Khalid Almajnouni, Jorge Gascon, S.T.…"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Jiehang Wei, Shouqin Mu, Wenjuan Wang, Yuxin Xu, Mengjia Fu, Yingtao Liu, Xin Wang"
     },
     {
-      "title": "Predicting bio-oil yield from hydrothermal liquefaction of lignocellulosic biomass: machine learning approach and uncertainty propagation via joint bootstrap Monte Carlo",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028462?dgcid=rss_sd_all",
+      "title": "Selective catalytic removal of carbon monoxide from ethylene-containing model pyrolysis gas streams",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028784?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Oraléou Sangué Djandja, Yulin Hu, Yimin Zeng, Quan Sophia He"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Aleksi Vartiainen, Ville Nikkanen, Pekka Simell, Michal Jeremiáš"
     },
     {
-      "title": "Experimental investigation of tribological and thermal characteristics of developed fuel-efficient engine oil using Al 2 O 3 nanomaterial as an additive in CK4 10W-30 engine oil",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602819X?dgcid=rss_sd_all",
+      "title": "Experimental investigation of combustion instabilities in a hydrogen direct-injection dual-swirl combustor",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028486?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Kamla Kant, R.C. Singh, S. Maji"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Ranran Xue, Wu Gu, Qian Yang, Xiao Liu, Xin Hui"
     }
   ]
 }
