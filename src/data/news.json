@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T05:45:28.407Z",
+  "generatedAt": "2026-08-30T12:11:25.141Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,12 +76,124 @@
   ],
   "items": [
     {
+      "title": "Energies, Vol. 19, Pages 4085: Effect of Operating Void Fraction on Wall-Deposited Decay Heat in the Main Loop of a Molten Salt Reactor",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4085",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "In molten salt reactors, multiphase transport of fission products produces nonuniform nuclide inventories throughout the primary loop, thereby affecting subsequent decay heat evolution. Although fission product transport…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4083: Structural Weak-Point Identification and Strength Assessment of a 15 MW Semi-Submersible Floating Offshore Wind Turbine Under Representative Stages of Typhoon Evolution",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4083",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Conventional typhoon-resistant assessments of floating offshore wind turbines commonly adopt a single stationary extreme environmental condition, although wind and wave characteristics vary substantially among different…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4084: Digital Outcrop Modeling and Structural Characterization of Continental Shale Reservoirs: A Case Study of the Gulong Shale, Songliao Basin, China",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4084",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Continental shale reservoirs exhibit pronounced multi-scale heterogeneity, with reservoir quality governed by the interplay of lamina assemblages, bedding continuity, and lithological spatial variability. Conventional di…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4081: Research on Short-Term Photovoltaic Power Forecasting Based on ICEEMDAN&ndash;BiLSTM&ndash;Attention&ndash;IMSO",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4081",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Short-term photovoltaic (PV) power forecasting faces challenges from strong randomness and non-stationarity. This paper proposes a combined ICEEMDAN&amp;ndash;BiLSTM&amp;ndash;Attention&amp;ndash;IMSO forecasting framewo…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4082: Dynamic Carrier Phase-Shift Control for Low-Frequency Capacitor Voltage Ripple Suppression in MMCs Under Motor Drive Electrical Operating Conditions",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4082",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Modular multilevel converters (MMCs) are attractive for medium- and high-power motor drive applications; however, low-speed motor operation can cause significant submodule (SM) capacitor voltage ripple. In conventional c…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4080: Experimental Investigation of Voltage and Air Velocity Effects on Sustainable Thermoelectric Air Conditioning",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4080",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Thermoelectric air conditioning (TEAC) systems are gaining attention as refrigerant-free, solid-state cooling technologies due to their compactness, low noise, and environmental benefits. However, their widespread applic…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4079: Geometry Adaptation and System Integration of a Solar Updraft Tower: Insights from a Decade of Inclusive Synthesis Research Program",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4079",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "This study describes the principal outcomes from twelve years of a multistage research program on a solar updraft tower with an inherent focus on the system geometry and integration. It reviews the main conclusions from…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4078: Resilience Planning for Coupled Power&ndash;Transportation Systems Based on Scenario-Feature Identification and Adversarial Reinforcement Learning",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4078",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "New loads, represented by electric vehicles, are emerging rapidly. Distribution networks therefore face increasingly complex spatiotemporal load fluctuations. Conventional planning methods inadequately consider traffic f…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4077: Valorization of Fish Waste via Anaerobic Digestion: A Systematic Literature Review and Future Research Agenda",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4077",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Fish processing and aquaculture wastes are protein- and lipid-rich by-products that can be used to produce renewable energy. However, evidence on their anaerobic valorization is limited. This bibliometric and systematic…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4076: Optimal Scheduling of Photovoltaic&ndash;Storage&ndash;Charging Integrated Stations Based on a PriceSOC-Guided Initialization Particle Swarm Optimization Algorithm",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4076",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Against the backdrop of the &amp;ldquo;dual-carbon&amp;rdquo; strategy (carbon peaking and carbon neutrality), countries worldwide are committed to advancing the application of new energy in the transportation sector. Th…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4075: Bess Model for Composite Reliability Assessment by Non-Sequential Monte Carlo Simulation Based on Historic or Synthetic Data",
       "link": "https://www.mdpi.com/1996-1073/19/17/4075",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-08-30T00:00:00.000Z",
       "excerpt": "Battery Energy Storage System (BESS) models for reliability evaluation, as well as other power system simulation studies, are typically characterized by two key variables: State of Charge (SOC), representing the stored e…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2787: Adaptive Seamless Switching Strategy Considering Current Limiting for Renewable Energy Converters Based on PCC Condition Awareness",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2787",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "With the high penetration of renewable energy into power grids, grid-connected converters face severe challenges in adapting to wide-range variations of grid strength and suppressing fault overcurrents. A single grid-fol…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2786: Comparative Assessment of Pretreatment Strategies for Integrated Phenolic Recovery and Bioenergy Production from Sunflower Hulls",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2786",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Sunflower hulls are an abundant lignocellulosic waste with significant but underexploited potential for the recovery of high-value compounds and production of renewable energy. In this study, an integrated biorefinery ap…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2785: Stackelberg Game-Based Scheduling Strategy for River Basin Virtual Power Plants with Compensation Contracts",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2785",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "In remote regions with abundant hydropower resources, upstream and downstream river basin virtual power plants (RBVPPs) operated by different entities are hydraulically coupled. Independent scheduling may therefore lead…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2784: Evolution of Occurrence States of Retained Hydrocarbons in Organic-Rich Shales During Thermal Maturation: Evidence from Semi-Open System Pyrolysis",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2784",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-08-30T00:00:00.000Z",
+      "excerpt": "Understanding the dynamic evolution of occurrence states of retained hydrocarbons at different thermal maturation stages is crucial for assessing shale oil mobility and enhancing oil recovery. Semi-open pyrolysis experim…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2783: Electrochemical Corrosion Mechanisms of Reinforcement in Subway Shield Tunnels Under Coupled Sulfate Corrosion and Stray Current Effects",
@@ -122,86 +234,6 @@
       "category": "energy",
       "published": "2026-08-29T00:00:00.000Z",
       "excerpt": "The transition toward unmanned and hybrid vessels increases the requirements for diagnosability and continuity of power supply to critical consumers under physical and information-layer faults. The aim of this study is t…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4073: Offering Power Reserve in Local Flexibility Markets: An Integrated EMS for V2X-Enabled Renewable Energy Communities",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4073",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "As Renewable Energy Communities (RECs) drive a shift toward decentralized power systems, innovative solutions to manage the inherent intermittency of distributed energy resources are essential. This paper investigates th…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4071: A Short-Term Photovoltaic Power Forecasting Method Based on Multiscale Decomposition and Adaptive Optimization",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4071",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "Existing studies still have limitations in characterizing the complex temporal patterns of photovoltaic time series. In particular, current forecasting models often struggle to capture local abrupt fluctuations and nonli…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4072: Effects of Diesel Injection Timing on Combustion and Emission Characteristics of a Dual-Fuel Engine Fueled with Isopropanol&ndash;Butanol&ndash;Ethanol (IBE) and Pilot Diesel",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4072",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "The dual-fuel combustion strategy is a promising method to achieve the high-ratio utilization of isopropanol&amp;ndash;butanol&amp;ndash;ethanol (IBE) in diesel engines. However, how the diesel injection timing affects t…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4067: A Thermodynamic Analysis of Solid-Phase Thermolysis Under Dynamic Conditions Employing the Three-Parameter Equation",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4067",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "This study addresses the thermodynamic analysis of the thermal decomposition of solid compounds under a linear temperature increase. Starting from the Gibbs free energy formulation developed for isothermal&amp;ndash;isob…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4070: Integrated Geochemical Assessment of Vertical Hydrocarbon Migration, Oil Mixing, and Reservoir Connectivity in the South Mangyshlak Basin",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4070",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "Petroleum reservoir systems of the South Mangyshlak Basin are characterized by a complex geological framework, pronounced geochemical heterogeneity, and evidence of inter-reservoir fluid interactions, which complicate th…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4069: Advanced Indirect Dew-Point Evaporative Cooling System Under High-Humidity Environments",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4069",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "Conventional dew-point evaporative cooling (DPEC) systems are constrained by two critical bottlenecks: insufficient humidification efficiency and pronounced performance degradation under high-humidity conditions. To addr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4068: Harmonized Techno-Economic and Environmental Analysis of Biogas-Reforming Pathways for Sustainable Hydrogen Production",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4068",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "The rising demand for low-carbon hydrogen has intensified interest in biogas-reforming as a renewable, decentralized alternative to fossil-based production. However, published assessments of the competing reforming route…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4065: From Feedstock Variability to Biorefinery Performance: A Review of Modeling and Optimization Approaches for Biomass-to-Bioenergy Supply Chains",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4065",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "The industrial scalability and economic competitiveness of biomass-to-bioenergy and biorefinery systems depend on reliable feedstock supply, consistent biomass quality, and efficient logistics. An aspect that remains und…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4066: Grid-Forming Control Strategy for DFIG-Based Offshore Wind Farm Connected via Diode-Rectifier-Unit HVDC System",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4066",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "The flexible DC transmission scheme based on modular multilevel converters (MMCs) is currently the mainstream solution for offshore wind power delivery. With the ongoing growth in both installed capacity and the offshore…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4062: Cooperative DC-Link Voltage Regulation and Neutral-Point Balancing for an Energy-Storage-Based SOP with a Three-Level Buck&ndash;Boost Interface",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4062",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "With the increasing penetration of distributed generation, electric vehicles and single-phase loads in the low-voltage distribution network, flexible interconnected systems face more prominent three-phase unbalance and d…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2782: Hydrothermal Geothermal Systems: Progress in Multi-Field Coupled Numerical Simulation",
@@ -258,38 +290,6 @@
       "category": "processing",
       "published": "2026-08-29T00:00:00.000Z",
       "excerpt": "Gas dispersion and liquid circulation are critical factors governing the performance of gas&amp;ndash;liquid stirred tanks, yet the coupled effects of operating conditions and impeller geometry on hydrodynamic behavior r…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2775: Mass Transfer in Electro-Catalytic Ozonation: Quantitative Insights for Reactor Design",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2775",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "Electro-catalytic ozonation (ECO) achieves exceptional pollutant removal, yet the mass transfer limitations governing ozone delivery remain poorly characterized. This study presents the first systematic evaluation of ozo…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2774: Cross-Seasonal Optimal Dispatch of a Wind&ndash;Photovoltaic Hybrid Pumped-Storage Multi-Energy Complementary System",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2774",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "A hybrid pumped-storage power station (hereinafter referred to as the &amp;ldquo;hybrid station&amp;rdquo;) is developed by installing reversible pump&amp;ndash;turbine units between cascade reservoirs, providing both co…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2773: Multi-Attribute Clustering for Volcanic Facies Analysis: A Case Study in Block A12, Songliao Basin, China",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2773",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "Volcanic reservoirs exhibit strong lithological heterogeneity and complex seismic responses, making lithofacies prediction between wells challenging, particularly in the Yingcheng Formation of the Songliao Basin. To addr…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2772: Structural Optimization of the Connecting Ring Between the Front and Rear Chambers of an Aero-Engine Test Chamber",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2772",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-29T00:00:00.000Z",
-      "excerpt": "An aero-engine test chamber is a critical facility for aero-engine high-altitude simulation testing, and its structural strength, thermal-deformation compatibility, and axial stability directly affect the safety and reli…"
     },
     {
       "title": "Climate policy could learn from people who already live within the limits of sufficiency",
