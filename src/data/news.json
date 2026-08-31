@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T21:29:43.870Z",
+  "generatedAt": "2026-08-31T06:03:42.829Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 2,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,30 @@
     }
   ],
   "items": [
+    {
+      "title": "LitCurate: A Configuration-Driven AI-Assisted Framework for Scientific Database Construction with an Application to Lower-Mantle Equation-of-State Data",
+      "link": "https://arxiv.org/abs/2608.27629",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-31T04:00:00.000Z",
+      "excerpt": "arXiv:2608.27629v1 Announce Type: cross Abstract: The growing scientific literature contains decades of experimental and computational results that could support data-driven and physics-based modeling, yet much of this i…"
+    },
+    {
+      "title": "A Reproducible Method for Mapping Electricity Transmission Infrastructure for Space Weather Risk Assessment",
+      "link": "https://arxiv.org/abs/2412.17685",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-08-31T04:00:00.000Z",
+      "excerpt": "arXiv:2412.17685v3 Announce Type: replace Abstract: Space weather risk assessment is constrained by the lack of available asset information needed to model geomagnetically induced currents (GICs) in electricity transmiss…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4089: Effect of Pore-Throat Structure and Displacement Fluid Type on Relative Permeability in Low-Permeability Sandstone Reservoirs",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4089",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-08-31T00:00:00.000Z",
+      "excerpt": "Low-permeability sandstone reservoirs are characterized by fine pore-throat structures and strong heterogeneity, leading to complex multiphase flow behavior; since relative permeability curves are highly sensitive to dis…"
+    },
     {
       "title": "Tides can be mapped much more locally using a new method based on satellite images",
       "link": "https://phys.org/news/2026-08-tides-locally-method-based-satellite.html",
@@ -194,14 +218,6 @@
       "category": "energy",
       "published": "2026-08-30T00:00:00.000Z",
       "excerpt": "New loads, represented by electric vehicles, are emerging rapidly. Distribution networks therefore face increasingly complex spatiotemporal load fluctuations. Conventional planning methods inadequately consider traffic f…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4077: Valorization of Fish Waste via Anaerobic Digestion: A Systematic Literature Review and Future Research Agenda",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4077",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-30T00:00:00.000Z",
-      "excerpt": "Fish processing and aquaculture wastes are protein- and lipid-rich by-products that can be used to produce renewable energy. However, evidence on their anaerobic valorization is limited. This bibliometric and systematic…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2789: Projection-Iterative-Method-Based Coordinated Power Control for Renewable-Rich Islanded Microgrids",
@@ -858,22 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Jiehang Wei, Shouqin Mu, Wenjuan Wang, Yuxin Xu, Mengjia Fu, Yingtao Liu, Xin Wang"
-    },
-    {
-      "title": "Selective catalytic removal of carbon monoxide from ethylene-containing model pyrolysis gas streams",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028784?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Aleksi Vartiainen, Ville Nikkanen, Pekka Simell, Michal Jeremiáš"
-    },
-    {
-      "title": "Experimental investigation of combustion instabilities in a hydrogen direct-injection dual-swirl combustor",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028486?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Ranran Xue, Wu Gu, Qian Yang, Xiao Liu, Xin Hui"
     }
   ]
 }
