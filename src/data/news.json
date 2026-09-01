@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T23:00:51.419Z",
+  "generatedAt": "2026-09-01T05:36:42.681Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 2,
+      "count": 7,
       "error": null
     },
     {
@@ -75,6 +75,70 @@
     }
   ],
   "items": [
+    {
+      "title": "Is Seismic Forecasting Possible with Physics-based AI?",
+      "link": "https://arxiv.org/abs/2608.30861",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-01T04:00:00.000Z",
+      "excerpt": "arXiv:2608.30861v1 Announce Type: new Abstract: Slow slip events within subduction zones offer a unique window into earthquake prediction. The subducting plate drives dehydration reactions in the fault, causing cyclical…"
+    },
+    {
+      "title": "Is the Atmosphere Really Such a Good Blanket?",
+      "link": "https://arxiv.org/abs/2608.29471",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-01T04:00:00.000Z",
+      "excerpt": "arXiv:2608.29471v1 Announce Type: cross Abstract: The incorrect application of the current methodology for treating and averaging Earth's surface temperatures has contributed to contradictions and misinterpretations in d…"
+    },
+    {
+      "title": "Ice-thickness based scaling of wave attenuation in sea ice: Application and assessment of wave spectra",
+      "link": "https://arxiv.org/abs/2608.30590",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-01T04:00:00.000Z",
+      "excerpt": "arXiv:2608.30590v1 Announce Type: cross Abstract: This study discusses recent advances in modeling waves in sea ice in the U.S. Navy's regional modeling system. It is applied in the marginal seas of the eastern Arctic Oc…"
+    },
+    {
+      "title": "Assessing foundational atomistic models for iron alloys under Earth's core conditions",
+      "link": "https://arxiv.org/abs/2605.13594",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-01T04:00:00.000Z",
+      "excerpt": "arXiv:2605.13594v2 Announce Type: replace Abstract: We assess the capability of recently developed foundational atomistic models (FAMs) to simulate iron alloys under the extreme pressures and temperatures of Earth's core…"
+    },
+    {
+      "title": "Magnetohydrodynamic drag on an oscillating sphere in a rotating spherical cavity",
+      "link": "https://arxiv.org/abs/2604.10594",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-01T04:00:00.000Z",
+      "excerpt": "arXiv:2604.10594v3 Announce Type: replace-cross Abstract: Oscillating-sphere drag is a classical fluid-mechanics problem, yet no theory simultaneously accounts for confinement, rotation, viscosity and magnetic fields. We…"
+    },
+    {
+      "title": "Effects of temperature-dependent material properties in coldwater Rayleigh-B\\'enard convection",
+      "link": "https://arxiv.org/abs/2604.24979",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-01T04:00:00.000Z",
+      "excerpt": "arXiv:2604.24979v3 Announce Type: replace-cross Abstract: Water exhibits an anomalous nonlinear density equation of state (EOS) as it approaches freezing, along with an increase in viscosity ($\\mu$) and a decrease in the…"
+    },
+    {
+      "title": "Free surfaces in turbulence -- A unified framework from water surfaces to elastic solids",
+      "link": "https://arxiv.org/abs/2605.23166",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-01T04:00:00.000Z",
+      "excerpt": "arXiv:2605.23166v2 Announce Type: replace-cross Abstract: What do the ocean surface and a swaying flag have in common? Both are deformable surfaces exhibiting chaotic motion when exposed to turbulent flows. Whether such…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4117: Sensitivity Analysis of CCUS Development Parameters in High-Temperature Oil Reservoirs Based on a Backpropagation Neural Network Proxy Model",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4117",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "Parameter sensitivity analysis is a critical step in the numerical simulation and parameter design of CCUS models for high-temperature oil reservoirs. Owing to the complexity of these models, a single simulation run is c…"
+    },
     {
       "title": "Keeping cool saves thousands of lives yearly, but at a cost of worsening global warming, experts say",
       "link": "https://phys.org/news/2026-08-cool-thousands-yearly-worsening-global.html",
@@ -188,22 +252,6 @@
       "excerpt": "Diamond was thought to be incapable of producing electricity through mechanical deformation, but ultrathin flexible diamond membranes have now shown a strong and repeatable piezoelectric effect. The unexpected discovery…"
     },
     {
-      "title": "LitCurate: A Configuration-Driven AI-Assisted Framework for Scientific Database Construction with an Application to Lower-Mantle Equation-of-State Data",
-      "link": "https://arxiv.org/abs/2608.27629",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-31T04:00:00.000Z",
-      "excerpt": "arXiv:2608.27629v1 Announce Type: cross Abstract: The growing scientific literature contains decades of experimental and computational results that could support data-driven and physics-based modeling, yet much of this i…"
-    },
-    {
-      "title": "A Reproducible Method for Mapping Electricity Transmission Infrastructure for Space Weather Risk Assessment",
-      "link": "https://arxiv.org/abs/2412.17685",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-08-31T04:00:00.000Z",
-      "excerpt": "arXiv:2412.17685v3 Announce Type: replace Abstract: Space weather risk assessment is constrained by the lack of available asset information needed to model geomagnetically induced currents (GICs) in electricity transmiss…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4116: Comparative Evaluation of Multi-Timescale Scheduling Strategies for a CSP Plant with Thermal Energy Storage",
       "link": "https://www.mdpi.com/1996-1073/19/17/4116",
       "source": "Energies (MDPI)",
@@ -290,14 +338,6 @@
       "category": "energy",
       "published": "2026-08-31T00:00:00.000Z",
       "excerpt": "The unreliable electricity supply is a major constraint on industrial production in Myanmar, especially for garment factories, which require a reliable power supply to maintain production. Frequent outages disrupt produc…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4105: Selection of Optimal HVDC Termination Points in HVAC Networks for Renewable Energy Transmission Using an Integrated Delphi-TOPSIS-AHP Approach",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4105",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "The increasing deployment of renewable energy resources in geographically remote locations has accelerated the need for efficient long-distance power transmission solutions. High-voltage direct current (HVDC) technology…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2813: Fluid&ndash;Thermal Characteristics and Thermo-Mechanical Response of a Wide-Temperature-Range Gas-Mixing System for a High-Altitude Test Chamber",
@@ -834,46 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
-    },
-    {
-      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Performance optimization of improved rectangular baffle proton exchange membrane fuel cell through crested porcupine optimization-back propagation neural network surrogate model",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029273?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Haiyang Song, Fayi Yan"
-    },
-    {
-      "title": "Carbonation and CO 2 sequestration potential of steelmaking slag in CO 2 -rich aqueous system",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028814?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Jeehoon Ma, Hyun Soo Kim, Jongsoo Hwang, Jaewon Jang, Daehyun Kim, Tae Sup Yun"
-    },
-    {
-      "title": "Sustainable NO X scrubbing with lignin-based materials: Lignin sulfonate and vanillin as model compound",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029327?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Manu Thankachan, Daniel Schmid, Emil Vainio"
-    },
-    {
-      "title": "Machine Learning-Based prediction and Optimization of CO 2 and CH 4 Capture via Gas hydrate formation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028887?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Parisa Naeiji, Alireza Naeimi-Sadigh, Kiana Peyvandi"
     }
   ]
 }
