@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:36:42.681Z",
+  "generatedAt": "2026-09-01T11:58:49.746Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,38 @@
   ],
   "items": [
     {
+      "title": "ONGC outlines $10.5bn plan for deepwater exploration in India",
+      "link": "https://www.offshore-technology.com/news/ongc-10-5bn-plan-deepwater-exploration-india/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-01T09:43:17.000Z",
+      "excerpt": "Oil and Natural Gas Corporation (ONGC) is planning to invest about Rs1tn ($10.51bn) over the next five years to explore deepwater and ultra-deepwater oil and gas fields in India."
+    },
+    {
+      "title": "Summit Midstream makes FID on Double E Pipeline mainline expansion",
+      "link": "https://www.offshore-technology.com/news/summit-midstream-fid-double-e-pipeline-expansion/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-01T09:37:40.000Z",
+      "excerpt": "US-based energy company Summit Midstream has announced that Double E Pipeline has completed its open season and made a final investment decision (FID) to proceed with a mainline compression expansion."
+    },
+    {
+      "title": "Eruption of Sinabung volcano on Indonesia's Sumatra island prompts higher alert",
+      "link": "https://phys.org/news/2026-09-eruption-sinabung-volcano-indonesia-sumatra.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T08:40:01.000Z",
+      "excerpt": "Mount Sinabung on Indonesia erupted Monday, spewing a column of black ash and smoke 3,500 meters (11,482 feet) from the top of the mountain into the sky over Sumatra island."
+    },
+    {
+      "title": "US secures access for majority control of 65bbbl of Venezuelan oil",
+      "link": "https://www.offshore-technology.com/news/us-majority-control-65bbbl-venezuelan-oil/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-01T08:16:53.000Z",
+      "excerpt": "The US government, under President Donald Trump, has reached an agreement to secure majority control over approximately 65 billion barrels (bbbl) of proven oil reserves in Venezuela, following arrangements with interim V…"
+    },
+    {
       "title": "Is Seismic Forecasting Possible with Physics-based AI?",
       "link": "https://arxiv.org/abs/2608.30861",
       "source": "arXiv — Geophysics",
@@ -132,12 +164,116 @@
       "excerpt": "arXiv:2605.23166v2 Announce Type: replace-cross Abstract: What do the ocean surface and a swaying flag have in common? Both are deformable surfaces exhibiting chaotic motion when exposed to turbulent flows. Whether such…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4125: Effects of Operational-State Features on One-Week-Ahead Building Electricity Demand Forecasting Using a Temporal Fusion Transformer",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4125",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "Accurate one-week-ahead building electricity demand forecasting is essential for building energy management, yet representing future building operational characteristics remains challenging because such information is ge…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4123: Research on Simultaneous Wireless Power and Full-Duplex Data Transfer Using Multiple Coupled Coils",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4123",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "Magnetic-field coupled wireless power transfer (MC-WPT) systems require reliable power delivery as well as real-time bidirectional data communication. To satisfy this requirement, a simultaneous wireless power and full-d…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4124: Health-Aware Distributionally Robust Scheduling of Integrated Electro-Hydrogen Systems Considering Electrolyzer Degradation Inertia and Recovery",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4124",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "Renewable-driven operation exposes proton-exchange membrane (PEM) electrolyzers to ramps, starts, and partial-load conditions that accelerate degradation and weaken scheduling reliability. This paper develops a health-aw…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4122: Investigation of Refrigerant Boiling in a Compact Heat Exchanger Manufactured Using Additive Manufacturing Technology",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4122",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "An experimental investigation was conducted to characterize refrigerant boiling in a compact shell-and-tube heat exchanger manufactured from SS316L stainless steel using selective laser melting. The exchanger incorporate…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4121: A Parameter Adaptation Strategy for the Parallel Capacity Expansion of VSGs in New Energy Units",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4121",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "Against the engineering background of continuous expansion of renewable energy units, in islanded microgrids employing virtual synchronous generator (VSG) control, newly connected VSGs often cannot obtain the key control…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4120: A Multi-Criteria Decision-Support Framework for Assessing Country-Level Renewable Energy Investment Attractiveness in the European Union in 2022&ndash;2024",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4120",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "Renewable energy investment in the European Union (EU) occurs amid substantial variation in resources, market structures, energy security and regulatory quality. This study develops a comparative market-screening framewo…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4119: Development and Electromagnetic Optimization of a Modified Six-Limb Hybrid Distribution Transformer with Magnetically Integrated Power Electronic Control",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4119",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "This paper presents the design and multi-objective optimization of a six-limb magnetically integrated hybrid distribution transformer (HDT). The increasing demand for efficient and compact transformer solutions in modern…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4118: Coordinated Bidding and Profit Sharing of Microgrid Clusters in Day-Ahead Spot Markets: A Multi-Agent System Approach",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4118",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "Coordinated participation of interconnected microgrids in day-ahead spot markets requires dispatch and profit allocation to be evaluated under a common modeling convention. This study develops an evidence-bounded multi-a…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4117: Sensitivity Analysis of CCUS Development Parameters in High-Temperature Oil Reservoirs Based on a Backpropagation Neural Network Proxy Model",
       "link": "https://www.mdpi.com/1996-1073/19/17/4117",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-09-01T00:00:00.000Z",
       "excerpt": "Parameter sensitivity analysis is a critical step in the numerical simulation and parameter design of CCUS models for high-temperature oil reservoirs. Owing to the complexity of these models, a single simulation run is c…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2818: Dominant Controlling Parameters of Multi-Component Thermal Fluid Flooding in Fractured Shale Oil Reservoirs",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2818",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "Fractured shale oil reservoirs possess ultra-tight matrix pores and suffer unsatisfactory oil recovery under conventional exploitation, while systematic comparisons among CO2 flooding, CO2/CH4 mixed gas flooding, and mul…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2817: Study on the Chemical Dissolution Behavior of Clay Minerals Under CO2+O2 In Situ Leaching Conditions for Uranium Recovery",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2817",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "The accumulation of dissolved species during the in situ leaching (ISL) of uranium can lead to ore-layer blockage and reduced production capacity. Clay minerals, including montmorillonite, chlorite, kaolinite, and illite…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2816: Exergo-Environmental Analysis of a Supercritical Hybrid Brayton&ndash;ORC Cycle System Using Solar Radiation and Biomass as Energy Source",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2816",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "The increasing cooling demand in residential sectors located in warm climates requires sustainable energy systems capable of supplying thermal loads with reduced environmental impact. This study presents an exergo-enviro…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2815: Correction: Li et al. Physics-Constrained LSTM-UNet for Seismic Porosity Prediction in Sandstone Reservoirs. Processes 2026, 14, 1774",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2815",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "In the original publication [...]"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2814: Coal&ndash;Water Interfacial Controls on Methane Adsorption&ndash;Desorption and Pore-Scale Transport in Representative Coal Samples from the Ordos Basin",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2814",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "Methane production from water-bearing coal reservoirs is governed not only by methane adsorption capacity but also by the accessibility of adsorption domains and the efficiency of pore-scale transport during pressure dep…"
     },
     {
       "title": "Keeping cool saves thousands of lives yearly, but at a cost of worsening global warming, experts say",
@@ -228,14 +364,6 @@
       "excerpt": "The catastrophic flood that killed hundreds of people in Nepal on Aug. 26, 2026, and left many more missing likely began with falling ice and rock crashing into the river below, but that wasn't the end of the disaster. D…"
     },
     {
-      "title": "Nepal‑Tibet disaster linked to climate change—a glaciologist explains",
-      "link": "https://phys.org/news/2026-08-nepaltibet-disaster-linked-climate-glaciologist.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-31T16:20:04.000Z",
-      "excerpt": "The cause of the huge floods and debris flow on the border between Nepal and Tibet, which have caused hundreds of deaths, appears to have been an ice avalanche—the result of a huge piece of a glacier collapsing and casca…"
-    },
-    {
       "title": "ONEOK to buy Permian assets from Brazos Midstream in $4.425bn deal",
       "link": "https://www.offshore-technology.com/news/oneok-buy-permian-assets-4-425bn-deal/",
       "source": "Offshore Technology",
@@ -274,70 +402,6 @@
       "category": "energy",
       "published": "2026-08-31T00:00:00.000Z",
       "excerpt": "Oilseed crops serve as pivotal raw materials for renewable energy production, rendering oilseed futures increasingly vulnerable to the dual shocks stemming from climate risk and the global energy transition. Against this…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4113: Network-Constrained Renewable Integration in Tunisia: A Deterministic Assessment of Storage Flexibility and Transmission Deliverability",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4113",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "High renewable-energy shares do not, by themselves, guarantee that renewable electricity can be absorbed, shifted, and delivered through a constrained network. This study uses openTEPES for a deterministic 8736 h assessm…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4111: Robustness Maps for Hydrogen Delivery Mode Selection Under Construction Cost Uncertainty: Application to Korean Hydrogen Corridors",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4111",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "Whether hydrogen should be delivered by pipeline or by truck is a large and largely irreversible investment decision. The cost information needed for this decision varies by a factor of several across the literature, and…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4112: Capacity Occupation and Revenue Activation in Multiple Business Models for Independent Battery Storage: A 100 MW/200 MWh Typical-Day Case Study",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4112",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "Independent battery energy storage systems (BESSs) can contribute to time-of-use arbitrage, ancillary services, capacity value compensation, capacity leasing, and demand response. Their multi-service value, however, depe…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4110: A Two-Stage Stochastic Programming Model for Proactive Scheduling of Distribution Networks with Emergency Resource Participation",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4110",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "By implementing a proactive reserve scheduling mechanism, distribution networks (DNs) can optimize emergency resource deployment to improve fault recovery resilience. To address the limitations of existing pre-disaster p…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4109: Seepage and Heat Transfer Characteristics of CO2 Plume Geothermal Systems Under Different Injection Conditions",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4109",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "CO2 plume geothermal systems (CPGS) hold significant potential for geothermal energy extraction due to their dual benefits of carbon sequestration and efficient heat transfer. Existing studies primarily focus on macrosco…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4108: High Voltage Circuit Breaker Fault Detection Using Vibration and Acoustic Signals Analysis and Machine Learning",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4108",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "Reliable fault detection in high-voltage circuit breakers is essential for ensuring power system availability and reducing maintenance-related downtime. This paper proposes a hybrid machine learning framework for binary…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4107: A Two-Stage and Hierarchical Contrastive Learning Method for Power Equipment Defect Detection",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4107",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "Power equipment defect detection is essential for ensuring reliable power grid operation. Existing power equipment defect detection methods typically formulate the task as multi-class object detection, but their performa…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4106: Economic Compatibility of Improved Electricity Reliability: Integrating a Discrete Choice Experiment with PV&ndash;Grid&ndash;Diesel Optimization in Myanmar&rsquo;s Garment Industry",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4106",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "The unreliable electricity supply is a major constraint on industrial production in Myanmar, especially for garment factories, which require a reliable power supply to maintain production. Frequent outages disrupt produc…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2813: Fluid&ndash;Thermal Characteristics and Thermo-Mechanical Response of a Wide-Temperature-Range Gas-Mixing System for a High-Altitude Test Chamber",
@@ -394,46 +458,6 @@
       "category": "processing",
       "published": "2026-08-31T00:00:00.000Z",
       "excerpt": "Hydraulic fracturing in low-permeability porous rocks involves strong interactions between rock deformation, pore fluid transport, and progressive fracture damage. In this study, a hydro-mechanical phase-field model was…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2806: Revisiting the Modelling of Droplets Passing Through a Superhydrophobic Orifice",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2806",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "Precise analytical modeling of droplet size passing through a superhydrophobic orifice is vital for various industrial and scientific applications. The very few published theoretical models rely on spherical droplet assu…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2805: Fault Diagnosis Method for Control Cabinet Based on Quantum-Behaved Particle Swarm Optimization and Kernel Extreme Learning Machine",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2805",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "As the core equipment integrating primary electrical devices with secondary intelligent control units, the control cabinet plays a vital role in smart substations, and its operating reliability is crucial to the security…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2804: Review of the Plugging Mechanisms and Plugging-Removal Technologies of Mechanical Sand-Control Screens",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2804",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "Mechanical sand-control screens are core completion components for maintaining sand retention and flow conductivity in oil, gas, geothermal, hydrate, and underground gas storage wells. This review summarizes recent progr…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2803: Preparation of Oxygen-Doped Amorphous MoS2 and Its Electrocatalytic Performance for Nitrogen Reduction to Ammonia",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2803",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "The electrocatalytic nitrogen reduction reaction (NRR) is a key approach for synthesizing green ammonia under mild conditions. However, the high bond energy of the N&amp;equiv;N triple bond makes N2 difficult to activate…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2802: Multimodal Prompt-Tuning Large Language Model for Machinery Fault Diagnosis with Sound-Vibration Signals",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2802",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "Vibration and sound-sensing technology has become the mainstream perception method in the field of mechanical fault diagnosis. However, most current diagnostic models still focus on single-modality data analysis, which t…"
     },
     {
       "title": "The next Cascadia megaquake could hit Oregon harder than expected",
@@ -506,30 +530,6 @@
       "category": "industry",
       "published": "2026-08-27T09:38:58.000Z",
       "excerpt": "A fire accident broke out at the Amur Gas Chemical Complex (AGCC) in Russia’s far eastern Amur region, killing seven people, including six Chinese nationals, reported Reuters."
-    },
-    {
-      "title": "CNOOC H1 2026 net profit rises 23.4% to $12.76bn",
-      "link": "https://www.offshore-technology.com/news/cnooc-h1-2026-net-profit-12-76bn/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-27T09:34:23.000Z",
-      "excerpt": "China National Offshore Oil Corporation (CNOOC) has reported a net profit attributable to equity shareholders of 85.8bn yuan ($12.76bn) for the first half of 2026 (H1 2026), marking an increase of 23.4% compared with 69.…"
-    },
-    {
-      "title": "Enbridge to acquire Salt Creek Midstream’s crude assets for $600m",
-      "link": "https://www.offshore-technology.com/news/enbridge-to-acquire-salt-creek-midstreams-assets/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-27T07:38:13.000Z",
-      "excerpt": "Canadian midstream company Enbridge has reached a deal to acquire Salt Creek Midstream's crude oil gathering business in the US for $600m in cash."
-    },
-    {
-      "title": "Aker BP begins production from Skarv Satellites in Norwegian Sea",
-      "link": "https://www.offshore-technology.com/news/aker-bp-skarv-satellites-production-norwegian/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-26T13:12:34.000Z",
-      "excerpt": "Aker BP has commenced production from the Skarv Satellite Project in the Norwegian Sea, bringing the Alve Nord, Idun Nord and Ørn fields online one year ahead of the initial schedule."
     },
     {
       "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
