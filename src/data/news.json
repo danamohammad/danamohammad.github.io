@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T11:58:49.746Z",
+  "generatedAt": "2026-09-01T16:53:14.016Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
       "ok": true,
-      "count": 100,
+      "count": 88,
       "error": null
     },
     {
@@ -75,6 +75,86 @@
     }
   ],
   "items": [
+    {
+      "title": "Geomagnetic superstorm shook GPS accuracy across the US—its timing may have averted agricultural losses",
+      "link": "https://phys.org/news/2026-09-geomagnetic-superstorm-shook-gps-accuracy.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T16:30:01.000Z",
+      "excerpt": "On Nov. 11, 2025, Earth experienced a severe geomagnetic storm triggered by solar flares and coronal mass ejections from an active sunspot region. While this kind of storm brings beautiful auroras admired in many areas a…"
+    },
+    {
+      "title": "UK chalks up hottest summer on record for second year running",
+      "link": "https://phys.org/news/2026-09-uk-chalks-hottest-summer-year.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T16:20:01.000Z",
+      "excerpt": "Britain experienced its hottest summer on record for the second year in a row, the UK's national weather agency announced Tuesday, after weeks of successive heat waves and widespread drought conditions."
+    },
+    {
+      "title": "Ice island survives run-in with Joe Island",
+      "link": "https://phys.org/news/2026-09-ice-island-survives-joe.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T16:00:05.000Z",
+      "excerpt": "Summer is prime iceberg season in Greenland's glacier-fed fjords, and 2026 was no exception. Especially notable was the berg that broke from Petermann Glacier along Greenland's northwest coast in August. Roughly the size…"
+    },
+    {
+      "title": "Warming winters weaken New Hampshire forest's carbon sink over 20 years",
+      "link": "https://phys.org/news/2026-09-winters-weaken-hampshire-forest-carbon.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T16:00:01.000Z",
+      "excerpt": "Can we count on forests to continue absorbing the carbon dioxide that's warming our world? A new study from researchers at NAU and the University of New Hampshire says ... maybe not."
+    },
+    {
+      "title": "Trawling threatens vital carbon stores in Scotland's sea lochs",
+      "link": "https://phys.org/news/2026-09-trawling-threatens-vital-carbon-scotland.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T15:40:04.000Z",
+      "excerpt": "New research from the University of St Andrews shows that disturbing seabed sediments through trawling could cause significant losses of carbon stored in Scotland's sea lochs. The study, published in Marine Environmental…"
+    },
+    {
+      "title": "Nepal's devastating floods won't be the last as the region's mountains heat up",
+      "link": "https://phys.org/news/2026-09-nepal-devastating-wont-region-mountains.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T14:40:09.000Z",
+      "excerpt": "On the morning of Aug. 26, a section of mountain near Langtang Lirung peak in Nepal suddenly collapsed."
+    },
+    {
+      "title": "Los Angeles Basin map shows deep sediments that could amplify earthquake shaking",
+      "link": "https://phys.org/news/2026-09-los-angeles-basin-deep-sediments.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T13:40:05.000Z",
+      "excerpt": "In computer simulations of the Big One—a large-magnitude earthquake that may occur along the San Andreas Fault in California—seismic waves ripple from the epicenter of a magnitude 7.8 earthquake near the Salton Sea into…"
+    },
+    {
+      "title": "DNO agrees to acquire Capricorn Energy for $396m",
+      "link": "https://www.offshore-technology.com/news/dno-agrees-to-acquire-capricorn-energy/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-01T13:26:52.000Z",
+      "excerpt": "DNO has agreed to acquire the entire issued and to-be-issued share capital of UK-based Capricorn Energy in a deal valued at $396m."
+    },
+    {
+      "title": "Kaikōura erosion monitoring holds answers for world's rock coastlines",
+      "link": "https://phys.org/news/2026-09-kaikura-erosion-world-coastlines.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T12:40:03.000Z",
+      "excerpt": "Erosion rates on parts of the Kaikōura Peninsula more than doubled after the 2016 earthquake, showing major quakes can \"rapidly alter\" the way coastlines evolve, an Otago researcher says."
+    },
+    {
+      "title": "A massive plume deep beneath Africa is pulling the continent apart",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831015210.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-09-01T10:41:10.000Z",
+      "excerpt": "A vast plume rising from deep inside Earth may be responsible for mysterious movements along the East African Rift. The discovery reveals how forces deep in the mantle are working alongside shallower geological forces as…"
+    },
     {
       "title": "ONGC outlines $10.5bn plan for deepwater exploration in India",
       "link": "https://www.offshore-technology.com/news/ongc-10-5bn-plan-deepwater-exploration-india/",
@@ -164,6 +244,46 @@
       "excerpt": "arXiv:2605.23166v2 Announce Type: replace-cross Abstract: What do the ocean surface and a swaying flag have in common? Both are deformable surfaces exhibiting chaotic motion when exposed to turbulent flows. Whether such…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4130: XGBoost-Based Intelligent Multi-Source Coordination in an Electric Vehicle Employing a Super-Boost Power Converter",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4130",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "The central challenge related to the development of electric vehicles (EVs) involves the effective integration of multiple input sources to create a robust and efficient power system. Recent advancements have focused on…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4129: Optimal Scheduling of Virtual Power Plants Considering Willingness to Respond: A Stackelberg Game Approach",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4129",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "With the global low-carbon transition and increasing wind and photovoltaic penetration, virtual power plant (VPP) scheduling increasingly requires coordinated low-carbon operation, resource management, and long-term stab…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4128: Thermodynamic Performance of a Direct-Drive Biomass-Powered Vapor Compression Refrigeration System",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4128",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "Off-grid agricultural cold chains suffer from high energy conversion losses due to intermediate electrical stages in traditional refrigeration. This study addresses the lack of empirical quantification by comparing Direc…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4127: Optimal Placement of Meters in a Physical Electrical Network for Real-Time Harmonic State Estimation Assessment",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4127",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "This contribution presents a methodology for optimal placement (OP) of meters in power systems, using the state-space reference frame. The goal is to minimize the state estimation error, specifically, the mean squared er…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4126: Potential Impact of Flow Meter Selection on Air Compressor Performance Analysis",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4126",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-01T00:00:00.000Z",
+      "excerpt": "Air compressors are among the most energy-intensive cross-cutting technologies used in the industry, making accurate performance evaluation essential for improving energy efficiency. ISO 1217, the internationally recogni…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4125: Effects of Operational-State Features on One-Week-Ahead Building Electricity Demand Forecasting Using a Temporal Fusion Transformer",
       "link": "https://www.mdpi.com/1996-1073/19/17/4125",
       "source": "Energies (MDPI)",
@@ -220,20 +340,20 @@
       "excerpt": "This paper presents the design and multi-objective optimization of a six-limb magnetically integrated hybrid distribution transformer (HDT). The increasing demand for efficient and compact transformer solutions in modern…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4118: Coordinated Bidding and Profit Sharing of Microgrid Clusters in Day-Ahead Spot Markets: A Multi-Agent System Approach",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4118",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2820: Speciation-Driven Cascade Technologies for Valorizing Hazardous Incineration Ash into a Stable Resource: A Critical Review",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2820",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-01T00:00:00.000Z",
-      "excerpt": "Coordinated participation of interconnected microgrids in day-ahead spot markets requires dispatch and profit allocation to be evaluated under a common modeling convention. This study develops an evidence-bounded multi-a…"
+      "excerpt": "Fly ash from municipal solid waste incineration is a hazardous waste whose safe disposal and resource recovery are obstructed by a fundamental trilemma: no single treatment simultaneously immobilizes heavy metals permane…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4117: Sensitivity Analysis of CCUS Development Parameters in High-Temperature Oil Reservoirs Based on a Backpropagation Neural Network Proxy Model",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4117",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2819: Optimized Control of Power Self-Balancing in Distribution Networks Based on Virtual Power Plant Aggregation",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2819",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-01T00:00:00.000Z",
-      "excerpt": "Parameter sensitivity analysis is a critical step in the numerical simulation and parameter design of CCUS models for high-temperature oil reservoirs. Owing to the complexity of these models, a single simulation run is c…"
+      "excerpt": "To address the voltage violation problem in distribution networks with large-scale distributed generators (DGs), this paper proposes an optimized control strategy for power self-balancing in distribution networks based o…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2818: Dominant Controlling Parameters of Multi-Component Thermal Fluid Flooding in Fractured Shale Oil Reservoirs",
@@ -300,70 +420,6 @@
       "excerpt": "As Europe burns, many cities are trying to cut emissions, upgrade buildings and rethink how energy is produced and used. However, there is a recurring challenge: getting people to participate in and accept the solutions…"
     },
     {
-      "title": "Small-plane fuel raises lead levels up to sevenfold near Oregon airports, study suggests",
-      "link": "https://phys.org/news/2026-08-small-plane-fuel-sevenfold-oregon.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-31T19:40:06.000Z",
-      "excerpt": "Emissions from aircraft that use leaded aviation gasoline are a significant source of environmental pollution in neighborhoods near regional airports, according to a new study by researchers at Oregon State University an…"
-    },
-    {
-      "title": "Why atmospheric nanoparticles grow at similar rates everywhere",
-      "link": "https://phys.org/news/2026-08-atmospheric-nanoparticles-similar.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-31T19:30:01.000Z",
-      "excerpt": "Aerosols have a profound influence on air quality, human health, clouds and climate, but new particle formation in the atmosphere has remained a scientific conundrum. Large fractions of airborne fine particulate matter c…"
-    },
-    {
-      "title": "Beyond flood maps: Puerto Rico residents seek climate tools built around local needs",
-      "link": "https://phys.org/news/2026-08-puerto-rico-residents-climate-tools.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-31T18:40:07.000Z",
-      "excerpt": "Resources such as sea level rise viewers, heat maps and flood prediction services are crucial tools in a changing climate. NASA Earth Observations (NASA EO) datasets provide important information on these and other natur…"
-    },
-    {
-      "title": "Malaysia's Sarawak eyes cloud seeding as haze worsens",
-      "link": "https://phys.org/news/2026-08-malaysia-sarawak-eyes-cloud-seeding.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-31T17:50:01.000Z",
-      "excerpt": "Malaysia's Sarawak state plans cloud-seeding operations in early September, officials said Monday, as smoke from fires in neighboring Indonesia pushes air quality to hazardous levels."
-    },
-    {
-      "title": "New storms threaten Grand Canyon flood search, 2 bodies recovered",
-      "link": "https://phys.org/news/2026-08-storms-threaten-grand-canyon-bodies.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-31T17:40:04.000Z",
-      "excerpt": "Forecast storms in the Grand Canyon on Monday threatened efforts to find more than a dozen people missing after flash floods over the weekend, the National Park Service (NPS) said, with two bodies already recovered."
-    },
-    {
-      "title": "An anomalous return of the Odden ice tongue suggests unusual Arctic conditions",
-      "link": "https://phys.org/news/2026-08-anomalous-odden-ice-tongue-unusual.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-31T17:30:01.000Z",
-      "excerpt": "Data from many sources, including NASA, have shown a significant decrease in Arctic sea ice since 1979. However, the processes driving the melting and freezing of sea ice are complex, and fluctuations occur throughout th…"
-    },
-    {
-      "title": "Earlier volcano warnings could mean more false alarms—but they could also save lives",
-      "link": "https://phys.org/news/2026-08-earlier-volcano-false-alarms.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-31T17:20:10.000Z",
-      "excerpt": "Whakaari/White Island's sudden eruption in December 2019, which killed 22 people and severely injured 25 others, was New Zealand's deadliest volcanic disaster in recent history."
-    },
-    {
-      "title": "When a mountain falls: How ice and rock triggered Nepal's catastrophic flood",
-      "link": "https://phys.org/news/2026-08-mountain-falls-ice-triggered-nepal.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-08-31T17:00:01.000Z",
-      "excerpt": "The catastrophic flood that killed hundreds of people in Nepal on Aug. 26, 2026, and left many more missing likely began with falling ice and rock crashing into the river below, but that wasn't the end of the disaster. D…"
-    },
-    {
       "title": "ONEOK to buy Permian assets from Brazos Midstream in $4.425bn deal",
       "link": "https://www.offshore-technology.com/news/oneok-buy-permian-assets-4-425bn-deal/",
       "source": "Offshore Technology",
@@ -378,30 +434,6 @@
       "category": "energy",
       "published": "2026-08-31T04:13:53.000Z",
       "excerpt": "Diamond was thought to be incapable of producing electricity through mechanical deformation, but ultrathin flexible diamond membranes have now shown a strong and repeatable piezoelectric effect. The unexpected discovery…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4116: Comparative Evaluation of Multi-Timescale Scheduling Strategies for a CSP Plant with Thermal Energy Storage",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4116",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "Forecast errors in direct normal irradiance (DNI) and load demand can reduce the economic performance of concentrated solar power (CSP) plants with thermal energy storage (TES). This study compares a day-ahead-only strat…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4115: High-Frequency Oscillation Suppression in a PMSG-Based Grid-Connected System via a Current-Feedback Active Damping Strategy with Coordinated Multi-Index Tuning",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4115",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "This paper proposes a current-feedback active damping strategy to address the high-frequency oscillations in permanent-magnet synchronous generator (PMSG)-based grid-connected systems. The core idea is an active damping…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4114: Time-Varying Impacts of Climate Policy Uncertainty on Oilseed Futures Returns: From Energy Transition and Biofuel Perspectives",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4114",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "Oilseed crops serve as pivotal raw materials for renewable energy production, rendering oilseed futures increasingly vulnerable to the dual shocks stemming from climate risk and the global energy transition. Against this…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2813: Fluid&ndash;Thermal Characteristics and Thermo-Mechanical Response of a Wide-Temperature-Range Gas-Mixing System for a High-Altitude Test Chamber",
@@ -442,22 +474,6 @@
       "category": "processing",
       "published": "2026-08-31T00:00:00.000Z",
       "excerpt": "Given the global shift of the wine industry toward lighter wine styles and lower ethanol content, dealcoholization of wines remains a challenging procedure in terms of selectively removing ethanol from wine samples and,…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2807: Analysis of Microscopic Flow Behavior and Main Controlling Factors of Water Huff-n-Puff in Tight Reservoirs Under the Influence of Salinity",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2807",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "To address the unclear microscopic mechanisms of water huff-n-puff in tight reservoirs under the influence of salinity, a visual physical model for microscopic flow in fracturing fluid displacement was constructed. It wa…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2808: A Fully Coupled Hydro-Mechanical Phase-Field Model for Hydraulic Fracture Initiation and Complex Propagation in Porous Rock Media",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2808",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-08-31T00:00:00.000Z",
-      "excerpt": "Hydraulic fracturing in low-permeability porous rocks involves strong interactions between rock deformation, pore fluid transport, and progressive fracture damage. In this study, a hydro-mechanical phase-field model was…"
     },
     {
       "title": "The next Cascadia megaquake could hit Oregon harder than expected",
@@ -522,14 +538,6 @@
       "category": "industry",
       "published": "2026-08-27T14:11:31.000Z",
       "excerpt": "TotalEnergies has completed the transfer of its 10% interest in the Arctic LNG 2 project in Russia’s Gydan Peninsula to NordLine, a subsidiary of Novatek."
-    },
-    {
-      "title": "Fire at Russia’s Amur petrochemical complex causes multiple casualties",
-      "link": "https://www.offshore-technology.com/news/fire-russias-amur-petrochemical-complex-casualties/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-08-27T09:38:58.000Z",
-      "excerpt": "A fire accident broke out at the Amur Gas Chemical Complex (AGCC) in Russia’s far eastern Amur region, killing seven people, including six Chinese nationals, reported Reuters."
     },
     {
       "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
@@ -660,14 +668,6 @@
       "excerpt": "A surprisingly simple change could make sodium-ion batteries far more powerful while opening the door to turning seawater into drinking water. Researchers at the University of Surrey found that sodium vanadium oxide perf…"
     },
     {
-      "title": "Superheated magma may power towering lava fountains",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-08-01T06:38:28.000Z",
-      "excerpt": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal s…"
-    },
-    {
       "title": "This electric field trick boosted heat flow by nearly 300%",
       "link": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -690,6 +690,14 @@
       "category": "energy",
       "published": "2026-06-21T14:06:09.000Z",
       "excerpt": "Researchers found that a Chinese sodium-ion battery performs far better than expected, with production quality and design features comparable to Tesla’s batteries. If engineers can improve cold-weather charging and energ…"
+    },
+    {
+      "title": "Enhanced geothermal system potential in shales: thermal-hydraulic-chemical reactive transport modeling in the Utica-Point Pleasant",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004240?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): John C. Barton, Samuel Bowman, Arkajyoti Pathak, Shikha Sharma"
     },
     {
       "title": "Fiber-reinforced cement slurries for subsurface energy applications: A review of rheology, flow behavior, and mechanical performance",
@@ -778,14 +786,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Christian Marcelo Martín, Jean-Michel Pereira, Teresa M. Pique, Siavash Ghabezloo, Diego Manzanal"
-    },
-    {
-      "title": "Three dimensional thermally coupled transport model of compressible fluids in cemented wellbore",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026003799?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Mahmoud Elzenary, Mustafa Al-Ramadan, Talal Al-Shafloot, Murtada Saleh Aljawad"
     },
     {
       "title": "A review of vertical closed-loop geothermal heating and cooling systems with an Emphasis on the importance of the subsurface",
