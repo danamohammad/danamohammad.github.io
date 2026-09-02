@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T21:17:49.418Z",
+  "generatedAt": "2026-09-02T05:01:40.018Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 7,
+      "count": 3,
       "error": null
     },
     {
@@ -75,6 +75,78 @@
     }
   ],
   "items": [
+    {
+      "title": "A Frequency-Aware Dynamic Knowledge Distillation Framework: An Effective Tool for Bridging Low- and High-Frequency Seismic Information",
+      "link": "https://arxiv.org/abs/2609.00828",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-02T04:00:00.000Z",
+      "excerpt": "arXiv:2609.00828v1 Announce Type: new Abstract: Seismic data contain rich information across different frequency bands, with low-frequency components primarily characterizing large-scale geological structures and high-fr…"
+    },
+    {
+      "title": "Addressing bedload flux variability due to grain shape effects and experimental channel geometry",
+      "link": "https://arxiv.org/abs/2404.07689",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-02T04:00:00.000Z",
+      "excerpt": "arXiv:2404.07689v5 Announce Type: replace Abstract: The study-to-study variability of bedload flux measurements in turbulent sediment transport borders an order of magnitude, even for idealized laboratory conditions. Thi…"
+    },
+    {
+      "title": "Backend-agnostic Julia framework for 3D modeling and inversion of gravity data",
+      "link": "https://arxiv.org/abs/2602.03857",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-02T04:00:00.000Z",
+      "excerpt": "arXiv:2602.03857v2 Announce Type: replace Abstract: This paper presents a high-performance framework for three-dimensional gravity modeling and inversion implemented in Julia, addressing key computational challenges asso…"
+    },
+    {
+      "title": "Community-led systems may curb illegal dumping in Indonesia's rural tourism areas",
+      "link": "https://phys.org/news/2026-09-community-curb-illegal-dumping-indonesia.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-02T03:00:01.000Z",
+      "excerpt": "Local action may offer a model for waste management in rural tourism, according to research published in the International Journal of Tourism Anthropology. The study of waste problems in Kampung Nipah, a coastal tourism…"
+    },
+    {
+      "title": "Border toy screening finds 12% exceed toxic-metal limits",
+      "link": "https://phys.org/news/2026-09-border-toy-screening-exceed-toxic.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-02T00:20:05.000Z",
+      "excerpt": "Nearly four out of five children's toys purchased in the El Paso-Ciudad Juárez region contain at least one toxic element, according to a new study led by researchers at The University of Texas at El Paso. The findings, j…"
+    },
+    {
+      "title": "To promote climate action, emotion may matter more than information",
+      "link": "https://phys.org/news/2026-09-climate-action-emotion.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T22:40:01.000Z",
+      "excerpt": "Every year, public authorities and nongovernmental organizations spend millions on communication campaigns designed to encourage people to take action on climate change. But which strategies work best? Should campaigns r…"
+    },
+    {
+      "title": "Salt of the Earth: How Egypt's coastal sabkhas tell a story of climate and change",
+      "link": "https://phys.org/news/2026-08-salt-earth-egypt-coastal-sabkhas.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T22:00:06.000Z",
+      "excerpt": "Have you ever walked across a salt flat so expansive it feels like another planet? That's what it's like standing in Egypt's coastal sabkhas—those otherworldly landscapes where the ground crunches beneath your feet and t…"
+    },
+    {
+      "title": "Canada's Labrador Shelf preserves climate records once thought erased by ice",
+      "link": "https://phys.org/news/2026-09-canada-labrador-shelf-climate-thought.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T21:40:05.000Z",
+      "excerpt": "The Labrador Shelf is a shallow marine area on the margin of the Labrador Sea in the North Atlantic off the east coast of Canada. During the last ice age, this region was covered by the Laurentide Ice Sheet, one of the l…"
+    },
+    {
+      "title": "Ocean heat waves linked with poorer health among children in coastal communities",
+      "link": "https://phys.org/news/2026-09-ocean-linked-poorer-health-children.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-01T21:20:01.000Z",
+      "excerpt": "Marine heat waves—periods of abnormally warm ocean temperatures—may have negative health effects on children who live in coastal communities in low- and middle-income countries, according to a study led by researchers at…"
+    },
     {
       "title": "Exposure to forever chemicals through sea spray may be overblown",
       "link": "https://phys.org/news/2026-09-exposure-chemicals-sea-spray-overblown.html",
@@ -124,52 +196,12 @@
       "excerpt": "Summer is prime iceberg season in Greenland's glacier-fed fjords, and 2026 was no exception. Especially notable was the berg that broke from Petermann Glacier along Greenland's northwest coast in August. Roughly the size…"
     },
     {
-      "title": "Warming winters weaken New Hampshire forest's carbon sink over 20 years",
-      "link": "https://phys.org/news/2026-09-winters-weaken-hampshire-forest-carbon.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-01T16:00:01.000Z",
-      "excerpt": "Can we count on forests to continue absorbing the carbon dioxide that's warming our world? A new study from researchers at NAU and the University of New Hampshire says ... maybe not."
-    },
-    {
-      "title": "Trawling threatens vital carbon stores in Scotland's sea lochs",
-      "link": "https://phys.org/news/2026-09-trawling-threatens-vital-carbon-scotland.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-01T15:40:04.000Z",
-      "excerpt": "New research from the University of St Andrews shows that disturbing seabed sediments through trawling could cause significant losses of carbon stored in Scotland's sea lochs. The study, published in Marine Environmental…"
-    },
-    {
-      "title": "Nepal's devastating floods won't be the last as the region's mountains heat up",
-      "link": "https://phys.org/news/2026-09-nepal-devastating-wont-region-mountains.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-01T14:40:09.000Z",
-      "excerpt": "On the morning of Aug. 26, a section of mountain near Langtang Lirung peak in Nepal suddenly collapsed."
-    },
-    {
-      "title": "Los Angeles Basin map shows deep sediments that could amplify earthquake shaking",
-      "link": "https://phys.org/news/2026-09-los-angeles-basin-deep-sediments.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-01T13:40:05.000Z",
-      "excerpt": "In computer simulations of the Big One—a large-magnitude earthquake that may occur along the San Andreas Fault in California—seismic waves ripple from the epicenter of a magnitude 7.8 earthquake near the Salton Sea into…"
-    },
-    {
       "title": "DNO agrees to acquire Capricorn Energy for $396m",
       "link": "https://www.offshore-technology.com/news/dno-agrees-to-acquire-capricorn-energy/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-09-01T13:26:52.000Z",
       "excerpt": "DNO has agreed to acquire the entire issued and to-be-issued share capital of UK-based Capricorn Energy in a deal valued at $396m."
-    },
-    {
-      "title": "Kaikōura erosion monitoring holds answers for world's rock coastlines",
-      "link": "https://phys.org/news/2026-09-kaikura-erosion-world-coastlines.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-01T12:40:03.000Z",
-      "excerpt": "Erosion rates on parts of the Kaikōura Peninsula more than doubled after the 2016 earthquake, showing major quakes can \"rapidly alter\" the way coastlines evolve, an Otago researcher says."
     },
     {
       "title": "A massive plume deep beneath Africa is pulling the continent apart",
@@ -196,76 +228,12 @@
       "excerpt": "US-based energy company Summit Midstream has announced that Double E Pipeline has completed its open season and made a final investment decision (FID) to proceed with a mainline compression expansion."
     },
     {
-      "title": "Eruption of Sinabung volcano on Indonesia's Sumatra island prompts higher alert",
-      "link": "https://phys.org/news/2026-09-eruption-sinabung-volcano-indonesia-sumatra.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-01T08:40:01.000Z",
-      "excerpt": "Mount Sinabung on Indonesia erupted Monday, spewing a column of black ash and smoke 3,500 meters (11,482 feet) from the top of the mountain into the sky over Sumatra island."
-    },
-    {
       "title": "US secures access for majority control of 65bbbl of Venezuelan oil",
       "link": "https://www.offshore-technology.com/news/us-majority-control-65bbbl-venezuelan-oil/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-09-01T08:16:53.000Z",
       "excerpt": "The US government, under President Donald Trump, has reached an agreement to secure majority control over approximately 65 billion barrels (bbbl) of proven oil reserves in Venezuela, following arrangements with interim V…"
-    },
-    {
-      "title": "Is Seismic Forecasting Possible with Physics-based AI?",
-      "link": "https://arxiv.org/abs/2608.30861",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-01T04:00:00.000Z",
-      "excerpt": "arXiv:2608.30861v1 Announce Type: new Abstract: Slow slip events within subduction zones offer a unique window into earthquake prediction. The subducting plate drives dehydration reactions in the fault, causing cyclical…"
-    },
-    {
-      "title": "Is the Atmosphere Really Such a Good Blanket?",
-      "link": "https://arxiv.org/abs/2608.29471",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-01T04:00:00.000Z",
-      "excerpt": "arXiv:2608.29471v1 Announce Type: cross Abstract: The incorrect application of the current methodology for treating and averaging Earth's surface temperatures has contributed to contradictions and misinterpretations in d…"
-    },
-    {
-      "title": "Ice-thickness based scaling of wave attenuation in sea ice: Application and assessment of wave spectra",
-      "link": "https://arxiv.org/abs/2608.30590",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-01T04:00:00.000Z",
-      "excerpt": "arXiv:2608.30590v1 Announce Type: cross Abstract: This study discusses recent advances in modeling waves in sea ice in the U.S. Navy's regional modeling system. It is applied in the marginal seas of the eastern Arctic Oc…"
-    },
-    {
-      "title": "Assessing foundational atomistic models for iron alloys under Earth's core conditions",
-      "link": "https://arxiv.org/abs/2605.13594",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-01T04:00:00.000Z",
-      "excerpt": "arXiv:2605.13594v2 Announce Type: replace Abstract: We assess the capability of recently developed foundational atomistic models (FAMs) to simulate iron alloys under the extreme pressures and temperatures of Earth's core…"
-    },
-    {
-      "title": "Magnetohydrodynamic drag on an oscillating sphere in a rotating spherical cavity",
-      "link": "https://arxiv.org/abs/2604.10594",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-01T04:00:00.000Z",
-      "excerpt": "arXiv:2604.10594v3 Announce Type: replace-cross Abstract: Oscillating-sphere drag is a classical fluid-mechanics problem, yet no theory simultaneously accounts for confinement, rotation, viscosity and magnetic fields. We…"
-    },
-    {
-      "title": "Effects of temperature-dependent material properties in coldwater Rayleigh-B\\'enard convection",
-      "link": "https://arxiv.org/abs/2604.24979",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-01T04:00:00.000Z",
-      "excerpt": "arXiv:2604.24979v3 Announce Type: replace-cross Abstract: Water exhibits an anomalous nonlinear density equation of state (EOS) as it approaches freezing, along with an increase in viscosity ($\\mu$) and a decrease in the…"
-    },
-    {
-      "title": "Free surfaces in turbulence -- A unified framework from water surfaces to elastic solids",
-      "link": "https://arxiv.org/abs/2605.23166",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-01T04:00:00.000Z",
-      "excerpt": "arXiv:2605.23166v2 Announce Type: replace-cross Abstract: What do the ocean surface and a swaying flag have in common? Both are deformable surfaces exhibiting chaotic motion when exposed to turbulent flows. Whether such…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4130: XGBoost-Based Intelligent Multi-Source Coordination in an Electric Vehicle Employing a Super-Boost Power Converter",
@@ -874,6 +842,38 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Simulation study of mass-heat transfer matching in gas-solid fluidized beds",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028942?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Mingzhu Lv, Pengfei Lu, Yunpeng Zhao, Zhihui Li, Lei Wu, Shaohua Wang, Shouzhuang Li, Chengxiu Wang, Xiaogang Shi, Jinsen Gao, Xingying Lan"
+    },
+    {
+      "title": "Counterflow premixed ammonia/air flame extinction limits at elevated temperatures and pressures",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027547?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): James F. Stevens, Rouzhou Fang, Benjamin Rees, Ian Pichs, Shannon Dunn, Paul Papas, Lance Smith, Chih-Jen Sung"
+    },
+    {
+      "title": "Construction of Ni 3 S 2 /NiFe-LDH heterostructure via in-situ sulfidation for enhanced electrocatalytic urea oxidation with overall water splitting",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028735?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part A Author(s): Feng Fu, Min Wang, Jili Ren, Jindou Hu, Zhenjiang Lu, Jing Xie, Yali Cao"
     }
   ]
 }
