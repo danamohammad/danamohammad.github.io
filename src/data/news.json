@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T21:14:27.263Z",
+  "generatedAt": "2026-09-03T04:59:59.000Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,54 @@
     }
   ],
   "items": [
+    {
+      "title": "TREMORS: An Agentic Assistant for Multi-Datacenter Seismic Data Acquisition",
+      "link": "https://arxiv.org/abs/2609.01777",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-03T04:00:00.000Z",
+      "excerpt": "arXiv:2609.01777v1 Announce Type: new Abstract: Seismology increasingly depends upon large data retrieval across multi-datacenter platforms. Yet, data procurement often demands domain expertise, user burden, and is diffi…"
+    },
+    {
+      "title": "Seismic quiescence and activation prior to the 2025 M8.8 Kamchatka, Russia earthquake",
+      "link": "https://arxiv.org/abs/2511.10750",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-03T04:00:00.000Z",
+      "excerpt": "arXiv:2511.10750v3 Announce Type: replace Abstract: The 2025 M8.8 Kamchatka earthquake in the Kamchatka-Kuril subduction system provides a unique opportunity to investigate the preparatory processes of a great subduction…"
+    },
+    {
+      "title": "Auditing Representation-Induced Geometry in Acoustic-Emission Fracture Transients",
+      "link": "https://arxiv.org/abs/2606.17061",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-03T04:00:00.000Z",
+      "excerpt": "arXiv:2606.17061v2 Announce Type: replace Abstract: Fixed convolutional representations can induce structured geometry in time-frequency data even without task-specific or source-domain training. We audit a previously re…"
+    },
+    {
+      "title": "Pacific islands to face food shortages due to global warming: Scientists",
+      "link": "https://phys.org/news/2026-09-pacific-islands-food-shortages-due.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-03T00:40:02.000Z",
+      "excerpt": "The Pacific islands will face food shortages, and drinking water will be affected by rising seas, scientists said Wednesday, as a U.N. report found the world would fail to limit global warming to 1.5°C."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4150: Mechanically Co-Optimized Piezoelectric&ndash;Electromagnetic&ndash;Triboelectric Hybrid Insole Energy Harvester for Self-Powered Wearable Electronics",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4150",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-03T00:00:00.000Z",
+      "excerpt": "Incorporating energy generated from regular human movement into wearable electronics offers a promising alternative to conventional batteries, enabling devices to power themselves by harvesting energy from motion and the…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2829: A&nbsp;Data-Driven Small-Signal Stable Operating Boundary Assessment Method for Grid-Connected Converter Systems",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2829",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-03T00:00:00.000Z",
+      "excerpt": "Some grid-connected converters in practice are &amp;ldquo;black-box&amp;rdquo; devices with proprietary internal structures and parameters, rendering traditional model-based stability assessment infeasible. To address th…"
+    },
     {
       "title": "Pyrograzing turns ordinary livestock into fire prevention heroes, so why isn't it used on public lands more often?",
       "link": "https://phys.org/news/2026-09-pyrograzing-ordinary-livestock-heroes-isnt.html",
@@ -164,14 +212,6 @@
       "excerpt": "Heat waves claimed the lives of tens of thousands of people in Europe's capital cities this summer as they experienced record temperatures."
     },
     {
-      "title": "German cities reveal warmer nights in districts with more non-German residents",
-      "link": "https://phys.org/news/2026-09-german-cities-reveal-warmer-nights.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-02T15:20:01.000Z",
-      "excerpt": "Urban heat adaptation will gain in importance as climate change progresses. Researchers at the Karlsruhe Institute of Technology (KIT) have analyzed how sociodemographic factors (nationality, age, and rent) correlate wit…"
-    },
-    {
       "title": "Santos begins seawater injection at Pikka oil project in Alaska",
       "link": "https://www.offshore-technology.com/news/santos-seawater-injection-pikka-oil-project/",
       "source": "Offshore Technology",
@@ -210,30 +250,6 @@
       "category": "industry",
       "published": "2026-09-02T07:56:45.000Z",
       "excerpt": "Comstock Resources has signed a letter of intent (LoI) with the State Oil Company of the Azerbaijan Republic (SOCAR) for the sale of stakes in its Haynesville shale assets in the US and a midstream subsidiary."
-    },
-    {
-      "title": "A Frequency-Aware Dynamic Knowledge Distillation Framework: An Effective Tool for Bridging Low- and High-Frequency Seismic Information",
-      "link": "https://arxiv.org/abs/2609.00828",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-02T04:00:00.000Z",
-      "excerpt": "arXiv:2609.00828v1 Announce Type: new Abstract: Seismic data contain rich information across different frequency bands, with low-frequency components primarily characterizing large-scale geological structures and high-fr…"
-    },
-    {
-      "title": "Addressing bedload flux variability due to grain shape effects and experimental channel geometry",
-      "link": "https://arxiv.org/abs/2404.07689",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-02T04:00:00.000Z",
-      "excerpt": "arXiv:2404.07689v5 Announce Type: replace Abstract: The study-to-study variability of bedload flux measurements in turbulent sediment transport borders an order of magnitude, even for idealized laboratory conditions. Thi…"
-    },
-    {
-      "title": "Backend-agnostic Julia framework for 3D modeling and inversion of gravity data",
-      "link": "https://arxiv.org/abs/2602.03857",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-02T04:00:00.000Z",
-      "excerpt": "arXiv:2602.03857v2 Announce Type: replace Abstract: This paper presents a high-performance framework for three-dimensional gravity modeling and inversion implemented in Julia, addressing key computational challenges asso…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4149: A High-Resolution Solar-Plus-Storage Capacity Sizing Methodology: Open-Access Framework and Demonstration for Winnipeg, Canada",
@@ -322,14 +338,6 @@
       "category": "energy",
       "published": "2026-09-02T00:00:00.000Z",
       "excerpt": "This study integrates disruption propagation and inventory buffer allocation into a unified analytical framework and develops a transport-energy performance model (TEPM) for intermodal supply chains operating within smar…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4138: Construction of Ring-Bridge Archipelago Model of Oil Sands Bitumen Based on Molecular Simulation and Study on Its Pyrolysis Characteristic",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4138",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-02T00:00:00.000Z",
-      "excerpt": "To efficiently utilize oil sands resources, enhance their strategic position among traditional energy sources, and deeply reveal the essence of the pyrolysis reaction of oil sands bitumen (OSB), this study integrates exp…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2828: Skiving of Spur Face Gears and Verification of Meshing Performance of Modified Gear Pair",
@@ -458,14 +466,6 @@
       "category": "processing",
       "published": "2026-09-01T00:00:00.000Z",
       "excerpt": "Fractured shale oil reservoirs possess ultra-tight matrix pores and suffer unsatisfactory oil recovery under conventional exploitation, while systematic comparisons among CO2 flooding, CO2/CH4 mixed gas flooding, and mul…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2817: Study on the Chemical Dissolution Behavior of Clay Minerals Under CO2+O2 In Situ Leaching Conditions for Uranium Recovery",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2817",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-01T00:00:00.000Z",
-      "excerpt": "The accumulation of dissolved species during the in situ leaching (ISL) of uranium can lead to ore-layer blockage and reduced production capacity. Clay minerals, including montmorillonite, chlorite, kaolinite, and illite…"
     },
     {
       "title": "ONEOK to buy Permian assets from Brazos Midstream in $4.425bn deal",
