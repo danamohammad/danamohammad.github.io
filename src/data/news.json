@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T21:18:13.579Z",
+  "generatedAt": "2026-09-04T05:02:40.809Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -75,6 +75,70 @@
     }
   ],
   "items": [
+    {
+      "title": "PSDWII: Physical-Structure-Driven Waveform Inversion Imaging",
+      "link": "https://arxiv.org/abs/2609.03380",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-04T04:00:00.000Z",
+      "excerpt": "arXiv:2609.03380v1 Announce Type: new Abstract: This paper proposes a Physical-Structure-Driven Waveform Inversion Imaging framework (PSDWII), grounded in the recognition that surface-recorded seismic data are directly r…"
+    },
+    {
+      "title": "Cold Extremes during Dansgaard-Oeschger Oscillations",
+      "link": "https://arxiv.org/abs/2609.03664",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-04T04:00:00.000Z",
+      "excerpt": "arXiv:2609.03664v1 Announce Type: cross Abstract: This paper studies the statistics of extreme cold air surface temperatures in a climate that experiences abrupt changes. We employ a CCSM4 simulation of Last Glacial Maxi…"
+    },
+    {
+      "title": "France recorded 'hottest summer ever': Environment minister",
+      "link": "https://phys.org/news/2026-09-france-hottest-summer-environment-minister.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-04T01:00:03.000Z",
+      "excerpt": "France experienced its hottest summer on record in 2026, marked by heat waves, drought and massive wildfires, the environment minister said Thursday."
+    },
+    {
+      "title": "How El Nino is choking the Panama Canal",
+      "link": "https://phys.org/news/2026-09-el-nino-panama-canal.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-04T00:20:05.000Z",
+      "excerpt": "The Panama Canal will restrict the number of vessels transiting the crucial waterway from Friday for only the second time because of drought caused by the El Niño climate phenomenon."
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2837: Experimental Study on Temperature&ndash;Pressure Coupling Sensitivity and Burial Depth Response of Coal Permeability",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2837",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-04T00:00:00.000Z",
+      "excerpt": "The coupled effect of in situ temperature and stress complicates the permeability evolution of coal reservoirs, which restricts the exploration and evaluation of deep coalbed methane (CBM). Two high-rank coal samples wer…"
+    },
+    {
+      "title": "Iron helped scientists trace Earth's oxygen. Now it's telling a bigger story",
+      "link": "https://phys.org/news/2026-09-iron-scientists-earth-oxygen-bigger.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-03T22:30:05.000Z",
+      "excerpt": "For decades, scientists have studied iron preserved in ancient rocks to reconstruct how Earth's oceans and atmosphere became rich in oxygen. A new study suggests iron has recorded other major transformations too."
+    },
+    {
+      "title": "Satellites spot forest stress two years before bark beetle die-offs become apparent",
+      "link": "https://phys.org/news/2026-09-satellites-forest-stress-years-bark.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-03T22:10:05.000Z",
+      "excerpt": "Satellite measurements detected declining photosynthetic activity in Western U.S. forests two years before bark beetle mortality appeared in aerial detection surveys, according to new University of Utah-led research."
+    },
+    {
+      "title": "The Arctic melt season is a week longer now than it was in the 1980s, new research on sea ice trends shows",
+      "link": "https://phys.org/news/2026-09-arctic-season-week-longer-1980s.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-03T22:00:06.000Z",
+      "excerpt": "Relatively few people have been to the Arctic, and even fewer have set foot in Antarctica. Most people rely on imagination and the media to visualize these landscapes and the ways they are changing."
+    },
     {
       "title": "Antarctic expedition reveals why Southern Ocean clouds remain one of climate science's greatest challenges",
       "link": "https://phys.org/news/2026-09-antarctic-reveals-southern-ocean-clouds.html",
@@ -132,46 +196,6 @@
       "excerpt": "For insurers and operators alike, what grows under a solar array is almost as important as what sits on top of it. Grass height, moisture and biomass all influence how a site is insured, maintained and grazed."
     },
     {
-      "title": "Viking South positioned to support industrial renewal in the Humber, report says",
-      "link": "https://phys.org/news/2026-09-viking-south-positioned-industrial-renewal.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-03T16:00:04.000Z",
-      "excerpt": "A study published today by the Geological Society and led by the University of Aberdeen concludes that the Viking South gas field has the geological suitability, proven containment integrity and operational readiness nee…"
-    },
-    {
-      "title": "How underwater 'booms' could provide earlier warning of deadly volcanic tsunamis",
-      "link": "https://phys.org/news/2026-09-underwater-booms-earlier-deadly-volcanic.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-03T15:40:04.000Z",
-      "excerpt": "The massive January 2022 eruption of Hunga volcano in the Kingdom of Tonga took the world by surprise."
-    },
-    {
-      "title": "Heathrow expansion incompatible with UK legal climate targets, major report finds",
-      "link": "https://phys.org/news/2026-09-heathrow-expansion-incompatible-uk-legal.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-03T15:20:06.000Z",
-      "excerpt": "There is no credible scenario in which expansion at Heathrow can go ahead without blowing a hole in the UK's legally binding climate targets, new modeling published today by the Tyndall Centre for Climate Change Research…"
-    },
-    {
-      "title": "How cities can use rain gardens to help prevent flooding",
-      "link": "https://phys.org/news/2026-09-cities-gardens.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-03T14:40:05.000Z",
-      "excerpt": "Canada's capital, Ottawa, was bombarded with 167 millimeters (6.6 inches) of rain in five hours earlier this summer in what the city called a 1-in-200-year event. Close to 5,800 reports of basement flooding followed, and…"
-    },
-    {
-      "title": "Scientists race to measure wildfire damage to UK soils",
-      "link": "https://phys.org/news/2026-09-scientists-wildfire-uk-soils.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-03T14:00:01.000Z",
-      "excerpt": "The summer of 2026 has brought one of the UK's most severe wildfire seasons in recent years, fueled by extreme heat and exceptionally dry conditions. More than 500 fires were recorded across the country in July alone, af…"
-    },
-    {
       "title": "Diversified strikes $1.8bn deal for Permian operator Birch",
       "link": "https://www.offshore-technology.com/news/diversified-permian-operator-birch/",
       "source": "Offshore Technology",
@@ -210,30 +234,6 @@
       "category": "industry",
       "published": "2026-09-03T07:59:15.000Z",
       "excerpt": "Chevron has agreed updated terms with Venezuela for its JVs, paving the way for investments of more than $7bn over the next five years."
-    },
-    {
-      "title": "TREMORS: An Agentic Assistant for Multi-Datacenter Seismic Data Acquisition",
-      "link": "https://arxiv.org/abs/2609.01777",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-03T04:00:00.000Z",
-      "excerpt": "arXiv:2609.01777v1 Announce Type: new Abstract: Seismology increasingly depends upon large data retrieval across multi-datacenter platforms. Yet, data procurement often demands domain expertise, user burden, and is diffi…"
-    },
-    {
-      "title": "Seismic quiescence and activation prior to the 2025 M8.8 Kamchatka, Russia earthquake",
-      "link": "https://arxiv.org/abs/2511.10750",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-03T04:00:00.000Z",
-      "excerpt": "arXiv:2511.10750v3 Announce Type: replace Abstract: The 2025 M8.8 Kamchatka earthquake in the Kamchatka-Kuril subduction system provides a unique opportunity to investigate the preparatory processes of a great subduction…"
-    },
-    {
-      "title": "Auditing Representation-Induced Geometry in Acoustic-Emission Fracture Transients",
-      "link": "https://arxiv.org/abs/2606.17061",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-03T04:00:00.000Z",
-      "excerpt": "arXiv:2606.17061v2 Announce Type: replace Abstract: Fixed convolutional representations can induce structured geometry in time-frequency data even without task-specific or source-domain training. We audit a previously re…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4178: Patent Entropy and Spatial Governance: Innovation Dynamics and Institutional Legacy of Clean Energy in China&rsquo;s Northeastern Old Industrial Base",
@@ -458,14 +458,6 @@
       "category": "processing",
       "published": "2026-09-02T00:00:00.000Z",
       "excerpt": "Next-generation waste degradation and valorization technologies are increasingly developed as integrated platforms for pollutant removal, resource recovery, and circular manufacturing. This review critically evaluates de…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2825: Effect of Relative Humidity on DEM Contact Parameter Calibration for Lanthanum Oxide Powder",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2825",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-02T00:00:00.000Z",
-      "excerpt": "Lanthanum oxide (La2O3) powder is widely used in optical, catalytic, and ceramic applications, but its flowability is highly sensitive to ambient humidity, and reliable discrete element method (DEM) contact parameters un…"
     },
     {
       "title": "A massive plume deep beneath Africa is pulling the continent apart",
@@ -874,6 +866,14 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Kasra Pirzadeh, Sanaz Daneshmand-Jahromi, Nancy Chou, Robert A. Marriott, Nader Mahinpey"
+    },
+    {
+      "title": "Accelerated surface reconstruction via a controllable boronization strategy for efficient water oxidation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029303?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Wankun Li, Meijia Liu, Shuo Zheng, Yongjia Li, Yujia Liu, Lin Wu, Shuai Chen, Lixiang Li, Chengguo Sun, Han Zhang, Baigang An"
     }
   ]
 }
