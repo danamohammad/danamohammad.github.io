@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T21:00:43.146Z",
+  "generatedAt": "2026-09-05T04:54:21.739Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 2,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 4200: Coupled Thermo-Hydro-Mechanical Modeling of CO2 Leakage Through a Micro-Annulus in an Abandoned Wellbore",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4200",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-05T00:00:00.000Z",
+      "excerpt": "Abandoned wells pose a significant leakage risk for geological carbon (CO2) storage because defects at the casing&amp;ndash;cement interface can create preferential pathways for upward CO2 migration. Although thermo-hydr…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4201: Integrated Offshore Oil and Gas&ndash;Renewable Energy Systems for China&rsquo;s Low-Carbon Transition: Coupling Pathways and Integration Challenges",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4201",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-05T00:00:00.000Z",
+      "excerpt": "Driven by China&amp;rsquo;s carbon peaking and carbon neutrality goals and the low-carbon transition of offshore oil and gas operations, the integration of offshore oil and gas with wind, solar, marine, and hydrogen ener…"
+    },
+    {
+      "title": "Deadly floods of 2021—Researchers identify gaps in hazard mapping",
+      "link": "https://phys.org/news/2026-09-deadly-gaps-hazard.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-04T23:40:01.000Z",
+      "excerpt": "The catastrophic flooding in July 2021 claimed the lives of more than 200 people in Germany and Belgium. The high death toll makes it clear that hazard mapping and risk communication must be improved urgently. Researcher…"
+    },
+    {
+      "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
+      "link": "https://phys.org/news/2026-09-tune-arctic-ice-communication.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-04T22:20:01.000Z",
+      "excerpt": "Beneath the Arctic Ocean is an orchestra featuring natural and human composers, from cracking sea ice and whistling beluga whales to humming shipping-vessel engines. Researchers from MIT Lincoln Laboratory heard some of…"
+    },
     {
       "title": "Shoreline scavenger shows biological effects after eating plastic foam",
       "link": "https://phys.org/news/2026-09-shoreline-scavenger-biological-effects-plastic.html",
@@ -164,22 +196,6 @@
       "excerpt": "Bass Oil has confirmed the identification of oil pay in three separate reservoirs at its Bunian 6 well in Indonesia’s South Sumatra Basin."
     },
     {
-      "title": "Orange hydrogen: Could Western Australia's rocks help power a low-carbon future?",
-      "link": "https://phys.org/news/2026-09-orange-hydrogen-western-australia-power.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-04T12:00:06.000Z",
-      "excerpt": "Deep beneath parts of Western Australia, injecting CO2-rich water into iron-rich rocks may offer an unexpected opportunity for both clean energy production and carbon storage."
-    },
-    {
-      "title": "Malaysia declares haze emergency in Sarawak state on Borneo",
-      "link": "https://phys.org/news/2026-09-malaysia-declares-haze-emergency-sarawak.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-04T11:20:01.000Z",
-      "excerpt": "Malaysia declared an emergency in the Serian division of its Sarawak state on Borneo after hazardous haze from fires in neighboring Indonesia drove air pollution to critical levels, the Prime Minister's Office said."
-    },
-    {
       "title": "Sea Lion partners face Argentine sanctions push over Falklands oil",
       "link": "https://www.offshore-technology.com/news/sea-lion-argentine-sanctions-falklands-oil/",
       "source": "Offshore Technology",
@@ -202,22 +218,6 @@
       "category": "industry",
       "published": "2026-09-04T07:40:37.000Z",
       "excerpt": "Williams has acquired Momentum Midstream, adding more than 4,000 miles of Haynesville gathering and transmission pipe."
-    },
-    {
-      "title": "PSDWII: Physical-Structure-Driven Waveform Inversion Imaging",
-      "link": "https://arxiv.org/abs/2609.03380",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-04T04:00:00.000Z",
-      "excerpt": "arXiv:2609.03380v1 Announce Type: new Abstract: This paper proposes a Physical-Structure-Driven Waveform Inversion Imaging framework (PSDWII), grounded in the recognition that surface-recorded seismic data are directly r…"
-    },
-    {
-      "title": "Cold Extremes during Dansgaard-Oeschger Oscillations",
-      "link": "https://arxiv.org/abs/2609.03664",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-04T04:00:00.000Z",
-      "excerpt": "arXiv:2609.03664v1 Announce Type: cross Abstract: This paper studies the statistics of extreme cold air surface temperatures in a climate that experiences abrupt changes. We employ a CCSM4 simulation of Last Glacial Maxi…"
     },
     {
       "title": "Deep beneath Mars, scientists find a vast hidden magma system",
@@ -306,22 +306,6 @@
       "category": "energy",
       "published": "2026-09-04T00:00:00.000Z",
       "excerpt": "Dry anaerobic digestion (DAD) is increasingly recognized as a promising waste-to-energy pathway for treating high-solids organic wastes. However, the extent to which the contemporary peer-reviewed literature addresses co…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4189: The Spatial Spillover Effect of the Energy Use Rights Trading Policy on Urban Green Total-Factor Energy Efficiency",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4189",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "Sustained enhancement of energy utilization efficiency constitutes a pivotal lever for achieving dual carbon goals. To examine both the local effects and spatial spillovers of the Energy-use Rights Trading System (ERTS)…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4188: Regional Role Matching and Energy Temporal Coupling-Based Coordinated Dispatch of Multiple Pumped Storage Plants Under Zonal Transmission Constraints",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4188",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "Although large-scale wind and solar power provide green electricity, their intermittency and reverse-peak characteristics pose severe challenges to the secure operation of power systems. Pumped storage hydropower (PSH),…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2850: Natural Deep Eutectic Solvents as Innovative Multifunctional Ingredients in Cosmetic Formulations: Scaling up from Lab to Industry",
@@ -874,6 +858,22 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Xingping Kai, Hanjie Zhang, Tao Zhang, Tianhua Yang, Lesheng Wang, Jiaxing Xu, Bingshuo Li, Rundong Li"
+    },
+    {
+      "title": "Hollow microspheres with CoP/MoCoO heterointerfaces for enhancing the hydrogen storage performance of NaBH 4",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028553?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Siyi Gao, Ming Yang, Fuying Wu, Kai Jia, Liuting Zhang"
+    },
+    {
+      "title": "Optimization of process variables for CO 2 /CH 4 and CO 2 /N 2 binary gas separation using dual-layer hollow fiber mixed-matrix membrane",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027511?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Muhammad Hamad Zeeshan, Yin Fong Yeong, Thiam Leng Chew"
     }
   ]
 }
