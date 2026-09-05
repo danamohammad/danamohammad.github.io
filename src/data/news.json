@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T10:53:41.871Z",
+  "generatedAt": "2026-09-05T15:29:55.557Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
       "ok": true,
-      "count": 93,
+      "count": 94,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
     {
       "name": "International Journal of Greenhouse Gas Control",
       "ok": true,
-      "count": 82,
+      "count": 65,
       "error": null
     },
     {
@@ -75,6 +75,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Lakes aren't just storing water—they're changing the carbon cycle",
+      "link": "https://phys.org/news/2026-08-lakes-theyre-carbon.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-05T12:20:01.000Z",
+      "excerpt": "Lakes may look like picturesque stopping points along a river or stream, but they can have a big influence on what happens to carbon as it moves through a landscape. New research suggests that the more lake-rich a networ…"
+    },
+    {
+      "title": "Ocean indicators NOAA scientists are tracking for El Niño's arrival on the West Coast",
+      "link": "https://phys.org/news/2026-09-ocean-indicators-noaa-scientists-tracking.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-05T11:40:01.000Z",
+      "excerpt": "Has El Niño reached the West Coast? You might think it has. After all, the ocean off Southern and Central California is unusually warm. But that warmth is from a recent marine heat wave that predates the current El Niño.…"
+    },
+    {
+      "title": "New method predicts where massive earthquakes will strike",
+      "link": "https://phys.org/news/2026-09-method-massive-earthquakes.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-05T11:00:04.000Z",
+      "excerpt": "UC Riverside scientists have developed a way to identify where Earth's biggest earthquakes are most likely to occur, offering a powerful new tool for improving disaster preparation in some of the most dangerous seismic r…"
+    },
+    {
+      "title": "How haze from Indonesian fires impacts Southeast Asia",
+      "link": "https://phys.org/news/2026-09-haze-indonesian-impacts-southeast-asia.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-05T11:00:01.000Z",
+      "excerpt": "Thick smog has blanketed parts of Indonesia as the vast archipelago battles fires that have burned large swaths of Borneo and Sumatra for weeks."
+    },
     {
       "title": "Indonesia rescues second orangutan mother and baby from wildfire",
       "link": "https://phys.org/news/2026-09-indonesia-orangutan-mother-baby-wildfire.html",
@@ -218,38 +250,6 @@
       "category": "geoscience",
       "published": "2026-09-04T16:20:05.000Z",
       "excerpt": "Two massive rock glaciers are creeping down mountain valleys in Alaska's Wrangell–St. Elias National Park. They sit only a few miles apart and formed under the same sky. One moves more than 5 feet (1.5 meters) a year. Th…"
-    },
-    {
-      "title": "Physics-informed AI improves predictions of how critical minerals move through rock",
-      "link": "https://phys.org/news/2026-09-physics-ai-critical-minerals.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-04T16:00:05.000Z",
-      "excerpt": "The key to finding more critical minerals may lie in understanding how fluids and chemicals move through rock. As these fluids travel underground, they can dissolve, transport and concentrate valuable minerals in specifi…"
-    },
-    {
-      "title": "As global heating heads to 1.8°C, is it time to consider the 'Voldemort' of climate policy?",
-      "link": "https://phys.org/news/2026-09-global-18c-voldemort-climate-policy.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-04T16:00:01.000Z",
-      "excerpt": "The world is set to miss the 1.5°C global warming target, and plans are underway for U.N. climate talks in the Pacific and Turkey."
-    },
-    {
-      "title": "Record European fires burn over 500,000 hectares during summer",
-      "link": "https://phys.org/news/2026-09-european-hectares-summer.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-04T15:41:18.000Z",
-      "excerpt": "A record-breaking summer that saw more than 1,000 wildfires has torched some 540,000 hectares (1.3 million acres) of land across the European Union since mid-June, according to official data—an area more than twice the s…"
-    },
-    {
-      "title": "Hiking canyons can quickly turn deadly when storms hit—what you should know before going in",
-      "link": "https://phys.org/news/2026-09-hiking-canyons-quickly-deadly-storms.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-04T15:40:04.000Z",
-      "excerpt": "Hiking a picturesque valley or climbing a craggy gorge are among the most exhilarating experiences in nature. As a geologist, I have hiked and climbed some of the most intense terrain in the world, including in the Andes…"
     },
     {
       "title": "Bass Oil confirms new oil pay at Bunian 6 in Indonesia",
@@ -636,6 +636,46 @@
       "excerpt": "Researchers found that a Chinese sodium-ion battery performs far better than expected, with production quality and design features comparable to Tesla’s batteries. If engineers can improve cold-weather charging and energ…"
     },
     {
+      "title": "A comprehensive review on multidimensional resource utilization of depleted oil and gas reservoirs: From abandonment to rebirth",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004343?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Houfeng He, Yun Han, Yifei Guo, Shun Liu, Shibao Yuan, Jianbin Liu, Xin Chen, Pengcheng Liu"
+    },
+    {
+      "title": "Aseismic fault-valve leakage and hydraulic memory during underground gas storage",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004392?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Yun Liu, Bin Xu, Yuyun Yang, Famu Huang"
+    },
+    {
+      "title": "Long-term underground hydrogen storage well integrity: Experimental investigation of aged cement",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004410?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Athar Hussain, Hossein Emadi, Sugan Raj Thiyagarajan, Diana Maury Fernandez, Ion Ispas, Marshall Watson"
+    },
+    {
+      "title": "Predicting cement-slurry drainage and plugging risk during gravity dump-bailing for well abandonment",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004306?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): S. Akbari, M. Faramarzi, M. Imbert, I.A. Frigaard, S.M. Taghavi"
+    },
+    {
+      "title": "Genetic mechanisms of deep geothermal resources in the “uplift within depression” structure of Tianjin Binhai Geothermal Field, China",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004276?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Yongxiang Tang, Jie Dong, Wanqing Cheng, Bowen Xu, Chuanjie Zhao, Jie Liu, Yuanyuan Li, Xuemei Zhang"
+    },
+    {
       "title": "Geometric design and long-term operational stability analysis of salt cavern gas storage in bedded salt formations",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004288?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -690,46 +730,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): G. Hema, S.P. Maurya, Ravi Kant, Ajay P. Singh"
-    },
-    {
-      "title": "Injection sequence optimization in CO 2 –Water synergy fracturing: Multiscale experimental insights from the jimsar shale reservoir",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026003994?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Longqiao Hu, Weiyu Tang, Kuangchen Jing, Weibo Ni, Xiaoyu Zheng, Yipeng Zhong, Fujian zhou, Xiongfei Liu"
-    },
-    {
-      "title": "Study on the integrity of heterogeneous caprock in volcanic gas reservoir storage: a case study of SP gas storage field",
-      "link": "https://www.sciencedirect.com/science/article/pii/S294989102600357X?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Chen Wang, Shanpo Jia, Haiyan Zhu, Xuanhe Tang, Jun Zhou"
-    },
-    {
-      "title": "Time-dependent strain evolution and mechanisms of oil-saturated shale during CO 2 injection",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004264?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Xiang Ao, Yu Wang, Honglian Li, Zhaohui Lu, Zhezhi Liu, Zuping Xiang"
-    },
-    {
-      "title": "Enhanced geothermal system potential in shales: thermal-hydraulic-chemical reactive transport modeling in the Utica-Point Pleasant",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004240?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): John C. Barton, Samuel Bowman, Arkajyoti Pathak, Shikha Sharma"
-    },
-    {
-      "title": "Fiber-reinforced cement slurries for subsurface energy applications: A review of rheology, flow behavior, and mechanical performance",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004112?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: December 2026 Source: Geoenergy Science and Engineering, Volume 267 Author(s): Navid Alipour, Mohsen Faramarzi, S.M. Taghavi"
     },
     {
       "title": "A review of vertical closed-loop geothermal heating and cooling systems with an Emphasis on the importance of the subsurface",
@@ -828,52 +828,52 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
-      "title": "Temperature-dependent mechanistic switching in Mn-based bimetallic catalysts for NH 3 -SCR revealed by data-driven analysis",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029777?dgcid=rss_sd_all",
+      "title": "The effects of oxygen addition and nitrogen dilution on soot formation in PRF80 laminar diffusion flames",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029157?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Ping Wen, Wenhao Duan, Huanran Wang, Hao Chen, Xianchun Li"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Binyang Hu, Hongyan Li, Liang Qiu"
     },
     {
-      "title": "Study on coalbed methane desorption induced by water infiltration in closed mines",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602702X?dgcid=rss_sd_all",
+      "title": "Comprehensive performance assessment of proton exchange membrane fuel cells with fractal gas distribution zones and non-aligned wavy gas-cooling channels",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029947?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Junbo Zhang, Biming Shi, Yuehui Liang, Qijun Han, Yongxin Sun, Shihao Chen, Ximao Zhai, Ting Zong, Xuanyu Li, Taojie Zhang"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Fanfang Meng, Shuaishuai Wang, Haiping Wang, Qiming Li, Haoyan Fang, Jing Cao, Qingshan Liu, Yong Zhang"
     },
     {
-      "title": "Supercritical hydrothermal staged combustion: study on extinction characteristics and combustion mechanism",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029753?dgcid=rss_sd_all",
+      "title": "Emission reduction through fuel staging in a three-stage tangential flow ammonia combustor",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029601?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Zicheng Li, Shuzhong Wang, Yanhui Li, Yijun Chen, Jiaying Li, Jie Zhang, Wenjin Zhang"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): M. Srinivasarao, Gadi Udaybhanu, Giancarlo Sorrentino, Mara de Joannon, Sudarshan Kumar, Bok Jik Lee, William L Roberts, V.Mahendra Reddy"
     },
     {
-      "title": "Ex-situ catalytic pyrolysis of lignin over derived biochar catalysts into the typical components of sustainable aviation fuels: Effects of single transition metals on aromatic hydrocarbon generation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026736?dgcid=rss_sd_all",
+      "title": "Modification of coal tar with turpentine for the production of a coal–biomass hybrid high-density fuel",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029856?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Xingping Kai, Hanjie Zhang, Tao Zhang, Tianhua Yang, Lesheng Wang, Jiaxing Xu, Bingshuo Li, Rundong Li"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Jiabin Zheng, Menglong Niu, Hanbin Zhong, Ben Niu, Baoqi Ma, Chunbao Xu"
     },
     {
-      "title": "Hollow microspheres with CoP/MoCoO heterointerfaces for enhancing the hydrogen storage performance of NaBH 4",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126028553?dgcid=rss_sd_all",
+      "title": "Mechanism of pressurised pyrolysis of Australian brown coal for hydrogen-rich syngas formation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602973X?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Siyi Gao, Ming Yang, Fuying Wu, Kai Jia, Liuting Zhang"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Quan Sun, Salman Khoshk Rish, Jianglong Yu, Arash Tahmasebi"
     },
     {
-      "title": "Optimization of process variables for CO 2 /CH 4 and CO 2 /N 2 binary gas separation using dual-layer hollow fiber mixed-matrix membrane",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027511?dgcid=rss_sd_all",
+      "title": "Chemical looping and conventional partial oxidation of methane for syngas production: A comparative thermodynamic and techno-economic assessment",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027523?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Muhammad Hamad Zeeshan, Yin Fong Yeong, Thiam Leng Chew"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Puneeth Tuppaturi, Aashlesha Chekkala, Srinivas Krishnaswamy, R.S. Jha"
     }
   ]
 }
