@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T05:02:58.129Z",
+  "generatedAt": "2026-09-06T11:18:38.567Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,110 @@
   ],
   "items": [
     {
+      "title": "Haze emergency grips Malaysian Borneo town",
+      "link": "https://phys.org/news/2026-09-haze-emergency-malaysian-borneo-town.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-06T07:31:35.000Z",
+      "excerpt": "Acrid smoke hung heavily over the Malaysian town of Serian, seeping into homes and cloaking roadside stalls, as residents navigated an air-quality emergency fueled by transboundary haze from Indonesia's raging fires."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4217: Experimental Investigation of Water-in-Oil Emulsions on Viscosity and Gas Exsolution Behavior of Heavy Oil Under CCEC Conditions",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4217",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "Water-in-oil (W/O) emulsions are commonly encountered during heavy oil production, yet their effects on fluid rheology and gas exsolution behavior remain poorly characterized. This study systematically investigates how t…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4216: Reducing Air Pollution in Rural Areas with Hybrid Heat Pump Supported by Biomass Boiler",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4216",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "The widespread deployment of low-carbon technologies in households is increasing the need to reduce peak electricity demand on distribution grids. Air-source heat pumps (ASHPs) are efficient heating units, but their perf…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4214: Energy-Efficiency Actions in Food Cold Chains: A Systematic Review of Refrigeration, Logistics, Digital Monitoring and Collaborative Implementation",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4214",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "Food cold chains rely on refrigeration, cold storage, refrigerated transport, packaging and monitoring systems that consume electricity and fuel while preserving food safety, quality and shelf life. Although many studies…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4211: Preliminary Technical and Pumping-Energy Assessment of an Underground Pumped-Storage Hydropower System Using a Post-Mining Shaft as the Lower Reservoir",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4211",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "The reuse of post-mining infrastructure for pumped-storage hydropower may reduce new underground construction while supporting the repurposing of decommissioned mines. This study presents a site-specific preliminary tech…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4215: Energy Consumption Management of Intelligent Production Buildings Within the Supply Chain Ecosystem of Smart City Manufacturing and Service Clusters: A Knowledge-Driven Coordination Approach",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4215",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "The supply chain ecosystem (SCE) operating within an urban environment is characterised by continuous interactions among manufacturing, logistics, service, information, and energy flows across multiple smart city manufac…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4213: A Time-Decoupled PWM Implementation Architecture Based on Predictive Duty-Cycle Sequences for High-Switching-Frequency Three-Phase Buck Rectifiers",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4213",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "High-switching-frequency operation substantially reduces the available time for sampling, control computation, modulation mapping, PWM-register updating, and auxiliary interrupt operations in digitally controlled three-p…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4212: Failure Mode, Effects, and Criticality Analysis (FMECA)-Based Fault Diagnosis of a High-Voltage Disconnect Switch",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4212",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "High-voltage disconnect switches (HVDSs) are crucial for ensuring visible electrical isolation but often operate under challenging environmental conditions. While current monitoring methods can detect faults, simply iden…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4209: Physics-Informed Decoupled Machine Learning for Context-Aware EV Range Optimization and Multi-Objective Driver Advisory",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4209",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "Auxiliary heating, ventilation, and air conditioning (HVAC) systems can reduce electric vehicle (EV) driving range by over 20%, yet prevailing machine learning estimators often suffer from temporal data leakage, uninterp…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4208: Adaptive Thermal Comfort and Skin Moisture Sensation of Occupants During Summer in Naturally Ventilated Urban Dwellings with the Potential to Lower Cooling Energy Demand",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4208",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "Adaptive thermal comfort is essential for understanding occupants&amp;rsquo; responses to indoor thermal environments in residential buildings. However, field studies on adaptive thermal comfort in urban dwellings in Nep…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4210: Enhancing Frequency Stability in Renewable Energy Microgrids Using Electric Vehicles with V2G Technology",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4210",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "Grid-connected electric vehicles (EVs) function as distributed loads or energy storage units. The integration of electric vehicles (EVs) into microgrids can provide various services, including ancillary services, active…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2854: Separation of Glycerides from Algal Lipid Extract Using Preparative Chromatography",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2854",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "Crude vegetable oils contain, in addition to glycerides, a range of co-extracted compounds whose composition depends strongly on the biological source. Their removal typically requires multi-stage refining, increasing pr…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2853: Molecular Dynamics Study on the Effect of Calcite Deposition on the Interfacial Bonding Performance Between Shotcrete and Surrounding Rock",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2853",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "During the service life of karst tunnels, groundwater containing Ca2+ and CO32&amp;minus; can migrate along the shotcrete&amp;ndash;surrounding rock interface and induce calcite deposition, thereby changing the interfaci…"
+    },
+    {
       "title": "Lakes aren't just storing water—they're changing the carbon cycle",
       "link": "https://phys.org/news/2026-08-lakes-theyre-carbon.html",
       "source": "Phys.org — Earth",
@@ -130,54 +234,6 @@
       "category": "energy",
       "published": "2026-09-05T00:00:00.000Z",
       "excerpt": "The increasing adoption of Retrieval-Augmented Generation (RAG) in the oil and gas industry has created a growing need for systematic evaluation of domain-specific knowledge bases, particularly with respect to retrieval…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4206: Impacts of Exogenous Energy Shocks on the Carbon Neutrality Pathways of Guangdong Power System: A Coupled LEAP-NEMO Modeling Approach",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4206",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-05T00:00:00.000Z",
-      "excerpt": "In the context of global energy transition and climate change, exogenous energy shocks (such as energy price volatility, renewable energy uncertainty, and increasing power demand) pose growing challenges to power system…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4203: Future Ports as Energy Hubs: Integrated Framework for Renewable Energy Planning, Storage, and Sector Coupling",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4203",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-05T00:00:00.000Z",
-      "excerpt": "Ports are progressively evolving from traditional logistics nodes into integrated energy ecosystems, characterised by increasing electrification of maritime and land-based operations, the deployment of renewable energy s…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4204: Incorporating Carbon-Related Costs into Production Decisions in the Fastener Industry Under the Net-Zero Transition",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4204",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-05T00:00:00.000Z",
-      "excerpt": "The implementation of global net-zero emission policies and carbon pricing mechanisms, including the Carbon Border Adjustment Mechanism (CBAM), has increased the need for export-oriented manufacturers to make carbon-rela…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4202: Multiscale Experimental and Numerical Assessment of Filament-Wound Composite Pressure Vessel for Hydrogen Storage",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4202",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-05T00:00:00.000Z",
-      "excerpt": "Type IV composite overwrapped pressure vessels (COPVs) are widely used for high-pressure hydrogen storage. They require structural health monitoring techniques that provide accurate strain measurements without compromisi…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4200: Coupled Thermo-Hydro-Mechanical Modeling of CO2 Leakage Through a Micro-Annulus in an Abandoned Wellbore",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4200",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-05T00:00:00.000Z",
-      "excerpt": "Abandoned wells pose a significant leakage risk for geological carbon (CO2) storage because defects at the casing&amp;ndash;cement interface can create preferential pathways for upward CO2 migration. Although thermo-hydr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4201: Integrated Offshore Oil and Gas&ndash;Renewable Energy Systems for China&rsquo;s Low-Carbon Transition: Coupling Pathways and Integration Challenges",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4201",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-05T00:00:00.000Z",
-      "excerpt": "Driven by China&amp;rsquo;s carbon peaking and carbon neutrality goals and the low-carbon transition of offshore oil and gas operations, the integration of offshore oil and gas with wind, solar, marine, and hydrogen ener…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2852: Tailored Nutrient Feeding Strategies for mcl-PHA Production and Molecular Weight Regulation in Pseudomonas putida",
@@ -244,14 +300,6 @@
       "excerpt": "Wildfires in the Mediterranean region are becoming drastically more intense. The recent major fires in France, Spain and Greece show that firefighting efforts are reaching their limits."
     },
     {
-      "title": "Why some Alaskan rock glaciers race downhill while their neighbors barely move",
-      "link": "https://phys.org/news/2026-09-alaskan-glaciers-downhill-neighbors.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-04T16:20:05.000Z",
-      "excerpt": "Two massive rock glaciers are creeping down mountain valleys in Alaska's Wrangell–St. Elias National Park. They sit only a few miles apart and formed under the same sky. One moves more than 5 feet (1.5 meters) a year. Th…"
-    },
-    {
       "title": "Bass Oil confirms new oil pay at Bunian 6 in Indonesia",
       "link": "https://www.offshore-technology.com/news/bass-oil-new-oil-pay-bunian-6/",
       "source": "Offshore Technology",
@@ -290,38 +338,6 @@
       "category": "geoscience",
       "published": "2026-09-04T00:52:29.000Z",
       "excerpt": "Deep beneath Mars, scientists have found evidence of enormous magmatic systems once thought to require Earth-like plate tectonics. Seismic measurements suggest molten rock repeatedly evolved and recycled itself through t…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4199: Hybrid Dual-Stage Solar Thermal Integration into the Cement Kiln Pre-Heater for Industrial Decarbonization: A Case Study in Jordan",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4199",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "Cement production generates approximately 7% of global CO2 emissions; Jordan&amp;rsquo;s kilns run on petroleum coke, coal, and olive residue with no demonstrated solar thermal integration for pre-heating. This paper add…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4198: Investigation of the Heating Performance of a Solar-Assisted Inter-Cooling Air Source Heat Pump System",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4198",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "This paper proposes a novel solar-assisted inter-cooling air source heat pump (SCAS&amp;ndash;HP) system that integrates a solar collector/evaporator into the intermediate injection branch to utilize solar energy for inc…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4197: Dynamic Leakage Characteristics and Emergency Shutdown Valve Optimization for Urban High-Pressure Gas Pipelines",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4197",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "Addressing the lack of quantitative basis for dynamic response characterization and emergency shutdown decision-making in urban high-pressure gas pipeline leaks, this study takes a JS pipeline as the engineering case and…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4196: Incipient Weak Fault Detection in Cross-Bonded Cables Using Multichannel Sheath Currents",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4196",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "In high-voltage cable sheaths, incipient weak faults, such as jacket-damage grounding and high-resistance core&amp;ndash;sheath breakdown, release little energy, rarely trigger protection, and can evolve into permanent f…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2850: Natural Deep Eutectic Solvents as Innovative Multifunctional Ingredients in Cosmetic Formulations: Scaling up from Lab to Industry",
@@ -386,22 +402,6 @@
       "category": "processing",
       "published": "2026-09-04T00:00:00.000Z",
       "excerpt": "To satisfy the industrial standards for phosphate products, phosphate ore must undergo beneficiation for the removal of gangue minerals such as carbonate minerals, silicate minerals, and clay minerals. Reverse flotation…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2842: Influence of Cultivar and Press-Extraction Temperature on Antioxidants, Quality and Stability of Avocado (Persea americana Mill.) Oil",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2842",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "Avocado fruits unsuitable for consumption are often used to produce oil, prized by food and cosmetic industries. This research assessed how press-extraction temperatures (20 &amp;deg;C and 80 &amp;deg;C) and cultivars af…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2841: Corrosion Behavior of 304 Stainless Steel in Mixed Amine Absorbents",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2841",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "Against the backdrop of global warming, carbon dioxide capture technologies are advancing rapidly. The chemical absorption method using organic amines as absorbents is one of the most widely used technologies in industry…"
     },
     {
       "title": "Diversified strikes $1.8bn deal for Permian operator Birch",
