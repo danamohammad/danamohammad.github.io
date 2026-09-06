@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-06T11:18:38.567Z",
+  "generatedAt": "2026-09-06T15:43:23.144Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
       "ok": true,
-      "count": 94,
+      "count": 97,
       "error": null
     },
     {
@@ -82,6 +82,14 @@
       "category": "geoscience",
       "published": "2026-09-06T07:31:35.000Z",
       "excerpt": "Acrid smoke hung heavily over the Malaysian town of Serian, seeping into homes and cloaking roadside stalls, as residents navigated an air-quality emergency fueled by transboundary haze from Indonesia's raging fires."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4218: Phase-Selective Volt/VAR Placement and Sizing of Distributed Generation in Unbalanced Medium-Voltage Feeders: A Constructive Method Under Local-Demand Constraints",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4218",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "Inverter-interfaced distributed generation (DG) can provide voltage support in unbalanced distribution feeders; however, sequential, phase-selective siting and sizing under local interconnection constraints have received…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4217: Experimental Investigation of Water-in-Oil Emulsions on Viscosity and Gas Exsolution Behavior of Heavy Oil Under CCEC Conditions",
@@ -164,6 +172,14 @@
       "excerpt": "Grid-connected electric vehicles (EVs) function as distributed loads or energy storage units. The integration of electric vehicles (EVs) into microgrids can provide various services, including ancillary services, active…"
     },
     {
+      "title": "Processes, Vol. 14, Pages 2855: Vertical Propagation Behavior of Hydraulic Fractures and Fracability Evaluation in Shale Reservoirs: A Case Study of the Yongchuan Block, Sichuan Basin",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2855",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-06T00:00:00.000Z",
+      "excerpt": "Vertical hydraulic-fracture propagation controls the effective stimulated thickness of deep layered shale, yet conventional fracability indices omit this response. Coupled hydromechanical cohesive-zone models were built…"
+    },
+    {
       "title": "Processes, Vol. 14, Pages 2854: Separation of Glycerides from Algal Lipid Extract Using Preparative Chromatography",
       "link": "https://www.mdpi.com/2227-9717/14/17/2854",
       "source": "Processes (MDPI)",
@@ -226,14 +242,6 @@
       "category": "energy",
       "published": "2026-09-05T00:00:00.000Z",
       "excerpt": "With the rapid development of the electric vehicle (EV) industry, large-scale integration of EVs into the power grid has led to increasingly prominent problems such as low charging efficiency, intensified load fluctuatio…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4207: Efficacy Evaluation and Optimization of RAG Knowledge Bases in the Oil and Gas Industry Using an LLM-as-a-Judge Mechanism",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4207",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-05T00:00:00.000Z",
-      "excerpt": "The increasing adoption of Retrieval-Augmented Generation (RAG) in the oil and gas industry has created a growing need for systematic evaluation of domain-specific knowledge bases, particularly with respect to retrieval…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2852: Tailored Nutrient Feeding Strategies for mcl-PHA Production and Molecular Weight Regulation in Pseudomonas putida",
@@ -394,14 +402,6 @@
       "category": "processing",
       "published": "2026-09-04T00:00:00.000Z",
       "excerpt": "This study presents the first characterization of peel and leaf essential oils (EOs) from Citrus junos Sieb. ex Tanaka (yuzu) cultivated in Greece, evaluating seasonal maturation effects on their chemical profiles. EOs w…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2843: The Role of Photoelectric and Dense-Medium Cyclone Separation as a Precursor to Flotation in the Beneficiation of a Phosphate Ore",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2843",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "To satisfy the industrial standards for phosphate products, phosphate ore must undergo beneficiation for the removal of gangue minerals such as carbonate minerals, silicate minerals, and clay minerals. Reverse flotation…"
     },
     {
       "title": "Diversified strikes $1.8bn deal for Permian operator Birch",
@@ -828,6 +828,38 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
+      "title": "Softening-melting behaviors between pellet and nut coke with varying particle sizes and addition amounts",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029789?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Kai Fan, Xin Jiang, Yu Jiang, Yongqiang Li, Haiyan Zheng, Fengman Shen"
+    },
+    {
+      "title": "Spray mixing and combustion under ultra-high ambient densities",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030115?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Yizhuo Feng, Kai Sun, Yaozong Li, Tianyou Wang"
+    },
+    {
+      "title": "A zero-dimensional global conservation model to determine non-ideal nozzle conditions for gas injections",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029546?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): N. Diepstraten, L.M.T. Somers, J.A. van Oijen"
+    },
+    {
+      "title": "Oxygen recovery in a long channel PEM fuel cell using side injection: Balancing uniformity, power density, and pressure drop",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602987X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Mobina Nazarpour Lakhtaki, Nima Amanifard, Hesam Moayedi"
+    },
+    {
       "title": "The effects of oxygen addition and nitrogen dilution on soot formation in PRF80 laminar diffusion flames",
       "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029157?dgcid=rss_sd_all",
       "source": "Fuel",
@@ -842,38 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Fanfang Meng, Shuaishuai Wang, Haiping Wang, Qiming Li, Haoyan Fang, Jing Cao, Qingshan Liu, Yong Zhang"
-    },
-    {
-      "title": "Emission reduction through fuel staging in a three-stage tangential flow ammonia combustor",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029601?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): M. Srinivasarao, Gadi Udaybhanu, Giancarlo Sorrentino, Mara de Joannon, Sudarshan Kumar, Bok Jik Lee, William L Roberts, V.Mahendra Reddy"
-    },
-    {
-      "title": "Modification of coal tar with turpentine for the production of a coal–biomass hybrid high-density fuel",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029856?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Jiabin Zheng, Menglong Niu, Hanbin Zhong, Ben Niu, Baoqi Ma, Chunbao Xu"
-    },
-    {
-      "title": "Mechanism of pressurised pyrolysis of Australian brown coal for hydrogen-rich syngas formation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602973X?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Quan Sun, Salman Khoshk Rish, Jianglong Yu, Arash Tahmasebi"
-    },
-    {
-      "title": "Chemical looping and conventional partial oxidation of methane for syngas production: A comparative thermodynamic and techno-economic assessment",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027523?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Puneeth Tuppaturi, Aashlesha Chekkala, Srinivas Krishnaswamy, R.S. Jha"
     }
   ]
 }
