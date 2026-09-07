@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T20:46:49.635Z",
+  "generatedAt": "2026-09-07T05:10:27.305Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 7,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Low electrical conductivity of dry CaSiO3 perovskite under lower mantle conditions",
+      "link": "https://arxiv.org/abs/2609.04499",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-07T04:00:00.000Z",
+      "excerpt": "arXiv:2609.04499v1 Announce Type: new Abstract: Electrical conductivity (EC) provides important constraints on the composition and volatile distribution of Earth's deep mantle, yet the EC of davemaoite (CaSiO3 perovskite…"
+    },
+    {
+      "title": "Bayesian inversion of multilayer $\\mathrm{CO}_2$ migration from seismic plume observations using a graph-based finite-rate invasion-percolation model",
+      "link": "https://arxiv.org/abs/2609.04937",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-07T04:00:00.000Z",
+      "excerpt": "arXiv:2609.04937v1 Announce Type: new Abstract: Vertical migration of $\\mathrm{CO}_2$ in layered sandstone reservoirs is controlled by thin shale barriers whose properties are often poorly known. We develop a Bayesian fr…"
+    },
+    {
+      "title": "Two-phase Temperature Reconstruction in Ice-Water Systems",
+      "link": "https://arxiv.org/abs/2609.04479",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-07T04:00:00.000Z",
+      "excerpt": "arXiv:2609.04479v1 Announce Type: cross Abstract: What controls heat transport when liquid water interacts with ice? Answering this question is essential for understanding water bodies undergoing phase change. Yet experi…"
+    },
+    {
+      "title": "When a high-mountain slope failure cascades downstream: reconstructing the 26 August 2026 Gyirong mixed rock-ice disaster",
+      "link": "https://arxiv.org/abs/2609.04563",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-07T04:00:00.000Z",
+      "excerpt": "arXiv:2609.04563v1 Announce Type: cross Abstract: On 26 August 2026, a high-elevation slope failure involving rock and glacier ice near the China--Nepal border developed into a channelised mass-flow and flood cascade tha…"
+    },
+    {
+      "title": "Integrated Experimental and Numerical Investigations on the Thermo-Hydro-Mechanical Behavior of Clays and Argillaceous Rocks: A Perspective",
+      "link": "https://arxiv.org/abs/2506.05818",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-07T04:00:00.000Z",
+      "excerpt": "arXiv:2506.05818v2 Announce Type: replace Abstract: This paper synthesizes nearly a decade of research on the coupled thermo-hydro-mechanical (THM) behavior of clays and argillaceous rocks. Drawing from experimental obse…"
+    },
+    {
+      "title": "The Statistical physics of unsaturated soil water: kinetic theory and non commutative pore water dynamics",
+      "link": "https://arxiv.org/abs/2607.09416",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-07T04:00:00.000Z",
+      "excerpt": "arXiv:2607.09416v2 Announce Type: replace-cross Abstract: We develop a statistical-mechanical theory of water in unsaturated soil whose outcome is a continuum field equation for the pore-occupancy g(r,x,t), the fraction…"
+    },
+    {
+      "title": "Richards' equation as a hydrodynamic limit: Chapman--Enskog reduction of the continuum kinetic equation for unsaturated soil water",
+      "link": "https://arxiv.org/abs/2607.17358",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-07T04:00:00.000Z",
+      "excerpt": "arXiv:2607.17358v2 Announce Type: replace-cross Abstract: Richards' equation for unsaturated water flow is derived from the kinetic theory of the pore-filling distribution g(r,x,t) of a companion paper. It separates two…"
+    },
     {
       "title": "Six unusual structures identified at Earth's core-mantle boundary with the help of deep learning",
       "link": "https://phys.org/news/2026-09-unusual-earth-core-mantle-boundary.html",
@@ -818,62 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
-    },
-    {
-      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Softening-melting behaviors between pellet and nut coke with varying particle sizes and addition amounts",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029789?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Kai Fan, Xin Jiang, Yu Jiang, Yongqiang Li, Haiyan Zheng, Fengman Shen"
-    },
-    {
-      "title": "Spray mixing and combustion under ultra-high ambient densities",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030115?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Yizhuo Feng, Kai Sun, Yaozong Li, Tianyou Wang"
-    },
-    {
-      "title": "A zero-dimensional global conservation model to determine non-ideal nozzle conditions for gas injections",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029546?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): N. Diepstraten, L.M.T. Somers, J.A. van Oijen"
-    },
-    {
-      "title": "Oxygen recovery in a long channel PEM fuel cell using side injection: Balancing uniformity, power density, and pressure drop",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602987X?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Mobina Nazarpour Lakhtaki, Nima Amanifard, Hesam Moayedi"
-    },
-    {
-      "title": "The effects of oxygen addition and nitrogen dilution on soot formation in PRF80 laminar diffusion flames",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029157?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Binyang Hu, Hongyan Li, Liang Qiu"
-    },
-    {
-      "title": "Comprehensive performance assessment of proton exchange membrane fuel cells with fractal gas distribution zones and non-aligned wavy gas-cooling channels",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029947?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Fanfang Meng, Shuaishuai Wang, Haiping Wang, Qiming Li, Haoyan Fang, Jing Cao, Qingshan Liu, Yong Zhang"
     }
   ]
 }
