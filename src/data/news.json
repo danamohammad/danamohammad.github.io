@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T05:10:27.305Z",
+  "generatedAt": "2026-09-07T12:59:18.173Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,46 @@
   ],
   "items": [
     {
+      "title": "How researchers are helping Canada understand a changing climate",
+      "link": "https://phys.org/news/2026-09-canada-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-07T12:20:01.000Z",
+      "excerpt": "More than two dozen University of Victoria researchers contributed to \"Canada's Changing Climate Report 2026,\" the country's most comprehensive assessment of how climate change is affecting communities, ecosystems and co…"
+    },
+    {
+      "title": "Rosneft begins oil shipments from Vostok Oil project in Arctic",
+      "link": "https://www.offshore-technology.com/news/rosneft-begins-oil-shipments-vostok-oil-arctic/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-07T10:05:46.000Z",
+      "excerpt": "Russian oil producer Rosneft has commenced oil shipments from its Vostok Oil project, following a commissioning ceremony overseen by Russian President Vladimir Putin via video link."
+    },
+    {
+      "title": "Dorian LPG orders three dual-fuel Panamax VLGCs from Hanwha Ocean",
+      "link": "https://www.offshore-technology.com/news/dorian-orders-three-panamax-vlgcs-hanwha/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-07T09:48:28.000Z",
+      "excerpt": "Dorian LPG has agreed with South Korean shipbuilder Hanwha Ocean for the construction of three 90,000m3 dual-fuel Panamax very large gas carriers (VLGCs) for a total price of around $345m."
+    },
+    {
+      "title": "'Truly scared': Blazes outpace firefighters in Indonesian Borneo",
+      "link": "https://phys.org/news/2026-09-blazes-outpace-firefighters-indonesian-borneo.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-07T08:20:01.000Z",
+      "excerpt": "Toiling around the clock, haggard Indonesian firefighters on the island of Borneo cannot keep up with the blazes devouring landscapes and shrouding communities in a cloying haze."
+    },
+    {
+      "title": "Baker Hughes to provide stimulation services for bp in UK North Sea",
+      "link": "https://www.offshore-technology.com/news/baker-hughes-stimulation-services-bp-uk/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-07T07:16:08.000Z",
+      "excerpt": "US-based energy technology company Baker Hughes has been selected by bp to deliver stimulation services across the oil major’s UK North Sea operations."
+    },
+    {
       "title": "Low electrical conductivity of dry CaSiO3 perovskite under lower mantle conditions",
       "link": "https://arxiv.org/abs/2609.04499",
       "source": "arXiv — Geophysics",
@@ -132,6 +172,102 @@
       "excerpt": "arXiv:2607.17358v2 Announce Type: replace-cross Abstract: Richards' equation for unsaturated water flow is derived from the kinetic theory of the pore-filling distribution g(r,x,t) of a companion paper. It separates two…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4225: Nuclear Energy Development and Energy Security in Slovakia: Current Status and Conditional Prospects up to 2050",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4225",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "This article evaluates how nuclear energy development may affect energy security and nuclear energy security in Slovakia up to 2050. It applies a qualitative-dominant mixed-method design combining critical source-positio…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4226: Hybrid and All-Electric Civil and Military Ships: From Maritime Decarbonisation Drivers to Integrated Energy System Architectures",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4226",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "The maritime sector is undergoing rapid change due to stricter environmental regulations, shifting policies, and growing concerns about energy security and operational resilience. In this landscape, hybrid and all-electr…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4224: Ambient Temperature-Dependent Parameterization of the IEC 60076-7 Top-Oil Thermal Model",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4224",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "Transformer top-oil temperature prediction is essential for reliable thermal assessment and lifetime management. Although the IEC 60076-7 loading guide model is widely adopted for this purpose, its thermal parameters are…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4223: Thermal Storage Characteristics of Honeycomb Phase Change Unit with Different Fluid Parameters",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4223",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "Phase change thermal storage tanks are important components of clean energy heating systems, and their charging performance depends strongly on storage-unit geometry and heat transfer fluid (HTF) conditions. This study d…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4222: Key Technologies of Novel Power Systems: From Optimal Scheduling to Intelligent Operation and Maintenance Review",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4222",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "As the goals of peak carbon emissions and carbon neutrality continue to progress, the power system is rapidly evolving toward a cleaner, low-carbon, and more efficient structure with increasing integration of renewable g…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4221: Thermal Stabilization as a Key to Sustainable Operation of Combustion Engines and Power Plants&mdash;Part 2: Thermal Stabilization of IES Due to Advanced Intake Air Cooling and Heat Recovery Assessed by Appropriate Criteria",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4221",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "The sustainable performance of combustion engines in integrated energy systems (IESs) at a safe thermal level and with high fuel effectiveness is possible if intake air is cooled and the released heat is fully utilized b…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4220: Neural Network-Based Real-Time Wind Energy Estimation",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4220",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "This work proposes a real-time wind power estimation approach for a direct-current (DC) wind energy conversion system based on an artificial neural network (ANN). The proposed ANN uses the Levenberg&amp;ndash;Marquardt (…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4219: Series-Connected Grid-Following and Grid-Forming Hybrid Control Strategy for VSC-HVDC Converters to Enhance Transient Voltage Stability in Receiving-End Power Grids",
+      "link": "https://www.mdpi.com/1996-1073/19/17/4219",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "With an increase in the High-Voltage Direct Current (HVDC) infeed, the strength of the receiving-end AC grid decreases, leading to transient voltage instability. Voltage source converter (VSC)-HVDC stations have a large…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2859: Sensing Performances of Hierarchical Nano-Layered V2O5 Structures and Ab Intio Calculation of Their Gas-Adsorption Properties",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2859",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "Significant research efforts have recently focused on nanomaterial processing for gas sensors and related sensing applications. However, the major challenges in the field involve the choice of material for the sensing la…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2858: A Reliable Defect Confirmation Method for Drainage Pipeline Inspection Based on Vision&ndash;LiDAR&ndash;Ultrasonic Fusion",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2858",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "Drainage pipeline environments are typically characterized by darkness, high humidity, water accumulation, sediment deposition, reflective surfaces, and severe occlusions. These challenging conditions make conventional s…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2857: Flame Front Stratification During Quasi-Flame Flashback",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2857",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "During the study of premixed NH3/CH4 fuel mixtures, flame separation into two reaction zones was observed upon flashback into a Bunsen burner. Stable combustion regimes were obtained, with a gap between the burner rim an…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2856: Single-Atom Solvent for Enhanced CO2 Capture: Process Modeling and Multi-Objective Optimization",
+      "link": "https://www.mdpi.com/2227-9717/14/17/2856",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-07T00:00:00.000Z",
+      "excerpt": "This work addresses the post-combustion CO2 capture demand, employing a single-atom solvent as the absorbent to conduct systematic research on process modeling, energy consumption analysis, and multi-objective optimizati…"
+    },
+    {
       "title": "Six unusual structures identified at Earth's core-mantle boundary with the help of deep learning",
       "link": "https://phys.org/news/2026-09-unusual-earth-core-mantle-boundary.html",
       "source": "Phys.org — Earth",
@@ -178,62 +314,6 @@
       "category": "energy",
       "published": "2026-09-06T00:00:00.000Z",
       "excerpt": "Food cold chains rely on refrigeration, cold storage, refrigerated transport, packaging and monitoring systems that consume electricity and fuel while preserving food safety, quality and shelf life. Although many studies…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4211: Preliminary Technical and Pumping-Energy Assessment of an Underground Pumped-Storage Hydropower System Using a Post-Mining Shaft as the Lower Reservoir",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4211",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-06T00:00:00.000Z",
-      "excerpt": "The reuse of post-mining infrastructure for pumped-storage hydropower may reduce new underground construction while supporting the repurposing of decommissioned mines. This study presents a site-specific preliminary tech…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4215: Energy Consumption Management of Intelligent Production Buildings Within the Supply Chain Ecosystem of Smart City Manufacturing and Service Clusters: A Knowledge-Driven Coordination Approach",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4215",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-06T00:00:00.000Z",
-      "excerpt": "The supply chain ecosystem (SCE) operating within an urban environment is characterised by continuous interactions among manufacturing, logistics, service, information, and energy flows across multiple smart city manufac…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4213: A Time-Decoupled PWM Implementation Architecture Based on Predictive Duty-Cycle Sequences for High-Switching-Frequency Three-Phase Buck Rectifiers",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4213",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-06T00:00:00.000Z",
-      "excerpt": "High-switching-frequency operation substantially reduces the available time for sampling, control computation, modulation mapping, PWM-register updating, and auxiliary interrupt operations in digitally controlled three-p…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4212: Failure Mode, Effects, and Criticality Analysis (FMECA)-Based Fault Diagnosis of a High-Voltage Disconnect Switch",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4212",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-06T00:00:00.000Z",
-      "excerpt": "High-voltage disconnect switches (HVDSs) are crucial for ensuring visible electrical isolation but often operate under challenging environmental conditions. While current monitoring methods can detect faults, simply iden…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4209: Physics-Informed Decoupled Machine Learning for Context-Aware EV Range Optimization and Multi-Objective Driver Advisory",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4209",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-06T00:00:00.000Z",
-      "excerpt": "Auxiliary heating, ventilation, and air conditioning (HVAC) systems can reduce electric vehicle (EV) driving range by over 20%, yet prevailing machine learning estimators often suffer from temporal data leakage, uninterp…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4208: Adaptive Thermal Comfort and Skin Moisture Sensation of Occupants During Summer in Naturally Ventilated Urban Dwellings with the Potential to Lower Cooling Energy Demand",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4208",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-06T00:00:00.000Z",
-      "excerpt": "Adaptive thermal comfort is essential for understanding occupants&amp;rsquo; responses to indoor thermal environments in residential buildings. However, field studies on adaptive thermal comfort in urban dwellings in Nep…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4210: Enhancing Frequency Stability in Renewable Energy Microgrids Using Electric Vehicles with V2G Technology",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4210",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-06T00:00:00.000Z",
-      "excerpt": "Grid-connected electric vehicles (EVs) function as distributed loads or energy storage units. The integration of electric vehicles (EVs) into microgrids can provide various services, including ancillary services, active…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2855: Vertical Propagation Behavior of Hydraulic Fractures and Fracability Evaluation in Shale Reservoirs: A Case Study of the Yongchuan Block, Sichuan Basin",
@@ -300,14 +380,6 @@
       "excerpt": "An orangutan mother and her baby, threatened by wildfires encroaching on their habitat in Indonesia, were rescued earlier this week, authorities said in a statement Saturday."
     },
     {
-      "title": "Energies, Vol. 19, Pages 4205: Optimal Scheduling Strategy for Electric Vehicle Charging Based on an Improved CLM-MOPSO Algorithm",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4205",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-05T00:00:00.000Z",
-      "excerpt": "With the rapid development of the electric vehicle (EV) industry, large-scale integration of EVs into the power grid has led to increasingly prominent problems such as low charging efficiency, intensified load fluctuatio…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2852: Tailored Nutrient Feeding Strategies for mcl-PHA Production and Molecular Weight Regulation in Pseudomonas putida",
       "link": "https://www.mdpi.com/2227-9717/14/17/2852",
       "source": "Processes (MDPI)",
@@ -346,22 +418,6 @@
       "category": "geoscience",
       "published": "2026-09-04T20:50:02.000Z",
       "excerpt": "In a paper published in the journal Marine Pollution Bulletin, researchers at Kyushu University report on what happens when wharf roaches, a common shoreline scavenger, eat expanded polystyrene (EPS). Roaches that fed on…"
-    },
-    {
-      "title": "El Niño set to bring warmer spring to NZ and Australia",
-      "link": "https://phys.org/news/2026-09-el-nio-warmer-nz-australia.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-04T19:40:04.000Z",
-      "excerpt": "El Niño is firmly established and will intensify into a very strong event in the coming months, with major impacts on rainfall and temperature patterns and associated risks of floods, drought and extreme heat, according…"
-    },
-    {
-      "title": "Want a solution to plastic pollution? Scientists urge UN to require global reporting",
-      "link": "https://phys.org/news/2026-09-solution-plastic-pollution-scientists-urge.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-04T18:00:10.000Z",
-      "excerpt": "Plastic is a wonder material that has molded itself to fit a wide variety of applications. But it comes with a host of drawbacks that aren't fully considered. That's why the United Nations has convened to hammer out a tr…"
     },
     {
       "title": "Bass Oil confirms new oil pay at Bunian 6 in Indonesia",
@@ -428,38 +484,6 @@
       "excerpt": "In recent years, forest fires have occurred frequently, and extremely high temperatures can easily cause plastic deformation of buried pipelines. To clarify the temperature-stress variation law of natural gas pipelines u…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2847: Data-Driven Optimization of Coagulant Dosing and Cost Control in a Full-Scale Drinking Water Treatment Plant: A Case Study in Xiangtan, China",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2847",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "Water treatment plants are essential urban infrastructure with direct implications for public health and everyday life. Data-driven management has received growing attention in drinking water treatment, particularly for…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2845: A Data&ndash;Physics Dual-Driven Intelligent Diagnostic Method for Downhole Drilling Risks",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2845",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "Safe drilling in hydrate-bearing sediments is essential for environmentally responsible natural gas hydrate development. Complex pressure variations, fluid migration, and mechanical disturbances during drilling may incre…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2846: Assessing the Sustainability Transition of Mexico&rsquo;s Electricity System: Life-Cycle Impacts, Energy Indices, and Resource Use",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2846",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "The global energy transition is driving power systems toward lower-carbon electricity generation, requiring sustainability assessments that consider environmental burdens beyond direct carbon emissions. This study evalua…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2844: The Volatile Profile and Seasonal Shifts of Greek-Grown Yuzu (Citrus junos) Peels and Leaves",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2844",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-04T00:00:00.000Z",
-      "excerpt": "This study presents the first characterization of peel and leaf essential oils (EOs) from Citrus junos Sieb. ex Tanaka (yuzu) cultivated in Greece, evaluating seasonal maturation effects on their chemical profiles. EOs w…"
-    },
-    {
       "title": "Diversified strikes $1.8bn deal for Permian operator Birch",
       "link": "https://www.offshore-technology.com/news/diversified-permian-operator-birch/",
       "source": "Offshore Technology",
@@ -482,30 +506,6 @@
       "category": "industry",
       "published": "2026-09-03T09:16:55.000Z",
       "excerpt": "Subsea7 has secured a contract from LLOG Exploration for offshore work related to the Who Dat East development in the US Gulf of Mexico."
-    },
-    {
-      "title": "Prima Energy to buy 28% stake in Jadestone Energy",
-      "link": "https://www.offshore-technology.com/news/prima-energy-buy-stake-jadestone-energy/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-03T09:09:32.000Z",
-      "excerpt": "Prima Energy has signed an agreement to acquire approximately 28.3% of Jadestone Energy’s issued share capital from funds managed by Tyrus Capital."
-    },
-    {
-      "title": "Chevron to invest more than $7bn in Venezuela oil ventures",
-      "link": "https://www.offshore-technology.com/news/chevron-invest-7bn-venezuela-oil-ventures/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-03T07:59:15.000Z",
-      "excerpt": "Chevron has agreed updated terms with Venezuela for its JVs, paving the way for investments of more than $7bn over the next five years."
-    },
-    {
-      "title": "Santos begins seawater injection at Pikka oil project in Alaska",
-      "link": "https://www.offshore-technology.com/news/santos-seawater-injection-pikka-oil-project/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-02T13:57:02.000Z",
-      "excerpt": "Santos has commenced seawater injection operations at the Nanushuk Drillsite-B of the Pikka oil project, situated on Alaska’s North Slope."
     },
     {
       "title": "A massive plume deep beneath Africa is pulling the continent apart",
