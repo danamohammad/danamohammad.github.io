@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:10:01.298Z",
+  "generatedAt": "2026-09-08T11:42:30.474Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,12 +76,164 @@
   ],
   "items": [
     {
+      "title": "Yara inaugurates Europe’s largest carbon capture facility at Sluiskil",
+      "link": "https://www.offshore-technology.com/news/yara-inaugurates-europes-largest-carbon-capture-facility-at-sluiskil/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-08T10:45:56.000Z",
+      "excerpt": "Yara has opened an industrial carbon capture facility at Sluiskil, capable of capturing and liquefying up to 800,000 tonnes of CO2 annually."
+    },
+    {
+      "title": "Dangote refinery to double capacity with $14.3bn investment",
+      "link": "https://www.offshore-technology.com/news/dangote-refinery-double-capacity-14-3bn-investment/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-08T10:23:49.000Z",
+      "excerpt": "The Dangote Petroleum Refinery in Nigeria has disclosed plans to invest $14.3bn to expand its processing capacity, coinciding with the signing of documents for an initial public offering (IPO)."
+    },
+    {
+      "title": "Oil prices surge after Houthi strikes on Saudi energy facilities",
+      "link": "https://www.offshore-technology.com/news/oil-surge-houthi-strikes-saudi-energy-facilities/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-08T10:13:55.000Z",
+      "excerpt": "Oil prices rose to their highest levels in several weeks on 8 September, Tuesday, following attacks on Saudi energy facilities by Yemen’s Houthi movement and escalating tensions between Iran and the US."
+    },
+    {
+      "title": "Kauai on tornado watch as Hurricane Lowell nears Hawaiian Islands",
+      "link": "https://phys.org/news/2026-09-kauai-tornado-hurricane-lowell-nears.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-08T09:10:01.000Z",
+      "excerpt": "Residents of Kauai were warned to watch for tornadoes late Monday as Hurricane Lowell edged toward the westernmost Hawaiian Islands in the U.S. Pacific island chain, the National Weather Service said."
+    },
+    {
+      "title": "Melting Svalbard glaciers may flush ancient methane from rocks beneath the ice",
+      "link": "https://phys.org/news/2026-09-svalbard-glaciers-flush-ancient-methane.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-08T09:00:11.000Z",
+      "excerpt": "Meltwater rivers flowing from Svalbard glaciers are carrying ancient methane from rocks beneath the ice into the open air, new research published in Nature Communications shows."
+    },
+    {
+      "title": "Praying for rain as fires, haze plague Indonesian Borneo",
+      "link": "https://phys.org/news/2026-09-praying-haze-plague-indonesian-borneo.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-08T09:00:06.000Z",
+      "excerpt": "Wildfires ravaging the Indonesian part of Borneo are choking communities as far away as Malaysia with putrid haze, testing the resources and resolve of those who must endure it."
+    },
+    {
+      "title": "Valve performance management is critical to the energy transition. Here’s why",
+      "link": "https://www.offshore-technology.com/sponsored/why-valve-performance-management-is-critical-to-the-energy-transition/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-08T08:45:50.000Z",
+      "excerpt": "Digital valve performance management - a structured, data-driven pathway to reduce emissions exposure while improving operational reliability."
+    },
+    {
+      "title": "Kistos secures Royal Decree for Oman Blocks 3 and 4 deal",
+      "link": "https://www.offshore-technology.com/news/kistos-royal-decree-oman-blocks-3-and-4/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-08T08:04:47.000Z",
+      "excerpt": "UK-based energy firm Kistos has been granted a Royal Decree by the Sultanate of Oman relating to its acquisition of onshore Blocks 3 and 4 (Afar & Ghunaim) in Oman from Mitsui E&P Middle East."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4240: Between Energy Security and Environmental Protection: The Dilemmas Faced by Households in the Context of an Emerging Energy Crisis",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4240",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "This study examines growing tensions between household energy security and climate and energy policy objectives in Poland. It aims to analyze household attitudes towards the decarbonization of heating, particularly the p…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4239: Insulation-Condition Assessment of Oil-Immersed Transformer Bushings Based on a Physics-Proxy-Residual-Guided Cross-Attention Ensemble Neural Network",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4239",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "This study proposes a physics-proxy-residual-guided cross-attention ensemble neural network (PGAE-NN) for oil-immersed transformer bushing insulation-condition assessment and early warning. Eight core indicators are sele…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4235: A Steady-State Thermodynamic Framework for Preliminary Assessment of a Nuclear&ndash;Solar&ndash;Data-Center Integrated Power-and-Cooling System",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4235",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "Small modular reactors (SMRs) offer firm low-carbon heat and power, and data centers concentrate large, continuous electrical and cooling loads. Transparent tools for screening their thermal integration are scarce. To th…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4238: Unlocking Hydrogen Storage Potential: Ni/Al2O3-Catalysed Hydrogenation of Dibenzyltoluene (DBT) for a Liquid Organic Hydrogen Carrier (LOHC) System",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4238",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "Liquid organic hydrogen carriers (LOHCs) offer a safe and scalable solution for hydrogen storage and transportation, overcoming many of the limitations of conventional compressed and liquefied hydrogen systems. Among the…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4236: Frequency Control Strategy for High-Penetration Renewable Power Systems with Voltage-Sensitive Flexible Load Clusters",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4236",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "The high penetration of renewable energy has posed significant challenges to frequency regulation, primarily due to the scarcity of traditional regulation resources in these regions. To address this, a novel secondary fr…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4237: From Geospatial Assessment to Road Thermal Management: A Digital Framework for Climate-Resilient Infrastructure Using Low-Enthalpy Geothermal Energy",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4237",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "Extreme weather events increasingly affect the safety, durability, and operational performance of road infrastructure, creating the need for sustainable thermal management solutions. Among the available technologies, low…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4234: Review on Integrated Reassessment of China&rsquo;s CO2 Geological Storage Potential Based on AHP Weighting and Multi-Source Indicator Synthesis",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4234",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "As a core component of carbon capture, utilization and storage (CCUS), CO2 geological storage is critical to China&amp;rsquo;s carbon neutrality strategy. However, current assessments of China&amp;rsquo;s CO2 geological…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4233: Numerical Simulation of High-Pressure Premixed H2/O2 Combustion and Deflagration-to-Detonation Transition in Closed Vessels: Progress and Perspectives",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4233",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "High-pressure premixed H2/O2 combustion in closed vessels involves short chemical time scales, strong compression-wave feedback, and repeated end-wall reflections, making the onset of deflagration-to-detonation transitio…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4232: Coupling Adsorption Mechanisms and Geological Evolution: A Case Study of Coalbed Methane Accumulation in Fukang Area, Junggar Basin, China",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4232",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "The unclear coupled temperature&amp;ndash;pressure control mechanism of deep coalbed methane (CBM) occurrence and the poorly understood transformation law of adsorbed and free gas during geological history have severely…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4231: Linking Bench-Scale Conversion Characteristics to Cycle-Level Emissions for Pd-Rh Three-Way Catalyst Selection in Plug-In Hybrid Vehicles",
       "link": "https://www.mdpi.com/1996-1073/19/18/4231",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-09-08T00:00:00.000Z",
       "excerpt": "Selecting three-way catalysts (TWCs) solely from precious-metal loading or a single light-off metric may not reflect the broad operating domain encountered by plug-in hybrid electric vehicles (PHEVs). This study linked b…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2865: Hydrocarbon Sources of the Carboniferous System in the Central and Peripheral Areas of the Junggar Basin",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2865",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "Carboniferous volcanic reservoirs are widely developed in the central part and surrounding areas of the Junggar Basin. These reservoirs are closely associated with underlying Carboniferous and overlying Permian major sou…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2863: ReliabilityAssessment of Adsorption Parameter Prediction from Graphical Optimization and Statistical Validation of Isotherm Models: A Case-Based Methodological Counterexample Study",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2863",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "Many environmental problems involve adsorption, making its description essential. This study examines the validity of graphical optimization through adsorption isotherm modeling combined with statistical validation for d…"
     },
     {
       "title": "How Indigenous Protected Areas became a vital way to protect nature in Australia",
@@ -156,30 +308,6 @@
       "excerpt": "A journey back in time to the Late Cretaceous: A swampy rainforest with conifers and tree ferns stretches as far as the eye can see, dinosaurs roam through the misty wetlands, and the climate is mild and warm. The averag…"
     },
     {
-      "title": "New digital tool shows exactly where California's water goes—and how climate change might disrupt it",
-      "link": "https://phys.org/news/2026-09-digital-tool-california-climate-disrupt.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-07T14:40:01.000Z",
-      "excerpt": "Water has always been one of California's most contested resources. For more than a century, battles have raged over how much of the state's water should be diverted to farmland, pumped into cities or used to conserve aq…"
-    },
-    {
-      "title": "What happens when you flush? Study reveals how toilet aerosols reach the breathing zone",
-      "link": "https://phys.org/news/2026-09-flush-reveals-toilet-aerosols-zone.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-07T14:20:04.000Z",
-      "excerpt": "Researchers from Flinders University have found that flushing toilets can release aerosols and bioaerosols into the surrounding air, with some studies detecting particles at heights corresponding to adults' breathing zon…"
-    },
-    {
-      "title": "Isle of Jura research casts new light on how rivers carve through landscapes",
-      "link": "https://phys.org/news/2026-09-isle-jura-rivers-landscapes.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-07T14:00:07.000Z",
-      "excerpt": "The waters of the remote Scottish island of Jura have long been famous for making whiskey. Now, the island's rivers have helped geologists learn more about how rivers erode rocks, providing new evidence that what streams…"
-    },
-    {
       "title": "TotalEnergies to transfer Papua LNG operatorship to ExxonMobil",
       "link": "https://www.offshore-technology.com/news/totalenergies-to-hand-papua-lng-exxonmobil/",
       "source": "Offshore Technology",
@@ -226,78 +354,6 @@
       "category": "energy",
       "published": "2026-09-07T00:00:00.000Z",
       "excerpt": "The current study investigates hydrogen-rich syngas production from polyethylene (PE), polypropylene (PP), garden waste (GW), and their co-gasification blends using Aspen Plus simulations. A thermodynamic equilibrium mod…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4228: Data-Driven Fault Ride-Through Operation of Distributed Grid-Forming Inverters Using Multi-Agent Reinforcement Learning",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4228",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-07T00:00:00.000Z",
-      "excerpt": "Grid-forming inverters (GFMIs) are essential for future low-inertia power systems because they establish voltage and frequency rather than simply following the grid. However, compared with synchronous machines, they have…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4227: A Dual-Stream Network with Dynamic Graph Convolution and Attention-Based BiGRU for IGBT Open-Circuit Fault Diagnosis in T-NPC Three-Level Inverters",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4227",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-07T00:00:00.000Z",
-      "excerpt": "Existing CNN, TCN, residual, and lightweight network methods have achieved good performance in IGBT open-circuit fault diagnosis, but they often overlook the non-Euclidean relationships among signals. To address this lim…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4225: Nuclear Energy Development and Energy Security in Slovakia: Current Status and Conditional Prospects up to 2050",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4225",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-07T00:00:00.000Z",
-      "excerpt": "This article evaluates how nuclear energy development may affect energy security and nuclear energy security in Slovakia up to 2050. It applies a qualitative-dominant mixed-method design combining critical source-positio…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4226: Hybrid and All-Electric Civil and Military Ships: From Maritime Decarbonisation Drivers to Integrated Energy System Architectures",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4226",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-07T00:00:00.000Z",
-      "excerpt": "The maritime sector is undergoing rapid change due to stricter environmental regulations, shifting policies, and growing concerns about energy security and operational resilience. In this landscape, hybrid and all-electr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4224: Ambient Temperature-Dependent Parameterization of the IEC 60076-7 Top-Oil Thermal Model",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4224",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-07T00:00:00.000Z",
-      "excerpt": "Transformer top-oil temperature prediction is essential for reliable thermal assessment and lifetime management. Although the IEC 60076-7 loading guide model is widely adopted for this purpose, its thermal parameters are…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4223: Thermal Storage Characteristics of Honeycomb Phase Change Unit with Different Fluid Parameters",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4223",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-07T00:00:00.000Z",
-      "excerpt": "Phase change thermal storage tanks are important components of clean energy heating systems, and their charging performance depends strongly on storage-unit geometry and heat transfer fluid (HTF) conditions. This study d…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4222: Key Technologies of Novel Power Systems: From Optimal Scheduling to Intelligent Operation and Maintenance Review",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4222",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-07T00:00:00.000Z",
-      "excerpt": "As the goals of peak carbon emissions and carbon neutrality continue to progress, the power system is rapidly evolving toward a cleaner, low-carbon, and more efficient structure with increasing integration of renewable g…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4221: Thermal Stabilization as a Key to Sustainable Operation of Combustion Engines and Power Plants&mdash;Part 2: Thermal Stabilization of IES Due to Advanced Intake Air Cooling and Heat Recovery Assessed by Appropriate Criteria",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4221",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-07T00:00:00.000Z",
-      "excerpt": "The sustainable performance of combustion engines in integrated energy systems (IESs) at a safe thermal level and with high fuel effectiveness is possible if intake air is cooled and the released heat is fully utilized b…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4220: Neural Network-Based Real-Time Wind Energy Estimation",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4220",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-07T00:00:00.000Z",
-      "excerpt": "This work proposes a real-time wind power estimation approach for a direct-current (DC) wind energy conversion system based on an artificial neural network (ANN). The proposed ANN uses the Levenberg&amp;ndash;Marquardt (…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2862: Parameter Estimation of First-Order Frequency Response Model for AC Distribution Networks with Hydro-Energy Storage",
@@ -380,22 +436,6 @@
       "excerpt": "During the service life of karst tunnels, groundwater containing Ca2+ and CO32&amp;minus; can migrate along the shotcrete&amp;ndash;surrounding rock interface and induce calcite deposition, thereby changing the interfaci…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2852: Tailored Nutrient Feeding Strategies for mcl-PHA Production and Molecular Weight Regulation in Pseudomonas putida",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2852",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-05T00:00:00.000Z",
-      "excerpt": "Medium-chain-length polyhydroxyalkanoates (mcl-PHAs) are biodegradable microbial polyesters with attractive elastomeric properties and considerable potential as sustainable alternatives to fossil-derived polymers. Their…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2851: Hydrochemical Characteristics of the Suzhou Mining Area and Their Correlation with Drainage Water from Coalbed Methane Wells",
-      "link": "https://www.mdpi.com/2227-9717/14/17/2851",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-05T00:00:00.000Z",
-      "excerpt": "The Suzhou mining area contains abundant coalbed methane resources. Analyzing the hydrochemical characteristics of formation and drainage water from coalbed methane wells is of considerable importance for the efficient e…"
-    },
-    {
       "title": "Bass Oil confirms new oil pay at Bunian 6 in Indonesia",
       "link": "https://www.offshore-technology.com/news/bass-oil-new-oil-pay-bunian-6/",
       "source": "Offshore Technology",
@@ -404,52 +444,12 @@
       "excerpt": "Bass Oil has confirmed the identification of oil pay in three separate reservoirs at its Bunian 6 well in Indonesia’s South Sumatra Basin."
     },
     {
-      "title": "Sea Lion partners face Argentine sanctions push over Falklands oil",
-      "link": "https://www.offshore-technology.com/news/sea-lion-argentine-sanctions-falklands-oil/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-04T10:19:45.000Z",
-      "excerpt": "Argentine President says he will sanction oil companies and their suppliers over the Navitas- and Rockhopper-backed Sea Lion Falklands project."
-    },
-    {
-      "title": "TotalEnergies completes Galp swap to operate Namibia’s Mopane find",
-      "link": "https://www.offshore-technology.com/news/totalenergies-galp-swap-namibia-mopane/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-04T09:43:34.000Z",
-      "excerpt": "TotalEnergies has closed its swap with Galp, taking a 40% operated interest in Namibia's PEL83 licence, home to Mopane."
-    },
-    {
-      "title": "Williams closes $5.5bn Momentum deal to expand Haynesville footprint",
-      "link": "https://www.offshore-technology.com/news/williams-closes-momentum-deal/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-04T07:40:37.000Z",
-      "excerpt": "Williams has acquired Momentum Midstream, adding more than 4,000 miles of Haynesville gathering and transmission pipe."
-    },
-    {
       "title": "Deep beneath Mars, scientists find a vast hidden magma system",
       "link": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm",
       "source": "ScienceDaily — Geology",
       "category": "geoscience",
       "published": "2026-09-04T00:52:29.000Z",
       "excerpt": "Deep beneath Mars, scientists have found evidence of enormous magmatic systems once thought to require Earth-like plate tectonics. Seismic measurements suggest molten rock repeatedly evolved and recycled itself through t…"
-    },
-    {
-      "title": "Diversified strikes $1.8bn deal for Permian operator Birch",
-      "link": "https://www.offshore-technology.com/news/diversified-permian-operator-birch/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-03T13:31:37.000Z",
-      "excerpt": "Diversified Energy has agreed to acquire Birch from Elliott Investment Management for price of around $1.8bn."
-    },
-    {
-      "title": "Ansaldo Energia advances fuel flexibility strategy to H₂ and HVO",
-      "link": "https://www.offshore-technology.com/news/ansaldo-energia-advances-fuel-flexibility-strategy-to-h%e2%82%82-and-hvo/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-03T10:19:18.000Z",
-      "excerpt": "Ansaldo Energia has secured TÜV SÜD Hydrogen Readiness certification for its GT36 and DNV validation for HVO operation of the AE94.3A combustion system."
     },
     {
       "title": "A massive plume deep beneath Africa is pulling the continent apart",
