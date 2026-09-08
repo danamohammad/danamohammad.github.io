@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T21:45:06.073Z",
+  "generatedAt": "2026-09-08T05:10:01.298Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 7,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 4231: Linking Bench-Scale Conversion Characteristics to Cycle-Level Emissions for Pd-Rh Three-Way Catalyst Selection in Plug-In Hybrid Vehicles",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4231",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-08T00:00:00.000Z",
+      "excerpt": "Selecting three-way catalysts (TWCs) solely from precious-metal loading or a single light-off metric may not reflect the broad operating domain encountered by plug-in hybrid electric vehicles (PHEVs). This study linked b…"
+    },
+    {
+      "title": "How Indigenous Protected Areas became a vital way to protect nature in Australia",
+      "link": "https://phys.org/news/2026-09-indigenous-areas-vital-nature-australia.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-07T23:20:01.000Z",
+      "excerpt": "When you think of conservation in Australia, chances are you'll think of a national park."
+    },
     {
       "title": "War drama Pressure depicts D‑day's weather forecast—what we found when we recreated the challenge using modern systems",
       "link": "https://phys.org/news/2026-09-war-drama-pressure-depicts-dday.html",
@@ -172,14 +188,6 @@
       "excerpt": "TotalEnergies has agreed to transfer operatorship of the Papua LNG project in PNG to ExxonMobil PNG Antelope, as part of a set of contractual and commercial agreements ahead of a FID on the development."
     },
     {
-      "title": "Climate change images are getting scarier—could fear help drive action?",
-      "link": "https://phys.org/news/2026-09-climate-images-scarier-action.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-07T13:00:01.000Z",
-      "excerpt": "Over the summer, Europe provided a stark new set of images of climate change. Wildfires raced across forests and grasslands, rivers and reservoirs dried up in droughts, and extreme heat disrupted everyday life."
-    },
-    {
       "title": "Rosneft begins oil shipments from Vostok Oil project in Arctic",
       "link": "https://www.offshore-technology.com/news/rosneft-begins-oil-shipments-vostok-oil-arctic/",
       "source": "Offshore Technology",
@@ -202,62 +210,6 @@
       "category": "industry",
       "published": "2026-09-07T07:16:08.000Z",
       "excerpt": "US-based energy technology company Baker Hughes has been selected by bp to deliver stimulation services across the oil major’s UK North Sea operations."
-    },
-    {
-      "title": "Low electrical conductivity of dry CaSiO3 perovskite under lower mantle conditions",
-      "link": "https://arxiv.org/abs/2609.04499",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-07T04:00:00.000Z",
-      "excerpt": "arXiv:2609.04499v1 Announce Type: new Abstract: Electrical conductivity (EC) provides important constraints on the composition and volatile distribution of Earth's deep mantle, yet the EC of davemaoite (CaSiO3 perovskite…"
-    },
-    {
-      "title": "Bayesian inversion of multilayer $\\mathrm{CO}_2$ migration from seismic plume observations using a graph-based finite-rate invasion-percolation model",
-      "link": "https://arxiv.org/abs/2609.04937",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-07T04:00:00.000Z",
-      "excerpt": "arXiv:2609.04937v1 Announce Type: new Abstract: Vertical migration of $\\mathrm{CO}_2$ in layered sandstone reservoirs is controlled by thin shale barriers whose properties are often poorly known. We develop a Bayesian fr…"
-    },
-    {
-      "title": "Two-phase Temperature Reconstruction in Ice-Water Systems",
-      "link": "https://arxiv.org/abs/2609.04479",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-07T04:00:00.000Z",
-      "excerpt": "arXiv:2609.04479v1 Announce Type: cross Abstract: What controls heat transport when liquid water interacts with ice? Answering this question is essential for understanding water bodies undergoing phase change. Yet experi…"
-    },
-    {
-      "title": "When a high-mountain slope failure cascades downstream: reconstructing the 26 August 2026 Gyirong mixed rock-ice disaster",
-      "link": "https://arxiv.org/abs/2609.04563",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-07T04:00:00.000Z",
-      "excerpt": "arXiv:2609.04563v1 Announce Type: cross Abstract: On 26 August 2026, a high-elevation slope failure involving rock and glacier ice near the China--Nepal border developed into a channelised mass-flow and flood cascade tha…"
-    },
-    {
-      "title": "Integrated Experimental and Numerical Investigations on the Thermo-Hydro-Mechanical Behavior of Clays and Argillaceous Rocks: A Perspective",
-      "link": "https://arxiv.org/abs/2506.05818",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-07T04:00:00.000Z",
-      "excerpt": "arXiv:2506.05818v2 Announce Type: replace Abstract: This paper synthesizes nearly a decade of research on the coupled thermo-hydro-mechanical (THM) behavior of clays and argillaceous rocks. Drawing from experimental obse…"
-    },
-    {
-      "title": "The Statistical physics of unsaturated soil water: kinetic theory and non commutative pore water dynamics",
-      "link": "https://arxiv.org/abs/2607.09416",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-07T04:00:00.000Z",
-      "excerpt": "arXiv:2607.09416v2 Announce Type: replace-cross Abstract: We develop a statistical-mechanical theory of water in unsaturated soil whose outcome is a continuum field equation for the pore-occupancy g(r,x,t), the fraction…"
-    },
-    {
-      "title": "Richards' equation as a hydrodynamic limit: Chapman--Enskog reduction of the continuum kinetic equation for unsaturated soil water",
-      "link": "https://arxiv.org/abs/2607.17358",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-07T04:00:00.000Z",
-      "excerpt": "arXiv:2607.17358v2 Announce Type: replace-cross Abstract: Richards' equation for unsaturated water flow is derived from the kinetic theory of the pore-filling distribution g(r,x,t) of a companion paper. It separates two…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4230: Microwave- Versus Conventional Acid-Assisted Thermohydrolysis of Willow and Maize Silage: Methane Yield and the Energy Cost of Pretreatment",
@@ -346,14 +298,6 @@
       "category": "energy",
       "published": "2026-09-07T00:00:00.000Z",
       "excerpt": "This work proposes a real-time wind power estimation approach for a direct-current (DC) wind energy conversion system based on an artificial neural network (ANN). The proposed ANN uses the Levenberg&amp;ndash;Marquardt (…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4219: Series-Connected Grid-Following and Grid-Forming Hybrid Control Strategy for VSC-HVDC Converters to Enhance Transient Voltage Stability in Receiving-End Power Grids",
-      "link": "https://www.mdpi.com/1996-1073/19/17/4219",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-07T00:00:00.000Z",
-      "excerpt": "With an increase in the High-Voltage Direct Current (HVDC) infeed, the strength of the receiving-end AC grid decreases, leading to transient voltage instability. Voltage source converter (VSC)-HVDC stations have a large…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2862: Parameter Estimation of First-Order Frequency Response Model for AC Distribution Networks with Hydro-Energy Storage",
@@ -874,6 +818,62 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "High-temperature corrosion and corrosion-product evolution of pure Ni in simulated HCl-containing flue gas with and without added O 2",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029820?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Xinyue Li, Lijuan Chen, Bo Wei, Rui Ma, Yihua Li, Feifan Guo, Jingxuan Shuang"
+    },
+    {
+      "title": "Diagnosing spatial hydrothermal heterogeneity in a large-area PEMFC under blocked cathode flow fields using segmented EIS measurement",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029959?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Zhexuan Qi, Yanyi Zhang, Zirong Yang, Ruidi Wang, Dong Hao, Qing Du, Yongping Hou"
+    },
+    {
+      "title": "A novel surface modified nano-fluid based on TiO 2 /Fe 3 O 4 /CAPB for extreme wettability alteration, ultra-low IFT, asphaltene stabilization, and incremental oil recovery with eco-friendly and cost-effective advantages",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029352?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Ehsan Jafarbeigi, Eghbal sahraei, Khaled maroufi"
+    },
+    {
+      "title": "Modeling of pressurized electrolysis and co-electrolysis using reduced order model, computational fluid dynamics and artificial neural networks",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029649?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Maciej Bąkała, Krystian Machaj, Aleksandra Koprowska, Jakub Kupecki"
+    },
+    {
+      "title": "First-principles non-adiabatic molecular dynamics insights into Janus PtSSe/Zipper-Phosphorene heterostructures for efficient photocatalytic water splitting",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029868?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Ramandeep Singh, Ashok Kumar"
+    },
+    {
+      "title": "Investigation of a rapid coking formation mechanism based on conjugated stable radicals",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029133?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Long Wang, Yanrong Lu, Jialiang Song, Xiangyuan Li"
     }
   ]
 }
