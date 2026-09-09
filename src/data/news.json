@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T21:22:54.005Z",
+  "generatedAt": "2026-09-09T05:10:27.427Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 14,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,166 @@
     }
   ],
   "items": [
+    {
+      "title": "Kinematics of erosion-induced landslide mobility",
+      "link": "https://arxiv.org/abs/2609.05455",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.05455v1 Announce Type: new Abstract: Erosion-induced landslide mobility is a prominent phenomenon in nature. However, this topic remains poorly understood, even though erosion greatly alters nearly every aspec…"
+    },
+    {
+      "title": "Bayesian Joint Velocity and Impedance Inversion via Diffusion Models Conditioned on Common Image Gathers",
+      "link": "https://arxiv.org/abs/2609.05476",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.05476v1 Announce Type: new Abstract: We present a multi-parameter simulation-based inference framework for joint Bayesian recovery of subsurface velocity and acoustic impedance from seismic data. A score-based…"
+    },
+    {
+      "title": "Estimating subsurface water mass changes with ground-based gravimetry",
+      "link": "https://arxiv.org/abs/2609.05557",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.05557v1 Announce Type: new Abstract: Gravitational force is proportional to the mass of an attracting body; therefore, changes in subsurface mass can be detected using gravimetry. In the near subsurface, mass…"
+    },
+    {
+      "title": "The tetragonal-cubic transition of davemaoite: Implications for lower mantle seismic anomalies",
+      "link": "https://arxiv.org/abs/2609.05673",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.05673v1 Announce Type: new Abstract: Davemaoite (CaSiO3 perovskite) is the third most abundant mineral in Earth's lower mantle and a dominant phase in subducted oceanic crust. Its crystal structure is distorte…"
+    },
+    {
+      "title": "Seismic P-wave attenuation estimation based on frequency-dependent AVO using Kramers-Kronig relations for gas reservoir prediction",
+      "link": "https://arxiv.org/abs/2609.05922",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.05922v1 Announce Type: new Abstract: Estimation of seismic attenuation (inverse quality factor) is important for gas reservoir prediction. Two key issues in seismic attenuation estimation are the development o…"
+    },
+    {
+      "title": "Conservation of Normalized Energy Density in multi-layered media: a proof for the general multi-layer 2D SH problem",
+      "link": "https://arxiv.org/abs/2609.05924",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.05924v1 Announce Type: new Abstract: The Normalized Energy Density (NED) was introduced in Goto et al.(2011) as a quantity that, unlike the conventional energy, is conserved across material interfaces in a lay…"
+    },
+    {
+      "title": "Hourly U.S.-wide flood simulation beyond the limits of traditional and data-driven models",
+      "link": "https://arxiv.org/abs/2609.06794",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.06794v1 Announce Type: new Abstract: As increasingly-damaging floods can strike within hours of a storm and in ungauged reaches, hourly network-wide simulation has become critical societal infrastructure. Here…"
+    },
+    {
+      "title": "The 2016 Mw 7.0 Kumamoto Earthquake Sequence, Japan revisited: Insights from Spatio-Temporal Analysis of Seismicity Parameters",
+      "link": "https://arxiv.org/abs/2609.06911",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.06911v1 Announce Type: new Abstract: Understanding how crustal faults accumulate strain, nucleate ruptures, and redistribute post-seismic stress is fundamental to seismic hazard assessment. The 16 April 2016 $…"
+    },
+    {
+      "title": "ANADEF: A Nested-Permutation Alarm for Dual-Parameter Earthquake Forecasting",
+      "link": "https://arxiv.org/abs/2609.06920",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.06920v1 Announce Type: new Abstract: Spatially resolved stress proxies and rate-based seismicity models are increasingly combined for regional earthquake forecasting, yet formally testing their non-redundancy…"
+    },
+    {
+      "title": "SeisBench DAS: A machine learning framework for Distributed Acoustic Sensing",
+      "link": "https://arxiv.org/abs/2609.07558",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.07558v1 Announce Type: new Abstract: Fibre optic sensing, such as distributed acoustic sensing (DAS), has become a widespread technology for geophysical studies. To process the large-scale datasets produced by…"
+    },
+    {
+      "title": "Slow dynamics in concrete: Effects of temperature, strength variation, and microcracking damage",
+      "link": "https://arxiv.org/abs/2609.05456",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.05456v1 Announce Type: cross Abstract: In this study, we investigated the slow dynamic behavior of concrete with varying compressive strengths ($f'_c = 32\\sim56$ MPa) and alkali-silica reaction (ASR) damage. C…"
+    },
+    {
+      "title": "Maintenance of a columnar vortex by inertial waves in rotational turbulence",
+      "link": "https://arxiv.org/abs/2609.06158",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-09T04:00:00.000Z",
+      "excerpt": "arXiv:2609.06158v1 Announce Type: cross Abstract: We develop a theory that determines the radial profile of the mean velocity in a coherent geostrophic vortex forming in a turbulent rapidly rotating fluid. Following the…"
+    },
+    {
+      "title": "A vicarious calibration model enables quantitative applications of Fengyun-3 satellite ocean color data",
+      "link": "https://phys.org/news/2026-09-vicarious-calibration-enables-quantitative-applications.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-09T02:20:02.000Z",
+      "excerpt": "Ocean color remote sensing is a vital tool for monitoring global ocean carbon sinks and primary productivity. However, the on-orbit calibration accuracy of satellite sensors is insufficient, and weak marine signals accou…"
+    },
+    {
+      "title": "Why does Southeast Asia keeps breathing the same haze—and can ASEAN do more to stop it?",
+      "link": "https://phys.org/news/2026-09-southeast-asia-haze-asean.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-09T02:00:02.000Z",
+      "excerpt": "Southeast Asia has spent decades trying to tackle haze from forest fires. Yet every few years, the region finds itself breathing it again. The transboundary environmental problem has become a recurrent phenomenon in the…"
+    },
+    {
+      "title": "Why a wetter Tibetan Plateau still faces 'hot-dry' extremes: The roles of ENSO and the North Atlantic",
+      "link": "https://phys.org/news/2026-09-wetter-tibetan-plateau-hot-dry.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-09T01:00:01.000Z",
+      "excerpt": "Since the 1950s, the Tibetan Plateau has experienced pronounced warming and wetting. However, an overall shift toward wetter conditions does not necessarily mean that drought risk has diminished. On the contrary, against…"
+    },
+    {
+      "title": "Action on climate and air pollution likely to boost economy, UN says",
+      "link": "https://phys.org/news/2026-09-action-climate-air-pollution-boost.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-09T00:00:01.000Z",
+      "excerpt": "Every US$1 invested in tackling climate change and air pollution together can generate around US$15 in economic benefits, according to a report published today by the U.N. Environment Programme (UNEP) and the Climate and…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4253: Multi-Objective Energy-Efficient Train Timetable Optimization in Urban Rail Transit via a Hybrid DRL-NSGA-III Framework",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4253",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-09T00:00:00.000Z",
+      "excerpt": "Urban rail transit systems face a pronounced contradiction between escalating traction energy consumption and passenger service quality under the carbon peaking and carbon neutrality goals. This study proposes a hybrid o…"
+    },
+    {
+      "title": "Sparse-data method estimates sea surface temperatures 40% more accurately than conventional approach",
+      "link": "https://phys.org/news/2026-09-sparse-method-sea-surface-temperatures.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-08T22:20:04.000Z",
+      "excerpt": "Researchers have developed a method for extrapolating sea surface temperatures from sparse data that is significantly more accurate than other commonly used computational methods and slightly more accurate than the best-…"
+    },
+    {
+      "title": "Portugal's Pinhal Interior shows why fire and floods are part of the same cycle",
+      "link": "https://phys.org/news/2026-09-portugal-pinhal-interior.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-08T22:20:01.000Z",
+      "excerpt": "Across southern Europe, increasingly extreme heat, wildfire and intense rainfall are forcing planners to consider how one event can alter the risk of the next. Portugal's exceptionally wet winter and another summer of wi…"
+    },
+    {
+      "title": "Cosmic radiation at flight altitudes rises when the sun is less active",
+      "link": "https://phys.org/news/2026-09-cosmic-flight-altitudes-sun.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-08T21:40:03.000Z",
+      "excerpt": "Radiation from space is constantly entering Earth's atmosphere, but how much of it reaches the altitudes used by commercial aircraft depends not only on height and location, but also on the activity of the sun. A new stu…"
+    },
     {
       "title": "Physics-based AI unlocks first global predictions of carbon cycling in ocean sediments",
       "link": "https://phys.org/news/2026-09-physics-based-ai-global-carbon.html",
@@ -116,54 +276,6 @@
       "excerpt": "Climate change is driving rapid declines in seaweed forests globally, outpacing restoration efforts and undermining seaweed restoration as a viable carbon dioxide removal strategy, according to an essay by Karen Filbee-D…"
     },
     {
-      "title": "Study predicts large disparities in access to food, water and energy in 2050",
-      "link": "https://phys.org/news/2026-09-large-disparities-access-food-energy.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-08T17:20:01.000Z",
-      "excerpt": "How will global access to food, water and energy evolve in coming decades? A new study coauthored by MIT researchers suggests the answers could be very different depending on region, resource and income."
-    },
-    {
-      "title": "Plants' response to rising CO₂ could put the brakes on dryland expansion",
-      "link": "https://phys.org/news/2026-09-response-dryland-expansion.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-08T17:10:02.000Z",
-      "excerpt": "Drylands are defined as regions where rainfall is low relative to the atmosphere's ability to draw water from soil and plants. Expanding boundaries of these regions are frequent concerns in climate change considerations.…"
-    },
-    {
-      "title": "Current events: Scientists keep close eye on Atlantic Ocean changes",
-      "link": "https://phys.org/news/2026-09-current-events-scientists-eye-atlantic.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-08T15:40:02.000Z",
-      "excerpt": "The year is 2060. London shudders through months of Nordic winter freezes. Across northern Europe, oak and beech forests wither under severe frost and drought, while cereal yields collapse from temperatures plunging as l…"
-    },
-    {
-      "title": "Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher",
-      "link": "https://phys.org/news/2026-09-nepal-glacier-exceptional-collapse-deadly.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-08T14:48:54.000Z",
-      "excerpt": "The mountain section whose collapse triggered fatal floods in Nepal and China on Aug. 26 had experienced unprecedented heat for the time of year, meteorological data analyzed by a researcher show."
-    },
-    {
-      "title": "Marine heat waves boost coastal CO₂ uptake by 11%, analysis finds",
-      "link": "https://phys.org/news/2026-09-marine-boost-coastal-uptake-analysis.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-08T14:20:06.000Z",
-      "excerpt": "Marine heat waves are a consequence of climate change and are increasingly altering marine and coastal regions worldwide. An international study led by the Helmholtz-Zentrum Hereon now shows that many coastal seas absorb…"
-    },
-    {
-      "title": "First national map reveals where Ireland's coast is most exposed to erosion and flooding",
-      "link": "https://phys.org/news/2026-09-national-reveals-ireland-coast-exposed.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-08T14:00:03.000Z",
-      "excerpt": "The first national map of Ireland's exposure to climate hazards, including rising sea levels and storm surges, has identified the stretches of coastline facing the greatest pressures, providing critical new evidence to s…"
-    },
-    {
       "title": "Tamarack Valley, Headwater Exploration agree $7.2bn all-stock merger",
       "link": "https://www.offshore-technology.com/news/tamarack-valley-headwater-exploration-merger/",
       "source": "Offshore Technology",
@@ -194,14 +306,6 @@
       "category": "industry",
       "published": "2026-09-08T10:13:55.000Z",
       "excerpt": "Oil prices rose to their highest levels in several weeks on 8 September, Tuesday, following attacks on Saudi energy facilities by Yemen’s Houthi movement and escalating tensions between Iran and the US."
-    },
-    {
-      "title": "Kauai on tornado watch as Hurricane Lowell nears Hawaiian Islands",
-      "link": "https://phys.org/news/2026-09-kauai-tornado-hurricane-lowell-nears.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-08T09:10:01.000Z",
-      "excerpt": "Residents of Kauai were warned to watch for tornadoes late Monday as Hurricane Lowell edged toward the westernmost Hawaiian Islands in the U.S. Pacific island chain, the National Weather Service said."
     },
     {
       "title": "Valve performance management is critical to the energy transition. Here’s why",
@@ -306,14 +410,6 @@
       "category": "energy",
       "published": "2026-09-08T00:00:00.000Z",
       "excerpt": "This study presents a 3D computational fluid dynamics (CFD) investigation of methane and methanol combustion in a medium-speed, large-bore marine spark-ignition engine equipped with a pre-chamber (PC) ignition system. Si…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4241: Experimental Investigation of CO2&ndash;Brine&ndash;Rock Interactions and Permeability Impairment in Entrada Sandstone",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4241",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-08T00:00:00.000Z",
-      "excerpt": "This study investigates CO2&amp;ndash;brine&amp;ndash;rock interactions in Entrada Sandstone from the San Juan Basin under reservoir-relevant pressure and temperature conditions. A core plug from 8313 to 8315 ft was expo…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2869: Petrophysical Cutoffs and Reservoir Grading Criteria for Qingshankou Formation Shale in Qijia&ndash;Gulong Sag, Songliao Basin",
@@ -778,102 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Huiying Tang, Zhicheng Wen, Liehui Zhang, Junsheng Zeng, Xiao He, Jianfa Wu, Jian Zheng"
-    },
-    {
-      "title": "Lithofacies analysis and paleosedimentary evolution of Taiyuan Formation in Southern North China Basin",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009792?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Yanxia Peng, Shaobin Guo"
-    },
-    {
-      "title": "Evaluation of hematite and Micromax-based cement systems for high- density well cementing",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009779?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Abdulmalek Ahmed, Ahmed Abdelaal, Salaheldin Elkatatny"
-    },
-    {
-      "title": "Dynamic effect of gas initial desorption in coals with different moisture contents and energy-controlling mechanism for outburst prevention of water injection in coal seams",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011226?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
-    },
-    {
-      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
-    },
-    {
-      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
-    },
-    {
-      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Atmosphere-resolved TG-FTIR and DAEM kinetic transfer for predicting heat release dynamics of wood combustion",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030279?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Hao Liu, Shuna Zhao, Lin Jiang, Qiang Xu, Jieyao Lyu, Wenming Yang, Andrea Majlingova, Marija Jelčić Rukavina"
-    },
-    {
-      "title": "Influence of distilled tall oil on hydrothermal upgrading of heavy crude oil: unveiling ligand effectiveness",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029364?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Facknwie Kahwir Oscar, Arash Tajik, Oybek Mirzaev, Ilfat Rahmatullin, Aleksey Dengaev, Alexey Vakhin, Yaroslav Onishenko, Firdavs Aliev"
-    },
-    {
-      "title": "Influence of thermal oxidation on CeO 2 physicochemical properties during diesel soot combustion",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029704?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Bowen Zhao, Yapeng Zhang, Junpeng Li, Tao Peng, Xiaoxue Zhang, Liqun Zhou, Xingyu Liang, Ye Liu"
-    },
-    {
-      "title": "Airflow field reconstruction and spontaneous combustion evolution in a gob under the influence of extraction disturbances",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030097?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Shiyang Peng, Wei Liu, Ruilin Li, Panqi Yang"
-    },
-    {
-      "title": "Roles of phenol and furfural in polymerization during low-temperature electrochemical upgrading of bio-oil",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030140?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Xuepeng Wang, Junjie Chen, Wei Deng, Jun Xu, Kai Xu, Long Jiang, Yi Wang, Sheng Su, Song Hu, Jun Xiang"
-    },
-    {
-      "title": "Study on the occurrence forms of potassium during catalytic coal gasification",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030085?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Haodong Wu, Yuxuan Liu, Zhuoran Liu, Binbin Zhang, Xingjun Wang, Qinghua Guo, Xueli Chen, Guangsuo Yu, Lu Ding, Fuchen Wang"
     }
   ]
 }
