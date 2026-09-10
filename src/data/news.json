@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T21:08:47.943Z",
+  "generatedAt": "2026-09-10T05:12:23.244Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 14,
+      "count": 3,
       "error": null
     },
     {
@@ -75,6 +75,86 @@
     }
   ],
   "items": [
+    {
+      "title": "Bayesian deep learning integration of geophysical and drilling data for 3D prediction of copper mineralization and drill targeting: a case study from the Kogodai prospect, Rudny Altai",
+      "link": "https://arxiv.org/abs/2609.09246",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-10T04:00:00.000Z",
+      "excerpt": "arXiv:2609.09246v1 Announce Type: new Abstract: Exploration drill targeting in structurally complex terranes is hindered by sparse sampling, heterogeneous datasets, and the ambiguity of geophysical inversions. Here, we p…"
+    },
+    {
+      "title": "PyelogP: Automated Energy-Based Determination of Preconsolidation Pressure in Clay Deposits",
+      "link": "https://arxiv.org/abs/2609.09430",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-10T04:00:00.000Z",
+      "excerpt": "arXiv:2609.09430v1 Announce Type: new Abstract: Estimating the preconsolidation pressure ($\\sigma'_p$) from one-dimensional consolidation (oedometer) tests is critical in geotechnical engineering for settlement analysis.…"
+    },
+    {
+      "title": "Holistic law of aftershocks",
+      "link": "https://arxiv.org/abs/2609.10249",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-10T04:00:00.000Z",
+      "excerpt": "arXiv:2609.10249v1 Announce Type: new Abstract: The paper is devoted to the phenomenological theory of aftershocks occurring in the source of a tectonic earthquake following the main shock. The theory was developed by th…"
+    },
+    {
+      "title": "Can AI tame torrential rain by 2050? The next frontier of weather control and forecasting",
+      "link": "https://phys.org/news/2026-09-ai-torrential-frontier-weather.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-10T03:20:01.000Z",
+      "excerpt": "Japan has been experiencing increasingly severe damage from torrential rainfall triggered by typhoons and stationary linear rain bands. In response, an ambitious and unconventional idea is taking shape: artificially indu…"
+    },
+    {
+      "title": "Four in five researchers report harmful interactions during geoscience fieldwork. A new survey suggests a path forward.",
+      "link": "https://phys.org/news/2026-09-interactions-geoscience-fieldwork-survey-path.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-10T02:20:02.000Z",
+      "excerpt": "Fieldwork is a vital part of geoscience research, allowing scientists and students to directly observe, interact with and collect data about Earth processes that cannot be replicated in the lab."
+    },
+    {
+      "title": "Eight PFAS compounds detected at low concentrations in Melbourne rain",
+      "link": "https://phys.org/news/2026-09-pfas-compounds-melbourne.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-10T00:00:04.000Z",
+      "excerpt": "Researchers from RMIT University and EPA Victoria detected eight PFAS compounds in rainwater samples collected in Melbourne between 2024 and 2025."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4281: Experimental Study on Triaxial Mechanical Properties of Deep Carbonate Rocks Under Thermo-Hydro-Mechanical Coupling",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4281",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-10T00:00:00.000Z",
+      "excerpt": "Global oil and gas exploration and development are gradually expanding into deep and ultra-deep formations. Deep limestone exists in a long-term multi-field coupled environment featuring high temperature, high in situ st…"
+    },
+    {
+      "title": "Rising sea levels could cost Australians at least $855 billion by 2100",
+      "link": "https://phys.org/news/2026-09-sea-australians-billion.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-09T23:40:04.000Z",
+      "excerpt": "Rising sea levels and storm surges could cost $855 billion in economic losses across Australia by the end of the century, according to new research, the first of its kind in Australia."
+    },
+    {
+      "title": "Africa's rocks hold ancient stories. We need better ways to document and protect them",
+      "link": "https://phys.org/news/2026-09-africa-ancient-stories-ways-document.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-09T22:00:01.000Z",
+      "excerpt": "From the Vredefort Dome in South Africa (the world's oldest and largest known meteorite impact structure) to the volcanic lakes of the Great Rift Valley in Kenya, Africa's landscapes hold some of Earth's oldest stories.…"
+    },
+    {
+      "title": "From drought to floods in North Africa: What could the super El Niño do next?",
+      "link": "https://phys.org/news/2026-09-drought-north-africa-super-el.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-09T21:40:05.000Z",
+      "excerpt": "Morocco spent most of the last decade drying out. Between 2019 and 2024, the country recorded six consecutive years of below-average rainfall, the longest on record. The 2023–24 hydrological year was the driest in more t…"
+    },
     {
       "title": "'Alarm bells ringing': US summer heat shatters record",
       "link": "https://phys.org/news/2026-09-alarm-bells-summer-shatters.html",
@@ -124,60 +204,12 @@
       "excerpt": "Carbon emissions from the petrochemical industry could increase by 50% by 2050, according to new research from the University of Sheffield. The study, published in Nature Sustainability, provides the most detailed data t…"
     },
     {
-      "title": "Auckland has an overlooked traffic pollution problem—and it's not from exhausts",
-      "link": "https://phys.org/news/2026-09-auckland-overlooked-traffic-pollution-problem.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-09T14:40:09.000Z",
-      "excerpt": "Cleaner engine standards and a gradual uptake of electric vehicles have been credited with helping improve Auckland's air quality in recent years."
-    },
-    {
-      "title": "Anak Krakatau erupts, disrupting 300,000 travelers as 1883 disaster looms large",
-      "link": "https://phys.org/news/2026-09-anak-krakatau-erupts-disrupting-disaster.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-09T14:03:16.000Z",
-      "excerpt": "Indonesia's Mount Anak Krakatau has erupted again this week, sending plumes of volcanic ash high into the sky and disrupting hundreds of flights. More than 300,000 passengers have been affected."
-    },
-    {
-      "title": "Hidden microplastic pollution in Swiss waters uncovered",
-      "link": "https://phys.org/news/2026-09-hidden-microplastic-pollution-swiss-uncovered.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-09T14:00:16.000Z",
-      "excerpt": "Microplastics are plastic particles smaller than 5 millimeters that originate either from manufactured products or from the breakdown of larger plastic items. They can now be found everywhere, from oceans and rivers to s…"
-    },
-    {
-      "title": "Heat forces French Champagne makers to stiffen their drink",
-      "link": "https://phys.org/news/2026-09-french-champagne-makers-stiffen.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-09T13:56:57.000Z",
-      "excerpt": "Drinking this year's champagne might cause a heftier headache as France's record heat waves force some producers to increase alcohol levels, industry officials said Wednesday."
-    },
-    {
-      "title": "In North Carolina, a race is on to restore critical peatland before it dries up or is destroyed",
-      "link": "https://phys.org/news/2026-09-north-carolina-critical-peatland-dries.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-09T13:48:26.000Z",
-      "excerpt": "The birds are up with the sunrise—warblers, flycatchers, sparrows and towhees calling across the treetops. Deer browse on tender buds emerging from dense shrubs. Black bears scrounge for roots, insects and other edibles."
-    },
-    {
       "title": "Saipem wins Osman Gazi FPU commissioning contract in Türkiye",
       "link": "https://www.offshore-technology.com/news/saipem-osman-gazi-fpu-contract-turkiye/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-09-09T13:31:22.000Z",
       "excerpt": "Saipem has secured a contract from GOE Petrol Sanayi to provide commissioning services for the Osman Gazi FPU, which will serve the Sakarya gas field in the Turkish Black Sea."
-    },
-    {
-      "title": "Pounding waves open up sinkhole in swanky Malibu",
-      "link": "https://phys.org/news/2026-09-pounding-sinkhole-swanky-malibu.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-09T13:00:11.000Z",
-      "excerpt": "Pounding surf lashing the swanky California enclave of Malibu on Tuesday opened a giant sinkhole in the driveway of a house reportedly belonging to U.S. actor Nicolas Cage."
     },
     {
       "title": "Oil prices pass $100 amid intensified Middle East hostilities",
@@ -218,102 +250,6 @@
       "category": "geoscience",
       "published": "2026-09-09T04:35:01.000Z",
       "excerpt": "Volcanic rocks in Colombia are rewriting the timeline of the collision between Central and South America. Their magnetic signatures show that major tectonic deformation had already weakened by the late Miocene, suggestin…"
-    },
-    {
-      "title": "Kinematics of erosion-induced landslide mobility",
-      "link": "https://arxiv.org/abs/2609.05455",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.05455v1 Announce Type: new Abstract: Erosion-induced landslide mobility is a prominent phenomenon in nature. However, this topic remains poorly understood, even though erosion greatly alters nearly every aspec…"
-    },
-    {
-      "title": "Bayesian Joint Velocity and Impedance Inversion via Diffusion Models Conditioned on Common Image Gathers",
-      "link": "https://arxiv.org/abs/2609.05476",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.05476v1 Announce Type: new Abstract: We present a multi-parameter simulation-based inference framework for joint Bayesian recovery of subsurface velocity and acoustic impedance from seismic data. A score-based…"
-    },
-    {
-      "title": "Estimating subsurface water mass changes with ground-based gravimetry",
-      "link": "https://arxiv.org/abs/2609.05557",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.05557v1 Announce Type: new Abstract: Gravitational force is proportional to the mass of an attracting body; therefore, changes in subsurface mass can be detected using gravimetry. In the near subsurface, mass…"
-    },
-    {
-      "title": "The tetragonal-cubic transition of davemaoite: Implications for lower mantle seismic anomalies",
-      "link": "https://arxiv.org/abs/2609.05673",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.05673v1 Announce Type: new Abstract: Davemaoite (CaSiO3 perovskite) is the third most abundant mineral in Earth's lower mantle and a dominant phase in subducted oceanic crust. Its crystal structure is distorte…"
-    },
-    {
-      "title": "Seismic P-wave attenuation estimation based on frequency-dependent AVO using Kramers-Kronig relations for gas reservoir prediction",
-      "link": "https://arxiv.org/abs/2609.05922",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.05922v1 Announce Type: new Abstract: Estimation of seismic attenuation (inverse quality factor) is important for gas reservoir prediction. Two key issues in seismic attenuation estimation are the development o…"
-    },
-    {
-      "title": "Conservation of Normalized Energy Density in multi-layered media: a proof for the general multi-layer 2D SH problem",
-      "link": "https://arxiv.org/abs/2609.05924",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.05924v1 Announce Type: new Abstract: The Normalized Energy Density (NED) was introduced in Goto et al.(2011) as a quantity that, unlike the conventional energy, is conserved across material interfaces in a lay…"
-    },
-    {
-      "title": "Hourly U.S.-wide flood simulation beyond the limits of traditional and data-driven models",
-      "link": "https://arxiv.org/abs/2609.06794",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.06794v1 Announce Type: new Abstract: As increasingly-damaging floods can strike within hours of a storm and in ungauged reaches, hourly network-wide simulation has become critical societal infrastructure. Here…"
-    },
-    {
-      "title": "The 2016 Mw 7.0 Kumamoto Earthquake Sequence, Japan revisited: Insights from Spatio-Temporal Analysis of Seismicity Parameters",
-      "link": "https://arxiv.org/abs/2609.06911",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.06911v1 Announce Type: new Abstract: Understanding how crustal faults accumulate strain, nucleate ruptures, and redistribute post-seismic stress is fundamental to seismic hazard assessment. The 16 April 2016 $…"
-    },
-    {
-      "title": "ANADEF: A Nested-Permutation Alarm for Dual-Parameter Earthquake Forecasting",
-      "link": "https://arxiv.org/abs/2609.06920",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.06920v1 Announce Type: new Abstract: Spatially resolved stress proxies and rate-based seismicity models are increasingly combined for regional earthquake forecasting, yet formally testing their non-redundancy…"
-    },
-    {
-      "title": "SeisBench DAS: A machine learning framework for Distributed Acoustic Sensing",
-      "link": "https://arxiv.org/abs/2609.07558",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.07558v1 Announce Type: new Abstract: Fibre optic sensing, such as distributed acoustic sensing (DAS), has become a widespread technology for geophysical studies. To process the large-scale datasets produced by…"
-    },
-    {
-      "title": "Slow dynamics in concrete: Effects of temperature, strength variation, and microcracking damage",
-      "link": "https://arxiv.org/abs/2609.05456",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.05456v1 Announce Type: cross Abstract: In this study, we investigated the slow dynamic behavior of concrete with varying compressive strengths ($f'_c = 32\\sim56$ MPa) and alkali-silica reaction (ASR) damage. C…"
-    },
-    {
-      "title": "Maintenance of a columnar vortex by inertial waves in rotational turbulence",
-      "link": "https://arxiv.org/abs/2609.06158",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-09T04:00:00.000Z",
-      "excerpt": "arXiv:2609.06158v1 Announce Type: cross Abstract: We develop a theory that determines the radial profile of the mean velocity in a coherent geostrophic vortex forming in a turbulent rapidly rotating fluid. Following the…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4280: Economic and Energy Drivers of GHG Emission Changes in the Transport and Storage Sector: Evidence from Selected CEE Countries",
@@ -402,14 +338,6 @@
       "category": "energy",
       "published": "2026-09-09T00:00:00.000Z",
       "excerpt": "As a typical tight sandstone gas reservoir, the study area has entered a production-decline stage after years of development, and well pattern infilling has become a key means of improving the recovery factor. A cluster-…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4269: Faulty Feeder Identification for Single-Phase-to-Ground Faults in Small-Current Grounded Systems Based on an Adaptive Transient Window and Robust Multi-Feeder Graph Consistency",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4269",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-09T00:00:00.000Z",
-      "excerpt": "Accurate faulty feeder identification is essential for the safe operation of small-current grounded distribution networks under single-phase-to-ground faults, yet existing transient-based methods often rely on preset dat…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2882: Cross-Stratal Hydrocarbon Vertical Redistribution in Foreland Thrust Belts: A Fluid Inclusion Molecular Geochemical Perspective",
@@ -874,6 +802,78 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Huiying Tang, Zhicheng Wen, Liehui Zhang, Junsheng Zeng, Xiao He, Jianfa Wu, Jian Zheng"
+    },
+    {
+      "title": "Lithofacies analysis and paleosedimentary evolution of Taiyuan Formation in Southern North China Basin",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009792?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Yanxia Peng, Shaobin Guo"
+    },
+    {
+      "title": "Evaluation of hematite and Micromax-based cement systems for high- density well cementing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009779?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Abdulmalek Ahmed, Ahmed Abdelaal, Salaheldin Elkatatny"
+    },
+    {
+      "title": "Dynamic effect of gas initial desorption in coals with different moisture contents and energy-controlling mechanism for outburst prevention of water injection in coal seams",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011226?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
+    },
+    {
+      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "A deep-neural-network-assisted framework for multi-objective optimization of compact combustion kinetic mechanisms",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603019X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Hongbiao Lu, Xibo Wang, Pengfei Ji, Lagen Chai, Jingbo Wang"
+    },
+    {
+      "title": "Experimental study on the limiting oxygen concentration of methane-dominated alkane mixture under high pressure and temperature",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030188?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Jianbo Ma, Ran Sun, Mingzhi Li, Zhenyi Liu, Qiqi Liu, Pengliang Li, Tingting Jia, Zihao Xiu"
+    },
+    {
+      "title": "Multi-effect inhibition mechanism of CO 2 on the lower flammability limit of n -butane under O 2 /CO 2 atmospheres",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030218?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part B Author(s): Tianchi Tai, Yedian Gong, Yaohui Li, Rongzhen Liang, Xianzhong Hu"
     }
   ]
 }
