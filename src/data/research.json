@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:41:07.466Z",
+  "generatedAt": "2026-09-10T08:13:31.692Z",
   "sources": {
     "manual": {
       "ok": true,
@@ -9,13 +9,13 @@
     "orcid": {
       "ok": true,
       "count": 6,
-      "lastSuccess": "2026-09-09T18:40:41.552Z",
+      "lastSuccess": "2026-09-10T08:13:04.885Z",
       "error": null
     },
     "crossref": {
       "ok": true,
       "count": 3,
-      "lastSuccess": "2026-09-09T18:40:42.444Z",
+      "lastSuccess": "2026-09-10T08:13:06.579Z",
       "error": null
     },
     "zenodo": {
