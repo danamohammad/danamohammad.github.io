@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T21:09:51.446Z",
+  "generatedAt": "2026-09-11T05:11:03.433Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 3,
+      "count": 6,
       "error": null
     },
     {
@@ -75,6 +75,110 @@
     }
   ],
   "items": [
+    {
+      "title": "DiffSWE2d: a differentiable Shallow Water Equations solver for end-to-end flood and tsunami modelling",
+      "link": "https://arxiv.org/abs/2609.11426",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-11T04:00:00.000Z",
+      "excerpt": "arXiv:2609.11426v1 Announce Type: cross Abstract: Solving inverse and optimisation problems with traditional shallow water equations (SWE) solvers can be computationally expensive, particularly when gradients with respec…"
+    },
+    {
+      "title": "Optimizing GEDI Simulator Configuration for European Temperate Forests",
+      "link": "https://arxiv.org/abs/2609.11440",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-11T04:00:00.000Z",
+      "excerpt": "arXiv:2609.11440v1 Announce Type: cross Abstract: Accurate estimation of aboveground biomass density is essential for quantifying forest carbon stocks. NASA's GEDI mission provides valuable canopy structure data, but its…"
+    },
+    {
+      "title": "Lava Tube Exploration with LunarLeaper",
+      "link": "https://arxiv.org/abs/2609.11453",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-11T04:00:00.000Z",
+      "excerpt": "arXiv:2609.11453v1 Announce Type: cross Abstract: Lunar pits, some of which are interpreted as collapse features into underlying lava tubes, expose otherwise inaccessible stratigraphy and may provide entry points to subs…"
+    },
+    {
+      "title": "Stress-Testing Dynamical and Generative Downscaling Using Subseasonal Extreme Precipitation Forecasts",
+      "link": "https://arxiv.org/abs/2609.11696",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-11T04:00:00.000Z",
+      "excerpt": "arXiv:2609.11696v1 Announce Type: cross Abstract: Coarse spatial resolution limits the ability of subseasonal prediction models to resolve extreme precipitation. Downscaling with either dynamical or deep generative model…"
+    },
+    {
+      "title": "Using Seismic Statistical Features and VQ-VAE to Improve Spatiotemporal Seismicity Predictability",
+      "link": "https://arxiv.org/abs/2606.10069",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-11T04:00:00.000Z",
+      "excerpt": "arXiv:2606.10069v4 Announce Type: replace-cross Abstract: In this paper we build upon a previous study in which we demonstrated, using XGBoost and earthquake catalogue data from Japan and Chile, that a set of 60 seismic…"
+    },
+    {
+      "title": "Topographic Disorder, Wind Coupling, and Directional Fire Spread: Critical Behavior in a Terrain-Weighted Forest Fire Model",
+      "link": "https://arxiv.org/abs/2609.07763",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-11T04:00:00.000Z",
+      "excerpt": "arXiv:2609.07763v2 Announce Type: replace-cross Abstract: We introduce the Terrain-Weighted Forest Fire Model (TFFM), a lattice model in which fire spreads on a spatially correlated Gaussian height field with the asymmet…"
+    },
+    {
+      "title": "DRC's cobalt exports contain unreported uranium—our study estimates the global nuclear risk",
+      "link": "https://phys.org/news/2026-09-drc-cobalt-exports-unreported-uranium.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-11T03:20:04.000Z",
+      "excerpt": "The southern region of the Democratic Republic of Congo (DRC) is known as the Copperbelt because of its rich deposits of copper and other minerals."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4296: Microwave Autohydrolysis with Explosive Decompression of Willow and Maize Silage: Residence Time, Methane Yield and Energy Balance",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4296",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-11T00:00:00.000Z",
+      "excerpt": "Biomethane recovery from lignocellulose is limited by the recalcitrance of the fibre matrix, which pretreatment can relieve. Thermal pretreatment is usually optimised through temperature, whereas the residence time of hy…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4295: Operational Challenges of Digital Real-Time Simulation (DRTS) for the Management of Distributed Energy Resources (DERs)",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4295",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-11T00:00:00.000Z",
+      "excerpt": "The transition toward active and converter-dominated distribution networks is increasing the need for Digital Real-Time Simulation (DRTS) platforms capable of supporting the validation, operation, and planning of modern…"
+    },
+    {
+      "title": "Global database reveals why no two cities' food emissions look the same",
+      "link": "https://phys.org/news/2026-09-global-database-reveals-cities-food.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-10T23:40:04.000Z",
+      "excerpt": "Switching to a more sustainable diet could halve food-related emissions in cities such as Amsterdam, while in cities such as Dhaka and Delhi, the focus should be more on making food production more sustainable as they wi…"
+    },
+    {
+      "title": "Q&A: The overlooked networks of heat resilience within communities",
+      "link": "https://phys.org/news/2026-09-qa-overlooked-networks-resilience-communities.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-10T22:40:04.000Z",
+      "excerpt": "As extreme heat becomes more frequent and severe, many people are turning to informal adaptation strategies—rigging up plastic sheeting overhead for shade, sharing water at a community tap and creating neighborhood cooli…"
+    },
+    {
+      "title": "Future catastrophic weather could be 'far worse' than history suggests",
+      "link": "https://phys.org/news/2026-09-future-catastrophic-weather-worse-history.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-10T22:20:01.000Z",
+      "excerpt": "Historical records of the deadliest storms and heat waves may be a poor indicator of the scale and impact future weather disasters could have, scientists at King's College London warn."
+    },
+    {
+      "title": "Himalayan glacial lakes are growing—and so is the downstream flood risk",
+      "link": "https://phys.org/news/2026-09-himalayan-glacial-lakes-downstream.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-10T21:30:01.000Z",
+      "excerpt": "Dozens of glacial lakes have formed across northern India in the last three decades, while existing lakes have expanded rapidly, highlighting the need to monitor a landscape reshaped by climate change."
+    },
     {
       "title": "Water isotopes reveal early drought signals in Central Amazon rainfall",
       "link": "https://phys.org/news/2026-09-isotopes-reveal-early-drought-central.html",
@@ -132,52 +236,12 @@
       "excerpt": "In early 2017 and 2023, California experienced two catastrophic and record-breaking floods that caused billions of dollars in damage, triggered mudslides and forced thousands of people to evacuate. Why this happened left…"
     },
     {
-      "title": "Report maps pathways for accelerating environmental solutions through positive tipping points",
-      "link": "https://phys.org/news/2026-09-pathways-environmental-solutions-positive.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-10T15:20:04.000Z",
-      "excerpt": "New research from The Earthshot Prize and the University of Exeter's Green Futures Solutions team, published today, reveals 51 environmental solutions that can trigger rapid, transformative change to repair our planet wi…"
-    },
-    {
-      "title": "Dangerous heat days are expanding beyond summer, with regional spring-fall shifts",
-      "link": "https://phys.org/news/2026-09-dangerous-days-summer-regional-fall.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-10T15:00:12.000Z",
-      "excerpt": "Extreme heat has become more common—both research and lived experience document this—but when it arrives is a different question. A new study finds that, rather than occurring only during warm seasons, extreme heat event…"
-    },
-    {
-      "title": "August hottest month ever recorded globally as huge El Niño emerges",
-      "link": "https://phys.org/news/2026-09-august-hottest-month-globally-huge.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-10T14:30:01.000Z",
-      "excerpt": "Europe's climate monitor said Thursday that August was the hottest month ever recorded around the world and warned of worse to come as an unprecedented El Niño pattern grows stronger."
-    },
-    {
       "title": "Odfjell secures $518m contract for Deepsea Bergen from Vår Energi",
       "link": "https://www.offshore-technology.com/news/odfjell-contract-deepsea-bergen-var-energi/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-09-10T14:10:15.000Z",
       "excerpt": "Odfjell Drilling has received a LOA from Vår Energi for the deployment of the Deepsea Bergen rig, with an estimated contract value of $518m."
-    },
-    {
-      "title": "How two satellites are studying hurricanes during El Niño",
-      "link": "https://phys.org/news/2026-09-satellites-hurricanes-el-nio.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-10T12:40:08.000Z",
-      "excerpt": "In November 2025, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure and benefit commercial industries, including shipping. The satellite is now…"
-    },
-    {
-      "title": "Bulimba Creek tops Brisbane waterways for hazardous microplastics, risk analysis finds",
-      "link": "https://phys.org/news/2026-09-bulimba-creek-tops-brisbane-waterways.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-10T12:20:01.000Z",
-      "excerpt": "A QUT investigation of the composition of microplastic types in three Brisbane creeks found that Bulimba Creek had a high load of hazardous microplastics. The work is published in the journal Marine Pollution Bulletin."
     },
     {
       "title": "Arena Energy set to win nine blocks in Gulf of Mexico Lease Sale BBG3",
@@ -202,30 +266,6 @@
       "category": "industry",
       "published": "2026-09-10T07:42:45.000Z",
       "excerpt": "Enbridge has agreed to acquire the crude oil transportation business of US-based energy infrastructure company Tallgrass Energy in a transaction valued at $2.55bn in cash."
-    },
-    {
-      "title": "Bayesian deep learning integration of geophysical and drilling data for 3D prediction of copper mineralization and drill targeting: a case study from the Kogodai prospect, Rudny Altai",
-      "link": "https://arxiv.org/abs/2609.09246",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-10T04:00:00.000Z",
-      "excerpt": "arXiv:2609.09246v1 Announce Type: new Abstract: Exploration drill targeting in structurally complex terranes is hindered by sparse sampling, heterogeneous datasets, and the ambiguity of geophysical inversions. Here, we p…"
-    },
-    {
-      "title": "PyelogP: Automated Energy-Based Determination of Preconsolidation Pressure in Clay Deposits",
-      "link": "https://arxiv.org/abs/2609.09430",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-10T04:00:00.000Z",
-      "excerpt": "arXiv:2609.09430v1 Announce Type: new Abstract: Estimating the preconsolidation pressure ($\\sigma'_p$) from one-dimensional consolidation (oedometer) tests is critical in geotechnical engineering for settlement analysis.…"
-    },
-    {
-      "title": "Holistic law of aftershocks",
-      "link": "https://arxiv.org/abs/2609.10249",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-10T04:00:00.000Z",
-      "excerpt": "arXiv:2609.10249v1 Announce Type: new Abstract: The paper is devoted to the phenomenological theory of aftershocks occurring in the source of a tectonic earthquake following the main shock. The theory was developed by th…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4294: AI-Driven Smart Control Techniques for Multilevel Inverters in Modern Power Systems&mdash;A Comprehensive Review",
@@ -306,22 +346,6 @@
       "category": "energy",
       "published": "2026-09-10T00:00:00.000Z",
       "excerpt": "Accurate interwell connectivity characterization is critical for fine-grained waterflood optimization and reservoir management, often requiring integrated analysis across multiple disciplines and methods. Among these, in…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4284: Development of Simple and Robust Weighting-Factor-Less Predictive Torque Control for Enhanced Open Winding Permanent Magnet Synchronous Motor Drive Operation",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4284",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-10T00:00:00.000Z",
-      "excerpt": "Intuitive response and multi-objective control are well-known features of Finite Control Set Predictive Torque Control (FCSPTC). However, its implementation difficulty is a result of limitations such as high computations…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4283: Flow-Oriented Dynamic Time Warping for Characterizing Temporal Relationships in PV Building Energy Flows",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4283",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-10T00:00:00.000Z",
-      "excerpt": "Understanding how photovoltaic generation is distributed between local use, surplus export, and grid import requires analysis of the temporal structure of individual energy flows rather than only aggregate PV&amp;ndash;l…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2889: Conventional and Ultrasound-Assisted Extraction: Comparison for Techno-Functional Properties, Sustainability, and Challenges for Plant-Based Food Applications",
@@ -850,30 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Experimental and numerical study of the effect of operating-parameter on steam-diluted H 2 /O 2 micromix combustion",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030450?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Zhiwei Shi, Haoze Jin, Ruijia Liu, Chen Han, Hao Zhang, Huanhuan Xu, Yong Dong"
-    },
-    {
-      "title": "Development and experimental analysis of a novel impulse turbine compounded naturally aspirated High-Speed diesel engine",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030243?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): J. Ramkumar, K. Anand, A. Ramesh"
-    },
-    {
-      "title": "Polyethylene gasification in a bubbling fluidized bed: Operating-parameter effects on syngas, tar and soot formation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126027912?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Andrea De Silvestri, Jan Kamyno Rasmussen, Anker Degn Jensen, Peter Arendt Jensen"
     }
   ]
 }
