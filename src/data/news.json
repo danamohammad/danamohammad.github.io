@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T11:13:08.653Z",
+  "generatedAt": "2026-09-12T15:47:46.398Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -84,6 +84,30 @@
       "excerpt": "A catastrophic flood in Nepal that left thousands missing began with a collapse of ice and rock high in the mountains—a warning that disaster planning must prepare for chains of hazards, not isolated events, experts say."
     },
     {
+      "title": "Energies, Vol. 19, Pages 4325: Hierarchical Multi-Objective Optimization of Multi-Stage Fast-Charging Protocols Based on a Reduced-Order Electrochemical&ndash;Thermal&ndash;Aging Model",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4325",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-12T00:00:00.000Z",
+      "excerpt": "Fast charging is critical to the wider adoption of electric vehicles, but simply increasing the charging current intensifies polarization and degradation, creating an inherent conflict between the charging speed and batt…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4324: IBT-PPO: A Dual-Stage Intelligent Forecasting and Reinforcement Learning Framework for Optimal Scheduling in Hybrid Renewable Energy Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4324",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-12T00:00:00.000Z",
+      "excerpt": "In this work, Intelligent Bidirectional Long Short-Term Memory with Temporal Fusion Transformer-based prediction and Proximal Policy Optimization (IBT-PPO) is proposed in response to the challenges of uncertain renewable…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4319: Optimal Scheduling of an Off-Grid Wind&ndash;Photovoltaic Liquid Hydrogen Production System with Fixed Daily Output",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4319",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-12T00:00:00.000Z",
+      "excerpt": "Off-grid wind&amp;ndash;photovoltaic systems can provide low-carbon power for liquid hydrogen production, but renewable generation fluctuations complicate the coordination of fixed liquid hydrogen output and external ele…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4323: Artificial Intelligence-Driven Fuzzy Logic Control for Electrical Machines: A Systematic Review, Comparative Analysis, and Future Perspectives",
       "link": "https://www.mdpi.com/1996-1073/19/18/4323",
       "source": "Energies (MDPI)",
@@ -154,6 +178,14 @@
       "category": "energy",
       "published": "2026-09-12T00:00:00.000Z",
       "excerpt": "Against the global carbon neutrality agenda, renewable energy subsidies have become a core policy tool for China&amp;rsquo;s energy transition, yet related policies have faced repeated anti-subsidy challenges in internat…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2905: Dynamic Calibration of the Wellbore Temperature Field Based on Nonlinear Moving Horizon Estimation",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2905",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-12T00:00:00.000Z",
+      "excerpt": "During drilling circulation, the wellbore temperature field changes in response to drilling-fluid rheology, borehole geometry, drillstring eccentricity, and cuttings concentration. Conventional wellbore temperature model…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2904: Interpretable Evidence Fusion for Controlled Fraud-Episode Screening in Advanced Metering Infrastructure",
@@ -332,30 +364,6 @@
       "excerpt": "The southern region of the Democratic Republic of Congo (DRC) is known as the Copperbelt because of its rich deposits of copper and other minerals."
     },
     {
-      "title": "Energies, Vol. 19, Pages 4313: System-Level Dynamic Modeling and Cross-Domain Disturbance Propagation of an Electricity&ndash;Hydrogen&ndash;Heat Coupling Subsystem for Integrated Transportation Hubs",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4313",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-11T00:00:00.000Z",
-      "excerpt": "Integrated transportation hubs are characterized by fast-varying and strongly coupled electricity, hydrogen-refueling, and thermal demands driven by traffic activities. To characterize their short-term dynamic interactio…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4312: Digital Cyber-Physical Modeling and Risk-Constrained Multi-Agent Control of Virtual Power Plants with Performance-Linked Resilience Finance",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4312",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-11T00:00:00.000Z",
-      "excerpt": "Cyber incidents can disrupt many virtual power plant (VPP) assets through shared software and communication services. This study links preventive finance, cyber defense, dispatch, and restoration in one multi-timescale m…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4311: Resource-Efficient Model of an Offshore Platform Compressor Station for the Declining Production Period of a Gas-Condensate Field",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4311",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-11T00:00:00.000Z",
-      "excerpt": "Under conditions of gradual depletion of gas-condensate field reserves and declining well production rates, one of the key challenges in operating offshore production facilities is improving the energy efficiency and rel…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2899: Structure&ndash;Dispersion&ndash;Performance Relationship in Fe-Functionalized Silicon Oxide for Enhanced Degradation of Recalcitrant Azo Dyes",
       "link": "https://www.mdpi.com/2227-9717/14/18/2899",
       "source": "Processes (MDPI)",
@@ -402,14 +410,6 @@
       "category": "processing",
       "published": "2026-09-11T00:00:00.000Z",
       "excerpt": "The increasing penetration of variable solar and wind generation requires flexible resources capable of improving energy balancing, reliability, and renewable energy utilization. This review critically assesses biofuel-i…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2893: A Multi-Objective PQI-Based Adaptive Virtual Impedance Strategy for Harmonic and Voltage Unbalance Mitigation in Renewable-Rich Hybrid Microgrids",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2893",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-11T00:00:00.000Z",
-      "excerpt": "The increasing penetration of converter-interfaced renewable energy sources poses significant challenges to power quality in modern microgrids, especially under nonlinear and unbalanced load conditions. Conventional virt…"
     },
     {
       "title": "Odfjell secures $518m contract for Deepsea Bergen from Vår Energi",
