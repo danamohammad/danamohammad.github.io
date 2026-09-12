@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T21:14:41.354Z",
+  "generatedAt": "2026-09-12T04:58:07.349Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 6,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Nepal flood disaster exposes cascading threats in Himalayas",
+      "link": "https://phys.org/news/2026-09-nepal-disaster-exposes-cascading-threats.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-12T02:00:05.000Z",
+      "excerpt": "A catastrophic flood in Nepal that left thousands missing began with a collapse of ice and rock high in the mountains—a warning that disaster planning must prepare for chains of hazards, not isolated events, experts say."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4314: Compliance Dilemma and Optimization Paths of China&rsquo;s Renewable Energy Subsidy Policy Under the WTO SCM Agreement: Evidence from Typical Trade Dispute Cases",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4314",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-12T00:00:00.000Z",
+      "excerpt": "Against the global carbon neutrality agenda, renewable energy subsidies have become a core policy tool for China&amp;rsquo;s energy transition, yet related policies have faced repeated anti-subsidy challenges in internat…"
+    },
     {
       "title": "Microplastics fall across rural Switzerland, adding over 200 tons yearly to land and water",
       "link": "https://phys.org/news/2026-09-microplastics-fall-rural-switzerland-adding.html",
@@ -204,54 +220,6 @@
       "excerpt": "A revolution in forecasting natural disasters is underway, say researchers in Switzerland who are training AI models using vast troves of NASA climate data to produce potentially lifesaving data at lightning speed."
     },
     {
-      "title": "DiffSWE2d: a differentiable Shallow Water Equations solver for end-to-end flood and tsunami modelling",
-      "link": "https://arxiv.org/abs/2609.11426",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-11T04:00:00.000Z",
-      "excerpt": "arXiv:2609.11426v1 Announce Type: cross Abstract: Solving inverse and optimisation problems with traditional shallow water equations (SWE) solvers can be computationally expensive, particularly when gradients with respec…"
-    },
-    {
-      "title": "Optimizing GEDI Simulator Configuration for European Temperate Forests",
-      "link": "https://arxiv.org/abs/2609.11440",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-11T04:00:00.000Z",
-      "excerpt": "arXiv:2609.11440v1 Announce Type: cross Abstract: Accurate estimation of aboveground biomass density is essential for quantifying forest carbon stocks. NASA's GEDI mission provides valuable canopy structure data, but its…"
-    },
-    {
-      "title": "Lava Tube Exploration with LunarLeaper",
-      "link": "https://arxiv.org/abs/2609.11453",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-11T04:00:00.000Z",
-      "excerpt": "arXiv:2609.11453v1 Announce Type: cross Abstract: Lunar pits, some of which are interpreted as collapse features into underlying lava tubes, expose otherwise inaccessible stratigraphy and may provide entry points to subs…"
-    },
-    {
-      "title": "Stress-Testing Dynamical and Generative Downscaling Using Subseasonal Extreme Precipitation Forecasts",
-      "link": "https://arxiv.org/abs/2609.11696",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-11T04:00:00.000Z",
-      "excerpt": "arXiv:2609.11696v1 Announce Type: cross Abstract: Coarse spatial resolution limits the ability of subseasonal prediction models to resolve extreme precipitation. Downscaling with either dynamical or deep generative model…"
-    },
-    {
-      "title": "Using Seismic Statistical Features and VQ-VAE to Improve Spatiotemporal Seismicity Predictability",
-      "link": "https://arxiv.org/abs/2606.10069",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-11T04:00:00.000Z",
-      "excerpt": "arXiv:2606.10069v4 Announce Type: replace-cross Abstract: In this paper we build upon a previous study in which we demonstrated, using XGBoost and earthquake catalogue data from Japan and Chile, that a set of 60 seismic…"
-    },
-    {
-      "title": "Topographic Disorder, Wind Coupling, and Directional Fire Spread: Critical Behavior in a Terrain-Weighted Forest Fire Model",
-      "link": "https://arxiv.org/abs/2609.07763",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-11T04:00:00.000Z",
-      "excerpt": "arXiv:2609.07763v2 Announce Type: replace-cross Abstract: We introduce the Terrain-Weighted Forest Fire Model (TFFM), a lattice model in which fire spreads on a spatially correlated Gaussian height field with the asymmet…"
-    },
-    {
       "title": "DRC's cobalt exports contain unreported uranium—our study estimates the global nuclear risk",
       "link": "https://phys.org/news/2026-09-drc-cobalt-exports-unreported-uranium.html",
       "source": "Phys.org — Earth",
@@ -348,14 +316,6 @@
       "excerpt": "The Ecuadorian electrical system, with a generation mix dominated by hydroelectricity, experienced prolonged rationing during recent droughts, prompting a search for generation options that can be installed near consumpt…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4303: Shield for Fusion (S4F): A Proof-of-Concept Neutronics Genetic Algorithm Optimization of Shielding Cabinets for Nuclear Fusion Applications",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4303",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-11T00:00:00.000Z",
-      "excerpt": "Nuclear energy production requires robust shielding solutions to ensure the safety of personnel and equipment across a wide range of reactor technologies. Shield for Fusion (S4F) is a new development in nuclear analysis…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2899: Structure&ndash;Dispersion&ndash;Performance Relationship in Fe-Functionalized Silicon Oxide for Enhanced Degradation of Recalcitrant Azo Dyes",
       "link": "https://www.mdpi.com/2227-9717/14/18/2899",
       "source": "Processes (MDPI)",
@@ -434,14 +394,6 @@
       "category": "processing",
       "published": "2026-09-11T00:00:00.000Z",
       "excerpt": "Indoor air temperature influences heat exchange between sleeping infants and indoor environments, yet its effects on convective and radiative dry heat transfer in ordinary ventilated rooms remain unclear. Using a previou…"
-    },
-    {
-      "title": "Global database reveals why no two cities' food emissions look the same",
-      "link": "https://phys.org/news/2026-09-global-database-reveals-cities-food.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-10T23:40:04.000Z",
-      "excerpt": "Switching to a more sustainable diet could halve food-related emissions in cities such as Amsterdam, while in cities such as Dhaka and Delhi, the focus should be more on making food production more sustainable as they wi…"
     },
     {
       "title": "Odfjell secures $518m contract for Deepsea Bergen from Vår Energi",
@@ -874,6 +826,54 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Enhancing hydrothermal stability of polysulfone-based solid acids via electronic effects for cellulose saccharification",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602822X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Baojia Wang, Shuguang Shen, Xingting Guo, Ruxue Sun, Bin Wu, Yongmei Liu, Jing Li"
+    },
+    {
+      "title": "Synergistic interconnected quasi-spherical Pd-Ni nanoparticles on lignin-derived N, O-doped carbon promote selective glycerol oxidation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030802?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Sabarinathan Ravichandran, Zi-yang Feng, Yingying Chen, Xinru Ji, Wenli Zhang, Beibei Xiao, Daifen Chen, Jie Yu"
+    },
+    {
+      "title": "Study on ZnCrO x /H-Beta bifunctional catalyst for butane synthesis from syngas",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030486?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Junyan Zhao, Xuemin Cao, Guo Sun, Yujie Xie, Botao Teng, Weiyi Zhang, Sen Wang, Peng He"
+    },
+    {
+      "title": "Directed hydrodeoxygenation of lignin depolymerization product pools for green aromatic hydrocarbon production: methoxy-induced inhibition and competitive reaction-sequence control",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030838?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Yanyuan Bai, Jianyu Jiang, Yanjun Dai, Li Zou, Runtao Lu, Chenglin Wang, Yungang Wang"
+    },
+    {
+      "title": "Simple harmonic oscillation of strut injector on the combustor performance and flame dynamics in a model supersonic combustor",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603022X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Zhiwei Huang"
+    },
+    {
+      "title": "Mechanisms of wettability-enhanced gas displacement and nanomechanical strength weakening in coal modified by active nanofluids",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029844?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Linfan Qi, Xianfeng Liu, Baisheng Nie, Wenhe Han, Shaopeng Hu, Chengyi He, Han Han, Zhongbei Li"
     }
   ]
 }
