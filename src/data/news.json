@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T12:15:17.572Z",
+  "generatedAt": "2026-09-13T16:36:11.557Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -84,6 +84,22 @@
       "excerpt": "Ancient rocks from Western Australia suggest water was reaching deep inside Earth more than three billion years ago, long before modern plate tectonics may have fully developed. Researchers propose that water-rich pieces…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4335: Energy Retrofit of a 19th-Century Heritage Building Through Passive&ndash;Active Strategies: A Field-Informed H-BIM Palestinian Case Study",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4335",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Heritage buildings sit outside most national energy codes, yet Palestine alone hosts over 3000 historic structures whose 80&amp;ndash;120 cm two-leaf stone construction is absent from any published, measurement-grounded…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4336: Do Business, Financial, and Trade Freedom, Human Capital, and Environmental Policy Stringency Contribute to the Renewable Energy Transition: Empirical Outcomes from E7 Countries",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4336",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Renewable energy transition (RNET) is a key factor in improving environmental quality, sustainable economic growth, energy security, and public health, but its level varies markedly across countries. Hence, this study in…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4334: Proximity-Based Food&ndash;Energy&ndash;Water (FEW) Integration in a Neighborhood-Scale Montreal Case Study",
       "link": "https://www.mdpi.com/1996-1073/19/18/4334",
       "source": "Energies (MDPI)",
@@ -92,20 +108,20 @@
       "excerpt": "Abandoned and underutilized buildings/spaces exhibit considerable potential to transform into resource-producing hubs (RPHs) by integrating food&amp;ndash;energy&amp;ndash;water (FEW) systems. The Pointe-Saint-Charles ne…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4332: ACID Twin: A Physics-Informed Reduced-Complexity Digital Twin Prototype for Candidate Screening and HCl Concentration Evaluation in Carbonate Matrix Acidizing",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4332",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-13T00:00:00.000Z",
-      "excerpt": "Carbonate acid stimulation design requires an early evaluation of reservoir suitability, HCl concentration, operational risk, and expected productivity response before laboratory testing, high-fidelity simulation, or fie…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4333: EU ETS Price Signals in the Power Sector: Evidence on Decarbonisation and Policy Overlap",
       "link": "https://www.mdpi.com/1996-1073/19/18/4333",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-09-13T00:00:00.000Z",
       "excerpt": "Understanding the role of carbon pricing and complementary support schemes in renewable energy deployment is increasingly important for the decarbonisation of power markets. The analysis employs a mixed-methods approach:…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4332: ACID Twin: A Physics-Informed Reduced-Complexity Digital Twin Prototype for Candidate Screening and HCl Concentration Evaluation in Carbonate Matrix Acidizing",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4332",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Carbonate acid stimulation design requires an early evaluation of reservoir suitability, HCl concentration, operational risk, and expected productivity response before laboratory testing, high-fidelity simulation, or fie…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4330: The Cost of Darkness: A Three-Layer Event Study of Photovoltaic Generation and Electricity Prices During the August 2026 Solar Eclipse over Spain",
@@ -124,14 +140,6 @@
       "excerpt": "Uniform and energy-efficient brick cooling is important for product quality, heat recovery, and tunnel-kiln performance. This study examines how vertical heat-source placement affects airflow, convective heat transfer, h…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4328: Comparison of the Usefulness of Selected Software for Modeling Characteristics of SEPIC DC-DC Converters",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4328",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-13T00:00:00.000Z",
-      "excerpt": "This paper concerns the modeling of the static and dynamic characteristics of the SEPIC converter. Simulation models of this system were developed for three different programs: SPICE, PLECS, and ANSYS Simplorer. These mo…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4329: Energy Management Strategies for Forklifts Using Metal-Hydride Hydrogen Storage",
       "link": "https://www.mdpi.com/1996-1073/19/18/4329",
       "source": "Energies (MDPI)",
@@ -146,6 +154,14 @@
       "category": "energy",
       "published": "2026-09-13T00:00:00.000Z",
       "excerpt": "Nighttime setback is widely applied in residential heating, yet its net benefit for inverter-driven air-to-air heat pumps in high-thermal-mass buildings remains insufficiently characterised in Mediterranean climates. Thi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4328: Comparison of the Usefulness of Selected Software for Modeling Characteristics of SEPIC DC-DC Converters",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4328",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "This paper concerns the modeling of the static and dynamic characteristics of the SEPIC converter. Simulation models of this system were developed for three different programs: SPICE, PLECS, and ANSYS Simplorer. These mo…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4326: Unseen-Cell SOH Prediction via Energy-Aware Warm-Up and Degradation-Consistency Constraints",
@@ -234,22 +250,6 @@
       "category": "energy",
       "published": "2026-09-12T00:00:00.000Z",
       "excerpt": "Fast charging is critical to the wider adoption of electric vehicles, but simply increasing the charging current intensifies polarization and degradation, creating an inherent conflict between the charging speed and batt…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4324: IBT-PPO: A Dual-Stage Intelligent Forecasting and Reinforcement Learning Framework for Optimal Scheduling in Hybrid Renewable Energy Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4324",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "In this work, Intelligent Bidirectional Long Short-Term Memory with Temporal Fusion Transformer-based prediction and Proximal Policy Optimization (IBT-PPO) is proposed in response to the challenges of uncertain renewable…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4319: Optimal Scheduling of an Off-Grid Wind&ndash;Photovoltaic Liquid Hydrogen Production System with Fixed Daily Output",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4319",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "Off-grid wind&amp;ndash;photovoltaic systems can provide low-carbon power for liquid hydrogen production, but renewable generation fluctuations complicate the coordination of fixed liquid hydrogen output and external ele…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2905: Dynamic Calibration of the Wellbore Temperature Field Based on Nonlinear Moving Horizon Estimation",
@@ -828,52 +828,52 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
-      "title": "Effects of fuel-air unmixedness on flame stability and emissions in rapidly mixed hydrogen-enriched swirling flames",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030851?dgcid=rss_sd_all",
+      "title": "Molecular-scale insight and predictive model for sulfur deposition tendency in high-sulfur gas reservoirs and wellbores",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030942?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Yuanping Yang, Chenkun Bai, Jinyang Sun, Tong Si, Zhonghui Tian, Dongxu Han"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Shuangli Yue, Dong Hui, Nong Li, Li Zhang, Mingli Yang, Xian Wang"
     },
     {
-      "title": "Preparation of Cu-Mg-Al-O catalyst for the hydrodeoxygenation of waste plastic PET monomer into p -xylene",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029832?dgcid=rss_sd_all",
+      "title": "Controlled synthesis of highly microporous O/N/P co-doped carbon for High-Performance Supercapacitors: Pore formation induced by a Phosphorus-Templated Multi-Functional flame retardant and In-Situ Heteratom doping",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030553?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Junyang Cai, Yue Xiao, Bingchen Li, Dan Wang, Zhigang Shen, Weiyan Wang"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Xikui Zhang, Zhaosheng Yu, Qingping Zhou, Jianzan Yang, Li Li, Wenchang Yue, Xinfei Chen, Zhuoyao Chen, Xiaoqian Ma"
     },
     {
-      "title": "Experimental investigation of CH 4 /H 2 co-firing flame structure with comparison to 1D simulation in dual-swirl injector",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029509?dgcid=rss_sd_all",
+      "title": "Reaction-level identification of viable five-atom 2D M x Se y allotropes for solar photocatalytic overall water splitting",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603070X?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Jinseong Kim, Hyunchang Lee, Keeman Lee, Matthew J. Dunn, Assaad R. Masri"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Li-Bo Zhan, Chuan-Lu Yang, Xiaohu Li, Yuliang Liu, Wenkai Zhao"
     },
     {
-      "title": "Cement lithofacies shape permeability evolution in sandstones during CO 2 -rich brine injection",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126029583?dgcid=rss_sd_all",
+      "title": "Reaction-environment engineering by supercritical solvent coupled with Ni-Co/M-β-catalyzed hydroconversion for heavy residue into light aromatics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030954?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Xueyi Zhang, Jiasong Chen, Jianjun Li, Gang Jing, Guijiu Wang, Chengkai Wang, Senyou An"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Kai Meng, Xiao-Qi Zhang, Yi-Qiang Qi, Jiang Wu, Xiao-Wei Yu, Zheng Zhang, Ying Yang, Shou-Hui Jiao, He Liu, Ai-Jun Guo, Zong-Xian Wang"
     },
     {
-      "title": "Low-valence NbO x -supported Ni 3 P for furfural hydrogenation and rearrangement to cyclopentanone",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030474?dgcid=rss_sd_all",
+      "title": "Kinetic reaction performance of methane hydrate under different unsaturated seepage scenarios in high-pressure sediments",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030735?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Yanru Dou, Junjie Jia, Zhifu Hu, Qingqing Zhu, Chunling Xin, Xiangjin Kong"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Menghe Wang, Shujia Wang, Jinan Guan, Lihua Wan, Yong Chen, Deqing Liang, Gang Lei"
     },
     {
-      "title": "Insights into the nanopore characteristics and synergistic effects of coal, biomass, and co-pyrolysis chars using very small-angle neutron scattering",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030310?dgcid=rss_sd_all",
+      "title": "Dynamic prediction of WFGD outlet SO 2 concentration using optimal input subset generation and improved Bayesian-optimized BiLSTM",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030826?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Tao Xu, Ruyi Feng, Jie Chen, Yu Guo"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Jiajian Chen, Jiali Peng, Zhen Zhang, Yiwen Ma, Hongmin Yang"
     }
   ]
 }
