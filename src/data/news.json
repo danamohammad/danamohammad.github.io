@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:54:51.962Z",
+  "generatedAt": "2026-09-13T05:19:35.629Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Scientists find water was fueling volcanoes 3 billion years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214305.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-09-13T03:14:19.000Z",
+      "excerpt": "Ancient rocks from Western Australia suggest water was reaching deep inside Earth more than three billion years ago, long before modern plate tectonics may have fully developed. Researchers propose that water-rich pieces…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4326: Unseen-Cell SOH Prediction via Energy-Aware Warm-Up and Degradation-Consistency Constraints",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4326",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "State of health (SOH) is a key indicator for safety monitoring, lifetime assessment, and maintenance decisions in lithium-ion battery management systems. However, differences in initial capacity, degradation rate, local…"
+    },
     {
       "title": "Unexpected Amazon hotspot: Central north faces fastest rise in extreme heat and water stress",
       "link": "https://phys.org/news/2026-09-unexpected-amazon-hotspot-central-north.html",
@@ -186,14 +202,6 @@
       "category": "energy",
       "published": "2026-09-12T00:00:00.000Z",
       "excerpt": "Voltage spikes are particularly severe in low-voltage high-current inverters due to the influence of parasitic inductance during the turn-off process. A resistor-capacitor (RC) snubber circuit is commonly connected in pa…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4314: Compliance Dilemma and Optimization Paths of China&rsquo;s Renewable Energy Subsidy Policy Under the WTO SCM Agreement: Evidence from Typical Trade Dispute Cases",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4314",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "Against the global carbon neutrality agenda, renewable energy subsidies have become a core policy tool for China&amp;rsquo;s energy transition, yet related policies have faced repeated anti-subsidy challenges in internat…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2905: Dynamic Calibration of the Wellbore Temperature Field Based on Nonlinear Moving Horizon Estimation",
@@ -602,14 +610,6 @@
       "category": "energy",
       "published": "2026-08-08T13:17:32.000Z",
       "excerpt": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from…"
-    },
-    {
-      "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-08-07T10:24:52.000Z",
-      "excerpt": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakeni…"
     },
     {
       "title": "This hydrogen turbine turns controlled explosions into electricity",
