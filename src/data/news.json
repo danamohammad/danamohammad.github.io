@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T05:19:35.629Z",
+  "generatedAt": "2026-09-13T12:15:17.572Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -84,12 +84,124 @@
       "excerpt": "Ancient rocks from Western Australia suggest water was reaching deep inside Earth more than three billion years ago, long before modern plate tectonics may have fully developed. Researchers propose that water-rich pieces…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4334: Proximity-Based Food&ndash;Energy&ndash;Water (FEW) Integration in a Neighborhood-Scale Montreal Case Study",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4334",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Abandoned and underutilized buildings/spaces exhibit considerable potential to transform into resource-producing hubs (RPHs) by integrating food&amp;ndash;energy&amp;ndash;water (FEW) systems. The Pointe-Saint-Charles ne…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4332: ACID Twin: A Physics-Informed Reduced-Complexity Digital Twin Prototype for Candidate Screening and HCl Concentration Evaluation in Carbonate Matrix Acidizing",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4332",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Carbonate acid stimulation design requires an early evaluation of reservoir suitability, HCl concentration, operational risk, and expected productivity response before laboratory testing, high-fidelity simulation, or fie…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4333: EU ETS Price Signals in the Power Sector: Evidence on Decarbonisation and Policy Overlap",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4333",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Understanding the role of carbon pricing and complementary support schemes in renewable energy deployment is increasingly important for the decarbonisation of power markets. The analysis employs a mixed-methods approach:…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4330: The Cost of Darkness: A Three-Layer Event Study of Photovoltaic Generation and Electricity Prices During the August 2026 Solar Eclipse over Spain",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4330",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "The rapid decarbonization of European power grids has elevated solar photovoltaic (PV) generation to a central pillar of the energy mix, yet high penetration levels introduce volumetric and ramp risk. On 12 August 2026,…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4331: Energy and Thermal Performance of Vertical Heat-Source Arrangements in a Scaled Brick Tunnel-Kiln Cooling-Zone Model: A Validated CFD Study",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4331",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Uniform and energy-efficient brick cooling is important for product quality, heat recovery, and tunnel-kiln performance. This study examines how vertical heat-source placement affects airflow, convective heat transfer, h…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4328: Comparison of the Usefulness of Selected Software for Modeling Characteristics of SEPIC DC-DC Converters",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4328",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "This paper concerns the modeling of the static and dynamic characteristics of the SEPIC converter. Simulation models of this system were developed for three different programs: SPICE, PLECS, and ANSYS Simplorer. These mo…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4329: Energy Management Strategies for Forklifts Using Metal-Hydride Hydrogen Storage",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4329",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Hydrogen fuel-cell forklifts are attracting increasing attention as low-noise and zero-emission alternatives to conventional forklifts. Owing to its high volumetric hydrogen density and favorable safety characteristics,…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4327: When Nighttime Setback Becomes Counterproductive: The Influence of Building Heat Loss Coefficient on Air-to-Air Heat Pump Performance",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4327",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Nighttime setback is widely applied in residential heating, yet its net benefit for inverter-driven air-to-air heat pumps in high-thermal-mass buildings remains insufficiently characterised in Mediterranean climates. Thi…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4326: Unseen-Cell SOH Prediction via Energy-Aware Warm-Up and Degradation-Consistency Constraints",
       "link": "https://www.mdpi.com/1996-1073/19/18/4326",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-09-13T00:00:00.000Z",
       "excerpt": "State of health (SOH) is a key indicator for safety monitoring, lifetime assessment, and maintenance decisions in lithium-ion battery management systems. However, differences in initial capacity, degradation rate, local…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2911: Investigation on the Influence Mechanisms of Temperature and SARA Composition on the Wax Precipitation and Wax Crystal Micromorphology in Condensate Systems",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2911",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "In this study, three compositionally distinct condensate systems were tested to explore wax precipitation behaviors under variable temperature conditions. Multiple experimental approaches, including isothermal centrifuga…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2910: Reagent-Assisted Phytoextraction Potential for Heavy and Critical Metals on a Contaminated Post-Mining Substrate as NBS",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2910",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Restoring contaminated and degraded land, including post-mining sites, industrial areas, and urban brownfields, is central to sustainable land management, and nature-based solutions (NBSs) such as phytoextraction can com…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2909: Axial Stress Prediction and Collapse Resistance Calculation of Tubing in CCUS Injection Wells",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2909",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "This study investigates tubing collapse resistance during low-temperature dense-phase CO2 injection in carbon capture, utilization, and storage (CCUS) wells. A coupled temperature&amp;ndash;pressure&amp;ndash;tubing mech…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2908: From Agricultural Waste to Food Safeguard: Coffee Shell-Derived Carbon Dots with Antibacterial Activity for Fruit Freshness Extension",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2908",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Postharvest bacterial spoilage poses a major threat to global food safety, which is particularly prominent for fruits with high moisture and nutrient contents. Hence, environmentally friendly and efficient antibacterial…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2907: Numerical Simulation Study on the Combustion of Coal Powder in Swirl Burners with Different Ammonia Blending Ratios&nbsp; &nbsp;",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2907",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "To promote carbon reduction in existing coal-fired power units while ensuring stable operation, ammonia&amp;ndash;coal co-firing has attracted increasing attention as a promising low-carbon combustion technology. This st…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2906: Improving the Active Function of Polylactic Acid (PLA) Packaging Films Coated by Pectin Layers Enhanced with Gallic Acid",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2906",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "This study investigated the feasibility of imparting active functions to commercial polylactic acid (PLA) packaging films through a coating process and the resulting impact on pasteurized milk quality. PLA films were coa…"
     },
     {
       "title": "Unexpected Amazon hotspot: Central north faces fastest rise in extreme heat and water stress",
@@ -138,70 +250,6 @@
       "category": "energy",
       "published": "2026-09-12T00:00:00.000Z",
       "excerpt": "Off-grid wind&amp;ndash;photovoltaic systems can provide low-carbon power for liquid hydrogen production, but renewable generation fluctuations complicate the coordination of fixed liquid hydrogen output and external ele…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4323: Artificial Intelligence-Driven Fuzzy Logic Control for Electrical Machines: A Systematic Review, Comparative Analysis, and Future Perspectives",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4323",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "The rapid development of artificial intelligence (AI) has created new opportunities for improving the performance, robustness, and efficiency of electrical machine drive systems. Among AI-based approaches, fuzzy logic co…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4321: Impact of Full-Load and Daily Load-Curve Representations on PSO-Based EV&ndash;DER Distribution Feeder Assessment",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4321",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "Electric-vehicle (EV) charging can intensify voltage drops, feeder currents, and technical losses in radial distribution networks, particularly when charging coincides with periods of high residential demand. This paper…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4322: Experimental and CFD Evaluation of a Parallel-Flow Solar Air Heater Featuring a V-Grooved Absorber Incorporating Wire Mesh Layers Within the Downward-Pointing Channels",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4322",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "A unique V-grooved solar air collector was assessed experimentally and numerically to improve thermohydraulic performance. Experiments were conducted on the collector in Baghdad, Iraq, from 23 March to 3 April 2025, enco…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4320: Enhanced Energy Recovery from Post-Extraction Agro-Industrial Biomass Through Anaerobic Co-Digestion",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4320",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "The integration of bioactive compound extraction with anaerobic digestion (AD) represents a promising strategy for maximizing the valorization of agro-industrial residues within circular biorefinery systems. However, the…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4318: Influence of Splitter Blades on Energy Loss Redistribution and Flow Mechanisms in a Double-Suction Pump as Turbine",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4318",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "To clarify the effects of splitter blades on hydraulic performance and internal energy dissipation in a double-suction pump as turbine (PAT), full-passage CFD models of a PAT and a PAT with splitter blades were establish…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4317: Energy-Aware Prediction of Sand Sedimentation and Critical Transport Conditions in Oil Well Tubing: Experimental Characterization, Interwell Validation, and Field Operational Assessment at the Kumkol Field",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4317",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "Sand production constrains artificial-lift reliability, shutdown management, and energy efficiency. This study develops an integrated experimental framework linking particle settling, bulk sand transport, shutdown-relate…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4316: Rare-Earth Reduction in Electric Traction Motors: A Design-Oriented Review Linking Topology, Magnetic Materials, Soft-Magnetic Cores and Windings Across Ground-Vehicle Segments",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4316",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "The electrification of ground transport is advancing under a constraint that is as much geopolitical as technical: the rare-earth elements used in high-energy permanent magnets, and especially the heavy-rare-earth additi…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4315: A Method for Optimizing Turn-Off Losses Design in Parallel MOSFETs Inverter with RC Snubber Circuits",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4315",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "Voltage spikes are particularly severe in low-voltage high-current inverters due to the influence of parasitic inductance during the turn-off process. A resistor-capacitor (RC) snubber circuit is commonly connected in pa…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2905: Dynamic Calibration of the Wellbore Temperature Field Based on Nonlinear Moving Horizon Estimation",
@@ -370,54 +418,6 @@
       "category": "industry",
       "published": "2026-09-11T07:54:47.000Z",
       "excerpt": "Saipem, in partnership with Jan De Nul, has entered into a letter of intent (LoI) with ExxonMobil Moçambique for a contract related to the phase 1 of the Rovuma LNG project, located offshore Mozambique."
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2899: Structure&ndash;Dispersion&ndash;Performance Relationship in Fe-Functionalized Silicon Oxide for Enhanced Degradation of Recalcitrant Azo Dyes",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2899",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-11T00:00:00.000Z",
-      "excerpt": "Recalcitrant azo dyes in textile wastewater are a significant environmental concern due to their persistence and potential impacts on human and ecosystem health. Heterogeneous Fenton-like processes offer a promising appr…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2898: Enrichment Characteristics and Technical Strategies for Development of Natural Gas: A Case Study of the Mizhi&ndash;Qingjian Block in the Ordos Basin",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2898",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-11T00:00:00.000Z",
-      "excerpt": "The eastern Ordos Basin holds substantial natural gas resources, yet its development performance varies considerably across different areas, and the underlying causes merit close attention. Taking the Mizhi&amp;ndash;Qin…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2897: A Comprehensive Review of Characterization, Leaching, and Ecotoxicity of Coal Fly Ash to Aquatic Organisms",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2897",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-11T00:00:00.000Z",
-      "excerpt": "Upon entering aquatic ecosystems, coal fly ash (CFA) particles and their leachates distribute across all environmental compartments, from surface water to benthic sediments, rendering them accessible to aquatic organisms…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2895: Collaborative Governance of Circular Reverse Supply Chains from the Perspective of Cooperative Innovation: A Numerical Application to Waste Mobile Phones",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2895",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-11T00:00:00.000Z",
-      "excerpt": "As urban mining plays an increasingly important role in resource security and sustainable development, insufficient coordination among reverse supply chain participants has become a major constraint on the efficient reco…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2896: Production-Phase Carbon Footprint of Photopolymer Resin Workflows for Direct-Print Orthodontic Aligners: A Screening Carbon-Footprint Assessment",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2896",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-11T00:00:00.000Z",
-      "excerpt": "Direct-print aligners are widely presented as the environmentally preferable alternative to thermoforming, but which part of the process governs the carbon released during manufacture has not been established. Four comme…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2894: Hybrid Energy Systems Integrating Biofuels and Renewable Sources: Enhancing Energy Conversion Efficiency Through System Optimization and Intelligent Control",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2894",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-11T00:00:00.000Z",
-      "excerpt": "The increasing penetration of variable solar and wind generation requires flexible resources capable of improving energy balancing, reliability, and renewable energy utilization. This review critically assesses biofuel-i…"
     },
     {
       "title": "Odfjell secures $518m contract for Deepsea Bergen from Vår Energi",
