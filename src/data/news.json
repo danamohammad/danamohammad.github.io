@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T21:06:30.933Z",
+  "generatedAt": "2026-09-14T05:23:59.542Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 7,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,70 @@
     }
   ],
   "items": [
+    {
+      "title": "Ensemble Forecast Updates without Model Re-integration Based on Ultra-rapid Data Assimilation: Idealized Experiments with a Heavy Rainfall Case",
+      "link": "https://arxiv.org/abs/2609.12274",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-14T04:00:00.000Z",
+      "excerpt": "arXiv:2609.12274v1 Announce Type: new Abstract: Observations at high frequency have become dramatically more abundant with recent technological advances. Ultra-rapid data assimilation (URDA) has been proposed to exploit…"
+    },
+    {
+      "title": "Preemptive Ensemble Forecast Sensitivity to Observations",
+      "link": "https://arxiv.org/abs/2609.12296",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-14T04:00:00.000Z",
+      "excerpt": "arXiv:2609.12296v1 Announce Type: new Abstract: Estimating the impact of observations newly added to an existing numerical weather prediction (NWP) system requires reintegrating the ensemble forecast from the analysis th…"
+    },
+    {
+      "title": "Physics-enriched neural solvers for transient ice-flow simulation",
+      "link": "https://arxiv.org/abs/2609.12900",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-14T04:00:00.000Z",
+      "excerpt": "arXiv:2609.12900v1 Announce Type: cross Abstract: Transient glacier simulations with higher-order ice flow require the repeated solution of a nonlinear problem as the geometry evolves. In the online mode of the Instructe…"
+    },
+    {
+      "title": "Physically Consistent 2D to 3D Pore Space Synthesis: 1. Dynamic Grain Packing Under Strict Morphology Constraints",
+      "link": "https://arxiv.org/abs/2609.13020",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-14T04:00:00.000Z",
+      "excerpt": "arXiv:2609.13020v1 Announce Type: cross Abstract: The 3D digital reconstruction of multi-scale, heterogeneous porous media is traditionally limited by the resolution boundaries and artifacts of X-ray computed tomography…"
+    },
+    {
+      "title": "SeismoStats: A Python Package for Statistical Seismology",
+      "link": "https://arxiv.org/abs/2511.04521",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-14T04:00:00.000Z",
+      "excerpt": "arXiv:2511.04521v2 Announce Type: replace Abstract: We introduce SeismoStats, a Python package that enables essential statistical seismology analyses. The package provides user-friendly tools to download and manipulate e…"
+    },
+    {
+      "title": "Physics-informed deep learning links geodetic data and fault friction",
+      "link": "https://arxiv.org/abs/2601.20136",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-14T04:00:00.000Z",
+      "excerpt": "arXiv:2601.20136v3 Announce Type: replace Abstract: Fault slip modeling, based on laboratory-derived friction laws, has significantly enhanced our understanding of fault mechanics. Agreement between model predictions and…"
+    },
+    {
+      "title": "Hurdle-RMIL: Addressing Zero Inflation and Long-Tailed Imbalance in Infrared Rainfall Retrieval",
+      "link": "https://arxiv.org/abs/2510.20486",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-14T04:00:00.000Z",
+      "excerpt": "arXiv:2510.20486v2 Announce Type: replace-cross Abstract: Imbalanced labels can cause frequent samples to dominate AI-based quantitative remote sensing, degrading rare-event retrieval. In rain-rate retrieval based on sat…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2912: Mineralogical and Surface Responses During CO2&ndash;Synthetic Formation Water&ndash;Granitic Gneiss Interaction in Bohai Buried-Hill Reservoirs",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2912",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-14T00:00:00.000Z",
+      "excerpt": "Offshore buried-hill reservoirs are potential targets for integrated CO2-enhanced oil recovery and geological storage. However, the early-stage response of clay-rich granitic gneiss under reservoir conditions remains poo…"
+    },
     {
       "title": "Scientists find water was fueling volcanoes 3 billion years ago",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911214305.htm",
@@ -196,20 +260,20 @@
       "excerpt": "This study investigates tubing collapse resistance during low-temperature dense-phase CO2 injection in carbon capture, utilization, and storage (CCUS) wells. A coupled temperature&amp;ndash;pressure&amp;ndash;tubing mech…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2908: From Agricultural Waste to Food Safeguard: Coffee Shell-Derived Carbon Dots with Antibacterial Activity for Fruit Freshness Extension",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2908",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-13T00:00:00.000Z",
-      "excerpt": "Postharvest bacterial spoilage poses a major threat to global food safety, which is particularly prominent for fruits with high moisture and nutrient contents. Hence, environmentally friendly and efficient antibacterial…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2907: Numerical Simulation Study on the Combustion of Coal Powder in Swirl Burners with Different Ammonia Blending Ratios&nbsp; &nbsp;",
       "link": "https://www.mdpi.com/2227-9717/14/18/2907",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-09-13T00:00:00.000Z",
       "excerpt": "To promote carbon reduction in existing coal-fired power units while ensuring stable operation, ammonia&amp;ndash;coal co-firing has attracted increasing attention as a promising low-carbon combustion technology. This st…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2908: From Agricultural Waste to Food Safeguard: Coffee Shell-Derived Carbon Dots with Antibacterial Activity for Fruit Freshness Extension",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2908",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-13T00:00:00.000Z",
+      "excerpt": "Postharvest bacterial spoilage poses a major threat to global food safety, which is particularly prominent for fruits with high moisture and nutrient contents. Hence, environmentally friendly and efficient antibacterial…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2906: Improving the Active Function of Polylactic Acid (PLA) Packaging Films Coated by Pectin Layers Enhanced with Gallic Acid",
@@ -290,14 +354,6 @@
       "category": "processing",
       "published": "2026-09-12T00:00:00.000Z",
       "excerpt": "Thermal degradation of textile materials produces complex residues whose characterization can provide information on both the original material and the conditions experienced during heating. This study investigates the p…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2900: Hydrothermal Synthesis of a Nickel(II) Phosphinate Coordination Material and Its Integration into a PVC Membrane for Potentiometric Naloxone Detection",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2900",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-12T00:00:00.000Z",
-      "excerpt": "A nickel(II) coordination material derived from 2-carboxyethyl(phenyl)phosphinic acid (CEPPA) was obtained under hydrothermal conditions and investigated by elemental analysis, Fourier-Transform Infrared spectroscopy (FT…"
     },
     {
       "title": "Microplastics fall across rural Switzerland, adding over 200 tons yearly to land and water",
@@ -818,62 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
-    },
-    {
-      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Molecular-scale insight and predictive model for sulfur deposition tendency in high-sulfur gas reservoirs and wellbores",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030942?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Shuangli Yue, Dong Hui, Nong Li, Li Zhang, Mingli Yang, Xian Wang"
-    },
-    {
-      "title": "Controlled synthesis of highly microporous O/N/P co-doped carbon for High-Performance Supercapacitors: Pore formation induced by a Phosphorus-Templated Multi-Functional flame retardant and In-Situ Heteratom doping",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030553?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Xikui Zhang, Zhaosheng Yu, Qingping Zhou, Jianzan Yang, Li Li, Wenchang Yue, Xinfei Chen, Zhuoyao Chen, Xiaoqian Ma"
-    },
-    {
-      "title": "Reaction-level identification of viable five-atom 2D M x Se y allotropes for solar photocatalytic overall water splitting",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603070X?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Li-Bo Zhan, Chuan-Lu Yang, Xiaohu Li, Yuliang Liu, Wenkai Zhao"
-    },
-    {
-      "title": "Reaction-environment engineering by supercritical solvent coupled with Ni-Co/M-β-catalyzed hydroconversion for heavy residue into light aromatics",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030954?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Kai Meng, Xiao-Qi Zhang, Yi-Qiang Qi, Jiang Wu, Xiao-Wei Yu, Zheng Zhang, Ying Yang, Shou-Hui Jiao, He Liu, Ai-Jun Guo, Zong-Xian Wang"
-    },
-    {
-      "title": "Kinetic reaction performance of methane hydrate under different unsaturated seepage scenarios in high-pressure sediments",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030735?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Menghe Wang, Shujia Wang, Jinan Guan, Lihua Wan, Yong Chen, Deqing Liang, Gang Lei"
-    },
-    {
-      "title": "Dynamic prediction of WFGD outlet SO 2 concentration using optimal input subset generation and improved Bayesian-optimized BiLSTM",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030826?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Jiajian Chen, Jiali Peng, Zhen Zhang, Yiwen Ma, Hongmin Yang"
     }
   ]
 }
