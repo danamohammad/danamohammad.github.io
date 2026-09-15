@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T22:00:48.748Z",
+  "generatedAt": "2026-09-15T05:16:35.712Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 7,
+      "count": 9,
       "error": null
     },
     {
@@ -75,6 +75,150 @@
     }
   ],
   "items": [
+    {
+      "title": "Large-scale bioacoustic detection using semantic segmentation: a deep learning framework applied to fin whale calls in ocean-bottom seismometer recordings",
+      "link": "https://arxiv.org/abs/2609.13281",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-15T04:00:00.000Z",
+      "excerpt": "arXiv:2609.13281v1 Announce Type: new Abstract: Ocean-bottom seismometers (OBS), originally deployed for geophysical research, continuously record low-frequency sound for months to years across broad areas of ocean, offe…"
+    },
+    {
+      "title": "ADEPTS: An auto-differentiable framework for time-dependent nonlinear thermo-chemical mantle convection inversion",
+      "link": "https://arxiv.org/abs/2609.13482",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-15T04:00:00.000Z",
+      "excerpt": "arXiv:2609.13482v1 Announce Type: new Abstract: Time-dependent mantle-dynamics inversion must address the high dimensionality of the initial state, nonlinear rheology, and gradient propagation through long-term thermo-me…"
+    },
+    {
+      "title": "Three dimensional non-singular mollified elastic dislocation theory for extended width fault zones and inhomogeneous boundary element models",
+      "link": "https://arxiv.org/abs/2609.15601",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-15T04:00:00.000Z",
+      "excerpt": "arXiv:2609.15601v1 Announce Type: new Abstract: Classical elastic dislocation theory (CEDT) has two challenges when applied to faulting problems: 1) fictitious on-fault stresses not defined by ordinary integration and 2)…"
+    },
+    {
+      "title": "The core-mantle mode of gravitational oscillation",
+      "link": "https://arxiv.org/abs/2609.13421",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-15T04:00:00.000Z",
+      "excerpt": "arXiv:2609.13421v1 Announce Type: cross Abstract: We present the characteristics of a mode of axial oscillation between Earth's mantle, fluid core and solid inner core that has not been previously reported. The mode invo…"
+    },
+    {
+      "title": "Bay Assessment Model: A Python-based Salinity Projection Tool for Florida Bay, USA",
+      "link": "https://arxiv.org/abs/2609.13515",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-15T04:00:00.000Z",
+      "excerpt": "arXiv:2609.13515v1 Announce Type: cross Abstract: Extreme salinity events in Florida Bay are a central concern of the Comprehensive Everglades Restoration Program (CERP). A large-scale seagrass die-off in the late 1980s,…"
+    },
+    {
+      "title": "Avalanches can increase stored energy in a granular fault",
+      "link": "https://arxiv.org/abs/2609.14406",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-15T04:00:00.000Z",
+      "excerpt": "arXiv:2609.14406v1 Announce Type: cross Abstract: Slowly sheared granular materials generally store mechanical energy and dilate between abrupt failures that release energy and compact the material. Here, simultaneous me…"
+    },
+    {
+      "title": "Should All Noises Be Treated Equally: Impact of Input Noise Variability on Neural Network Robustness",
+      "link": "https://arxiv.org/abs/2609.14504",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-15T04:00:00.000Z",
+      "excerpt": "arXiv:2609.14504v1 Announce Type: cross Abstract: Geophysical data collected from active field sites are often contaminated by complex and heterogeneous noise, obscuring weak seismic events, and complicating automated in…"
+    },
+    {
+      "title": "A New Framework for Interfacial Statistics: Exact n-Point Correlations of Gaussian Level Sets",
+      "link": "https://arxiv.org/abs/2609.14586",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-15T04:00:00.000Z",
+      "excerpt": "arXiv:2609.14586v1 Announce Type: cross Abstract: We derive exact analytical expressions for higher-order correlations of Gaussian level-set interfaces, establishing a direct link between bulk field statistics and interf…"
+    },
+    {
+      "title": "Phase-field analysis of fracture in heterogeneous wellbore systems: effects of casing eccentricity and cement-formation interface strength",
+      "link": "https://arxiv.org/abs/2606.16346",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-15T04:00:00.000Z",
+      "excerpt": "arXiv:2606.16346v3 Announce Type: replace-cross Abstract: Predicting the initiation and propagation of cracks in heterogeneous wellbore systems under complex in-situ conditions remains challenging. We present a hybrid ph…"
+    },
+    {
+      "title": "Scientists to probe the source behind a massive 1946 tsunami",
+      "link": "https://phys.org/news/2026-09-scientists-probe-source-massive-tsunami.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-15T03:00:01.000Z",
+      "excerpt": "Eighty years ago, a massive tsunami devastated parts of Hawaii, Alaska, Washington and Oregon following an earthquake off the coast of Alaska. A Michigan State University team is launching a project to study the underwat…"
+    },
+    {
+      "title": "Australia must double down to meet our climate targets, new study shows how",
+      "link": "https://phys.org/news/2026-09-australia-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-15T02:20:01.000Z",
+      "excerpt": "Within the next five years, global warming is set to breach the 1.5°C threshold at the heart of the 2015 Paris Agreement. This will have dire consequences, from rapidly melting ice sheets to ghostly white coral reefs."
+    },
+    {
+      "title": "A coral reef thought dead for 60 years is teeming with life",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260913081927.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-09-15T02:18:06.000Z",
+      "excerpt": "More than 60 years after surveys suggested a deep coral reef off Benin was probably dead, scientists have found it alive. Cameras revealed healthy-looking coral patches supporting multiple fish species more than 50 meter…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2924: Cactus-Derived Biocoagulants for Sustainable Drinking-Water Treatment: Comparative Performance Against Polyaluminum Chloride",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2924",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-15T00:00:00.000Z",
+      "excerpt": "The growing demand for environmentally compatible water-treatment technologies has increased interest in bio-based coagulants as alternatives or complementary agents to conventional chemicals. This study evaluated polysa…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2921: High-Density Seismic Signal Processing Methods for the Gongshanmiao 3D Oil Survey of the Lianggaoshan Formation in the Sichuan Basin: A Case Study",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2921",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-15T00:00:00.000Z",
+      "excerpt": "The Lianggaoshan Formation in the Gongshanmiao block of the Sichuan Basin is characterized by narrow channel sand bodies and thin layers, resulting in weak seismic responses, which leads to poor identification of small-s…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2922: Interpretable Multi-Feature Fusion for Lithium-Ion Battery State-of-Health Prediction Using ICEEMDAN-Autoformer-BiTCN",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2922",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-15T00:00:00.000Z",
+      "excerpt": "Accurate state-of-health (SOH) prediction is essential for the safe and cost-effective operation of lithium-ion battery systems. However, current data-driven methods still struggle to jointly extract multiscale degradati…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2920: Stochastic Co-Optimization of Hybrid Renewable Energy Systems for Climate-Resilient Precision Irrigation",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2920",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-15T00:00:00.000Z",
+      "excerpt": "This paper develops a stochastic approach for designing and operating a hybrid renewable energy system (HRES) through stochastic co-optimization. A hybrid renewable energy system consisting of solar photovoltaic power, a…"
+    },
+    {
+      "title": "Researchers propose quantum Earth observation for photon-limited environments",
+      "link": "https://phys.org/news/2026-09-quantum-earth-photon-limited-environments.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-14T23:20:03.000Z",
+      "excerpt": "Have you ever wondered what Earth observation satellites see when they look down at the deep ocean or a dense tropical forest during the dead of night? The answer, for the most part, is nothing. Standard optical sensors…"
+    },
+    {
+      "title": "Anger, hope and compassion do little to spur more climate donations",
+      "link": "https://phys.org/news/2026-09-anger-compassion-spur-climate-donations.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-14T22:40:01.000Z",
+      "excerpt": "Emotional mechanisms are frequently used to inspire good environmental behavior. But how effective are they at inspiring actual sustainable change? Perhaps not as much as previously believed, according to a new study tha…"
+    },
     {
       "title": "Magma repeatedly breaks and heals during eruptions, microscopic evidence suggests",
       "link": "https://phys.org/news/2026-09-magma-eruptions-microscopic-evidence.html",
@@ -140,100 +284,12 @@
       "excerpt": "Snails carry weather records on their backs that could be used to map prehistoric cyclones, a University of Queensland study has shown. The project led by School of the Environment researchers examined the rings on the s…"
     },
     {
-      "title": "Africa's climate services need local detail and knowledge, say people who use the information",
-      "link": "https://phys.org/news/2026-09-africa-climate-local-knowledge-people.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-14T13:40:08.000Z",
-      "excerpt": "Across Africa, people are restoring and managing mangroves, grazing lands and urban green areas in the face of increasing threats from climate change. Increasingly, they make decisions based on climate-related informatio…"
-    },
-    {
       "title": "This German submarine sank in 1917. It’s still leaking TNT",
       "link": "https://www.sciencedaily.com/releases/2026/09/260913081919.htm",
       "source": "ScienceDaily — Geology",
       "category": "geoscience",
       "published": "2026-09-14T13:30:51.000Z",
       "excerpt": "A World War I submarine wreck off Denmark is leaking TNT into the surrounding water, seabed, and marine life more than a century after it sank. Scientists warn that thousands of similar wrecks could pose growing environm…"
-    },
-    {
-      "title": "Employers look for resilient staff—then leave them to burn out",
-      "link": "https://phys.org/news/2026-09-employers-resilient-staff.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-14T13:20:06.000Z",
-      "excerpt": "\"Resilience\" is in danger of becoming a casualty of business buzzword bingo, but we know it matters. The World Economic Forum lists it as one of the most important skills for the future of work, and I've found it turns u…"
-    },
-    {
-      "title": "Study reveals peatlands may have less capacity to store carbon than predicted",
-      "link": "https://phys.org/news/2026-09-reveals-peatlands-capacity-carbon.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-14T13:00:08.000Z",
-      "excerpt": "A new study has revealed that peatlands may break under their own weight before they reach their carbon storage potential."
-    },
-    {
-      "title": "Japan's biomass energy boom threatens further deforestation in Indonesia",
-      "link": "https://phys.org/news/2026-09-japan-biomass-energy-boom-threatens.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-14T07:53:33.000Z",
-      "excerpt": "A surge in Indonesia's wood pellet and chip production is driving a new wave of deforestation, threatening the vast archipelago's remaining tropical forests, vital biodiversity hot spots and the land of Indigenous people…"
-    },
-    {
-      "title": "Ensemble Forecast Updates without Model Re-integration Based on Ultra-rapid Data Assimilation: Idealized Experiments with a Heavy Rainfall Case",
-      "link": "https://arxiv.org/abs/2609.12274",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-14T04:00:00.000Z",
-      "excerpt": "arXiv:2609.12274v1 Announce Type: new Abstract: Observations at high frequency have become dramatically more abundant with recent technological advances. Ultra-rapid data assimilation (URDA) has been proposed to exploit…"
-    },
-    {
-      "title": "Preemptive Ensemble Forecast Sensitivity to Observations",
-      "link": "https://arxiv.org/abs/2609.12296",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-14T04:00:00.000Z",
-      "excerpt": "arXiv:2609.12296v1 Announce Type: new Abstract: Estimating the impact of observations newly added to an existing numerical weather prediction (NWP) system requires reintegrating the ensemble forecast from the analysis th…"
-    },
-    {
-      "title": "Physics-enriched neural solvers for transient ice-flow simulation",
-      "link": "https://arxiv.org/abs/2609.12900",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-14T04:00:00.000Z",
-      "excerpt": "arXiv:2609.12900v1 Announce Type: cross Abstract: Transient glacier simulations with higher-order ice flow require the repeated solution of a nonlinear problem as the geometry evolves. In the online mode of the Instructe…"
-    },
-    {
-      "title": "Physically Consistent 2D to 3D Pore Space Synthesis: 1. Dynamic Grain Packing Under Strict Morphology Constraints",
-      "link": "https://arxiv.org/abs/2609.13020",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-14T04:00:00.000Z",
-      "excerpt": "arXiv:2609.13020v1 Announce Type: cross Abstract: The 3D digital reconstruction of multi-scale, heterogeneous porous media is traditionally limited by the resolution boundaries and artifacts of X-ray computed tomography…"
-    },
-    {
-      "title": "SeismoStats: A Python Package for Statistical Seismology",
-      "link": "https://arxiv.org/abs/2511.04521",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-14T04:00:00.000Z",
-      "excerpt": "arXiv:2511.04521v2 Announce Type: replace Abstract: We introduce SeismoStats, a Python package that enables essential statistical seismology analyses. The package provides user-friendly tools to download and manipulate e…"
-    },
-    {
-      "title": "Physics-informed deep learning links geodetic data and fault friction",
-      "link": "https://arxiv.org/abs/2601.20136",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-14T04:00:00.000Z",
-      "excerpt": "arXiv:2601.20136v3 Announce Type: replace Abstract: Fault slip modeling, based on laboratory-derived friction laws, has significantly enhanced our understanding of fault mechanics. Agreement between model predictions and…"
-    },
-    {
-      "title": "Hurdle-RMIL: Addressing Zero Inflation and Long-Tailed Imbalance in Infrared Rainfall Retrieval",
-      "link": "https://arxiv.org/abs/2510.20486",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-14T04:00:00.000Z",
-      "excerpt": "arXiv:2510.20486v2 Announce Type: replace-cross Abstract: Imbalanced labels can cause frequent samples to dominate AI-based quantitative remote sensing, degrading rare-event retrieval. In rain-rate retrieval based on sat…"
     },
     {
       "title": "One Mount Etna eruption took weeks. Another happened in hours",
@@ -412,38 +468,6 @@
       "excerpt": "Ancient rocks from Western Australia suggest water was reaching deep inside Earth more than three billion years ago, long before modern plate tectonics may have fully developed. Researchers propose that water-rich pieces…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2911: Investigation on the Influence Mechanisms of Temperature and SARA Composition on the Wax Precipitation and Wax Crystal Micromorphology in Condensate Systems",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2911",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-13T00:00:00.000Z",
-      "excerpt": "In this study, three compositionally distinct condensate systems were tested to explore wax precipitation behaviors under variable temperature conditions. Multiple experimental approaches, including isothermal centrifuga…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2910: Reagent-Assisted Phytoextraction Potential for Heavy and Critical Metals on a Contaminated Post-Mining Substrate as NBS",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2910",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-13T00:00:00.000Z",
-      "excerpt": "Restoring contaminated and degraded land, including post-mining sites, industrial areas, and urban brownfields, is central to sustainable land management, and nature-based solutions (NBSs) such as phytoextraction can com…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2909: Axial Stress Prediction and Collapse Resistance Calculation of Tubing in CCUS Injection Wells",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2909",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-13T00:00:00.000Z",
-      "excerpt": "This study investigates tubing collapse resistance during low-temperature dense-phase CO2 injection in carbon capture, utilization, and storage (CCUS) wells. A coupled temperature&amp;ndash;pressure&amp;ndash;tubing mech…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2908: From Agricultural Waste to Food Safeguard: Coffee Shell-Derived Carbon Dots with Antibacterial Activity for Fruit Freshness Extension",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2908",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-13T00:00:00.000Z",
-      "excerpt": "Postharvest bacterial spoilage poses a major threat to global food safety, which is particularly prominent for fruits with high moisture and nutrient contents. Hence, environmentally friendly and efficient antibacterial…"
-    },
-    {
       "title": "Energy Holdings plans $1bn combination with Ventura Offshore",
       "link": "https://www.offshore-technology.com/news/energy-holdings-1bn-combination-ventura-offshore/",
       "source": "Offshore Technology",
@@ -610,14 +634,6 @@
       "category": "geoscience",
       "published": "2026-08-26T12:39:11.000Z",
       "excerpt": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon detach, potentially r…"
-    },
-    {
-      "title": "Forces deep inside Earth helped Antarctica freeze before the Arctic",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094154.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-08-25T17:12:46.000Z",
-      "excerpt": "Scientists may have solved the mystery of why Antarctica froze millions of years before the Arctic. Slow-moving waves deep inside Earth gradually lifted East Antarctica, building mountains and a high plateau where snow a…"
     },
     {
       "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
@@ -858,22 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
-    },
-    {
-      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
-    },
-    {
-      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
     }
   ]
 }
