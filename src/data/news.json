@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:03:44.527Z",
+  "generatedAt": "2026-09-15T17:14:36.782Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Local experience shapes how coastal communities understand and respond to climate change",
+      "link": "https://phys.org/news/2026-09-local-coastal-communities-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-15T16:40:06.000Z",
+      "excerpt": "While people across the globe are experiencing various impacts of climate change, governments and communicators often use top-to-bottom, uniform communication strategies to inform people about climate change."
+    },
+    {
+      "title": "Europe's e‑waste is a valuable resource—let's not throw it away",
+      "link": "https://phys.org/news/2026-09-europe-ewaste-valuable-resource.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-15T15:20:01.000Z",
+      "excerpt": "Throwing something away that is urgently needed, expensive and difficult to source sounds crazy. Yet of the 60 metals contained in old electronic devices such as phones, screens and washing machines, only a few are recyc…"
+    },
+    {
+      "title": "Scientists stunned as volcano cloud starts destroying methane",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260915095750.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-09-15T15:15:31.000Z",
+      "excerpt": "The Hunga Tonga eruption may have triggered a surprising chemical reaction that destroyed some of the methane released into the atmosphere. Scientists say the discovery could reshape estimates of methane pollution and in…"
+    },
+    {
+      "title": "Asia to spearhead global upcoming liquid storage growth additions by 2030",
+      "link": "https://www.offshore-technology.com/analyst-comment/asia-global-upcoming-liquid-storage-growth-additions-2030/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-15T13:34:53.000Z",
+      "excerpt": "Asia is set to lead the global liquids storage capacity additions to 2030, supported by a strong pipeline of new builds and expansions."
+    },
+    {
+      "title": "Santos agrees LNG arrangements with POSCO and Ksi Lisims",
+      "link": "https://www.offshore-technology.com/news/santos-lng-arrangements-posco-ksi-lisims/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-15T12:59:56.000Z",
+      "excerpt": "Santos has agreed two separate non-binding liquefied natural gas (LNG) arrangements covering supply to POSCO Steel and purchases from the proposed Ksi Lisims LNG project in Canada."
+    },
     {
       "title": "A new approach to forecasting toxic metals in wildfire smoke",
       "link": "https://phys.org/news/2026-09-approach-toxic-metals-wildfire.html",
@@ -212,6 +252,46 @@
       "excerpt": "More than 60 years after surveys suggested a deep coral reef off Benin was probably dead, scientists have found it alive. Cameras revealed healthy-looking coral patches supporting multiple fish species more than 50 meter…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4378: A Fuzzy-Logic Approach for Health Index Estimation of OLTCs in Power Transformers",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4378",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-15T00:00:00.000Z",
+      "excerpt": "Power transformers are critical assets in complex power grid systems, yet On-Load Tap Changers (OLTCs) account for over 30% of documented outages. This study introduces a Health Index (HI) model for OLTCs that employs a…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4377: Competition in Building Heating&mdash;The Techno-Economic Case for Decentralized Heat Pumps in Germany up to 2045",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4377",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-15T00:00:00.000Z",
+      "excerpt": "Decarbonizing the German building sector by 2045 requires a rapid transformation of the heating technology stock, in which decentralized heat pumps (HPs) compete with district heating (DH) and green-gas-based solutions.…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4376: Evaluating the Biomass Pellet Production Potential of Different Biomass Residues Using Integrated Environmental and Economic Life Cycle Assessment",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4376",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-15T00:00:00.000Z",
+      "excerpt": "The generation of biomass residues and biowaste is both a challenge to the environment and to resource management worldwide but is also a significant renewable resource for energy and material recovery. Biomass residues…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4375: A Renewable-Energy-Oriented Coordinated Electricity&ndash;Computing&ndash;Carbon Dispatch Method for Data Centers and Dual Pumped Storage",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4375",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-15T00:00:00.000Z",
+      "excerpt": "The increasing penetration of renewable generation and the rapid growth of data-center demand require coordinated use of heterogeneous flexibility while respecting network operating limits. This study proposes a three-ob…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4374: Techno-Economic Assessment of a Methanol Synthesis Method Using Renewable Energy",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4374",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-15T00:00:00.000Z",
+      "excerpt": "Decarbonising hard-to-abate transport sectors, including maritime shipping and heavy-duty land transport, requires sustainable and energy-dense alternatives to fossil fuels. Green methanol synthesised from biogas offers…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4373: Seasonal Soiling Rates and Cleaning Optimization for PV Systems in Saudi Arabia: Arar Desert Climate",
       "link": "https://www.mdpi.com/1996-1073/19/18/4373",
       "source": "Energies (MDPI)",
@@ -268,44 +348,36 @@
       "excerpt": "The increasing use of rooftop photovoltaic (PV) systems in distribution networks can lead to operational challenges, including feeder overloading, reverse power flow, fluctuating net-load characteristics, and future host…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4365: Nuclear Energy in Transition: Are NUC Index Returns More Strongly Associated with AI-Related Equities than with an Energy Commodity Benchmark?",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4365",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2937: Influencing Factors on Internal-Pressure Capacity, Collapse Resistance, and Fatigue Life of Coiled Tubing During Field Operations",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2937",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-15T00:00:00.000Z",
-      "excerpt": "The growth in electricity demand driven by artificial intelligence and digital infrastructure is directing attention toward nuclear energy as a stable source. The sector has been transformed by the emergence of SMRs and…"
+      "excerpt": "Coiled tubing is subjected to internal-to-external pressure differentials and repeated bending during field operations, while ovalization and cumulative fatigue damage progressively compromise structural integrity. To ad…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4366: Unified Analytical Modeling of Multicell Interleaved Buck Converters with Parallel Switching Arms for Low-Ripple Electrochemical Energy Conversion Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4366",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2936: Numerical Simulation Model of Deep Coalbed Methane and Quantitative Classification Method of Adsorbed and Free Gas",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2936",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-15T00:00:00.000Z",
-      "excerpt": "Power electronic converters play an important role in proton exchange membrane (PEM) electrolyzers, where current ripple has been associated with electrode potential fluctuations, electrocatalyst degradation, and long-te…"
+      "excerpt": "Aiming at the technical bottlenecks of deep coalbed methane (DCBM) reservoirs, including ultra-low permeability, prominent stress sensitivity, difficulty in characterizing complex hydraulic fractures, and the inability t…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4364: Control Strategy Optimization for an SCR Denitrification System During Load-Cycling Processes Based on Implicit Generalized Predictive Self-Tuning: Dynamic Simulation and Performance Evaluation",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4364",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2935: MoO3/Nb2O5 Composites Prepared by Wet High-Energy Ball Milling: Structural Evolution, Physicochemical Properties, and Catalytic Performance in Biodiesel Production",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2935",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-15T00:00:00.000Z",
-      "excerpt": "Selective catalytic reduction (SCR) systems in coal-fired power plants must maintain low NOx emissions during increasingly frequent load changes. Variations in flue gas temperature and flow complicate ammonia-injection c…"
+      "excerpt": "The development of heterogeneous catalysts with suitable structural and physicochemical properties is important for catalytic processes involving renewable feedstocks. In this study, Nb2O5 and MoO3/Nb2O5 composite cataly…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4363: Mixed Configuration of Multi-to-One Alkaline Electrolyzers in Solar Power-to-Hydrogen Plants",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4363",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2934: Adsorption of Methyl Orange onto Peanut Shell-Derived Activated Carbon: Characterization, Isotherms, and Kinetic Behavior",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2934",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-15T00:00:00.000Z",
-      "excerpt": "To mitigate capital investment costs, the multi-to-one configuration, wherein multiple alkaline electrolyzers share a single balance of plant (BoP) system, is widely adopted in projects. However, compared with the one-to…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4362: Transient Impedance Fitting-Based Distance Protection for Transmission Lines with Hybrid Renewable Integration",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4362",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-15T00:00:00.000Z",
-      "excerpt": "The hybrid operation of grid-following (GFL) and grid-forming (GFM) renewable energy units can lead to phase-reference inconsistencies and distorted transient impedance trajectories, which in turn cause maloperation or f…"
+      "excerpt": "Driven by the need to develop innovative solutions for wastewater treatment and to reduce waste generation, this study proposes the valorization of agricultural residues, specifically peanut shells, as a precursor for th…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2933: Soil Bacterial Community Structure and Diversity Variations at a Typical Hazardous Waste Illegal Dumping Site",
@@ -372,38 +444,6 @@
       "excerpt": "Roadway cross-sectional geometry dominates surrounding rock deformation and failure, yet most existing numerical studies adopt oversimplified ideal cavities rather than practical coal mine roadway profiles, lacking syste…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2923: Analysis of Hydraulic Fracture Propagation Behavior Using a Thermo-Hydro-Mechanical Coupled Model",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2923",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-15T00:00:00.000Z",
-      "excerpt": "Hydraulic fracturing is a key reservoir stimulation technology for enhancing hydrocarbon recovery from unconventional reservoirs. However, fracture initiation and propagation are governed by complex thermo-hydro-mechanic…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2925: Research on Optimization and Application of Mine Ventilation Based on Improved Cuckoo Search Algorithm",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2925",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-15T00:00:00.000Z",
-      "excerpt": "To reduce energy consumption in mine ventilation networks under dynamic air demand, this study proposes an Improved Cuckoo Search (ICS) algorithm for energy-efficient airflow regulation. A nonlinear optimization model is…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2924: Cactus-Derived Biocoagulants for Sustainable Drinking-Water Treatment: Comparative Performance Against Polyaluminum Chloride",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2924",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-15T00:00:00.000Z",
-      "excerpt": "The growing demand for environmentally compatible water-treatment technologies has increased interest in bio-based coagulants as alternatives or complementary agents to conventional chemicals. This study evaluated polysa…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2921: High-Density Seismic Signal Processing Methods for the Gongshanmiao 3D Oil Survey of the Lianggaoshan Formation in the Sichuan Basin: A Case Study",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2921",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-15T00:00:00.000Z",
-      "excerpt": "The Lianggaoshan Formation in the Gongshanmiao block of the Sichuan Basin is characterized by narrow channel sand bodies and thin layers, resulting in weak seismic responses, which leads to poor identification of small-s…"
-    },
-    {
       "title": "Researchers propose quantum Earth observation for photon-limited environments",
       "link": "https://phys.org/news/2026-09-quantum-earth-photon-limited-environments.html",
       "source": "Phys.org — Earth",
@@ -458,22 +498,6 @@
       "category": "geoscience",
       "published": "2026-09-14T16:40:09.000Z",
       "excerpt": "Researchers have shown how dramatic sea-level rise over a 5,000-year period profoundly changed the coasts of northern Italy, Slovenia and northern Croatia. Successive shaping and reshaping of coastal features influenced…"
-    },
-    {
-      "title": "Ghana's local architecture has adapted to change for centuries. It can teach us about climate resilience",
-      "link": "https://phys.org/news/2026-09-ghana-local-architecture-centuries-climate.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-14T16:20:12.000Z",
-      "excerpt": "When people discuss architecture in Ghana, attention often focuses on modern buildings: concrete houses, glass offices, shopping malls and ambitious urban developments. Yet across the country, another architectural tradi…"
-    },
-    {
-      "title": "Wildfire strategy doesn't need a winner—with 3 camps fighting for dominance, the system can't keep up with the risk",
-      "link": "https://phys.org/news/2026-09-wildfire-strategy-doesnt-winner-dominance.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-14T14:40:07.000Z",
-      "excerpt": "One of the problems with how America deals with wildfires is the belief that there is one primary strategy that can end the nation's wildfire crisis. Whether that's detecting and putting out every fire fast, increasing l…"
     },
     {
       "title": "This German submarine sank in 1917. It’s still leaking TNT",
@@ -538,22 +562,6 @@
       "category": "industry",
       "published": "2026-09-11T09:44:04.000Z",
       "excerpt": "TotalEnergies has disclosed making the Acacia-5 near-by oil discovery on Block 17 offshore Angola, with plans to bring the new field into production just three months after its discovery in June 2026."
-    },
-    {
-      "title": "Saipem, Jan De Nul sign LoI for Mozambique Rovuma LNG project",
-      "link": "https://www.offshore-technology.com/news/saipem-jan-de-nul-loi-rovuma-lng/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-11T07:54:47.000Z",
-      "excerpt": "Saipem, in partnership with Jan De Nul, has entered into a letter of intent (LoI) with ExxonMobil Moçambique for a contract related to the phase 1 of the Rovuma LNG project, located offshore Mozambique."
-    },
-    {
-      "title": "Odfjell secures $518m contract for Deepsea Bergen from Vår Energi",
-      "link": "https://www.offshore-technology.com/news/odfjell-contract-deepsea-bergen-var-energi/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-10T14:10:15.000Z",
-      "excerpt": "Odfjell Drilling has received a LOA from Vår Energi for the deployment of the Deepsea Bergen rig, with an estimated contract value of $518m."
     },
     {
       "title": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
@@ -628,14 +636,6 @@
       "excerpt": "Beneath the rocky slopes of Mount Timpanogos lies far more ice than anyone walking across the surface might suspect. Researchers used gravity measurements to map the buried glacier in 3D and found it is about 83% ice, wi…"
     },
     {
-      "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-08-26T12:39:11.000Z",
-      "excerpt": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon detach, potentially r…"
-    },
-    {
       "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
       "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -656,7 +656,7 @@
       "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
       "source": "ScienceDaily — Energy Technology",
       "category": "energy",
-      "published": "2026-08-16T09:55:45.000Z",
+      "published": "2026-08-15T10:48:05.000Z",
       "excerpt": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-s…"
     },
     {
