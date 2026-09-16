@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T21:43:27.536Z",
+  "generatedAt": "2026-09-16T05:11:09.041Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 9,
+      "count": 5,
       "error": null
     },
     {
@@ -75,6 +75,78 @@
     }
   ],
   "items": [
+    {
+      "title": "Adaptive and accuracy-aware multiple data assimilation in a three step framework",
+      "link": "https://arxiv.org/abs/2609.16434",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-16T04:00:00.000Z",
+      "excerpt": "arXiv:2609.16434v1 Announce Type: new Abstract: The ensemble smoother with multiple data assimilation (ES-MDA) is an algorithmic framework for the ensemble-based solution of inverse problems in reservoir engineering (and…"
+    },
+    {
+      "title": "Multisource Remote Sensing and Geospatial Analysis of Vineyard Wildfire Impacts and Resilience: The 2019 Kincade Fire",
+      "link": "https://arxiv.org/abs/2609.16168",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-16T04:00:00.000Z",
+      "excerpt": "arXiv:2609.16168v1 Announce Type: cross Abstract: Working agricultural landscapes are often treated as background to wildfire disasters, even though they are managed fuel mosaics, productive assets, and parts of regional…"
+    },
+    {
+      "title": "A Sentinel-2 benchmark dataset for deep-learning active-fire segmentation across 25 California wildfires",
+      "link": "https://arxiv.org/abs/2609.16199",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-16T04:00:00.000Z",
+      "excerpt": "arXiv:2609.16199v1 Announce Type: cross Abstract: This article describes an open image dataset for developing and evaluating active-fire segmentation methods in satellite imagery. The dataset contains 2,148 image-mask pa…"
+    },
+    {
+      "title": "A Self-Diagnosing Structural Error-Aware Parameter Estimation Method for Earth System Models",
+      "link": "https://arxiv.org/abs/2609.16210",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-16T04:00:00.000Z",
+      "excerpt": "arXiv:2609.16210v1 Announce Type: cross Abstract: We propose a fully automated, structural error-aware, interpretable climate model parameter estimation method that leverages Perturbed Parameter Ensembles (PPEs). It is b…"
+    },
+    {
+      "title": "Structure-Driven Inversion: A New Paradigm for Solving Inverse Problems",
+      "link": "https://arxiv.org/abs/2609.16536",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-16T04:00:00.000Z",
+      "excerpt": "arXiv:2609.16536v1 Announce Type: cross Abstract: Inverse problems are predominantly solved within the optimization-driven paradigm, which formulates the problem as objective-function minimization and approaches the solu…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4379: Middle East Geopolitical Risk and China&rsquo;s Crude-Oil Import Security: Divergent Responses of Supplier Concentration and Hormuz-Origin Exposure",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4379",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-16T00:00:00.000Z",
+      "excerpt": "Supplier concentration and dependence on Hormuz-associated origins describe different dimensions of China&amp;rsquo;s crude-oil import security. Using 195 monthly observations for January 2010&amp;ndash;March 2026, we es…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2938: Feed Continuity and Pellet Morphology in Compatibilizer and Plasticizer-Free High-Loading Soy Hull Fiber/PLA Single-Screw Compounding for Material Extrusion",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2938",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-16T00:00:00.000Z",
+      "excerpt": "High-loading plant-fiber/PLA feedstocks are often reported through final filament properties, leaving the upstream compounding mechanisms that determine pellet feedability in two-stage routes insufficiently resolved. Thi…"
+    },
+    {
+      "title": "High-resolution weather data could pinpoint neighborhoods facing greatest heat stress",
+      "link": "https://phys.org/news/2026-09-high-resolution-weather-neighborhoods-greatest.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-15T23:20:01.000Z",
+      "excerpt": "Heat stress is a leading cause of weather-related deaths and can be especially dangerous in cities, where phenomena like urban heat islands drive temperatures higher than in surrounding rural areas. Now, a new dataset de…"
+    },
+    {
+      "title": "Weather forecasts are significantly less accurate in poorer countries, analysis finds",
+      "link": "https://phys.org/news/2026-09-weather-significantly-accurate-poorer-countries.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-15T22:20:07.000Z",
+      "excerpt": "Weather forecasts inform countless everyday decisions—from farmers deciding when to sow crops and energy companies anticipating demand to public authorities preparing for heat waves. But how useful those forecasts are de…"
+    },
     {
       "title": "Plans to artificially dim the sun have divided scientists—here's what they're actually arguing about",
       "link": "https://phys.org/news/2026-09-artificially-dim-sun-scientists-theyre.html",
@@ -180,14 +252,6 @@
       "excerpt": "Santos has agreed two separate non-binding liquefied natural gas (LNG) arrangements covering supply to POSCO Steel and purchases from the proposed Ksi Lisims LNG project in Canada."
     },
     {
-      "title": "A new approach to forecasting toxic metals in wildfire smoke",
-      "link": "https://phys.org/news/2026-09-approach-toxic-metals-wildfire.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-15T11:20:09.000Z",
-      "excerpt": "In early July 2026, Stanford postdoctoral researcher Alex Honeyman and graduate student Mark Leone attached a box the size of a briefcase to a fire truck in Colorado that was about to be dispatched to a wildfire 300 mile…"
-    },
-    {
       "title": "Wood secures $200m contract from ExxonMobil for PNG LNG project",
       "link": "https://www.offshore-technology.com/news/wood-200m-contract-exxonmobil-png-lng-project/",
       "source": "Offshore Technology",
@@ -218,86 +282,6 @@
       "category": "industry",
       "published": "2026-09-15T06:58:58.000Z",
       "excerpt": "Avenrock Energy, a newly launched energy company in Canada by Carlyle, has agreed to acquire Parallax Energy Operating from Carnelian Energy Capital."
-    },
-    {
-      "title": "Large-scale bioacoustic detection using semantic segmentation: a deep learning framework applied to fin whale calls in ocean-bottom seismometer recordings",
-      "link": "https://arxiv.org/abs/2609.13281",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-15T04:00:00.000Z",
-      "excerpt": "arXiv:2609.13281v1 Announce Type: new Abstract: Ocean-bottom seismometers (OBS), originally deployed for geophysical research, continuously record low-frequency sound for months to years across broad areas of ocean, offe…"
-    },
-    {
-      "title": "ADEPTS: An auto-differentiable framework for time-dependent nonlinear thermo-chemical mantle convection inversion",
-      "link": "https://arxiv.org/abs/2609.13482",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-15T04:00:00.000Z",
-      "excerpt": "arXiv:2609.13482v1 Announce Type: new Abstract: Time-dependent mantle-dynamics inversion must address the high dimensionality of the initial state, nonlinear rheology, and gradient propagation through long-term thermo-me…"
-    },
-    {
-      "title": "Three dimensional non-singular mollified elastic dislocation theory for extended width fault zones and inhomogeneous boundary element models",
-      "link": "https://arxiv.org/abs/2609.15601",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-15T04:00:00.000Z",
-      "excerpt": "arXiv:2609.15601v1 Announce Type: new Abstract: Classical elastic dislocation theory (CEDT) has two challenges when applied to faulting problems: 1) fictitious on-fault stresses not defined by ordinary integration and 2)…"
-    },
-    {
-      "title": "The core-mantle mode of gravitational oscillation",
-      "link": "https://arxiv.org/abs/2609.13421",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-15T04:00:00.000Z",
-      "excerpt": "arXiv:2609.13421v1 Announce Type: cross Abstract: We present the characteristics of a mode of axial oscillation between Earth's mantle, fluid core and solid inner core that has not been previously reported. The mode invo…"
-    },
-    {
-      "title": "Bay Assessment Model: A Python-based Salinity Projection Tool for Florida Bay, USA",
-      "link": "https://arxiv.org/abs/2609.13515",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-15T04:00:00.000Z",
-      "excerpt": "arXiv:2609.13515v1 Announce Type: cross Abstract: Extreme salinity events in Florida Bay are a central concern of the Comprehensive Everglades Restoration Program (CERP). A large-scale seagrass die-off in the late 1980s,…"
-    },
-    {
-      "title": "Avalanches can increase stored energy in a granular fault",
-      "link": "https://arxiv.org/abs/2609.14406",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-15T04:00:00.000Z",
-      "excerpt": "arXiv:2609.14406v1 Announce Type: cross Abstract: Slowly sheared granular materials generally store mechanical energy and dilate between abrupt failures that release energy and compact the material. Here, simultaneous me…"
-    },
-    {
-      "title": "Should All Noises Be Treated Equally: Impact of Input Noise Variability on Neural Network Robustness",
-      "link": "https://arxiv.org/abs/2609.14504",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-15T04:00:00.000Z",
-      "excerpt": "arXiv:2609.14504v1 Announce Type: cross Abstract: Geophysical data collected from active field sites are often contaminated by complex and heterogeneous noise, obscuring weak seismic events, and complicating automated in…"
-    },
-    {
-      "title": "A New Framework for Interfacial Statistics: Exact n-Point Correlations of Gaussian Level Sets",
-      "link": "https://arxiv.org/abs/2609.14586",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-15T04:00:00.000Z",
-      "excerpt": "arXiv:2609.14586v1 Announce Type: cross Abstract: We derive exact analytical expressions for higher-order correlations of Gaussian level-set interfaces, establishing a direct link between bulk field statistics and interf…"
-    },
-    {
-      "title": "Phase-field analysis of fracture in heterogeneous wellbore systems: effects of casing eccentricity and cement-formation interface strength",
-      "link": "https://arxiv.org/abs/2606.16346",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-15T04:00:00.000Z",
-      "excerpt": "arXiv:2606.16346v3 Announce Type: replace-cross Abstract: Predicting the initiation and propagation of cracks in heterogeneous wellbore systems under complex in-situ conditions remains challenging. We present a hybrid ph…"
-    },
-    {
-      "title": "Scientists to probe the source behind a massive 1946 tsunami",
-      "link": "https://phys.org/news/2026-09-scientists-probe-source-massive-tsunami.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-15T03:00:01.000Z",
-      "excerpt": "Eighty years ago, a massive tsunami devastated parts of Hawaii, Alaska, Washington and Oregon following an earthquake off the coast of Alaska. A Michigan State University team is launching a project to study the underwat…"
     },
     {
       "title": "A coral reef thought dead for 60 years is teeming with life",
@@ -396,14 +380,6 @@
       "excerpt": "This paper evaluates the multi-year, multi-scale hydro&amp;ndash;photovoltaic (PV) complementarity of the Belo Monte&amp;ndash;Pimental run-of-river hydropower complex in the Brazilian Amazon and its implications for ren…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4367: Integrated Data-Driven Framework for Rooftop PV Impact Assessment in Distribution Networks Using Net-Load Forecasting and Hosting Capacity Analysis",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4367",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-15T00:00:00.000Z",
-      "excerpt": "The increasing use of rooftop photovoltaic (PV) systems in distribution networks can lead to operational challenges, including feeder overloading, reverse power flow, fluctuating net-load characteristics, and future host…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2937: Influencing Factors on Internal-Pressure Capacity, Collapse Resistance, and Fatigue Life of Coiled Tubing During Field Operations",
       "link": "https://www.mdpi.com/2227-9717/14/18/2937",
       "source": "Processes (MDPI)",
@@ -490,14 +466,6 @@
       "category": "processing",
       "published": "2026-09-15T00:00:00.000Z",
       "excerpt": "Ginsenoside Rd is a protopanaxadiol-type ginsenoside with potential as a value-added ginseng-derived compound. This study developed an enzymatic process for selective enrichment of Rd from major precursor ginsenosides in…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2927: Numerical Study on the Influence of Cavity Geometry on Rock Materials Under Uniaxial Compression",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2927",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-15T00:00:00.000Z",
-      "excerpt": "Roadway cross-sectional geometry dominates surrounding rock deformation and failure, yet most existing numerical studies adopt oversimplified ideal cavities rather than practical coal mine roadway profiles, lacking syste…"
     },
     {
       "title": "This German submarine sank in 1917. It’s still leaking TNT",
@@ -874,6 +842,38 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
+    },
+    {
+      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Two-step activation of MoS 2 basal plane via P-doping and conducting polymer interface enabling tunable multilayer HER electrodes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031017?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part C Author(s): Yang Zhang, Wenmin Liao, Jianyu Liu, Dongzhi Li, Decheng Li, Yi Wang, Xiaolan Zhang, Linan Xu, Xiaodong Li, Yilei Yue, Song Lin"
     }
   ]
 }
