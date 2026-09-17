@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:18:07.657Z",
+  "generatedAt": "2026-09-17T12:01:01.386Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,78 @@
   ],
   "items": [
     {
+      "title": "Urban fire risk rises 30% in higher-income neighborhoods, analysis finds",
+      "link": "https://phys.org/news/2026-09-rich-neighborhoods.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-17T11:20:10.000Z",
+      "excerpt": "Frequently located on hillsides and in canyons surrounded by wildlands, wealthy neighborhoods are more likely to catch fire. However, a UC Riverside study shows they are also likely to recover faster than lower-income ar…"
+    },
+    {
+      "title": "Eni divests 10% stake in Côte d’Ivoire’s Baleine oilfield to SOCAR",
+      "link": "https://www.offshore-technology.com/news/eni-divests-stake-baleine-oil-field-socar/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-17T10:19:12.000Z",
+      "excerpt": "Italian energy company Eni has completed the sale of a 10% interest in the Baleine offshore oil project in Côte d’Ivoire to the State Oil Company of Azerbaijan Republic (SOCAR)."
+    },
+    {
+      "title": "Can hydrogen become platinum’s next big market?",
+      "link": "https://www.offshore-technology.com/news/can-hydrogen-become-platinums-next-big-market/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-17T10:14:44.000Z",
+      "excerpt": "Vehicle electrification threatens the primary end market for platinum, but PEM technologies offer a potential replacement."
+    },
+    {
+      "title": "Plains to buy Silver Creek’s Powder River crude assets for $585m",
+      "link": "https://www.offshore-technology.com/news/plains-buy-silver-creeks-crude-assets-585m/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-17T09:46:02.000Z",
+      "excerpt": "Plains All American Pipeline and Plains GP Holdings (together Plains) have signed an agreement to acquire Silver Creek Midstream’s crude oil midstream assets in the Powder River Basin, US for approximately $585m."
+    },
+    {
+      "title": "Can private 5G pay for itself in oil and gas?",
+      "link": "https://www.offshore-technology.com/sponsored/can-private-5g-pay-for-itself-in-oil-and-gas/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-17T09:06:24.000Z",
+      "excerpt": "Calculate private 5G ROI in oil and gas: connect workers, automate inspections, reduce downtime, optimize maintenance."
+    },
+    {
+      "title": "Oil and gas digitalisation cannot overlook the marine logistics chain",
+      "link": "https://www.offshore-technology.com/opinion/oil-and-gas-digitalisation-cannot-overlook-the-marine-logistics-chain/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-17T09:00:00.000Z",
+      "excerpt": "Digitalisation is an opportunity to integrate marine logistics in operating models, writes Damien Bertin, business director at Opsealog."
+    },
+    {
+      "title": "World's water cycle becoming more unpredictable, UN warns",
+      "link": "https://phys.org/news/2026-09-world-unpredictable.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-17T08:20:01.000Z",
+      "excerpt": "The planet's water cycle is becoming increasingly erratic, swinging between too little and too much, the United Nations warned Thursday, with an unprecedented El Niño expected to exacerbate the long-term trend."
+    },
+    {
+      "title": "Climate change made deadly Nepal glacier and rock collapse more likely, according to analysis",
+      "link": "https://phys.org/news/2026-09-climate-deadly-nepal-glacier-collapse.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-17T08:02:41.000Z",
+      "excerpt": "Human-caused global warming thinned glaciers and thawed mountain permafrost, likely helping to destabilize the Himalayan slope that collapsed last month and unleashed catastrophic flooding across Nepal, according to a re…"
+    },
+    {
+      "title": "Aker BP discovers gas at Alpehumle prospect in North Sea",
+      "link": "https://www.offshore-technology.com/news/aker-bp-gas-alpehumle-north-sea/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-17T07:26:39.000Z",
+      "excerpt": "Aker BP has discovered gas in the Alpehumle prospect in the Norwegian North Sea, about 25km north of the Duva field, following drilling of its first exploration well in production licence 1153."
+    },
+    {
       "title": "Gravitational energy released when Earth quakes: Heat supply for island-arc volcanism",
       "link": "https://arxiv.org/abs/2609.18036",
       "source": "arXiv — Geophysics",
@@ -132,6 +204,78 @@
       "excerpt": "arXiv:2501.00887v2 Announce Type: replace-cross Abstract: In this work, we develop a fast and accurate method for the scattering of flexural-gravity waves by a thin plate of varying thickness overlying a fluid of infinit…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4405: Chance-Constrained Transient Stability Optimal Power Flow Considering Wind Power Uncertainty Based on DDPCE-MEM",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4405",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "To address the dependence of uncertainty analysis methods on assumed probability density functions of wind power output and the computational burden of time-domain simulations in transient stability-constrained optimal p…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4404: A Study of Myopic, Predictive, and Reinforcement Learning Energy Management Strategies for Isolated Microgrids",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4404",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "The increasing penetration of renewable energy sources in isolated microgrids has intensified the need for Energy Management Systems (EMS) capable of reducing diesel dependence while ensuring reliable operation. This stu…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4403: An EV-Assisted Dual T-Type Inverter SAPF with Model Predictive Control for Advanced Power Quality Enhancement",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4403",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "In order to improve power quality in low-voltage distribution networks with nonlinear, distorted, and unbalanced loads, this research suggests an innovative design for Shunt Active Power Filters (SAPFs). Compared to conv…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4401: Numerical Study of Natural Convection in a Corrugated Porous Cavity Saturated with a Nanofluid of Al2O3&ndash;Cu/Water Hybrid Type: The Combined Effect of Variable Viscosity and Soret&ndash;Dufour Double-Diffusion",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4401",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "This study numerically investigates unsteady natural convection and Soret&amp;ndash;Dufour double-diffusion in a two-dimensional sinusoidally wavy porous cavity saturated with an Al2O3&amp;ndash;Cu/Water hybrid nanofluid…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4402: Hydraulically Coupled Compressed-Air Energy Storage Systems: A Review of Configurations and Performance with Emphasis on PHCAES",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4402",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "Growing wind and photovoltaic generation increases the demand for large-scale, long-duration energy storage. Pumped hydro compressed-air energy storage (PHCAES) stores and releases energy through pressure transfer betwee…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4400: Research on Single-Ended Protection for Multi-Terminal Flexible DC Lines Based on Line-Mode Reverse Traveling-Wave Covariance",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4400",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "Multi-terminal HVDC transmission lines contain a T-zone, where no explicit line boundary element exists. Conventional traveling-wave (TW) protection schemes mainly identify faults by utilizing the attenuation characteris…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4399: The Effects of Secondary Air Supply on the In-Furnace Combustion Characteristics of Briquettes with Different Moisture Contents",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4399",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "This study investigates the effects of secondary air supply on the combustion characteristics of briquettes with different moisture contents using a coupled FLIC&amp;ndash;Fluent framework. FLIC was employed to simulate…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4398: Power&ndash;Speed Hybrid Control Strategy and Dynamic Performance Analysis of Variable Speed Pumped Storage Units in Generating Mode",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4398",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "Variable speed pumped storage units (VSPSUs) offer flexible active-power regulation capability; however, during large power variations, it remains challenging to simultaneously achieve fast power tracking and effective r…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4396: Insulation Monitoring Systems in Low-Voltage IT Networks&mdash;A Review",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4396",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "Low-voltage networks are designed as solidly grounded neutral networks (TN, TT) or isolated neutral networks (IT). The latter type is used when continuity of supply and effective protection against electric shock are req…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4397: Artificial Intelligence, Green Innovation, and the Clean-Energy Market: A Quantile-Based Analysis",
       "link": "https://www.mdpi.com/1996-1073/19/18/4397",
       "source": "Energies (MDPI)",
@@ -146,6 +290,70 @@
       "category": "energy",
       "published": "2026-09-17T00:00:00.000Z",
       "excerpt": "The growing scale of photovoltaic (PV) installations creates an urgent need for automated fault detection systems that operate in real time on resource-constrained monitoring hardware. Although deep learning methods achi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2964: CFD-Based Flow Field Analysis of the Triple Diaphragm Pump",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2964",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "As a core fluid device, the triplex diaphragm hose pump is prone to unstable operation owing to its complex internal flow field. In this study, a dynamic mesh technique is established as the core of the numerical model.…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2963: Improving Harvesting Efficiency and Sustainability Through Lightweight Visual Perception: COS-DETR for Resource-Constrained Tea-Harvesting Robots",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2963",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "Visual perception is a key challenge for tea-harvesting robots because tender buds must be distinguished from dense foliage under variable illumination and localized rapidly enough to support grasping on embedded hardwar…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2961: Adaptive Connectivity and Robust Plane Extraction from Microseismic Event Clouds: A Systematic Benchmark and Conditional Case Study",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2961",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "Two-meter-scale true-triaxial hydraulic-fracturing models involve a large monitoring volume, strongly nonuniform microseismic event densities, and substantial vibration and background noise, making conventional fixed-sca…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2962: Mechanistic Analysis of Stage-Dependent In Situ Hydrogen Production from Heavy Oil Under Nitrogen Atmosphere",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2962",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "In situ gasification-assisted hydrogen production from heavy oil has the potential to simultaneously achieve in-reservoir upgrading and hydrogen generation, offering a promising pathway for the clean and efficient develo…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2960: Two-Stage Robust Resilience Enhancement Strategy for Distribution Networks Considering Compound Ice Storm Hazards",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2960",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "Ice storms threaten distribution network resilience through combined mechanical loading and secondary failures, increasing the risk of prolonged power interruptions. This paper proposes a two-stage robust energy storage…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2957: Bioconversion of Dairy DAF Sludge and Agricultural Wastes into Agronomically Valuable Vermicompost",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2957",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "Dairy wastewater treatment via dissolved air flotation (DAF) generates large amounts of sludge rich in fats and organic matter, posing significant management challenges. This laboratory-scale study evaluated the valoriza…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2959: Auxiliary Power Prediction for Underwater Vehicles Based on CEEMDAN&ndash;VMD&ndash;LSTM Multi-Stage Decomposition Framework",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2959",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "This study proposes a multi-stage decomposition framework for auxiliary power prediction of underwater vehicles to support energy management. Isolation Forest first removes outliers from the load record; Complete Ensembl…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2958: Data-Driven Adaptive Reactive Power and Voltage Control Method for Distribution Networks with Energy Storage by Using DRL-SAC Algorithm",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2958",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "In distribution network and microgrids, energy storage (ES) systems possess four-quadrant operational capabilities, making them inherently high-quality resources for reactive power (RP) regulation. However, existing rese…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2956: Experimental Measurement and Artificial Neural Network Prediction of Dew Point Pressure for Ultra-Deep Condensate Gas",
@@ -228,30 +436,6 @@
       "excerpt": "As the climate warms, people are more exposed to heat stress, which depresses productivity and the global economy. A study from the University of California, Davis, quantifies the cost of heat stress on global labor."
     },
     {
-      "title": "Double dip: Sampling contaminants of emerging concern two ways improves accuracy",
-      "link": "https://phys.org/news/2026-09-dip-sampling-contaminants-emerging-ways.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-16T14:20:15.000Z",
-      "excerpt": "Two are better than one when it comes to sampling methods for tracking the location and timing of toxic chemical contamination in waterways, according to researchers at Penn State. The team tested two typical sampling ap…"
-    },
-    {
-      "title": "Three questions: Putting nuclear waste into perspective",
-      "link": "https://phys.org/news/2026-09-nuclear-perspective.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-16T13:40:04.000Z",
-      "excerpt": "For decades, one of the major complaints about nuclear power in the United States has been the argument that, after all this time, we still have not come up with a dependable strategy for sequestering high-level radioact…"
-    },
-    {
-      "title": "Beach-burrowing beasties may shovel more sand than any other animal on Earth",
-      "link": "https://phys.org/news/2026-09-beach-burrowing-beasties-shovel-sand.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-16T13:00:10.000Z",
-      "excerpt": "At just an inch (2.5 centimeters) long, the sand hoppers skipping across California's Isla Vista Beach at dawn don't exactly look like a force of nature. But a new study reveals that these shrimp-like creatures might be…"
-    },
-    {
       "title": "Africa to drive global upcoming liquid storage capacity additions by 2030",
       "link": "https://www.offshore-technology.com/analyst-comment/africa-upcoming-liquid-storage-capacity-additions-2030/",
       "source": "Offshore Technology",
@@ -284,92 +468,12 @@
       "excerpt": "TotalEnergies has entered into a three-year partnership with French AI company Mistral to develop AI models for oil and gas reservoir exploration and engineering."
     },
     {
-      "title": "Halliburton wins well services contract for Eni’s Cronos project",
-      "link": "https://www.offshore-technology.com/news/halliburton-well-services-contract-cronos-project/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-16T07:03:03.000Z",
-      "excerpt": "Halliburton has been awarded a contract by Eni to provide a bundled package of well construction and completions services for the Cronos project offshore Cyprus."
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4394: Infrastructure-Oriented Assessment of Energy Efficiency and Estimated CO2 Emissions at the Combustion Stage of a Diesel&ndash;LNG Dual-Fuel Mining Dump Truck Based on Field Telemetry Data",
       "link": "https://www.mdpi.com/1996-1073/19/18/4394",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-09-16T00:00:00.000Z",
       "excerpt": "Haul-road condition can affect traction demand and diesel-to-LNG substitution in mining trucks. We evaluated a 140-t truck at the Ekibastuz coal mine using 180 registered cycles (88 diesel-only [DOM], 92 dual-fuel [DGB])…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4393: Physics&ndash;Data Fusion-Driven Frequency Response Parameter Identification and Emergency Load Shedding in Renewable-Rich Power Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4393",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "As renewable penetration increases, the inertia, damping, and primary frequency regulation characteristics of renewable-rich power systems become strongly time-varying, making fixed offline frequency response models incr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4392: Dynamic Heat Transfer Model and Performance Simulation of Photovoltaic Solar Chimney Coupled with Earth&ndash;Air Heat Exchanger (PVSC-EAHE) in Cold and Arid Regions",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4392",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "Against the backdrop of the global energy transition and carbon reduction in the building sector, this study proposes a photovoltaic solar chimney coupled with an earth&amp;ndash;air heat exchanger (PVSC-EAHE) system to…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4391: Dual-Layer Drift Detection and Adaptive Retraining for Ultra-Short-Term Photovoltaic Power Forecasting",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4391",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "In operational environments, photovoltaic (PV) forecasting models progressively degrade due to drift events induced by changing environmental conditions, system aging, and surface soiling. Mainstream forecasting models a…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4389: A Fully Connected Deep Neural Network with Multi-Head Self-Attention Mechanisms Based on the Multi-Objective Ant-Lion Optimization Algorithm for Low-Carbon Economic Dispatch",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4389",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "As global climate change intensifies, decarbonizing the power system is key to achieving carbon-reduction targets. Inspired by the multi-objective ant-lion optimization (MALO) method and deep neural networks (DNNs), this…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4390: Magnetic Saturation Parameter Identification of Hybrid Excitation Generator Based on Particle Swarm Optimization",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4390",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "Hybrid excitation generators offer high power density and adjustable magnetic field, making them attractive for power generation applications with strict volume and weight constraints. However, under strong field excitat…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4388: Customer&ndash;Meter Box Relationship Identification Based on Load Switching Dynamic Response",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4388",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "Within the same low-voltage distribution network (LVDN), the short electrical distances between customers lead to highly similar steady-state voltage curves. This reduces the discriminative capability of traditional simi…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4387: Adaptive Scheduling of Public Electric Vehicle Fast-Charging Stations Based on State-Aware Multi-Agent Reinforcement Learning",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4387",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "This paper proposes a Priority&amp;ndash;Urgency Index (PUI) mechanism to address the multi-objective conflict problem in electric vehicle charging scheduling at public fast-charging stations. The mechanism dynamically q…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4386: Domain-Informed Structured Detection of As-Drilled Trajectory Transitions for Post-Well Conformance Assessment",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4386",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "Post-well conformance assessment requires identifying the realized locations where an as-drilled trajectory changes between its principal inclination regimes; planned breakpoints are targets, not observations. We formula…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4385: Multi-Timescale Optimal Scheduling of a Renewable Power to Ammonia System with a Variable Medium-Term Horizon",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4385",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "Renewable Power to Ammonia (RePtA) systems provide an important pathway for the accommodation of renewable energy and promoting the low-carbon transition of the conventional ammonia industry. With the increasing penetrat…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2955: Production of Aluminum Hydroxide from Aluminate Solution Obtained by Red Mud Sinter Processing via Carbonation",
@@ -396,116 +500,12 @@
       "excerpt": "Utilizing ammonia (NH3) as a zero-carbon alternative fuel requires a deeper understanding of its combustion characteristics, with ignition delay time (IDT) serving as a critical descriptive parameter. To investigate the…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 2952: Pore-Structure-Aware Prediction of Pressure-Dependent Pore-Volume Compressibility in Ultra-Deep Fractured-Vuggy Carbonate Reservoirs",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2952",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "Pressure-dependent pore-volume deformation is a critical but poorly constrained variable in dynamic reserve assessment for ultra-deep fractured-vuggy carbonate reservoirs, where fractures, dissolution pores, and vugs res…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2951: A Collaborative Trading Method of Data Center&ndash;Power Grid&ndash;Energy Storage for Enhancing Spatiotemporal Flexibility",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2951",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "Aiming at the problems of high energy consumption, high carbon emissions from data centers and the difficulty of renewable energy accommodation in distribution networks driven by rapid growth in computing tasks, this pap…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2950: Quantitative Analysis of the Effects of Inclination and Flow Feature Length Ratio on Wormhole Development and Acidizing Efficiency",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2950",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "Carbonate reservoirs are typically characterized by well-developed natural fractures, and complex fracture-network geometries can significantly affect the effectiveness and efficiency of acidizing. In this study, a numer…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2949: Coordinated Control of an Energy-Storage-Integrated Modular Multi-Level AC&ndash;AC Converter for Equal-Frequency Flexible Interconnection in Distribution Networks",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2949",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "To address equal-frequency AC&amp;ndash;AC flexible interconnection and cross-regional power-flow regulation in medium-voltage distribution networks with a high penetration of distributed generation and flexible loads, t…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2948: Short-Term Net Load Forecasting Under High PV Penetration Based on ICEEMDAN-BO-BiGRU",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2948",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "To address the strong non-stationarity, coupled multi-scale fluctuations, and insufficient parameter adaptability of net load forecasting models under high photovoltaic penetration, an ICEEMDAN-BO-BiGRU combined short-te…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2947: Research on Grinding Wheel Dressing and Tooth Flank Topology Control for Generating Grinding of Internal Helical Gears",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2947",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "Internal helical gears offer advantages such as high transmission accuracy and smooth operation, making them widely used in transmission systems such as electric vehicle reducers and wind turbine gearboxes. Based on the…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2946: Intensified Preparation of Spherical Calcium Carbonate Particles in a CMC-Na-Thickened Precipitation System Using an Annular Swirling Flow Reactor",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2946",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "Sodium carboxymethyl cellulose (CMC-Na) can regulate CaCO3 crystal growth and promote the formation of spherical particles. However, the accompanying increase in solution viscosity can impair micromixing and mass transfe…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2944: Investigation of CO2 Displacement Characteristics of Highly Water-Sensitive and Low-Permeability Oil Reservoirs: A Case Study of Block A in Eastern China",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2944",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "Highly water-sensitive, low-permeability reservoirs are difficult to develop by water flooding because clay activation and pore-throat plugging impair injectivity. This study combined X-ray diffraction, scanning electron…"
-    },
-    {
       "title": "Scientists stunned as volcano cloud starts destroying methane",
       "link": "https://www.sciencedaily.com/releases/2026/09/260915095750.htm",
       "source": "ScienceDaily — Geology",
       "category": "geoscience",
       "published": "2026-09-15T15:15:31.000Z",
       "excerpt": "The Hunga Tonga eruption may have triggered a surprising chemical reaction that destroyed some of the methane released into the atmosphere. Scientists say the discovery could reshape estimates of methane pollution and in…"
-    },
-    {
-      "title": "Asia to spearhead global upcoming liquid storage growth additions by 2030",
-      "link": "https://www.offshore-technology.com/analyst-comment/asia-global-upcoming-liquid-storage-growth-additions-2030/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-15T13:34:53.000Z",
-      "excerpt": "Asia is set to lead the global liquids storage capacity additions to 2030, supported by a strong pipeline of new builds and expansions."
-    },
-    {
-      "title": "Santos agrees LNG arrangements with POSCO and Ksi Lisims",
-      "link": "https://www.offshore-technology.com/news/santos-lng-arrangements-posco-ksi-lisims/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-15T12:59:56.000Z",
-      "excerpt": "Santos has agreed two separate non-binding liquefied natural gas (LNG) arrangements covering supply to POSCO Steel and purchases from the proposed Ksi Lisims LNG project in Canada."
-    },
-    {
-      "title": "Wood secures $200m contract from ExxonMobil for PNG LNG project",
-      "link": "https://www.offshore-technology.com/news/wood-200m-contract-exxonmobil-png-lng-project/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-15T10:07:31.000Z",
-      "excerpt": "Wood has secured a $200m contract from ExxonMobil PNG to deliver construction services for the PNG LNG Project in Papua New Guinea (PNG)."
-    },
-    {
-      "title": "Saipem wins $350m offshore contract from Azule Energy Angola",
-      "link": "https://www.offshore-technology.com/news/saipem-350m-offshore-contract-azule-energy-angola/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-15T09:58:23.000Z",
-      "excerpt": "Saipem has secured an offshore contract in Angola valued at about $350m from Azule Energy Angola, a joint venture owned by Eni and bp."
-    },
-    {
-      "title": "Two months to go: get your ticket for OEEC 2026",
-      "link": "https://www.offshore-technology.com/news/get-your-ticket-oeec-2026/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-15T08:00:00.000Z",
-      "excerpt": "Offshore Technology is a media partner for OEEC 2026, which takes place on 24 and 25 November at RAI Amsterdam."
     },
     {
       "title": "A coral reef thought dead for 60 years is teeming with life",
