@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T21:40:30.914Z",
+  "generatedAt": "2026-09-17T05:18:07.657Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 5,
+      "count": 7,
       "error": null
     },
     {
@@ -75,6 +75,94 @@
     }
   ],
   "items": [
+    {
+      "title": "Gravitational energy released when Earth quakes: Heat supply for island-arc volcanism",
+      "link": "https://arxiv.org/abs/2609.18036",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-17T04:00:00.000Z",
+      "excerpt": "arXiv:2609.18036v1 Announce Type: new Abstract: We address a long-standing paradox in plate tectonics concerning the thermodynamics of its very origin: What supplies the thermal energy for the intense island-arc volcanis…"
+    },
+    {
+      "title": "A general lightweight global modeling framework for three-dimensional seismic exploration",
+      "link": "https://arxiv.org/abs/2609.18294",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-17T04:00:00.000Z",
+      "excerpt": "arXiv:2609.18294v1 Announce Type: new Abstract: In seismic exploration, the propagation of seismic waves naturally gives rise to long-range dependencies in seismic data. Capturing such global correlations can significant…"
+    },
+    {
+      "title": "A New Way for Determining Earthquake Magnitude Based on Electromagnetic Radiation",
+      "link": "https://arxiv.org/abs/2609.18425",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-17T04:00:00.000Z",
+      "excerpt": "arXiv:2609.18425v1 Announce Type: new Abstract: The article proposes the possibility of determining the magnitude of a future earthquake with high accuracy, based on the frequency data of VLF/LF electromagnetic emissions…"
+    },
+    {
+      "title": "Period-Inverted Blast-Radius Normalization for a Non-Ablating Hypersonic Reentry Source Using OSIRIS-REx Capsule Infrasound",
+      "link": "https://arxiv.org/abs/2609.19141",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-17T04:00:00.000Z",
+      "excerpt": "arXiv:2609.19141v1 Announce Type: new Abstract: Cylindrical blast wave theory relates infrasound from hypersonic sources to energy deposition through a characteristic blast radius R_0, yet the normalization constant k in…"
+    },
+    {
+      "title": "Van der Waals interactions in supercritical water under Earth's mantle conditions",
+      "link": "https://arxiv.org/abs/2609.18183",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-17T04:00:00.000Z",
+      "excerpt": "arXiv:2609.18183v1 Announce Type: cross Abstract: The properties of water under high pressure and high temperature (HP-HT) are critical in multiple geochemical processes in deep Earth. Ab initio molecular dynamics (AIMD)…"
+    },
+    {
+      "title": "Urban Wind Effects on UAV Operations in Building-Dense Low-Altitude Airspace",
+      "link": "https://arxiv.org/abs/2609.18974",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-17T04:00:00.000Z",
+      "excerpt": "arXiv:2609.18974v1 Announce Type: cross Abstract: Urban low-altitude uncrewed aerial vehicle (UAV) operations are shaped by building-modified wind and constrained terrain-building clearance. Spatially heterogeneous wind…"
+    },
+    {
+      "title": "Integral equations for flexural-gravity waves: analysis and numerical methods",
+      "link": "https://arxiv.org/abs/2501.00887",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-17T04:00:00.000Z",
+      "excerpt": "arXiv:2501.00887v2 Announce Type: replace-cross Abstract: In this work, we develop a fast and accurate method for the scattering of flexural-gravity waves by a thin plate of varying thickness overlying a fluid of infinit…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4397: Artificial Intelligence, Green Innovation, and the Clean-Energy Market: A Quantile-Based Analysis",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4397",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "Artificial intelligence is increasingly viewed as both a catalyst for clean-energy development and a potential constraint on green innovation. This study examines the quantile-specific relationships between artificial in…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4395: Fuzzy k-Nearest Neighbor Classifier Based on Ordered Fuzzy Numbers for Early Fault Detection in Grid-Connected Photovoltaic Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4395",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "The growing scale of photovoltaic (PV) installations creates an urgent need for automated fault detection systems that operate in real time on resource-constrained monitoring hardware. Although deep learning methods achi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2956: Experimental Measurement and Artificial Neural Network Prediction of Dew Point Pressure for Ultra-Deep Condensate Gas",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2956",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-17T00:00:00.000Z",
+      "excerpt": "The development of oil and gas resources in global petroliferous basins has extended from shallow to deep reservoirs. Dew point pressure (Pd) is a vital parameter for fluid characterization and field development. Accurat…"
+    },
+    {
+      "title": "Volatile organic compounds may be underestimated in the carbon cycle",
+      "link": "https://phys.org/news/2026-09-volatile-compounds-underestimated-carbon.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-16T23:00:10.000Z",
+      "excerpt": "Rainwater connects the biogeochemical cycles of land and the atmosphere. It's effectively a chemical conveyor belt that delivers compounds to the ground during a process called wet deposition."
+    },
     {
       "title": "Engineers solve puzzle of Arctic sea ice movement",
       "link": "https://phys.org/news/2026-09-puzzle-arctic-sea-ice-movement.html",
@@ -164,14 +252,6 @@
       "excerpt": "At just an inch (2.5 centimeters) long, the sand hoppers skipping across California's Isla Vista Beach at dawn don't exactly look like a force of nature. But a new study reveals that these shrimp-like creatures might be…"
     },
     {
-      "title": "The Mediterranean is getting warmer and saltier at an ever-faster pace—even thousands of meters below the surface",
-      "link": "https://phys.org/news/2026-09-mediterranean-warmer-saltier-faster-pace.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-16T13:00:03.000Z",
-      "excerpt": "Across its basins and thousands of meters down, the Mediterranean Sea is getting warmer and saltier. Now, a new study finds it is also doing so at an increasingly rapid pace. The speedup is largest in the central and eas…"
-    },
-    {
       "title": "Africa to drive global upcoming liquid storage capacity additions by 2030",
       "link": "https://www.offshore-technology.com/analyst-comment/africa-upcoming-liquid-storage-capacity-additions-2030/",
       "source": "Offshore Technology",
@@ -210,46 +290,6 @@
       "category": "industry",
       "published": "2026-09-16T07:03:03.000Z",
       "excerpt": "Halliburton has been awarded a contract by Eni to provide a bundled package of well construction and completions services for the Cronos project offshore Cyprus."
-    },
-    {
-      "title": "Adaptive and accuracy-aware multiple data assimilation in a three step framework",
-      "link": "https://arxiv.org/abs/2609.16434",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-16T04:00:00.000Z",
-      "excerpt": "arXiv:2609.16434v1 Announce Type: new Abstract: The ensemble smoother with multiple data assimilation (ES-MDA) is an algorithmic framework for the ensemble-based solution of inverse problems in reservoir engineering (and…"
-    },
-    {
-      "title": "Multisource Remote Sensing and Geospatial Analysis of Vineyard Wildfire Impacts and Resilience: The 2019 Kincade Fire",
-      "link": "https://arxiv.org/abs/2609.16168",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-16T04:00:00.000Z",
-      "excerpt": "arXiv:2609.16168v1 Announce Type: cross Abstract: Working agricultural landscapes are often treated as background to wildfire disasters, even though they are managed fuel mosaics, productive assets, and parts of regional…"
-    },
-    {
-      "title": "A Sentinel-2 benchmark dataset for deep-learning active-fire segmentation across 25 California wildfires",
-      "link": "https://arxiv.org/abs/2609.16199",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-16T04:00:00.000Z",
-      "excerpt": "arXiv:2609.16199v1 Announce Type: cross Abstract: This article describes an open image dataset for developing and evaluating active-fire segmentation methods in satellite imagery. The dataset contains 2,148 image-mask pa…"
-    },
-    {
-      "title": "A Self-Diagnosing Structural Error-Aware Parameter Estimation Method for Earth System Models",
-      "link": "https://arxiv.org/abs/2609.16210",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-16T04:00:00.000Z",
-      "excerpt": "arXiv:2609.16210v1 Announce Type: cross Abstract: We propose a fully automated, structural error-aware, interpretable climate model parameter estimation method that leverages Perturbed Parameter Ensembles (PPEs). It is b…"
-    },
-    {
-      "title": "Structure-Driven Inversion: A New Paradigm for Solving Inverse Problems",
-      "link": "https://arxiv.org/abs/2609.16536",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-16T04:00:00.000Z",
-      "excerpt": "arXiv:2609.16536v1 Announce Type: cross Abstract: Inverse problems are predominantly solved within the optimization-driven paradigm, which formulates the problem as objective-function minimization and approaches the solu…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4394: Infrastructure-Oriented Assessment of Energy Efficiency and Estimated CO2 Emissions at the Combustion Stage of a Diesel&ndash;LNG Dual-Fuel Mining Dump Truck Based on Field Telemetry Data",
@@ -330,22 +370,6 @@
       "category": "energy",
       "published": "2026-09-16T00:00:00.000Z",
       "excerpt": "Renewable Power to Ammonia (RePtA) systems provide an important pathway for the accommodation of renewable energy and promoting the low-carbon transition of the conventional ammonia industry. With the increasing penetrat…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4384: Multi-Criteria Reduced-Order Modelling of Airport-Centric Microgrid for Frequency-Response Studies",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4384",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "This article develops an analytic hierarchy process (AHP)-assisted model-reduction approach for a higher-order airport-centric microgrid (ACM). The full-order ACM model is approximated by a computationally simpler lower-…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4383: Historical Mineral Dependence and Carbon-Intensity Co-Movement with Industrial-Metal Market Conditions in Asian and Pacific Economies",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4383",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "The low-carbon transition is increasingly mineral-intensive, raising the question of whether industrial-metal market conditions coincide with different carbon-intensity adjustments across inherited mineral structures. We…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2955: Production of Aluminum Hydroxide from Aluminate Solution Obtained by Red Mud Sinter Processing via Carbonation",
@@ -434,14 +458,6 @@
       "category": "processing",
       "published": "2026-09-16T00:00:00.000Z",
       "excerpt": "Highly water-sensitive, low-permeability reservoirs are difficult to develop by water flooding because clay activation and pore-throat plugging impair injectivity. This study combined X-ray diffraction, scanning electron…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2945: Supercritical Technology Applied to Food, Pharmaceutical, Chemical and Energy Industries&mdash;2nd Edition",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2945",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-16T00:00:00.000Z",
-      "excerpt": "The unique dual properties of supercritical fluids&amp;mdash;the dissolving power of liquids combined with the low viscosity and high diffusivity of gases&amp;mdash;make these substances attractive for a wide range of ap…"
     },
     {
       "title": "Scientists stunned as volcano cloud starts destroying methane",
@@ -858,22 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
-    },
-    {
-      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Laminar flame propagation of propylene carbonate inhibited by TMP, TEP and BtFEC: Experimental measurements and kinetic modelling",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031194?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part D Author(s): Linhong Wu, Jingguang Xie, Yongqiang Zheng, Jingbo Li, Gang Zheng, Qian Wang, Liming Dai"
     }
   ]
 }
