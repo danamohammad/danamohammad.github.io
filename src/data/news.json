@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T21:42:39.051Z",
+  "generatedAt": "2026-09-18T05:08:02.242Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 7,
+      "count": 10,
       "error": null
     },
     {
@@ -75,6 +75,174 @@
     }
   ],
   "items": [
+    {
+      "title": "Vertical Attenuation of Thermoremanent Magnetic Anomalies: Implications for Drone-Borne Archaeological and Shallow Geophysical Surveys",
+      "link": "https://arxiv.org/abs/2609.19349",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-18T04:00:00.000Z",
+      "excerpt": "arXiv:2609.19349v1 Announce Type: new Abstract: Magnetic surveys are widely used in archaeology to reveal buried features by detecting variations in the Earth's magnetic field caused by past human activities. However, as…"
+    },
+    {
+      "title": "Continental-scale probabilistic resistivity imaging of Australia using deep learning: Implications for geology, groundwater, and critical minerals",
+      "link": "https://arxiv.org/abs/2609.19516",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-18T04:00:00.000Z",
+      "excerpt": "arXiv:2609.19516v1 Announce Type: new Abstract: Electrical resistivity is a fundamental physical property that provides powerful constraints on subsurface structure, lithology, fluid distribution, and mineralization. We…"
+    },
+    {
+      "title": "The Brittle-Plastic Transition in Quartz-Albite Mixtures: New Insights From Shear Deformation Experiments at Mid-to-Lower Crustal Depth Conditions",
+      "link": "https://arxiv.org/abs/2609.19645",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-18T04:00:00.000Z",
+      "excerpt": "arXiv:2609.19645v1 Announce Type: new Abstract: Crustal strength is often characterized using a strength-depth profile where laboratory-derived friction and flow laws are connected at depth (i.e., the so-called Christmas…"
+    },
+    {
+      "title": "Spatiotemporal Analysis for Frequency-Magnitude Distribution of Earthquakes Across Mainland China: Comparing Classical and b-positive b-values Across Tectonic Regimes",
+      "link": "https://arxiv.org/abs/2609.20239",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-18T04:00:00.000Z",
+      "excerpt": "arXiv:2609.20239v1 Announce Type: new Abstract: The Gutenberg-Richter power-law relationship essentially governs the frequency-magnitude distribution (FMD) of seismic activity. The b-value, as the slope of this distribut…"
+    },
+    {
+      "title": "Multi-Track Time-Series Burst-Overlap Interferometry for Resolving Horizontal Deformation in Earthquake-Cycle Studies",
+      "link": "https://arxiv.org/abs/2609.20564",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-18T04:00:00.000Z",
+      "excerpt": "arXiv:2609.20564v1 Announce Type: new Abstract: Interferometric Synthetic Aperture Radar (InSAR) is intrinsically insensitive to the north-south component of crustal motion because of its near-polar geometry, which makes…"
+    },
+    {
+      "title": "Thermal Evolution of Lava Planets Across System Ages: Predictions for Hell of a Survey",
+      "link": "https://arxiv.org/abs/2609.20155",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-18T04:00:00.000Z",
+      "excerpt": "arXiv:2609.20155v1 Announce Type: cross Abstract: Ultra-short-period (USP) rocky exoplanets can have dayside temperatures high enough to maintain permanent magma oceans, sitting at the intersection of interior geophysics…"
+    },
+    {
+      "title": "Sensitivity of neutrino oscillations to the Earth's interior properties",
+      "link": "https://arxiv.org/abs/2512.05840",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-18T04:00:00.000Z",
+      "excerpt": "arXiv:2512.05840v2 Announce Type: replace Abstract: Understanding the Earth s internal structure remains a major challenge, as traditional geophysical methods face ambiguities in linking seismic observations to temperatu…"
+    },
+    {
+      "title": "Integral equations for flexural-gravity waves: analysis and numerical methods",
+      "link": "https://arxiv.org/abs/2501.00887",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-18T04:00:00.000Z",
+      "excerpt": "arXiv:2501.00887v3 Announce Type: replace-cross Abstract: In this work, we develop a fast and accurate method for the scattering of flexural-gravity waves by a thin plate of varying thickness overlying a fluid of infinit…"
+    },
+    {
+      "title": "A Generative-AI Modeling Framework for Explainable Decision Support in Complex Geosteering Scenarios",
+      "link": "https://arxiv.org/abs/2503.08509",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-18T04:00:00.000Z",
+      "excerpt": "arXiv:2503.08509v2 Announce Type: replace-cross Abstract: The real-time process of directional changes while drilling, known as geosteering, is crucial for hydrocarbon extraction and emerging directional drilling applica…"
+    },
+    {
+      "title": "Helicity controls the direction of fluxes in rotating turbulence",
+      "link": "https://arxiv.org/abs/2512.05253",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-18T04:00:00.000Z",
+      "excerpt": "arXiv:2512.05253v3 Announce Type: replace-cross Abstract: Turbulence sustains out-of-equilibrium energy fluxes shaped by conservation laws. Three-dimensional flows conserve energy and sign-indefinite helicity, both being…"
+    },
+    {
+      "title": "In hottest summer on record, 2 in 3 Americans say climate change is increasing heat-related illnesses",
+      "link": "https://phys.org/news/2026-09-hottest-summer-americans-climate-illnesses.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-18T02:20:02.000Z",
+      "excerpt": "Nearly two-thirds of the American public say climate change is increasing the risk of respiratory diseases and heat- and insect-related illnesses, according to a new survey from the Annenberg Public Policy Center (APPC)…"
+    },
+    {
+      "title": "Europe's earliest glacier loss day in years signals a reckoning for the Alps",
+      "link": "https://phys.org/news/2026-09-europe-earliest-glacier-loss-day.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-18T00:20:02.000Z",
+      "excerpt": "On June 29, 2026, the snow accumulated by Switzerland's glaciers over the course of the previous winter had melted. Known as Glacier Loss Day, this date marks the point at which further melting begins to erode the glacie…"
+    },
+    {
+      "title": "Fossil plankton shells reveal reduced nitrogen fixation in warmer oceans 3 million years ago",
+      "link": "https://phys.org/news/2026-09-fossil-plankton-shells-reveal-nitrogen.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-18T00:00:05.000Z",
+      "excerpt": "Nitrogen is a key nutrient because it fuels the growth of plankton, which forms the basis of the marine food web. Two opposing processes determine the global nitrogen cycle: nitrogen fixation and denitrification."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4416: Digital Engineering for Future Smart Cities",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4416",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-18T00:00:00.000Z",
+      "excerpt": "Cities worldwide are confronting major challenges associated with rapid urbanization, climate change, resource constraints, aging infrastructure, and the transition toward decarbonized, sustainable economies [...]"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4415: Techno Economic and Life-Cycle Analysis of Ammonia Used for Power Generation",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4415",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-18T00:00:00.000Z",
+      "excerpt": "Ammonia is a promising carbon-free energy carrier for decarbonizing existing fossil fuel power plants. However, its economic viability and life-cycle environmental performance remain uncertain across different power gene…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4413: From Grid Burden to Grid Resource: A Monte Carlo Framework for Vehicle-to-Building-to-Grid Flexibility in a Regional Distribution Network",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4413",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-18T00:00:00.000Z",
+      "excerpt": "Grid-impact studies treat battery electric vehicles as loads, and ask when network capacity will be exhausted. This paper reverses the question: how much of the fleet must operate bidirectionally, and with what probabili…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4414: Residential Electrical Load, Solar Energy and Electricity Bill Forecasting Using Hybrid Machine Learning Models with Time-of-Use Tariffs: A Case Study of Durban, South Africa",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4414",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-18T00:00:00.000Z",
+      "excerpt": "Accurate forecasting of energy consumption, renewable power output and utility expenditure is essential for sustainable planning of residential buildings and improving smart grid integration. This study presents several…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2969: Wellbore Instability Mechanisms and Prediction of Four-Pressure Profiles in Deep Marine Carbonate Rocks",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2969",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-18T00:00:00.000Z",
+      "excerpt": "Deep marine carbonate formations are affected by multi-stage tectonism and dissolution, causing frequent wellbore instability and complex drilling events. This study integrates electrical imaging logs (FMI), core observa…"
+    },
+    {
+      "title": "Report on global water resources: Worldwide continents are drying up",
+      "link": "https://phys.org/news/2026-09-global-resources-worldwide-continents-drying.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-17T23:20:05.000Z",
+      "excerpt": "The global water cycle is becoming increasingly unbalanced. Extreme droughts and floods are the result. This is shown in this year's report by the World Meteorological Organization (WMO) on the state of global water reso…"
+    },
+    {
+      "title": "Climate change contributing to permafrost thawing and glacial thinning",
+      "link": "https://phys.org/news/2026-09-climate-contributing-permafrost-glacial-thinning.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-17T22:00:04.000Z",
+      "excerpt": "An international team of glaciologists and climate scientists, including professor Bethan Davies from Newcastle University, carried out a rapid scientific analysis and identified the role of climate change and its impact…"
+    },
+    {
+      "title": "Why global wind energy may stay steady even as storm tracks shift poleward",
+      "link": "https://phys.org/news/2026-09-global-energy-stay-steady-storm.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-17T22:00:01.000Z",
+      "excerpt": "Understanding how wind changes in response to global warming is necessary for accurately modeling climate and weather, identifying risks to infrastructure, and assessing global wind power capacity."
+    },
     {
       "title": "How accurately can we measure the ocean's deepest point?",
       "link": "https://phys.org/news/2026-09-accurately-ocean-deepest.html",
@@ -124,30 +292,6 @@
       "excerpt": "Mysterious trenches stretching for kilometers across southern Australia's Nullarbor Plain have been revealed as the surface footprints of deep, hidden ancient cave systems."
     },
     {
-      "title": "Study maps where humans drive harmful nutrient levels along coasts",
-      "link": "https://phys.org/news/2026-09-humans-nutrient-coasts.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-17T17:20:04.000Z",
-      "excerpt": "Along a quarter of the planet's coastal waterways, humans contribute more harmful nitrogen—via agricultural runoff, wastewater discharges and other activities—than all natural sources combined."
-    },
-    {
-      "title": "Extreme rainfall caused by climate change creates uneven risks to farming in China",
-      "link": "https://phys.org/news/2026-09-extreme-rainfall-climate-uneven-farming.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-17T16:40:27.000Z",
-      "excerpt": "Climate change is increasing the likelihood and intensity of extreme rainfall, putting China's agricultural land at growing risk of flooding, disruption and damage, according to new research led by Dr. Haoyu Hu from the…"
-    },
-    {
-      "title": "El Niño may lift Australian food prices as dry conditions squeeze farms",
-      "link": "https://phys.org/news/2026-09-el-nio-food-prices-soaring.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-17T15:20:14.000Z",
-      "excerpt": "Australia's farm sector currently faces a double whammy from weather and nonweather-related factors: a confirmed El Niño effect and surging inflationary pressures."
-    },
-    {
       "title": "Robots are taking over human risk: Automa 2026",
       "link": "https://www.offshore-technology.com/news/robotics-are-taking-over-human-risk-automa-2026/",
       "source": "Offshore Technology",
@@ -156,36 +300,12 @@
       "excerpt": "Three robotics presentations at Automa 2026 show how robots are removing risk in upstream, midstream and downstream operations."
     },
     {
-      "title": "Temperature measurement error may cause climate-impact studies to understate impacts by 15% or more",
-      "link": "https://phys.org/news/2026-09-temperature-error-climate-impact-understate.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-17T14:20:06.000Z",
-      "excerpt": "When policymakers and city officials plan for climate change, they rely on economic studies showing how extreme heat affects violent crime, public health, energy grids and crop yields."
-    },
-    {
       "title": "DNO raises Capricorn takeover offer to $396m cash deal",
       "link": "https://www.offshore-technology.com/news/dno-raises-capricorn-takeover-396m/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-09-17T14:19:03.000Z",
       "excerpt": "DNO has agreed to revised terms for its proposed takeover of Capricorn Energy, increasing the offer to $5.214 in cash for each share and valuing the company at $396m."
-    },
-    {
-      "title": "We could soon be able to track changes in Australia's forests in near‑real time—using satellites",
-      "link": "https://phys.org/news/2026-09-track-australia-forests-nearreal-satellites.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-17T14:00:04.000Z",
-      "excerpt": "Forests and woodlands cover millions of hectares across Australia, from tropical rainforests and temperate eucalypt forests to the vast woodlands and shrublands of the arid interior. They store enormous amounts of carbon…"
-    },
-    {
-      "title": "Earth's atmosphere is getting less dusty: That could be adding to global warming",
-      "link": "https://phys.org/news/2026-09-earth-atmosphere-dusty-adding-global.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-17T13:40:04.000Z",
-      "excerpt": "Atmospheric desert dust has long swirled around the globe, but a new UCLA study presents the strongest evidence yet that global dust is mysteriously decreasing. Because atmospheric dust has a slight overall cooling effec…"
     },
     {
       "title": "Eni divests 10% stake in Côte d’Ivoire’s Baleine oilfield to SOCAR",
@@ -234,62 +354,6 @@
       "category": "industry",
       "published": "2026-09-17T07:26:39.000Z",
       "excerpt": "Aker BP has discovered gas in the Alpehumle prospect in the Norwegian North Sea, about 25km north of the Duva field, following drilling of its first exploration well in production licence 1153."
-    },
-    {
-      "title": "Gravitational energy released when Earth quakes: Heat supply for island-arc volcanism",
-      "link": "https://arxiv.org/abs/2609.18036",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-17T04:00:00.000Z",
-      "excerpt": "arXiv:2609.18036v1 Announce Type: new Abstract: We address a long-standing paradox in plate tectonics concerning the thermodynamics of its very origin: What supplies the thermal energy for the intense island-arc volcanis…"
-    },
-    {
-      "title": "A general lightweight global modeling framework for three-dimensional seismic exploration",
-      "link": "https://arxiv.org/abs/2609.18294",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-17T04:00:00.000Z",
-      "excerpt": "arXiv:2609.18294v1 Announce Type: new Abstract: In seismic exploration, the propagation of seismic waves naturally gives rise to long-range dependencies in seismic data. Capturing such global correlations can significant…"
-    },
-    {
-      "title": "A New Way for Determining Earthquake Magnitude Based on Electromagnetic Radiation",
-      "link": "https://arxiv.org/abs/2609.18425",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-17T04:00:00.000Z",
-      "excerpt": "arXiv:2609.18425v1 Announce Type: new Abstract: The article proposes the possibility of determining the magnitude of a future earthquake with high accuracy, based on the frequency data of VLF/LF electromagnetic emissions…"
-    },
-    {
-      "title": "Period-Inverted Blast-Radius Normalization for a Non-Ablating Hypersonic Reentry Source Using OSIRIS-REx Capsule Infrasound",
-      "link": "https://arxiv.org/abs/2609.19141",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-17T04:00:00.000Z",
-      "excerpt": "arXiv:2609.19141v1 Announce Type: new Abstract: Cylindrical blast wave theory relates infrasound from hypersonic sources to energy deposition through a characteristic blast radius R_0, yet the normalization constant k in…"
-    },
-    {
-      "title": "Van der Waals interactions in supercritical water under Earth's mantle conditions",
-      "link": "https://arxiv.org/abs/2609.18183",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-17T04:00:00.000Z",
-      "excerpt": "arXiv:2609.18183v1 Announce Type: cross Abstract: The properties of water under high pressure and high temperature (HP-HT) are critical in multiple geochemical processes in deep Earth. Ab initio molecular dynamics (AIMD)…"
-    },
-    {
-      "title": "Urban Wind Effects on UAV Operations in Building-Dense Low-Altitude Airspace",
-      "link": "https://arxiv.org/abs/2609.18974",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-17T04:00:00.000Z",
-      "excerpt": "arXiv:2609.18974v1 Announce Type: cross Abstract: Urban low-altitude uncrewed aerial vehicle (UAV) operations are shaped by building-modified wind and constrained terrain-building clearance. Spatially heterogeneous wind…"
-    },
-    {
-      "title": "Integral equations for flexural-gravity waves: analysis and numerical methods",
-      "link": "https://arxiv.org/abs/2501.00887",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-17T04:00:00.000Z",
-      "excerpt": "arXiv:2501.00887v2 Announce Type: replace-cross Abstract: In this work, we develop a fast and accurate method for the scattering of flexural-gravity waves by a thin plate of varying thickness overlying a fluid of infinit…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4406: Numerical Study on the Influence of Double-Wire Spacers on Coolant Flow Within a Fuel Assembly of Lead-Cooled Fast Reactors Based on LBE4EqnFoam",
@@ -354,38 +418,6 @@
       "category": "energy",
       "published": "2026-09-17T00:00:00.000Z",
       "excerpt": "To address the dependence of uncertainty analysis methods on assumed probability density functions of wind power output and the computational burden of time-domain simulations in transient stability-constrained optimal p…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4404: A Study of Myopic, Predictive, and Reinforcement Learning Energy Management Strategies for Isolated Microgrids",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4404",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-17T00:00:00.000Z",
-      "excerpt": "The increasing penetration of renewable energy sources in isolated microgrids has intensified the need for Energy Management Systems (EMS) capable of reducing diesel dependence while ensuring reliable operation. This stu…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4403: An EV-Assisted Dual T-Type Inverter SAPF with Model Predictive Control for Advanced Power Quality Enhancement",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4403",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-17T00:00:00.000Z",
-      "excerpt": "In order to improve power quality in low-voltage distribution networks with nonlinear, distorted, and unbalanced loads, this research suggests an innovative design for Shunt Active Power Filters (SAPFs). Compared to conv…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4401: Numerical Study of Natural Convection in a Corrugated Porous Cavity Saturated with a Nanofluid of Al2O3&ndash;Cu/Water Hybrid Type: The Combined Effect of Variable Viscosity and Soret&ndash;Dufour Double-Diffusion",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4401",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-17T00:00:00.000Z",
-      "excerpt": "This study numerically investigates unsteady natural convection and Soret&amp;ndash;Dufour double-diffusion in a two-dimensional sinusoidally wavy porous cavity saturated with an Al2O3&amp;ndash;Cu/Water hybrid nanofluid…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4402: Hydraulically Coupled Compressed-Air Energy Storage Systems: A Review of Configurations and Performance with Emphasis on PHCAES",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4402",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-17T00:00:00.000Z",
-      "excerpt": "Growing wind and photovoltaic generation increases the demand for large-scale, long-duration energy storage. Pumped hydro compressed-air energy storage (PHCAES) stores and releases energy through pressure transfer betwee…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2971: Industrial Rheology of Cosmetic Products: From Formulation and Microstructure to Scale-Up, Process Control, Quality, Machine Learning, Digital Twins, and Consumer Performance",
@@ -474,14 +506,6 @@
       "category": "processing",
       "published": "2026-09-17T00:00:00.000Z",
       "excerpt": "Ice storms threaten distribution network resilience through combined mechanical loading and secondary failures, increasing the risk of prolonged power interruptions. This paper proposes a two-stage robust energy storage…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2957: Bioconversion of Dairy DAF Sludge and Agricultural Wastes into Agronomically Valuable Vermicompost",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2957",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-17T00:00:00.000Z",
-      "excerpt": "Dairy wastewater treatment via dissolved air flotation (DAF) generates large amounts of sludge rich in fats and organic matter, posing significant management challenges. This laboratory-scale study evaluated the valoriza…"
     },
     {
       "title": "Africa to drive global upcoming liquid storage capacity additions by 2030",
@@ -850,30 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Abdulmalek Ahmed, Ahmed Abdelaal, Salaheldin Elkatatny"
-    },
-    {
-      "title": "Dynamic effect of gas initial desorption in coals with different moisture contents and energy-controlling mechanism for outburst prevention of water injection in coal seams",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011226?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
-    },
-    {
-      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
-    },
-    {
-      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
     }
   ]
 }
