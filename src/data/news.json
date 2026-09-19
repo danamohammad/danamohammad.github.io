@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T04:59:13.375Z",
+  "generatedAt": "2026-09-19T11:29:30.589Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,12 +76,76 @@
   ],
   "items": [
     {
+      "title": "Sea surface temperature biases shift the North Pacific jet stream southward, study finds",
+      "link": "https://phys.org/news/2026-09-sea-surface-temperature-biases-shift.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-19T09:50:01.000Z",
+      "excerpt": "Climate models are numerical models used to project future climate change. They simulate the climate from the present into the future by calculating changes in the atmosphere, ocean and other components of the climate sy…"
+    },
+    {
       "title": "Improving urban flood forecasting with real-time hazardous rainfall detection",
       "link": "https://phys.org/news/2026-09-urban-real-hazardous-rainfall.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-09-19T03:20:02.000Z",
       "excerpt": "The Korea Institute of Civil Engineering and Building Technology (KICT) announced that it will apply its early detection technology for quasi-stationary linear rainbands and sudden localized torrential rainfall to the Ur…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4443: AI&ndash;Lagrangian MPPT: A New Paradigm for Explainable and High-Performance Photovoltaic Optimization",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4443",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "The major challenge in photovoltaic (PV) maximum power point tracking (MPPT) systems is finding a balance between the high performance of artificial intelligence techniques and the interpretability and reliability of phy…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4442: Fixed-Responsibility Partitioning for Day-Ahead Bidding and Real-Time Delivery of Virtual Power Plants in Energy and Reserve Markets",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4442",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "When a virtual power plant (VPP) participates in energy and reserve markets, day-ahead bids, reserve commitments, and real-time delivery share the same internal resource constraints, while aggregate models cannot readily…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4441: Decoupling and Diagnosis Method for Early Minor Faults in Electric Vehicle Traction Batteries Based on PatchTSSA",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4441",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "Accurate detection of early minor faults in electric vehicle traction batteries is important for preventing thermal runaway under complex operating conditions. Aging-related capacity degradation and measurement noise can…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4440: A Hardware Input-Capture-Based Carrier Synchronization Method for Cascaded H-Bridge CPS-SPWM via Single-Fiber Multiplexing",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4440",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "In cascaded H-bridge (CHB) high-voltage drives using unipolar frequency-doubling carrier phase-shifted sinusoidal pulse width modulation (CPS-SPWM), unequal carrier phase offsets weaken switching-harmonic cancelation. Th…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4439: Fault Recovery and Reconfiguration of Distribution Networks Based on Membrane Computing Multi-Objective Optimization Algorithm",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4439",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "To improve post-fault service restoration and network reconfiguration in distribution networks with distributed generation, this paper proposes a fault recovery and reconfiguration method based on a membrane computing mu…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4438: Distributed Backstepping Integral Terminal Sliding Mode Control for Consensus Speed Tracking in Networked Permanent Magnet Synchronous Motor Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4438",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "This paper develops distributed Backstepping Integral Terminal Sliding Mode (BITSM) control for consensus speed tracking of networked Permanent Magnet Synchronous Motor (PMSM) drives under bounded matched uncertainty. A…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4437: Monitoring Underground Hydrogen Storage: An Integrated Multi-Domain Framework",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4437",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "Underground hydrogen storage (UHS) is poised to emerge as a pivotal technology for large-scale and seasonal energy storage in future low-carbon energy systems. Nevertheless, ensuring its safe deployment necessitates impl…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4436: A Perforated-Root Piezoelectric Cantilever Harvester with a Bow-Tie Cellular Substrate: Distributed-Parameter Modelling, Finite-Element Analysis, and Fatigue-Constrained Design",
@@ -114,6 +178,62 @@
       "category": "energy",
       "published": "2026-09-19T00:00:00.000Z",
       "excerpt": "This paper focuses on deriving power-system linear models directly from collected PMU data with the aim of feeding a wide-area damping controller (WADC) architecture. To this end, a data-assisted dominant modal realizati…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2990: Toxic Efficacy of Nerium oleander Extracts as a Precise Strategy for Managing Pomacea canaliculata (Gastropoda) Eggs",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2990",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "The golden apple snail (Pomacea canaliculata) is a globally destructive invasive species. Existing control strategies primarily target adult snails, yet these approaches often fail due to the snails&amp;rsquo; robust she…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2989: Agro-Industrial Wastewaters as Feedstocks for Microbial Lipase Production: Integrating Enzyme Bioprocessing, Effluent Valorization and Wastewater Management",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2989",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "Agro-industrial wastewaters contain substantial organic and lipid loads that pose environmental challenges but may also provide potentially low-cost substrates for microbial bioprocessing. This scoping review evaluated t…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2988: Impact of Shut-In Time on Acid-Etched Fracture Morphology and Conductivity in SC-CO2 Acid Fracturing of Tight Dolomite",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2988",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "Supercritical CO2 (SC-CO2) acid fracturing injects an SC-CO2-acid mixture into carbonate formations to create high-conductivity channels. It retards acid-rock reaction at high temperature, creating long acid-etched fract…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2987: An Adaptive Fuzzy Recurrent Stochastic Configuration Network for Food Quality Prediction with Limited Samples",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2987",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "Accurate food quality prediction remains challenging when labeled samples are limited, and the relationships between measurable characteristics and target quality attributes are nonlinear and heterogeneous. To address th…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2986: Research on Aerodynamic Noise Optimization of Rear Air Conditioning in New Energy SUVs",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2986",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "The noise generated by the air-conditioning system of new energy sport utility vehicles (SUVs) is a primary sound source that impairs ride comfort. This study addresses the aerodynamic noise issue of the rear air-conditi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2985: Machine-Learning-Based Analysis of Printing-Parameter Effects on Surface Roughness in FDM-Printed ULTEM 1010 Parts",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2985",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "This study combines replicated experimentation and machine learning to characterize how user-controllable fused deposition modeling (FDM) parameters relate to local surface quality in complex ULTEM 1010 components. A sur…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2984: Moving Bed Biofilm Reactor Using Plastic Waste as Biofilm Carriers for Ciprofloxacin-Containing Wastewater Treatment",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2984",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "Pharmaceuticals and other organic matter can remain in municipal wastewater after conventional treatment, while MBBR carriers are typically made from virgin plastics. This study investigated mechanically modified post-co…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2983: Model-Assisted Dual-Adaptive SMC for Electric Furnace Temperature Control",
@@ -196,7 +316,7 @@
       "excerpt": "Lord Howe Island sits about 600 kilometers (370 miles) off the New South Wales coast, a crescent of rainforest and sea cliffs that draws visitors to its beaches and birdlife. Few people realize they are standing on the w…"
     },
     {
-      "title": "In 2025, the ozone hole shrunk to one of its smallest sizes in decades",
+      "title": "In 2025, the ozone hole shrank to one of its smallest sizes in decades",
       "link": "https://phys.org/news/2026-09-ozone-hole-shrunk-smallest-sizes.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
@@ -268,76 +388,12 @@
       "excerpt": "On June 29, 2026, the snow accumulated by Switzerland's glaciers over the course of the previous winter had melted. Known as Glacier Loss Day, this date marks the point at which further melting begins to erode the glacie…"
     },
     {
-      "title": "Fossil plankton shells reveal reduced nitrogen fixation in warmer oceans 3 million years ago",
-      "link": "https://phys.org/news/2026-09-fossil-plankton-shells-reveal-nitrogen.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-18T00:00:05.000Z",
-      "excerpt": "Nitrogen is a key nutrient because it fuels the growth of plankton, which forms the basis of the marine food web. Two opposing processes determine the global nitrogen cycle: nitrogen fixation and denitrification."
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4432: Microscopic Pore-Throat Mobilization Characteristics and Conversion Timing Strategies for CO2 Injection After Waterflooding in Reservoirs with Different Properties: A Case Study of Block X, Huabei Oilfield",
       "link": "https://www.mdpi.com/1996-1073/19/18/4432",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-09-18T00:00:00.000Z",
       "excerpt": "Due to varying development histories of reservoirs with different physical properties in Block X, Huabei Oilfield, the remaining oil distribution and microscopic mobilization limits after waterflooding remain unclear, an…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4431: Reducing Carbon Emissions Through Rolling Scheduling Optimization of a City-Level Virtual Power Plant Considering External Power Dominance and Multi-Resource Flexibility Aggregation: A Case Study of Guangzhou, China",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4431",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "Import-dependent megacities must decarbonize while accommodating distributed photovoltaics (PV) under constrained local-generation and interchange boundaries. This study develops a full-year, hourly, 48 h rolling mixed-i…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4430: Residential Electricity-Use Profiling for Demand-Side Management Using a Convolutional Attention Variational Autoencoder and Adaptive GWO-K-Means Clustering",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4430",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "Residential load profiling can support the design of differentiated demand-side management, but clustering methods are sensitive to representation quality and initialization. We developed a profiling workflow that combin…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4425: Discharge Characteristics and Configuration of Electrical Clearances in the &plusmn;500 kV Valve Hall of Offshore Platforms",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4425",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "The &amp;plusmn;500 kV valve halls of wind farm offshore platforms are integrated through a high-voltage direct current (HVDC) transmission system and constructed in deep-sea conditions, making the design of net air clea…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4428: Forecasting China&rsquo;s Crude Oil Futures Price by Recurrent Neural Network Method Based on Unconstrained Transformation",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4428",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "This study examines whether a structure-preserving representation of the joint Open-High-Low-Close (OHLC) vector provides coherent forecasts for China&amp;rsquo;s INE crude-oil futures and how seven benchmark models comp…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4429: Optimization-Based Energy Management of a Standalone Hybrid Power Plant Using a Hybrid IHEO&ndash;PSO Metaheuristic Framework",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4429",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "The current study combines solar photovoltaic (PV) power, energy storage batteries and wind power to propose a novel and effective method for energy management and optimisation of hybrid renewable energy systems. Optimis…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4427: Statistical Cost Anomaly Screening and Explanation for Preliminary Design Estimates of Power Grid Substation Projects",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4427",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "Reliable review of preliminary design estimates is important for cost control in power grid substation projects, yet fixed thresholds have limited ability to reflect project-specific engineering conditions. This study de…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4426: Day-Ahead XGBoost Forecasting of Aggregated Residential Load: Accuracy and SHAP Ranking Agreement Across Experimental Configurations",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4426",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "This study assessed how the selected seasonal test period, training-window strategy, and hyperparameter selection&amp;nbsp;were associated with differences in XGBoost day-ahead forecast accuracy and interpretation for ap…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2976: Study of the Desorption Process of Post-Combustion CO2 Capture for Coal and Combined-Cycle Thermal Power Plants",
@@ -354,62 +410,6 @@
       "category": "processing",
       "published": "2026-09-18T00:00:00.000Z",
       "excerpt": "The Hydrogen Incidents and Accidents Database (HIAD) includes events initiated within hydrogen equipment, within a system that also contains hydrogen, or in a non-hydrogen system. This study characterized associations be…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2979: Two-Scale Heterogeneous Packed-Bed Reactor Modeling for Chloromethanes Hydrodechlorination over Pd- and Ir-Based Catalysts: From Kinetic Model Identification to Pilot-Scale Reactor Design",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2979",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "Catalytic hydrodechlorination (HDC) is a promising approach for the sustainable valorization of chloromethane by-product streams into valuable chloromethanes. However, the design and optimization of HDC reactors remain c…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2978: Experimental and Kinetic Investigation of CH4 Hot Coflow-Assisted Combustion of Simulated Hydrogen-Rich Nuclear Off-Gas",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2978",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "Hydrogen-rich off-gas generated during nuclear fuel fabrication requires safe oxidation with limited nitric oxide (NO) formation. This study experimentally investigates the combustion of a simulated H2/N2 off-gas under o…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2977: A Two-Stage FF-RLS-Based Assessment Method for Frequency Support Capability of Grid-Following Wind and Photovoltaic Units",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2977",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "With the growing penetration of renewable energy, accurately characterizing the frequency support performance of grid-following wind and photovoltaic (PV) units has become increasingly important. However, conventional me…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2974: Text Mining-Based Analysis of Case Characteristics in Safety Risk Management and Control for Power Engineering Construction",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2974",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "To address the lack of quantitative cross-industry comparisons in safety risk management and control in power engineering construction, this study develops a cross-industry safety feature-analysis framework that integrat…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2975: Industrial-Scale Valorization of Low-Grade Fruits Through Green Polyphenol Extraction: Integrating Process Simulation, Techno-Economic Analysis, and Environmental Assessment",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2975",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "Ultrasound-assisted extraction (UAE) processes for the production of standardized polyphenol-rich powders were evaluated as a valorization route for second- and third-grade apples, figs, and pomegranates from Central Mac…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2973: MFD-Mamba: A Mamba-Based Framework for Multiple-Fault Process Monitoring in Industrial Systems",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2973",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "Multiple faults in industrial processes may occur simultaneously or successively, leading to abnormal responses distributed across coupled process regions and evolving over time. This paper proposes a Mamba-based multipl…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2972: DIET-Intensified Dark Fermentation: Magnetite and Nickel&ndash;Iron-Doped Activated Carbon for Biohydrogen Production from Food Waste",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2972",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "Background: Dark fermentation (DF) of organic solid waste (OSW) is a promising route for sustainable biohydrogen (bioH2) production, but it is often limited by slow interspecies electron transfer and by acidification of…"
     },
     {
       "title": "Robots are taking over human risk: Automa 2026",
