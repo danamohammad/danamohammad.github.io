@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T11:29:30.589Z",
+  "generatedAt": "2026-09-19T16:02:23.275Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -16,13 +16,13 @@
     {
       "name": "Fuel",
       "ok": true,
-      "count": 98,
+      "count": 99,
       "error": null
     },
     {
       "name": "International Journal of Greenhouse Gas Control",
       "ok": true,
-      "count": 75,
+      "count": 78,
       "error": null
     },
     {
@@ -76,6 +76,22 @@
   ],
   "items": [
     {
+      "title": "Global population dataset uses buildings to reveal people's daily movement patterns",
+      "link": "https://phys.org/news/2026-09-global-population-dataset-reveal-people.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-19T16:00:02.000Z",
+      "excerpt": "Researchers at the Department of Energy's (DOE) Oak Ridge National Laboratory (ORNL) have released LandScan Mosaic, a next-generation global population distribution dataset that estimates where people are by modeling how…"
+    },
+    {
+      "title": "How narwhal 'scientists' track Arctic warming",
+      "link": "https://phys.org/news/2026-08-narwhal-scientists-track-arctic.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-19T15:30:02.000Z",
+      "excerpt": "The fight against climate change has a new, spiral-tusked ally: the narwhal."
+    },
+    {
       "title": "Sea surface temperature biases shift the North Pacific jet stream southward, study finds",
       "link": "https://phys.org/news/2026-09-sea-surface-temperature-biases-shift.html",
       "source": "Phys.org — Earth",
@@ -90,6 +106,30 @@
       "category": "geoscience",
       "published": "2026-09-19T03:20:02.000Z",
       "excerpt": "The Korea Institute of Civil Engineering and Building Technology (KICT) announced that it will apply its early detection technology for quasi-stationary linear rainbands and sudden localized torrential rainfall to the Ur…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4445: Benchmarking Classical Metaheuristic Algorithms for Techno-Economic Optimisation of PV Battery Renewable Energy Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4445",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "Optimising grid-connected photovoltaic (PV)-battery renewable energy systems involves balancing economic performance, renewable energy use, and grid reliance. While HOMER Grid offers dependable optimisation, running mult…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4446: Impact of Grid-Following and Grid-Forming Inverter Integration on Bus Impedance Characteristics of Power Grids",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4446",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "The increasing replacement of synchronous generators (SGs) by grid-following (GFL) and grid-forming (GFM) inverters is reshaping the dynamic bus characteristics of modern power systems. This transition makes a fixed idea…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4444: The Cognitive Power Mini-Grid with Distributed AI, Semantic Control and Agentic Autonomy: Concepts, Applications, Challenges and Future Directions",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4444",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "Power mini-grids are being transformed from locally automated electrical systems into cyber-physical ecosystems in which heterogeneous distributed energy resources, storage, converters, flexible demand and uncertain exte…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4443: AI&ndash;Lagrangian MPPT: A New Paradigm for Explainable and High-Performance Photovoltaic Optimization",
@@ -164,20 +204,36 @@
       "excerpt": "In the present study, using advanced methodologies together with analytical and experimental equipment, the ignition and combustion characteristics were determined for coal-based fuels, sorbent derived from this coal, an…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4434: A Low-Switching-Frequency Harmonic-Optimized Control Strategy for Modular Multilevel Converters Based on Online SHEPWM Switching-Time Correction",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4434",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2994: Collaborative Optimization of Ladle Furnace Operating Parameters Using Prediction Models and Case-Guided Genetic&ndash;Tabu Search",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2994",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Low-switching-frequency operation is essential for high-power modular multilevel converters (MMCs), but it makes the simultaneous achievement of low harmonics, fast transient response, and reliable internal control more…"
+      "excerpt": "Intelligent control of the ladle furnace (LF) process and its endpoint is essential for product quality and stable continuous casting. Existing studies mainly address endpoint prediction or operating-parameter recommenda…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4433: Power Oscillation Damping Controller Powered by Data-Assisted Dominant Modal Decomposition",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4433",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 2993: Development and Characterization of Blended A&ccedil;a&iacute;-Sunflower Oil Emulsions Stabilized with Modified Starch and Maltodextrin for Incorporation into Yogurte",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2993",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "This paper focuses on deriving power-system linear models directly from collected PMU data with the aim of feeding a wide-area damping controller (WADC) architecture. To this end, a data-assisted dominant modal realizati…"
+      "excerpt": "A&amp;ccedil;a&amp;iacute; oil (AO) is extracted from the pulp of the a&amp;ccedil;a&amp;iacute; fruit (Euterpe oleracea Mart.), a species native to the Brazilian Amazon region. The oil is recognized for its bioactive co…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2992: Analysis of Interlayer Stress Transfer Mechanism of Bimetallic Composite Pipes",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2992",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "Addressing the ill-defined interlayer stress transfer mechanisms and the risk of stress exceeding material limits in bimetallic composite pipes under landslide hazards in high-steep mountainous regions, this study establ…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2991: Research Progress on Intelligent Color-Sorting Equipment for Post-Harvest Chili Peppers: Machine Vision, Pneumatic Actuation, and System Integration",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2991",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-19T00:00:00.000Z",
+      "excerpt": "Post-harvest sorting is essential for converting the biological variability of chili peppers into consistent commercial grades, efficient processing, and higher market value. Rapid advances in machine vision, multimodal…"
     },
     {
       "title": "Processes, Vol. 14, Pages 2990: Toxic Efficacy of Nerium oleander Extracts as a Precise Strategy for Managing Pomacea canaliculata (Gastropoda) Eggs",
@@ -242,22 +298,6 @@
       "category": "processing",
       "published": "2026-09-19T00:00:00.000Z",
       "excerpt": "Sliding mode control (SMC) is widely recognized for its robustness against modeling uncertainties and external disturbances. However, asymmetric actuator dynamics, excessive switching activity, and the absence of active…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2981: A Multi-Objective Optimization Method for Reactor Coolant Pump Operation and Maintenance Under Multiple Operational Constraints",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2981",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Floating nuclear power plants (FNPPs) must remain in service in island mode for extended periods, placing stringent demands on the availability of the reactor coolant pump (RCP). Conventional strategies rely on fixed int…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2982: Abutment Pressure of Main Roadway Coal Pillars in Close-Distance Seam Mining Considering Stress Superposition",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2982",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "In close-distance coal seam mining, the stability of main roadway pillars is critically influenced by stress superposition from overlying remnant pillars. This study develops a theoretical model that integrates elastic f…"
     },
     {
       "title": "North Korea's nuclear testing may have triggered hundreds of earthquakes over several years",
@@ -370,46 +410,6 @@
       "category": "geoscience",
       "published": "2026-09-18T03:16:17.000Z",
       "excerpt": "Anak Krakatau erupted for more than 24 hours in early September, sending volcanic ash up to 50,000 feet into the atmosphere. The ash cloud shut down eight airports, disrupted nearly 3,000 flights, and affected air qualit…"
-    },
-    {
-      "title": "In hottest summer on record, 2 in 3 Americans say climate change is increasing heat-related illnesses",
-      "link": "https://phys.org/news/2026-09-hottest-summer-americans-climate-illnesses.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-18T02:20:02.000Z",
-      "excerpt": "Nearly two-thirds of the American public say climate change is increasing the risk of respiratory diseases and heat- and insect-related illnesses, according to a new survey from the Annenberg Public Policy Center (APPC)…"
-    },
-    {
-      "title": "Europe's earliest glacier loss day in years signals a reckoning for the Alps",
-      "link": "https://phys.org/news/2026-09-europe-earliest-glacier-loss-day.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-18T00:20:02.000Z",
-      "excerpt": "On June 29, 2026, the snow accumulated by Switzerland's glaciers over the course of the previous winter had melted. Known as Glacier Loss Day, this date marks the point at which further melting begins to erode the glacie…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4432: Microscopic Pore-Throat Mobilization Characteristics and Conversion Timing Strategies for CO2 Injection After Waterflooding in Reservoirs with Different Properties: A Case Study of Block X, Huabei Oilfield",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4432",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "Due to varying development histories of reservoirs with different physical properties in Block X, Huabei Oilfield, the remaining oil distribution and microscopic mobilization limits after waterflooding remain unclear, an…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2976: Study of the Desorption Process of Post-Combustion CO2 Capture for Coal and Combined-Cycle Thermal Power Plants",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2976",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "Post-combustion CO2 capture is one alternative that allows thermoelectric power plants to continue generating electricity while reducing greenhouse gas emissions. Most reported pilot plants operate with a 30% wt. MEA sol…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2980: Curator-Coded Initiating System Categories in HIAD 2.4: A Descriptive Analysis of Hydrogen-Related Incident Records",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2980",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-18T00:00:00.000Z",
-      "excerpt": "The Hydrogen Incidents and Accidents Database (HIAD) includes events initiated within hydrogen equipment, within a system that also contains hydrogen, or in a non-hydrogen system. This study characterized associations be…"
     },
     {
       "title": "Robots are taking over human risk: Automa 2026",
@@ -828,6 +828,14 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
+      "title": "Lean limit extension Aspects of gasoline direct injection (GDI) engine with hydrogen fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030723?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part D Author(s): P. Rajkumar, B. Prem Anand, C.G. Saravanan, J.S. Femilda Josephin, Jonas Matijošius, Artūras Kilikevičius, Edwin Geo Varuvel"
+    },
+    {
       "title": "Adsorption and dispersion performance of graphene oxide dispersants grafted with different polymers in Shenhua coal–water slurry",
       "link": "https://www.sciencedirect.com/science/article/pii/S001623612603108X?dgcid=rss_sd_all",
       "source": "Fuel",
@@ -866,14 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part D Author(s): Runtian Yu, Ming Zhong, Yuanding Wang, Hang Ren, Kaixuan Yang, Weiqi Chen, Chen Chen, Yaoyao Ying, Dong Liu"
-    },
-    {
-      "title": "Optimization of biogas purification using anaerobic digestion of algae under ultrasonic pretreatment",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031005?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part D Author(s): Pariya Esmaeili, Mahmood Mahmoodi-Eshkaftaki, Askar Ghani"
     }
   ]
 }
