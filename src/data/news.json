@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T05:21:47.163Z",
+  "generatedAt": "2026-09-20T11:46:15.050Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,86 @@
   ],
   "items": [
     {
+      "title": "Energies, Vol. 19, Pages 4458: Proppant Flowback Behaviors in the Deep Coalbed Methane Wells Completed in the Ordos Basin",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4458",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "This study investigates proppant flowback using field data, numerical simulations, and machine learning for deep coalbed methane (CBM) wells in the Linxing&amp;ndash;Shenfu Block, Ordos Basin. Field data show that most p…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4457: Spatiotemporal Decomposition for Distributed Multi-Time-Scale Supervisory Scheduling of Cascade Pumping Stations",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4457",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "Economical operation of cascade pumping stations requires temporal feedback and spatial coordination, whereas a single day-ahead schedule cannot correct deviations arising during execution. This study develops a distribu…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4456: Hydrogen&ndash;Natural-Gas Blends in a Continuous Annealing Line Under a Process-Equivalent Strip-Temperature Criterion",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4456",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "Hydrogen-enriched natural gas can reduce direct carbon emissions from industrial heat-treatment furnaces, but its effect should be evaluated at the required process temperature rather than only at constant burner input.…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4455: Influence of Harmonic and DC-Bias Coupling on Transformer Energization Inrush Current in Complex Power Grids",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4455",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "The methodological innovation of this study is a phase-domain separation-and-recombination framework that maps harmonic voltage to prospective flux, maps controlled quasi-DC winding current to magnetic operating-point di…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4454: Prediction-Assisted Control of an Electric-Vehicle CO2 Heat Pump with Secondary Throttling Based on a Bidirectional Feedforward Neural Network",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4454",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "To improve the low-temperature heating performance of electric-vehicle CO2 heat pumps, their system configurations and control strategies have become increasingly complex. This has made coordinated regulation among multi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4453: EnergyPlus EMS Methodology for Dynamic Integration of Earth-to-Air Heat Exchangers in Building Energy Simulation: Implementation, Calibration and Annual Performance Assessment",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4453",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "Earth-to-air heat exchangers (EAHEs) use ground thermal inertia to precondition ventilation air, but their representation in whole-building simulation is limited by the simplified geometry and internally defined heat-tra…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4452: Analysis of Supply&ndash;Demand Matching Characteristics of Two Interconnected Combined Cooling, Heating, and Power (CCHP) Microgrid Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4452",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "To address the energy supply&amp;ndash;demand imbalance caused by the limited operating modes of stand-alone combined cooling, heating, and power (CCHP) microgrids, this study investigates a geographically integrated ene…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4451: Development of a Portable Relay Protection Verification Device Based on LoRa Communication",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4451",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "To address the severe physical wear of actual circuit breakers, limited logic verification under complex operating conditions, and maintenance scheduling conflicts during operational testing in power systems, this paper…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4450: A Multi-Stage Resilience Enhancement Method for Distribution Systems Considering Faulty Remote-Controlled Switches and Crew Dispatch",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4450",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "Extreme events threaten distribution network security. When remote-controlled switches (RCSs) lose remote operability during extreme events while remaining manually operable, faulted areas may no longer be isolated throu…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4449: System-Level Techno-Economic Optimization of Decarbonized Industrial Thermal Energy Systems via Active Load Restructuring",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4449",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "In cold-region industrial parks, prolonged heating seasons and intensive hot water demands trigger severe temporal mismatches between stochastic renewable generation and rigid thermal requirements. To address this, a mul…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4448: Transformer-Based Solar Irradiance Forecasting Model for Coastal and Microclimate-Sensitive Areas of First District of Batangas",
       "link": "https://www.mdpi.com/1996-1073/19/18/4448",
       "source": "Energies (MDPI)",
@@ -90,6 +170,86 @@
       "category": "energy",
       "published": "2026-09-20T00:00:00.000Z",
       "excerpt": "Unlike single-converter grid-connected systems and multi-converter grid-forming (GFM) systems operating in islanded mode, grid-connected multi-converter systems comprising parallel grid-following (GFL) and GFM converters…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3004: Nonlinear Wave Modeling of Internally Heat-Integrated Air Separation Columns via Local Mechanism-Based Optimization",
+      "link": "https://www.mdpi.com/2227-9717/14/18/3004",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "Compared with conventional air separation columns, the internally heat-integrated air separation column (HIASC) offers superior energy efficiency. However, its structural complexity poses significant challenges for model…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3003: Two-Stage Environmental Response of Sporosarcina pasteurii: Stepwise Alkaline&ndash;Low-NaCl Exposure and Subsequent Temperature Challenge",
+      "link": "https://www.mdpi.com/2227-9717/14/18/3003",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "Microbially induced calcium carbonate precipitation (MICP) is influenced by the physiological response of ureolytic bacteria to local environmental backgrounds. This liquid-culture process-screening study examined respon…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3002: Bridging the Gap Between MP-PIC CPFD Hydrodynamic Simulations and CREC-GS-Optiprobes Data in a Sand Fluidized Bed for Biomass Gasification",
+      "link": "https://www.mdpi.com/2227-9717/14/18/3002",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "This study examines a sand bubbling fluidized bed containing cylindrical biomass pellets. It demonstrates the advantages of integrating fiber-optic measurements&amp;mdash;such as those obtained with CREC-GS-Optiprobes&am…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3000: Multiscale Surface Characterization of LPBF-Fabricated 17-4 PH Stainless Steel TPMS and Flat Plates After Aging, Shot Blasting, and Hydrophobic Coating",
+      "link": "https://www.mdpi.com/2227-9717/14/18/3000",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "Multiscale surface characterization is essential for understanding the surface condition of laser powder bed fusion (LPBF)-fabricated metallic structures and regions subjected to different post-processing conditions. Thi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3001: Novel Approaches to Spontaneous and Controlled Fermentation of Romanian Small Autumn Watermelon (Citrullus lanatus)",
+      "link": "https://www.mdpi.com/2227-9717/14/18/3001",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "Romanian small autumn watermelon (Citrullus lanatus), late-harvested at the end of October, is a valuable vegetal source of natural carbohydrates, carotenoids, vitamins (especially A and C), fibers, and minerals, and, ab…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2999: Research on the Effectiveness of Gas Control in Low-Permeability Coal Seams Based on Microbial Gas Dissolution",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2999",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "To shorten the gas control period in low-permeability coal seams, the effectiveness of microbial gas dissolution technology for gas control was investigated through a combination of field tests and numerical simulations.…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2998: FCC-Bench and Adaptive Multi-Scale Inference for Multivariate Forecasting Using Data from a Continuous FCC Unit",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2998",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "Fluid catalytic cracking (FCC) units are central to modern oil refining. FCC operation is complex, with strong nonlinearity and high-dimensional spatiotemporal coupling, making process monitoring, soft sensing, and opera…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2997: Relationship Between Pore-Throat and Pressure in Oil Charging in Tight Conglomerate Reservoirs of the Xiazijie Formation in Manan Area, Junggar Basin: Proved from NMR Experiment",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2997",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "The Xiazijie Formation in the Manan Area, Junggar Basin, is an extra-low- to ultra-low-porosity and -permeability deep conglomerate reservoir. The relationship between pore-throat and pressure in oil charging in this tig…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2996: Rhamnolipid-Based Nanosized Dispersed Formulation for Enhanced Fracturing-Fluid Flowback: Phase Behavior, Interfacial Properties, and Porous-Media Performance",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2996",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "Fracturing-fluid retention caused by capillary trapping and surfactant loss during transport through porous media can impair post-fracturing productivity in tight reservoirs. In this study, a rhamnolipid/isopropanol/limo…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 2995: RAPO-RL-TAC: Risk-Aware Partial-Order Reinforcement Learning with Timed Automata Completion for the Interval Job Shop Problem",
+      "link": "https://www.mdpi.com/2227-9717/14/18/2995",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-20T00:00:00.000Z",
+      "excerpt": "In the Interval Job Shop Problem (IJSP), operation processing times are represented by intervals, making machine-sequencing decisions sensitive to temporal uncertainty. We propose Risk-Aware Partial-Order Reinforcement L…"
     },
     {
       "title": "Sacred springs of South Africa—pure waters or polluted? We found tiny bits of plastic in the samples we tested",
@@ -172,86 +332,6 @@
       "excerpt": "Scientists are looking to diatoms, sea sponges, and plants for a cleaner way to recover rare earth elements and other valuable minerals hidden inside coal ash, red mud, and mine tailings. The bio-inspired approach could…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4445: Benchmarking Classical Metaheuristic Algorithms for Techno-Economic Optimisation of PV Battery Renewable Energy Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4445",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Optimising grid-connected photovoltaic (PV)-battery renewable energy systems involves balancing economic performance, renewable energy use, and grid reliance. While HOMER Grid offers dependable optimisation, running mult…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4446: Impact of Grid-Following and Grid-Forming Inverter Integration on Bus Impedance Characteristics of Power Grids",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4446",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "The increasing replacement of synchronous generators (SGs) by grid-following (GFL) and grid-forming (GFM) inverters is reshaping the dynamic bus characteristics of modern power systems. This transition makes a fixed idea…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4444: The Cognitive Power Mini-Grid with Distributed AI, Semantic Control and Agentic Autonomy: Concepts, Applications, Challenges and Future Directions",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4444",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Power mini-grids are being transformed from locally automated electrical systems into cyber-physical ecosystems in which heterogeneous distributed energy resources, storage, converters, flexible demand and uncertain exte…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4443: AI&ndash;Lagrangian MPPT: A New Paradigm for Explainable and High-Performance Photovoltaic Optimization",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4443",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "The major challenge in photovoltaic (PV) maximum power point tracking (MPPT) systems is finding a balance between the high performance of artificial intelligence techniques and the interpretability and reliability of phy…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4442: Fixed-Responsibility Partitioning for Day-Ahead Bidding and Real-Time Delivery of Virtual Power Plants in Energy and Reserve Markets",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4442",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "When a virtual power plant (VPP) participates in energy and reserve markets, day-ahead bids, reserve commitments, and real-time delivery share the same internal resource constraints, while aggregate models cannot readily…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4441: Decoupling and Diagnosis Method for Early Minor Faults in Electric Vehicle Traction Batteries Based on PatchTSSA",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4441",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Accurate detection of early minor faults in electric vehicle traction batteries is important for preventing thermal runaway under complex operating conditions. Aging-related capacity degradation and measurement noise can…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4440: A Hardware Input-Capture-Based Carrier Synchronization Method for Cascaded H-Bridge CPS-SPWM via Single-Fiber Multiplexing",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4440",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "In cascaded H-bridge (CHB) high-voltage drives using unipolar frequency-doubling carrier phase-shifted sinusoidal pulse width modulation (CPS-SPWM), unequal carrier phase offsets weaken switching-harmonic cancelation. Th…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4439: Fault Recovery and Reconfiguration of Distribution Networks Based on Membrane Computing Multi-Objective Optimization Algorithm",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4439",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "To improve post-fault service restoration and network reconfiguration in distribution networks with distributed generation, this paper proposes a fault recovery and reconfiguration method based on a membrane computing mu…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4438: Distributed Backstepping Integral Terminal Sliding Mode Control for Consensus Speed Tracking in Networked Permanent Magnet Synchronous Motor Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4438",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "This paper develops distributed Backstepping Integral Terminal Sliding Mode (BITSM) control for consensus speed tracking of networked Permanent Magnet Synchronous Motor (PMSM) drives under bounded matched uncertainty. A…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4437: Monitoring Underground Hydrogen Storage: An Integrated Multi-Domain Framework",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4437",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Underground hydrogen storage (UHS) is poised to emerge as a pivotal technology for large-scale and seasonal energy storage in future low-carbon energy systems. Nevertheless, ensuring its safe deployment necessitates impl…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 2994: Collaborative Optimization of Ladle Furnace Operating Parameters Using Prediction Models and Case-Guided Genetic&ndash;Tabu Search",
       "link": "https://www.mdpi.com/2227-9717/14/18/2994",
       "source": "Processes (MDPI)",
@@ -266,86 +346,6 @@
       "category": "processing",
       "published": "2026-09-19T00:00:00.000Z",
       "excerpt": "A&amp;ccedil;a&amp;iacute; oil (AO) is extracted from the pulp of the a&amp;ccedil;a&amp;iacute; fruit (Euterpe oleracea Mart.), a species native to the Brazilian Amazon region. The oil is recognized for its bioactive co…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2992: Analysis of Interlayer Stress Transfer Mechanism of Bimetallic Composite Pipes",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2992",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Addressing the ill-defined interlayer stress transfer mechanisms and the risk of stress exceeding material limits in bimetallic composite pipes under landslide hazards in high-steep mountainous regions, this study establ…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2991: Research Progress on Intelligent Color-Sorting Equipment for Post-Harvest Chili Peppers: Machine Vision, Pneumatic Actuation, and System Integration",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2991",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Post-harvest sorting is essential for converting the biological variability of chili peppers into consistent commercial grades, efficient processing, and higher market value. Rapid advances in machine vision, multimodal…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2990: Toxic Efficacy of Nerium oleander Extracts as a Precise Strategy for Managing Pomacea canaliculata (Gastropoda) Eggs",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2990",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "The golden apple snail (Pomacea canaliculata) is a globally destructive invasive species. Existing control strategies primarily target adult snails, yet these approaches often fail due to the snails&amp;rsquo; robust she…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2989: Agro-Industrial Wastewaters as Feedstocks for Microbial Lipase Production: Integrating Enzyme Bioprocessing, Effluent Valorization and Wastewater Management",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2989",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Agro-industrial wastewaters contain substantial organic and lipid loads that pose environmental challenges but may also provide potentially low-cost substrates for microbial bioprocessing. This scoping review evaluated t…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2988: Impact of Shut-In Time on Acid-Etched Fracture Morphology and Conductivity in SC-CO2 Acid Fracturing of Tight Dolomite",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2988",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Supercritical CO2 (SC-CO2) acid fracturing injects an SC-CO2-acid mixture into carbonate formations to create high-conductivity channels. It retards acid-rock reaction at high temperature, creating long acid-etched fract…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2987: An Adaptive Fuzzy Recurrent Stochastic Configuration Network for Food Quality Prediction with Limited Samples",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2987",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Accurate food quality prediction remains challenging when labeled samples are limited, and the relationships between measurable characteristics and target quality attributes are nonlinear and heterogeneous. To address th…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2986: Research on Aerodynamic Noise Optimization of Rear Air Conditioning in New Energy SUVs",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2986",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "The noise generated by the air-conditioning system of new energy sport utility vehicles (SUVs) is a primary sound source that impairs ride comfort. This study addresses the aerodynamic noise issue of the rear air-conditi…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2985: Machine-Learning-Based Analysis of Printing-Parameter Effects on Surface Roughness in FDM-Printed ULTEM 1010 Parts",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2985",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "This study combines replicated experimentation and machine learning to characterize how user-controllable fused deposition modeling (FDM) parameters relate to local surface quality in complex ULTEM 1010 components. A sur…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2984: Moving Bed Biofilm Reactor Using Plastic Waste as Biofilm Carriers for Ciprofloxacin-Containing Wastewater Treatment",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2984",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Pharmaceuticals and other organic matter can remain in municipal wastewater after conventional treatment, while MBBR carriers are typically made from virgin plastics. This study investigated mechanically modified post-co…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2983: Model-Assisted Dual-Adaptive SMC for Electric Furnace Temperature Control",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2983",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-19T00:00:00.000Z",
-      "excerpt": "Sliding mode control (SMC) is widely recognized for its robustness against modeling uncertainties and external disturbances. However, asymmetric actuator dynamics, excessive switching activity, and the absence of active…"
     },
     {
       "title": "North Korea's nuclear testing may have triggered hundreds of earthquakes over several years",
