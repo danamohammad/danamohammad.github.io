@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T21:01:57.257Z",
+  "generatedAt": "2026-09-21T05:24:31.630Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 3,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Predicting the Elastic Properties of a Cemented Granular Material during Chemical Damage (Debonding)",
+      "link": "https://arxiv.org/abs/2609.21410",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-21T04:00:00.000Z",
+      "excerpt": "arXiv:2609.21410v1 Announce Type: new Abstract: While underground reservoirs emerge as essential elements to face global warming, these systems represent complex multi-physical and multiscale problems. The considered inj…"
+    },
+    {
+      "title": "Determination of Physical Height Differences from Time Transfer via the ACES Mission -- A Simulation Study",
+      "link": "https://arxiv.org/abs/2609.21786",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-21T04:00:00.000Z",
+      "excerpt": "arXiv:2609.21786v1 Announce Type: new Abstract: The determination of physical height differences using highly stable atomic clocks has emerged as a novel approach in relativistic geodesy, exploiting the gravitational red…"
+    },
+    {
+      "title": "FireDataForge: A Unified Framework for Multi-Source Wildfire Data Retrieval and Integration",
+      "link": "https://arxiv.org/abs/2606.21198",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-21T04:00:00.000Z",
+      "excerpt": "arXiv:2606.21198v2 Announce Type: replace-cross Abstract: Wildfire research, modeling, and education require geospatial data from multiple sources that vary in formats, coordinate systems, spatial resolutions, and tempor…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4463: Necessary Emission Space for Provincial Power-Sector Carbon Budgeting Under Security Power Supply Constraints: Evidence from Jiangsu Province, China",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4463",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-21T00:00:00.000Z",
+      "excerpt": "The power sector is a priority area for carbon mitigation at the provincial level. Existing studies on provincial power-sector carbon budgets mainly focus on abatement potential and the allocation of aggregate emission b…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4462: Techno-Economic and Life Cycle Assessment of Biogas-to-Hydrogen Production: Comparison of Pre-Reforming Decarbonization and Direct Reforming Routes",
+      "link": "https://www.mdpi.com/1996-1073/19/18/4462",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-21T00:00:00.000Z",
+      "excerpt": "Biogas-to-hydrogen production provides a renewable pathway to decarbonize hydrogen supply, yet consensus remains lacking regarding the most energetically and economically favorable process configuration. This study devel…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3010: How Stack Degradation Drives the Levelized Cost of Green Hydrogen: Techno-Economic, Water and Carbon Assessment of the CH2V PEM Pilot Plant",
+      "link": "https://www.mdpi.com/2227-9717/14/18/3010",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-21T00:00:00.000Z",
+      "excerpt": "The Brazilian low-carbon hydrogen framework (Law 14948/2024) and pilot initiatives such as the UNIFEI Green Hydrogen Center (CH2V) are accelerating PEM water electrolysis deployment. Over multi-year horizons, an electrol…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3009: Synthesis and Performance Evaluation of SF-4 Spacer Fluid for Open-Hole Completion with Oil-Based Drilling Fluid in the East China Sea",
+      "link": "https://www.mdpi.com/2227-9717/14/18/3009",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-21T00:00:00.000Z",
+      "excerpt": "As oil and gas exploration and development in the East China Sea advance toward deeper and hotter formations, direct contact between oil-based drilling fluid and water-based completion fluid can cause severe rheological…"
+    },
     {
       "title": "Tiny beach-dwelling crustaceans are big-time sand movers, shaping the California coast",
       "link": "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html",
@@ -180,22 +236,6 @@
       "excerpt": "To address the energy supply&amp;ndash;demand imbalance caused by the limited operating modes of stand-alone combined cooling, heating, and power (CCHP) microgrids, this study investigates a geographically integrated ene…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4451: Development of a Portable Relay Protection Verification Device Based on LoRa Communication",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4451",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-20T00:00:00.000Z",
-      "excerpt": "To address the severe physical wear of actual circuit breakers, limited logic verification under complex operating conditions, and maintenance scheduling conflicts during operational testing in power systems, this paper…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4450: A Multi-Stage Resilience Enhancement Method for Distribution Systems Considering Faulty Remote-Controlled Switches and Crew Dispatch",
-      "link": "https://www.mdpi.com/1996-1073/19/18/4450",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-20T00:00:00.000Z",
-      "excerpt": "Extreme events threaten distribution network security. When remote-controlled switches (RCSs) lose remote operability during extreme events while remaining manually operable, faulted areas may no longer be isolated throu…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3008: A Refined Model Considering Entrance Resistance for Two-Phase Spontaneous Imbibition in Nanopores",
       "link": "https://www.mdpi.com/2227-9717/14/18/3008",
       "source": "Processes (MDPI)",
@@ -274,22 +314,6 @@
       "category": "processing",
       "published": "2026-09-20T00:00:00.000Z",
       "excerpt": "To shorten the gas control period in low-permeability coal seams, the effectiveness of microbial gas dissolution technology for gas control was investigated through a combination of field tests and numerical simulations.…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2998: FCC-Bench and Adaptive Multi-Scale Inference for Multivariate Forecasting Using Data from a Continuous FCC Unit",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2998",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-20T00:00:00.000Z",
-      "excerpt": "Fluid catalytic cracking (FCC) units are central to modern oil refining. FCC operation is complex, with strong nonlinearity and high-dimensional spatiotemporal coupling, making process monitoring, soft sensing, and opera…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 2997: Relationship Between Pore-Throat and Pressure in Oil Charging in Tight Conglomerate Reservoirs of the Xiazijie Formation in Manan Area, Junggar Basin: Proved from NMR Experiment",
-      "link": "https://www.mdpi.com/2227-9717/14/18/2997",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-20T00:00:00.000Z",
-      "excerpt": "The Xiazijie Formation in the Manan Area, Junggar Basin, is an extra-low- to ultra-low-porosity and -permeability deep conglomerate reservoir. The relationship between pore-throat and pressure in oil charging in this tig…"
     },
     {
       "title": "Sacred springs of South Africa—pure waters or polluted? We found tiny bits of plastic in the samples we tested",
@@ -850,30 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part D Author(s): Tian Kunyun, Zhou Yinbo, Zhang Ruilin, Gong Weidong"
-    },
-    {
-      "title": "Investigating the effects of natural gas mixture inhomogeneity imposed at the nozzle exit of a concentric flow conical nozzle burner",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031248?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part D Author(s): Mohy S. Mansour, Mohamed K. Hasanin, Mohamed F. Zayed, Assaad R. Masri, Mohamed S. Senosy"
-    },
-    {
-      "title": "A correlation to compute the thermo-diffusive instability effect of lean hydrogen flames at engine-like conditions",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030164?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part D Author(s): Manuel Madia, Fabio Berni, Alessandro d’Adamo, Stefano Fontanesi, Sebastiano Breda"
-    },
-    {
-      "title": "High-dispersed NiMo on Yolk-Shell TS-1-SiO 2 for enhanced dibenzothiophenes hydrodesulfurization",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031509?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part D Author(s): Chengkun Xiao, Chunyang Han, Zhidan Huang, Hao Wu, Zhaoqing Wang, Jiyuan Fan, Lu Qi, Chunya Wang, Chunming Xu, Xilong Wang"
     }
   ]
 }
