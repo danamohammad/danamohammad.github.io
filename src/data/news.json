@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T21:38:10.391Z",
+  "generatedAt": "2026-09-23T05:07:37.492Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
@@ -75,6 +75,94 @@
     }
   ],
   "items": [
+    {
+      "title": "Time Distribution of Heavy Rainfall in Brazil: Empirical Huff Curves from 290,164 Sub-Daily Storm Events",
+      "link": "https://arxiv.org/abs/2609.25315",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-23T04:00:00.000Z",
+      "excerpt": "arXiv:2609.25315v1 Announce Type: new Abstract: Temporal rainfall distributions are widely used in design storm construction; however, many countries with limited sub-daily observations, such as Brazil, still rely on fra…"
+    },
+    {
+      "title": "CHERT: Cached Hamiltonian-Enhanced Ray Tracing in Viscoelastic Anisotropic Media",
+      "link": "https://arxiv.org/abs/2609.26108",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-23T04:00:00.000Z",
+      "excerpt": "arXiv:2609.26108v1 Announce Type: new Abstract: Three sentence novelty statement: CHERT decouples the g Hamiltonian ray quantity computation from field scale shortest path ray tracing through reusable directional caches.…"
+    },
+    {
+      "title": "Shallow-to-deep velocity model building via diffusion models-Part I: Method and Proof of concept",
+      "link": "https://arxiv.org/abs/2609.26454",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-23T04:00:00.000Z",
+      "excerpt": "arXiv:2609.26454v1 Announce Type: new Abstract: Seismic velocity model building (VMB) is fundamental for understanding subsurface structures. Traditional methods demand high-quality starting models and, also, remain limi…"
+    },
+    {
+      "title": "Shallow-to-deep velocity model building via diffusion models-Part II: Realistic scenarios",
+      "link": "https://arxiv.org/abs/2609.26482",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-23T04:00:00.000Z",
+      "excerpt": "arXiv:2609.26482v1 Announce Type: new Abstract: Full-waveform inversion (FWI) requires accurate initial velocity models to avoid cycle-skipping, but constructing such models remains challenging in practice. Building on t…"
+    },
+    {
+      "title": "Distributed Proximal Stein Variational Gradient Descent Algorithm for Large-scale Bayesian Inference in Traveltime Tomography",
+      "link": "https://arxiv.org/abs/2609.26653",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-23T04:00:00.000Z",
+      "excerpt": "arXiv:2609.26653v1 Announce Type: new Abstract: We present a distributed framework for large-scale Bayesian inverse problems governed by the eikonal equation, with a specific focus on seismic traveltime tomography. Tradi…"
+    },
+    {
+      "title": "Hydrological Constraints on Temperature Sensitivities of Precipitation Frequency and Intensity",
+      "link": "https://arxiv.org/abs/2609.25533",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-23T04:00:00.000Z",
+      "excerpt": "arXiv:2609.25533v1 Announce Type: cross Abstract: To improve understanding of how precipitation frequency and intensity change with warming, we combine the coupled land--atmosphere water balance with a stochastic hydrolo…"
+    },
+    {
+      "title": "Parameter-Efficient Adaptation of Pre-Trained Vision Foundation Models for Active and Passive Seismic Data Denoising",
+      "link": "https://arxiv.org/abs/2605.10953",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-23T04:00:00.000Z",
+      "excerpt": "arXiv:2605.10953v2 Announce Type: replace Abstract: The demand for high-resolution subsurface imaging and continuous Earth monitoring has driven rapid growth in active and passive seismic data from dense geophone deploym…"
+    },
+    {
+      "title": "On the weak synchronization of a nonlinear solar dynamo oscillator by coherent planetary timing",
+      "link": "https://arxiv.org/abs/2511.18939",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-23T04:00:00.000Z",
+      "excerpt": "arXiv:2511.18939v3 Announce Type: replace-cross Abstract: The solar cycle is commonly interpreted as an internally generated magnetic oscillation, yet its phase stability and long-term amplitude modulation remain difficu…"
+    },
+    {
+      "title": "Research project identifies pathways to climate-resilient water and soil management",
+      "link": "https://phys.org/news/2026-09-pathways-climate-resilient-soil.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-23T03:40:01.000Z",
+      "excerpt": "How can regions better adapt their water and soil resources to the impacts of climate change? After four years of research, the European collaborative project Blue Transition, led by the LIAG Institute for Applied Geophy…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4503: Siting and Sizing of Electric Vehicle Charging Stations Considering Users&rsquo; Responses to Time-of-Use Pricing",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4503",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-23T00:00:00.000Z",
+      "excerpt": "Electric vehicle (EV) users may actively adjust their charging times in response to time-of-use (TOU) prices, reshaping the spatiotemporal distribution of charging demand and consequently affecting EVCS siting and sizing…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3042: Influence of Supercritical CO2 Extraction Conditions on the Physicochemical Properties, Oxidative Stability and Bioactivity of Omega-3-Enriched Tenebrio molitor Oil",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3042",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-23T00:00:00.000Z",
+      "excerpt": "This study investigated supercritical carbon dioxide (SC-CO2) extraction of omega-3 (&amp;omega;-3)-enriched oil from Tenebrio molitor larvae reared on a flaxseed-supplemented diet, using Soxhlet extraction as a benchmar…"
+    },
     {
       "title": "Short 'logic check' warnings may improve how people assess climate arguments",
       "link": "https://phys.org/news/2026-09-short-logic-people-climate-arguments.html",
@@ -204,92 +292,12 @@
       "excerpt": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, and rising volcanic g…"
     },
     {
-      "title": "Worsening El Nino threatens Asia with drought, potentially raising food prices globally",
-      "link": "https://phys.org/news/2026-09-worsening-el-nino-threatens-asia.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-22T08:07:42.000Z",
-      "excerpt": "All signs are pointing toward a record-breaking El Niño this year, which experts say may cause severe drought in Asia and other extreme weather across the world, threatening food security for millions of people."
-    },
-    {
       "title": "Halliburton signs new MoUs to support Venezuelan oil and gas sector",
       "link": "https://www.offshore-technology.com/news/halliburton-mous-venezuelan-oil-gas-sector/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-09-22T07:44:03.000Z",
       "excerpt": "Halliburton has signed memorandums of understanding (MoUs) with Eneva and WESCA to advance energy development opportunities in Venezuela."
-    },
-    {
-      "title": "Direction-Aware Masked Pretraining for 3D Seismic Representation Learning and Transfer to Cross-Area Acoustic Impedance Inversion",
-      "link": "https://arxiv.org/abs/2609.24615",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-22T04:00:00.000Z",
-      "excerpt": "arXiv:2609.24615v1 Announce Type: new Abstract: Large archives of unlabeled three-dimensional seismic data offer opportunities for self-supervised representation learning and subsequent transfer to acoustic impedance inv…"
-    },
-    {
-      "title": "Tectonics on early Earth driven by Earth's changing shape during tidal recession of the Moon",
-      "link": "https://arxiv.org/abs/2609.22474",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-22T04:00:00.000Z",
-      "excerpt": "arXiv:2609.22474v1 Announce Type: cross Abstract: Few fragments of Earth's earliest crust have survived, and so this formative period of our planet's history is shrouded in mystery. To leverage the limited data available…"
-    },
-    {
-      "title": "Super-Earth Interiors Shrink by About 10% as They Crystallise",
-      "link": "https://arxiv.org/abs/2609.23091",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-22T04:00:00.000Z",
-      "excerpt": "arXiv:2609.23091v1 Announce Type: cross Abstract: Super-Earth exoplanets are among the most abundant planets known, yet their bulk densities leave the interior state degenerate. The static structure models used to interp…"
-    },
-    {
-      "title": "ClimTip-GML: A global bias-corrected and downscaled dataset for assessing impacts of climate tipping events",
-      "link": "https://arxiv.org/abs/2609.23149",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-22T04:00:00.000Z",
-      "excerpt": "arXiv:2609.23149v1 Announce Type: cross Abstract: Assessing the impacts of future climate scenarios including tipping events of major Earth system components such as the Amazon rainforest (ARF) or the Atlantic meridional…"
-    },
-    {
-      "title": "Interhemispheric differences in field-aligned currents, ground magnetic perturbations, and TEC during the geomagnetic storms of May and October 2024",
-      "link": "https://arxiv.org/abs/2609.23725",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-22T04:00:00.000Z",
-      "excerpt": "arXiv:2609.23725v1 Announce Type: cross Abstract: This study investigates storm-to-storm variability and hemispheric differences in magnetosphere-ionosphere (MI) coupling during the extreme (G5) geomagnetic storm of May…"
-    },
-    {
-      "title": "Predicting low-latitude ionospheric Total Electron Content (TEC) over the Indian sector under variable space weather conditions using solar wind parameters",
-      "link": "https://arxiv.org/abs/2609.23732",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-22T04:00:00.000Z",
-      "excerpt": "arXiv:2609.23732v1 Announce Type: cross Abstract: Accurate prediction of ionospheric Total Electron Content (TEC) during geomagnetically disturbed conditions remains challenging, particularly when empirical models perfor…"
-    },
-    {
-      "title": "A new method to subdivide a spherical surface into equal-area cells",
-      "link": "https://arxiv.org/abs/1612.03467",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-22T04:00:00.000Z",
-      "excerpt": "arXiv:1612.03467v3 Announce Type: replace-cross Abstract: A new method is proposed to divide a spherical surface into equal-area cells. The method is based on dividing a sphere into several latitudinal bands of near-cons…"
-    },
-    {
-      "title": "Rapidly rotating internally heated convection: bounds on long-time averages",
-      "link": "https://arxiv.org/abs/2604.01380",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-22T04:00:00.000Z",
-      "excerpt": "arXiv:2604.01380v2 Announce Type: replace-cross Abstract: Convection on geophysical and astrophysical scales is subject to rapid rotation and strong heating from within the domain. In studying the long-time behaviour of…"
-    },
-    {
-      "title": "Geometric Origin of Macroscopic Alignment in Granular Flows",
-      "link": "https://arxiv.org/abs/2605.28633",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-22T04:00:00.000Z",
-      "excerpt": "arXiv:2605.28633v2 Announce Type: replace-cross Abstract: Predicting the nematic alignment of nonspherical particles in sheared granular flows is essential for understanding the rheology, packing, and constitutive respon…"
     },
     {
       "title": "Scientists discover first new penguin species in more than 100 years",
@@ -388,14 +396,6 @@
       "excerpt": "This study experimentally investigates a 2.45 GHz microwave atmospheric pressure plasma-driven catalyst-free methane pyrolysis (without additional gases) for hydrogen production. A plasma source, recently patented by us,…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4491: A Current Distribution Mechanism Study Between an SiC MOSFET Body Diode and a Paralleled SiC Schottky Barrier Diode During Freewheeling",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4491",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-22T00:00:00.000Z",
-      "excerpt": "Paralleling an external SiC Schottky barrier diode (SBD) with an SiC MOSFET redistributes the reverse-conduction current and may reduce the reverse-recovery energy. However, the benefit depends on device selection and op…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3041: Large Scale Physical Modeling of Shale Fracture Propagation Under Different Controllable Shock Wave and Perforation Operation Schemes",
       "link": "https://www.mdpi.com/2227-9717/14/19/3041",
       "source": "Processes (MDPI)",
@@ -482,14 +482,6 @@
       "category": "processing",
       "published": "2026-09-22T00:00:00.000Z",
       "excerpt": "Trichloroethylene (TCE) is a carcinogenic, persistent groundwater contaminant against which conventional remediation techniques like pump-and-treat, soil vapor extraction, and chemical oxidation falter badly especially a…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3030: Biomass Valorization Through Applications in the Continuous Removal of Iron from Water: Batch Equilibrium and Fixed-Bed Adsorption",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3030",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-22T00:00:00.000Z",
-      "excerpt": "Iron is one of the most common constituents in groundwater, and affordable decentralized options for removing residual iron remain limited. This study valorizes two abundant agro-industrial residues, sugarcane bagasse an…"
     },
     {
       "title": "Jade to assess deeper gas potential at Mongolia’s TTCBM project",
@@ -874,6 +866,14 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
+    },
+    {
+      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
     }
   ]
 }
