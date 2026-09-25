@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:45:36.801Z",
+  "generatedAt": "2026-09-25T05:20:18.581Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 4,
+      "count": 8,
       "error": null
     },
     {
@@ -75,6 +75,158 @@
     }
   ],
   "items": [
+    {
+      "title": "A Survey of Electron Anisotropies in the Magnetosphere: Dependence on Solar Wind Pressure and Kp",
+      "link": "https://arxiv.org/abs/2609.28745",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-25T04:00:00.000Z",
+      "excerpt": "arXiv:2609.28745v1 Announce Type: new Abstract: We present a survey of electron distributions measured by THEMIS within Earth's equatorial magnetosphere at $L$ values $\\le$ 14. Particular attention is focused on the spat…"
+    },
+    {
+      "title": "SPBench: A Multi-Task Evaluation Benchmark for Exploration Seismic Processing",
+      "link": "https://arxiv.org/abs/2609.28925",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-25T04:00:00.000Z",
+      "excerpt": "arXiv:2609.28925v1 Announce Type: new Abstract: Exploration seismic processing underpins subsurface imaging and resource exploration, but learning-based methods remain difficult to compare across studies. Our survey of 3…"
+    },
+    {
+      "title": "A higher--order gradient framework for multi--scale seismic wave propagation",
+      "link": "https://arxiv.org/abs/2609.29502",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-25T04:00:00.000Z",
+      "excerpt": "arXiv:2609.29502v1 Announce Type: new Abstract: Modeling frequency-dependent seismic wave propagation in porous media remains a major challenge because classical poroelastic theories generally require a large number of p…"
+    },
+    {
+      "title": "A micromorphic constitutive framework for (non)linear softening modeling",
+      "link": "https://arxiv.org/abs/2609.29503",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-25T04:00:00.000Z",
+      "excerpt": "arXiv:2609.29503v1 Announce Type: new Abstract: Nonlinear shear softening in soils and rocks is commonly described using empirical modulus-reduction laws. In this work, we investigate nonlinear softening within the Ering…"
+    },
+    {
+      "title": "Competition between thermal pressurization and dilatant strengthening in laboratory ruptures",
+      "link": "https://arxiv.org/abs/2609.29617",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-25T04:00:00.000Z",
+      "excerpt": "arXiv:2609.29617v1 Announce Type: new Abstract: In fluid-saturated faults, thermal pressurization (TP) is predicted to induce rapid weakening, whereas dilatant strengthening (DS) can counteract this process through pore-…"
+    },
+    {
+      "title": "Bayesian full waveform inversion with learned prior using deep convolutional autoencoder",
+      "link": "https://arxiv.org/abs/2511.02737",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-25T04:00:00.000Z",
+      "excerpt": "arXiv:2511.02737v2 Announce Type: replace Abstract: Full waveform inversion (FWI) can be expressed in a Bayesian framework, where the associated uncertainties are captured by the posterior probability distribution (PPD).…"
+    },
+    {
+      "title": "Capturing Unseen Spatial Heat Extremes Through Dependence-Aware Generative Modeling",
+      "link": "https://arxiv.org/abs/2507.09211",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-25T04:00:00.000Z",
+      "excerpt": "arXiv:2507.09211v3 Announce Type: replace-cross Abstract: Observed records of climate extremes provide an incomplete view of plausible hazards, missing \"unseen\" events beyond historical experience. Ignoring spatial depen…"
+    },
+    {
+      "title": "Structure-Driven Inversion: A New Paradigm for Solving Inverse Problems",
+      "link": "https://arxiv.org/abs/2609.16536",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-25T04:00:00.000Z",
+      "excerpt": "arXiv:2609.16536v2 Announce Type: replace-cross Abstract: Inverse problems are predominantly solved within the optimization-driven paradigm, which formulates the problem as objective-function minimization and approaches…"
+    },
+    {
+      "title": "How cities can go greener in a warming climate",
+      "link": "https://phys.org/news/2026-09-cities-greener-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-25T01:40:01.000Z",
+      "excerpt": "VUB researcher Robbe Neyns has developed artificial intelligence capable of identifying trees down to the species level in satellite and aerial imagery. The technology can help cities better map their trees and biodivers…"
+    },
+    {
+      "title": "Why winter cold spells are getting milder",
+      "link": "https://phys.org/news/2026-09-winter-cold-milder.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-25T00:40:01.000Z",
+      "excerpt": "The Beast from the East ravaged much of the U.K. and Europe in February and March 2018, bringing severe storms, snow showers and bitter winds. But as the climate changes, rising average temperatures will affect the sever…"
+    },
+    {
+      "title": "Mapping wildfire risk across the US, day by day",
+      "link": "https://phys.org/news/2026-09-wildfire-day.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-25T00:20:01.000Z",
+      "excerpt": "Wildfires can spread fastest when they tear through areas of dry vegetation. In contrast, vegetation that contains a lot of moisture can slow a wildfire's advance and give firefighting crews precious time to contain the…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4545: Transition Mechanism of Promotion/Inhibition of Ice Accretion on Overhead Ground Wires Under Electric Field Effects",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4545",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-25T00:00:00.000Z",
+      "excerpt": "Ice accretion on overhead ground wires is a significant hazard threatening the safe operation of power systems. The electric field exerts a complex bidirectional effect&amp;mdash;both promoting and inhibiting&amp;mdash;o…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4543: Techno-Economic Capacity Screening of Battery&ndash;Flywheel Storage at a Metro Traction Substation with a Perfect-Information Linear Programming-Based Model Predictive Control (LP-MPC) Benchmark",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4543",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-25T00:00:00.000Z",
+      "excerpt": "Wayside energy storage can recover braking energy and moderate traction substation demand, but a capacity chosen under one dispatch policy may not retain its economic advantage under another. We examine battery&amp;ndash…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3075: Steady Particle Distribution in Microchannel Flows with Entrance-Injected Particles",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3075",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-25T00:00:00.000Z",
+      "excerpt": "Predicting particle distribution in particulate flows commonly requests numerical simulations. The present work aims to develop analytical expressions for steady particle volume fraction in particulate microchannel plane…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3074: Comparative Analysis of Perennial and Annual Rice: Biochemical Composition, Soil Microbiological Diversity, and Agrochemical Characteristics Under the Conditions of Kazakhstan",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3074",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-25T00:00:00.000Z",
+      "excerpt": "This study aimed to comparatively evaluate the physicochemical and biochemical properties of grain and straw from annual and perennial rice cultivated under different soil&amp;ndash;climatic conditions in the Kyzylorda a…"
+    },
+    {
+      "title": "LA fire smoke triggered surge in airborne toxins: How long did they stay?",
+      "link": "https://phys.org/news/2026-09-la-triggered-surge-airborne-toxins.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-24T22:40:03.000Z",
+      "excerpt": "A new study from UCLA provides insights into how the January 2025 Eaton fire affected air quality downwind, showing how levels of toxic airborne contaminants spiked and then dissipated as the burning died down. The resea…"
+    },
+    {
+      "title": "Hurricane Helene deposited nearly one-fifth of annual microplastics at one North Carolina site",
+      "link": "https://phys.org/news/2026-09-hurricane-helene-deposited-annual-microplastics.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-24T22:40:01.000Z",
+      "excerpt": "Rainfall from Hurricane Helene produced a short-term spike in microplastics at three sites in western North Carolina, with microplastic deposition three to 22 times higher than before the storm."
+    },
+    {
+      "title": "Coastal flooding occurs at predictable times, research reveals",
+      "link": "https://phys.org/news/2026-09-coastal-reveals.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-24T21:50:05.000Z",
+      "excerpt": "Coastal flooding may seem unpredictable, a natural disaster that occurs randomly. But UCF researcher Ivan Haigh has found that recurrent coastal floods occur at highly predictable times."
+    },
+    {
+      "title": "More than 60 years of beach survey data reveal the extent of shoreline erosion",
+      "link": "https://phys.org/news/2026-09-years-beach-survey-reveal-extent.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-24T21:50:01.000Z",
+      "excerpt": "The University of Rhode Island has made one of the world's longest-running beach survey efforts available online through Rhode Island Beach Dynamics Over Decades, a new public website."
+    },
     {
       "title": "Scientists map the changing sounds of the Arctic to strengthen global monitoring",
       "link": "https://phys.org/news/2026-09-scientists-arctic-global.html",
@@ -116,62 +268,6 @@
       "excerpt": "Publishing original research in a top-tier academic journal has been an ambition of Arsalaan Ahmad's since he enrolled in an undergraduate computer science program at Cardiff University."
     },
     {
-      "title": "Arctic Sea ice reaches 2026 annual minimum extent",
-      "link": "https://phys.org/news/2026-09-arctic-sea-ice-annual-minimum.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-24T18:20:14.000Z",
-      "excerpt": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square mi…"
-    },
-    {
-      "title": "Greenland ice shelf weakened by estuary ahead of recent calving event",
-      "link": "https://phys.org/news/2026-09-greenland-ice-shelf-weakened-estuary.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-24T17:20:08.000Z",
-      "excerpt": "In August 2026, an iceberg the size of Manhattan broke away from the Petermann Ice Shelf in northern Greenland. It was the glacier's largest calving event since 2020. Long before the breakup, CIRES scientists were develo…"
-    },
-    {
-      "title": "In Alaska, wildfires help prevent future burns. Researchers question if that feedback loop will hold",
-      "link": "https://phys.org/news/2026-09-alaska-wildfires-future-feedback-loop.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-24T17:20:05.000Z",
-      "excerpt": "In Alaska's boreal forests, a negative feedback loop between wildfires and vegetation plays an important role in governing the size and likelihood of fires. Wildfires clear out mature forests, allowing them to be replace…"
-    },
-    {
-      "title": "Hurricane Polo triggers huge waves in coastal Mexican city",
-      "link": "https://phys.org/news/2026-09-hurricane-polo-triggers-huge-coastal.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-24T16:43:04.000Z",
-      "excerpt": "Hurricane Polo swirled menacingly along Mexico's southern coast Thursday, triggering towering waves in a Pacific port city."
-    },
-    {
-      "title": "Family resilience can help protect children from climate change",
-      "link": "https://phys.org/news/2026-09-family-resilience-children-climate.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-24T16:40:10.000Z",
-      "excerpt": "As climate change brings more extreme weather events, strengthening families before disasters strike can help protect children's health and well-being, says Mary McKay, a professor at the Brown School at Washington Unive…"
-    },
-    {
-      "title": "Scientists reconstruct one of this century's most explosive volcanic eruptions to explore its role in a tsunami",
-      "link": "https://phys.org/news/2026-09-scientists-reconstruct-century-explosive-volcanic.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-24T16:10:01.000Z",
-      "excerpt": "In 2022, the eruption and collapse of an underwater volcano in Tonga caused a devastating tsunami that killed four people, disrupted seafloor ecosystems and damaged critical seafloor telecommunications cables. It was one…"
-    },
-    {
-      "title": "Earth's deep secret: Why your day isn't quite 24 hours",
-      "link": "https://phys.org/news/2026-09-earth-deep-secret-day-isnt.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-24T16:00:11.000Z",
-      "excerpt": "You might think the length of a day never varies—exactly 24 hours. You'd be wrong, at least if you count days in milliseconds, as physicists do."
-    },
-    {
       "title": "US EXIM backs Argentina LNG project with potential $6bn financing",
       "link": "https://www.offshore-technology.com/news/us-exim-backs-argentina-lng-project-6bn/",
       "source": "Offshore Technology",
@@ -210,38 +306,6 @@
       "category": "industry",
       "published": "2026-09-24T07:38:01.000Z",
       "excerpt": "Ashtead Technology said that it is reviewing a fresh non-binding takeover proposal from US-based private equity firm Ember Infrastructure Management."
-    },
-    {
-      "title": "3-D thermomechanical geodynamic modelling of heating and volcanism in the Massif Central (France) and Eifel Volcanic Region (Germany)",
-      "link": "https://arxiv.org/abs/2609.27907",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-24T04:00:00.000Z",
-      "excerpt": "arXiv:2609.27907v1 Announce Type: new Abstract: The French Massif Central and the Eifel Volcanic Field represent two of the enigmatic features in France and Germany, respectively. Both areas have been affected by Cenozoi…"
-    },
-    {
-      "title": "Shape matters: DEM investigation of geometry-controlled mechanical response in irregular rock fragments under static and dynamic loading",
-      "link": "https://arxiv.org/abs/2609.28426",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-24T04:00:00.000Z",
-      "excerpt": "arXiv:2609.28426v1 Announce Type: new Abstract: Mechanical characterization of subsurface rock formations typically requires standardized cylindrical core specimens, which are often unavailable from fractured or unconven…"
-    },
-    {
-      "title": "Assessing foundational atomistic models for iron alloys under Earth's core conditions",
-      "link": "https://arxiv.org/abs/2605.13594",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-24T04:00:00.000Z",
-      "excerpt": "arXiv:2605.13594v3 Announce Type: replace Abstract: We assess the capability of recently developed foundational atomistic models (FAMs) to simulate iron alloys under the extreme pressures and temperatures of Earth's core…"
-    },
-    {
-      "title": "Time-Resolved Surface-Fault Displacement During the 2026 Kumamoto Earthquake From Near-Fault Video",
-      "link": "https://arxiv.org/abs/2608.21045",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-24T04:00:00.000Z",
-      "excerpt": "arXiv:2608.21045v3 Announce Type: replace Abstract: Video recordings can reveal how rapidly fault displacement develops at the Earth's surface, but camera motion and recording artifacts can obscure the ground signal. We…"
     },
     {
       "title": "The “big one” might not come alone: Two major West Coast faults may strike back to back",
@@ -332,22 +396,6 @@
       "excerpt": "Power transformers are critical, capital-intensive assets in electricity distribution networks, and their failure disrupts supply while incurring substantial repair costs. Building on an earlier probabilistic analysis of…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4533: Experimental Investigation into the Interactive Effects of Methanol and Potassium Carbonate on Supercritical Water Gasification of Coal",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4533",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-24T00:00:00.000Z",
-      "excerpt": "Supercritical water gasification (SCWG) is a promising technology for the efficient and potentially lower-pollutant conversion of coal. However, char formation caused by the polycondensation of aromatic structures hinder…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4531: Behavioral Determinants of Prosumers&rsquo; Efficiency-Enhancing Changes in Energy Consumption Patterns",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4531",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-24T00:00:00.000Z",
-      "excerpt": "One of the key challenges of the contemporary solar energy market is matching supply and demand. The demand side of this problem largely depends on the difficult-to-predict, individualized, numerous, and dispersed behavi…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3073: Dynamic Condition-Matching Network for End-to-End Machinery Health Monitoring Under Time-Varying Operating Conditions",
       "link": "https://www.mdpi.com/2227-9717/14/19/3073",
       "source": "Processes (MDPI)",
@@ -426,22 +474,6 @@
       "category": "processing",
       "published": "2026-09-24T00:00:00.000Z",
       "excerpt": "The journal retracts the article titled &amp;ldquo;Inverters That Mimic a Synchronous Condenser to Improve Voltage Stability in Power System&amp;rdquo; [...]"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3063: Optimization of Acid Fracturing Treatment Parameters in Ultra-Deep Siliceous Dolomite Reservoir",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3063",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-24T00:00:00.000Z",
-      "excerpt": "The Deng-4 member of Dengying Formation in Penglai gas block is a typical siliceous dolomite rock reservoir. The difficulties on acid fracturing stimulation include: &amp;#9312; Lower siliceous reservoir and upper reserv…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3062: Pore Structure Characteristics and Gas-Bearing Properties of the Deep Longmaxi Formation Shale in the Luzhou Block, Southern Sichuan Basin",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3062",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-24T00:00:00.000Z",
-      "excerpt": "Shale gas exploration and development in the Luzhou area continues to expand into deeper regions, yet a systematic understanding of the pore structure characteristics and gas-bearing properties of the deep shale reservoi…"
     },
     {
       "title": "TotalEnergies, AMNI take FID on Nigeria’s Ima gas field",
@@ -842,38 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
-    },
-    {
-      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
-    },
-    {
-      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Facet-inheritance strategy to enrich Cu(1 0 0) in Cu/ZnO catalyst for high-efficiency CO 2 hydrogenation to methanol",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031698?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Junjie Chi, Ziyue Li, Ruohan Jiang, Dalin Sun, Zhongliang Ma, Fang Fang"
-    },
-    {
-      "title": "The effects of long-arc plasma ignition on flame propagation and buoyancy-induced upward flame displacement of ammonia/air mixtures at elevated pressures",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031467?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Weixin Rong, Yong Hu, Ruijiao Cao, Feiyang Zhao, Wenbin Yu"
     }
   ]
 }
