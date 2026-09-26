@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T11:43:51.515Z",
+  "generatedAt": "2026-09-26T16:43:53.502Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -22,7 +22,7 @@
     {
       "name": "International Journal of Greenhouse Gas Control",
       "ok": true,
-      "count": 81,
+      "count": 82,
       "error": null
     },
     {
@@ -76,6 +76,14 @@
   ],
   "items": [
     {
+      "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-09-26T14:38:02.000Z",
+      "excerpt": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-…"
+    },
+    {
       "title": "Millions in the US Northeast brace for a powerful storm",
       "link": "https://phys.org/news/2026-09-millions-northeast-brace-powerful-storm.html",
       "source": "Phys.org — Earth",
@@ -106,6 +114,30 @@
       "category": "geoscience",
       "published": "2026-09-26T00:00:01.000Z",
       "excerpt": "Wildfires, floods and other extreme weather events are no longer the only ways climate change affects children around the world. Increasingly, it also affects their diets. Droughts reduce agricultural production, floods…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4580: Internal Wall Cooling by Reversed Airflow in Ventilation Ducts After Building Retrofit: A Case Study of a Higher Education Facility",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4580",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-26T00:00:00.000Z",
+      "excerpt": "This study investigated an unusual yet practically significant side effect of the thermal retrofit of educational buildings, namely the intensive cooling of internal walls containing uninsulated ventilation ducts. Malfun…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4579: Construction and Application Analysis of a Security Indicator Framework for New Power Systems from the Perspective of Source&ndash;Grid&ndash;Load&ndash;Storage Coordination",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4579",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-26T00:00:00.000Z",
+      "excerpt": "To address the unclear classification of evaluation targets, insufficient characterization of inter-entity interactions, and the lack of a systematic summary of indicator applications in new power systems under source&am…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4575: Utilization of Life Cycle Analysis as a Method for Assessing Post-Operational Management, Exemplified by a Photovoltaic Power Plant",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4575",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-26T00:00:00.000Z",
+      "excerpt": "The increasing use of photovoltaic (PV) systems necessitates ecologically responsible end-of-life management techniques to reduce resource depletion and environmental consequences. The ReCiPe 2016 life-cycle impact asses…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4576: Energy Consumption and Driving Range Estimation of Catenary-Free Light Rail Vehicles Using an Integrated Model: Case Study of Khon Kaen Red Line Transit System",
@@ -178,6 +210,38 @@
       "category": "energy",
       "published": "2026-09-26T00:00:00.000Z",
       "excerpt": "This paper considers power system flexibility in terms of a case study of electric vehicle charging stations powered by renewable sources. Aggregation of renewable energy sources and electric vehicle charging via remote…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3088: Comparative Assessment of Renewable Hydrogen Production Pathways",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3088",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-26T00:00:00.000Z",
+      "excerpt": "The global transition to low-carbon energy systems has intensified interest in hydrogen as a clean energy carrier. Still, the environmental benefits of using hydrogen as a fuel depend greatly on its production process, a…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3089: Reinforcement Learning-Based Dynamic Optimization Strategy of WAG Flooding with Inter-Well Connectivity for High Water-Cut Reservoirs",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3089",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-26T00:00:00.000Z",
+      "excerpt": "In high water-cut reservoirs, water flooding efficiency declines due to high-permeability channels that aggravate heterogeneity and cause water channeling. Gas flooding technology can improve recovery but is limited by o…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3087: Theoretical Study on the Compatibility Between HFO-1234ze(E) Gas and Ag (1 1 1) Surface",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3087",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-26T00:00:00.000Z",
+      "excerpt": "In gas-insulated equipment, the Ag surfaces of silver-plated contacts are directly exposed to the insulating gas. Poor compatibility between the gas and Ag may therefore compromise the insulation performance and operatio…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3085: Assessment of Voltage Support Capability for Virtual Synchronous Generators",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3085",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-26T00:00:00.000Z",
+      "excerpt": "When droop control of virtual synchronous generators (VSGs) with rotational inertia is adopted in islanded alternating current (AC) microgrids, the coupling mechanism among reactive power loads, control parameters and sy…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3086: Crystallographic Determinants of Cu-Induced Sensitization at Austenite Grain Boundaries in Steel",
@@ -308,30 +372,6 @@
       "excerpt": "US-based Select Water Solutions has agreed to acquire Delaware Basin-focused water midstream company Pilot Water Solutions for $700m."
     },
     {
-      "title": "Energies, Vol. 19, Pages 4567: Research on Parameter Tuning and Optimization Method for Natural Gas Gathering and Transportation Systems Based on Least Squares",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4567",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "As a core surface facility in natural gas development, the operational efficiency of a gas gathering and transportation system depends largely on the precise configuration of its parameters. However, the complex structur…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4568: A Short-Term Load Forecasting Method Based on Complexity-Component Adaptive Decomposition and Locally Gated Mamba",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4568",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "User-level short-term load forecasting is crucial for the efficient operation and dispatch of distribution networks. However, accurate forecasting remains challenging because of pronounced load fluctuations and abrupt lo…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4566: Fast Assessment Method for Transmission-Interface TTC Under N&minus;1 Scenarios",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4566",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "In practical power system operation, equipment maintenance and line outages may cause changes in network topology and power flow redistribution. Therefore, fast assessment of the total transfer capability (TTC) of transm…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3082: Comparative Evaluation of Hydrogen Energy Policy Frameworks in Spain and T&uuml;rkiye: A Public Policy Perspective Using MCDM Methods",
       "link": "https://www.mdpi.com/2227-9717/14/19/3082",
       "source": "Processes (MDPI)",
@@ -370,38 +410,6 @@
       "category": "processing",
       "published": "2026-09-25T00:00:00.000Z",
       "excerpt": "Conventional controllers and standard super-twisting sliding mode controllers (STSMCs) are commonly applied to Modular Multilevel Matrix Converters (M3Cs) in flexible low-frequency power transmission. However, under cond…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3077: Membrane Reactors for Hydrogen Recovery from Chemical Carriers: Recent Advances and Future Perspectives",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3077",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "Hydrogen is expected to play a key role in the transition towards sustainable energy systems, although its storage and transportation remain major barriers to its widespread deployment. Chemical hydrogen carriers, includ…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3076: Reservoir Modeling Assisted with Knowledge-Enhanced Large Language Models",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3076",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "Reservoir simulation is an important technique to characterize subsurface fluid flow and to support reservoir development and production optimization. Conventional reservoir modeling requires engineers to extract model-r…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3075: Steady Particle Distribution in Microchannel Flows with Entrance-Injected Particles",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3075",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "Predicting particle distribution in particulate flows commonly requests numerical simulations. The present work aims to develop analytical expressions for steady particle volume fraction in particulate microchannel plane…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3074: Comparative Analysis of Perennial and Annual Rice: Biochemical Composition, Soil Microbiological Diversity, and Agrochemical Characteristics Under the Conditions of Kazakhstan",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3074",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "This study aimed to comparatively evaluate the physicochemical and biochemical properties of grain and straw from annual and perennial rice cultivated under different soil&amp;ndash;climatic conditions in the Kyzylorda a…"
     },
     {
       "title": "US EXIM backs Argentina LNG project with potential $6bn financing",
@@ -538,14 +546,6 @@
       "category": "geoscience",
       "published": "2026-09-14T03:18:35.000Z",
       "excerpt": "Mount Etna’s ancient eruptions followed radically different paths, with some magma lingering near the surface for weeks while other magma raced upward from nearly 30 kilometers deep in just hours. Scientists traced the d…"
-    },
-    {
-      "title": "Scientists find water was fueling volcanoes 3 billion years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911214305.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-09-13T03:14:19.000Z",
-      "excerpt": "Ancient rocks from Western Australia suggest water was reaching deep inside Earth more than three billion years ago, long before modern plate tectonics may have fully developed. Researchers propose that water-rich pieces…"
     },
     {
       "title": "Tiny nanolaser could cut computer energy use in half",
