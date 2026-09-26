@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T21:48:06.991Z",
+  "generatedAt": "2026-09-26T05:24:30.998Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 8,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Climate crisis is affecting children's nutrition",
+      "link": "https://phys.org/news/2026-09-climate-crisis-affecting-children-nutrition.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-26T00:00:01.000Z",
+      "excerpt": "Wildfires, floods and other extreme weather events are no longer the only ways climate change affects children around the world. Increasingly, it also affects their diets. Droughts reduce agricultural production, floods…"
+    },
     {
       "title": "New tools pinpoint where urban trees could provide the most relief from heat",
       "link": "https://phys.org/news/2026-09-tools-urban-trees-relief.html",
@@ -196,84 +204,12 @@
       "excerpt": "It's already been an intense hurricane season in the Pacific Ocean—and there's still quite a ways to go."
     },
     {
-      "title": "A Survey of Electron Anisotropies in the Magnetosphere: Dependence on Solar Wind Pressure and Kp",
-      "link": "https://arxiv.org/abs/2609.28745",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-25T04:00:00.000Z",
-      "excerpt": "arXiv:2609.28745v1 Announce Type: new Abstract: We present a survey of electron distributions measured by THEMIS within Earth's equatorial magnetosphere at $L$ values $\\le$ 14. Particular attention is focused on the spat…"
-    },
-    {
-      "title": "SPBench: A Multi-Task Evaluation Benchmark for Exploration Seismic Processing",
-      "link": "https://arxiv.org/abs/2609.28925",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-25T04:00:00.000Z",
-      "excerpt": "arXiv:2609.28925v1 Announce Type: new Abstract: Exploration seismic processing underpins subsurface imaging and resource exploration, but learning-based methods remain difficult to compare across studies. Our survey of 3…"
-    },
-    {
-      "title": "A higher--order gradient framework for multi--scale seismic wave propagation",
-      "link": "https://arxiv.org/abs/2609.29502",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-25T04:00:00.000Z",
-      "excerpt": "arXiv:2609.29502v1 Announce Type: new Abstract: Modeling frequency-dependent seismic wave propagation in porous media remains a major challenge because classical poroelastic theories generally require a large number of p…"
-    },
-    {
-      "title": "A micromorphic constitutive framework for (non)linear softening modeling",
-      "link": "https://arxiv.org/abs/2609.29503",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-25T04:00:00.000Z",
-      "excerpt": "arXiv:2609.29503v1 Announce Type: new Abstract: Nonlinear shear softening in soils and rocks is commonly described using empirical modulus-reduction laws. In this work, we investigate nonlinear softening within the Ering…"
-    },
-    {
-      "title": "Competition between thermal pressurization and dilatant strengthening in laboratory ruptures",
-      "link": "https://arxiv.org/abs/2609.29617",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-25T04:00:00.000Z",
-      "excerpt": "arXiv:2609.29617v1 Announce Type: new Abstract: In fluid-saturated faults, thermal pressurization (TP) is predicted to induce rapid weakening, whereas dilatant strengthening (DS) can counteract this process through pore-…"
-    },
-    {
-      "title": "Bayesian full waveform inversion with learned prior using deep convolutional autoencoder",
-      "link": "https://arxiv.org/abs/2511.02737",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-25T04:00:00.000Z",
-      "excerpt": "arXiv:2511.02737v2 Announce Type: replace Abstract: Full waveform inversion (FWI) can be expressed in a Bayesian framework, where the associated uncertainties are captured by the posterior probability distribution (PPD).…"
-    },
-    {
-      "title": "Capturing Unseen Spatial Heat Extremes Through Dependence-Aware Generative Modeling",
-      "link": "https://arxiv.org/abs/2507.09211",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-25T04:00:00.000Z",
-      "excerpt": "arXiv:2507.09211v3 Announce Type: replace-cross Abstract: Observed records of climate extremes provide an incomplete view of plausible hazards, missing \"unseen\" events beyond historical experience. Ignoring spatial depen…"
-    },
-    {
-      "title": "Structure-Driven Inversion: A New Paradigm for Solving Inverse Problems",
-      "link": "https://arxiv.org/abs/2609.16536",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-25T04:00:00.000Z",
-      "excerpt": "arXiv:2609.16536v2 Announce Type: replace-cross Abstract: Inverse problems are predominantly solved within the optimization-driven paradigm, which formulates the problem as objective-function minimization and approaches…"
-    },
-    {
       "title": "How cities can go greener in a warming climate",
       "link": "https://phys.org/news/2026-09-cities-greener-climate.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-09-25T01:40:01.000Z",
       "excerpt": "VUB researcher Robbe Neyns has developed artificial intelligence capable of identifying trees down to the species level in satellite and aerial imagery. The technology can help cities better map their trees and biodivers…"
-    },
-    {
-      "title": "Why winter cold spells are getting milder",
-      "link": "https://phys.org/news/2026-09-winter-cold-milder.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-25T00:40:01.000Z",
-      "excerpt": "The Beast from the East ravaged much of the U.K. and Europe in February and March 2018, bringing severe storms, snow showers and bitter winds. But as the climate changes, rising average temperatures will affect the sever…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4567: Research on Parameter Tuning and Optimization Method for Natural Gas Gathering and Transportation Systems Based on Least Squares",
@@ -404,20 +340,20 @@
       "excerpt": "Antimony (Sb) contamination in groundwater, drinking water, and industrial wastewater is of growing concern because its mobility, toxicity, and treatability depend strongly on oxidation state and water chemistry. This re…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3077: Membrane Reactors for Hydrogen Recovery from Chemical Carriers: Recent Advances and Future Perspectives",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3077",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "Hydrogen is expected to play a key role in the transition towards sustainable energy systems, although its storage and transportation remain major barriers to its widespread deployment. Chemical hydrogen carriers, includ…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3078: Dual-Terminal Third-Order Super-Twisting Sliding Mode Control of M3C for Low-Frequency Transmission",
       "link": "https://www.mdpi.com/2227-9717/14/19/3078",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-09-25T00:00:00.000Z",
       "excerpt": "Conventional controllers and standard super-twisting sliding mode controllers (STSMCs) are commonly applied to Modular Multilevel Matrix Converters (M3Cs) in flexible low-frequency power transmission. However, under cond…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3077: Membrane Reactors for Hydrogen Recovery from Chemical Carriers: Recent Advances and Future Perspectives",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3077",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-25T00:00:00.000Z",
+      "excerpt": "Hydrogen is expected to play a key role in the transition towards sustainable energy systems, although its storage and transportation remain major barriers to its widespread deployment. Chemical hydrogen carriers, includ…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3076: Reservoir Modeling Assisted with Knowledge-Enhanced Large Language Models",
@@ -874,6 +810,70 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Optimizing operating conditions of swirl-assisted colorless distributed combustion of ammonia/hydrogen mixtures for enhanced thermal and emission performance",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032102?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Ozan Kekul, Zafer Sahin, Hakan Ozcan, M.Sami Guler, Serhat Karyeyen"
+    },
+    {
+      "title": "Study on the rheological model of waxy crude oil under various shear loading conditions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126026682?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Liping Guo, Jiajun Zhang, Lei Wang, Chenzi Shi, Baojun Liu"
+    },
+    {
+      "title": "Experimental study on inhibition mechanism of composite inhibitors for coal spontaneous combustion at critical temperature",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031686?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Bing Lu, Junhao Zhang, Xun Zhang, Ling Qiao, Yan Xing, Cong Ding, Junyan Shao, Xiaogang Mu, Ge Huang"
+    },
+    {
+      "title": "Selenized Pseudo-Core-Shell electrocatalysts of Ni@Cu x Se/CC for highly selective CO 2 -to-ethanol conversion",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032035?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Yuyi Huang, Yuxue Zhou, Zhicheng Yao, Tianshun Cai, Yaoan Shi, Wei Wang"
+    },
+    {
+      "title": "Environmental performance of hydrogen production via eucalyptus biomass gasification and natural gas steam reforming: A life cycle assessment approach",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032333?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Samuel Alberto Ouana, Marcio Montagnana Vicente Leme, Adriano Viana Ensinas, Rafael Silva Capaz, Ana Daniela Santos"
+    },
+    {
+      "title": "Parametric study of injection strategy and two injector layouts for a large low-speed marine HPDI methanol engine",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032400?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Daoyi Lu, Kun Wang, Zeren Liu, Huaiyu Wang, Keying Cui, Huibing Gan"
     }
   ]
 }
