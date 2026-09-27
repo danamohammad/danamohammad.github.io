@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T21:30:25.519Z",
+  "generatedAt": "2026-09-27T05:41:09.922Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Why AI has trouble predicting the fury of hurricane intensity",
+      "link": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-27T00:30:01.000Z",
+      "excerpt": "Artificial intelligence has revolutionized weather forecasting in just a few years, with global AI weather models now able to produce forecasts that rival some of the world's best physics-based prediction systems."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4581: Reliability Test of Closed Crakcase Ventilation System in Industrial NG Lean Burn Engine",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4581",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "This study evaluates the reliability of a Closed Crankcase Ventilation (CCV) system installed on a Caterpillar G3516ULB four-stroke lean-burn natural gas (NG) industrial engine. A year of testing was conducted at a compr…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3091: Design of a Two-Stage Emergency Control Strategy with Energy Storage and Transmission Line Thermal Dynamics for Large-Scale New Energy Base Power Export",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3091",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "In the context of large-scale integration and long-distance power export of new energy bases, the strong volatility and uncertainty of wind and solar generation intensify the operational risks of the power grid under ext…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3090: CFD Simulation and Experimental Study on the Impact of RPB Structure on the Dissolution of Non-Newtonian Polymer Fluids",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3090",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "Polymer flooding is one of the effective technologies for enhanced oil recovery (EOR) in offshore oilfields. However, traditional polymer maturation tanks are large in volume, heavy in weight, and slow in dissolution rat…"
+    },
     {
       "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
       "link": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
@@ -202,14 +234,6 @@
       "category": "energy",
       "published": "2026-09-26T00:00:00.000Z",
       "excerpt": "Hydrogen fuel cell hybrid trains are normally sized so that the fuel cell supplies the average or base power demand, while the traction battery accommodates short-duration power transients and regenerative braking. Even…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4569: Power System Flexibility in Market Conditions: Aggregation of EV Charging Station Powered by Renewable Sources",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4569",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-26T00:00:00.000Z",
-      "excerpt": "This paper considers power system flexibility in terms of a case study of electric vehicle charging stations powered by renewable sources. Aggregation of renewable energy sources and electric vehicle charging via remote…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3088: Comparative Assessment of Renewable Hydrogen Production Pathways",
@@ -340,14 +364,6 @@
       "excerpt": "Scientists have captured a subduction zone off Vancouver Island in the process of tearing itself apart, revealing that these massive tectonic systems may die piece by piece rather than all at once. The discovery could he…"
     },
     {
-      "title": "Nigeria faces world's highest projected heat death toll from super El Niño",
-      "link": "https://phys.org/news/2026-09-nigeria-world-highest-death-toll.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-25T12:20:02.000Z",
-      "excerpt": "Researchers at the University of Chicago's Climate Impact Lab combined temperature forecasts with research on how heat affects death rates in more than 24,000 regions worldwide and found that the super El Niño could caus…"
-    },
-    {
       "title": "Vietnam’s BSR inks crude oil supply agreement with ExxonMobil",
       "link": "https://www.offshore-technology.com/news/bsr-crude-supply-agreement-exxonmobil/",
       "source": "Offshore Technology",
@@ -394,22 +410,6 @@
       "category": "processing",
       "published": "2026-09-25T00:00:00.000Z",
       "excerpt": "Shale oil, despite its substantial reserves and significant development potential, presents a great extraction challenge. The existence of micro- and nanopores within shale formations renders conventional recovery method…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3079: Speciation- and Matrix-Controlled Removal of Antimony from Water: A Review of Treatment Technologies",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3079",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "Antimony (Sb) contamination in groundwater, drinking water, and industrial wastewater is of growing concern because its mobility, toxicity, and treatability depend strongly on oxidation state and water chemistry. This re…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3077: Membrane Reactors for Hydrogen Recovery from Chemical Carriers: Recent Advances and Future Perspectives",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3077",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "Hydrogen is expected to play a key role in the transition towards sustainable energy systems, although its storage and transportation remain major barriers to its widespread deployment. Chemical hydrogen carriers, includ…"
     },
     {
       "title": "US EXIM backs Argentina LNG project with potential $6bn financing",
