@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T12:24:17.180Z",
+  "generatedAt": "2026-09-27T17:15:20.840Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,14 @@
   ],
   "items": [
     {
+      "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-09-27T11:55:50.000Z",
+      "excerpt": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open sea…"
+    },
+    {
       "title": "Powerful storm pummels Northeast US with rain, high winds",
       "link": "https://phys.org/news/2026-09-powerful-storm-pummels-northeast-high.html",
       "source": "Phys.org — Earth",
@@ -90,6 +98,30 @@
       "category": "geoscience",
       "published": "2026-09-27T00:30:01.000Z",
       "excerpt": "Artificial intelligence has revolutionized weather forecasting in just a few years, with global AI weather models now able to produce forecasts that rival some of the world's best physics-based prediction systems."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4589: Indirect&nbsp;Measurement of Photovoltaic Module Temperature Using Open-Circuit Voltage Under Variable Irradiance",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4589",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "The operating temperature of a photovoltaic module strongly affects its electrical performance, while direct temperature measurements may be influenced by sensor placement, thermal resistance, and measurement delay. This…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4588: Physics-Guided and Data-Driven Fusion Framework for Tree Species Identification in Tree-Caused High-Impedance Faults",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4588",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "Tree-induced single-phase high-impedance faults (THIFs) threaten the reliability of distribution networks because their fault currents typically fall below the operating thresholds of conventional overcurrent relays. Acc…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4587: Computational Fluid Dynamics Modeling of Oscillating Water Column with Wells Turbine and Permanent Magnet Synchronous Generator for the Gulf of Thailand",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4587",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "The Gulf of Thailand presents a mild but consistent wave energy resource that remains largely untapped. This study investigates the hydrodynamic and aerodynamic performance of a breakwater-integrated Oscillating Water Co…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4585: An Improved Informer-Based Load Forecasting Method Incorporating Electricity Consumption Profiling",
@@ -258,30 +290,6 @@
       "category": "energy",
       "published": "2026-09-26T00:00:00.000Z",
       "excerpt": "The increasing use of photovoltaic (PV) systems necessitates ecologically responsible end-of-life management techniques to reduce resource depletion and environmental consequences. The ReCiPe 2016 life-cycle impact asses…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4576: Energy Consumption and Driving Range Estimation of Catenary-Free Light Rail Vehicles Using an Integrated Model: Case Study of Khon Kaen Red Line Transit System",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4576",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-26T00:00:00.000Z",
-      "excerpt": "Battery-powered catenary-free light rail vehicles (CF-LRVs) are increasingly adopted as sustainable urban transport solutions, offering advantages such as the elimination of overhead catenary infrastructure, reduced visu…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4578: Parameter Importance Ranking of a Heat Pump&ndash;Organic Rankine Cycle Pumped Thermal Energy Storage System: A Weighted Neighborhood Rough Set Feature Selection",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4578",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-26T00:00:00.000Z",
-      "excerpt": "Industrial waste heat and renewable thermal sources below 350 &amp;deg;C can be stored and dispatched through heat pump&amp;ndash;organic Rankine cycle (HP-ORC) pumped thermal energy storage (PTES), yet its performance i…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4577: Partial Discharge Evolution Toward Surface Flashover in a Resin-Impregnated Paper Bushing Core Under Combined AC&ndash;DC Voltage",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4577",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-26T00:00:00.000Z",
-      "excerpt": "Partial-discharge (PD) evolution toward surface flashover in resin-impregnated paper (RIP) bushing cores was investigated through experiments and an idealized electroquasistatic calculation. Two independent 40.5 kV cores…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3088: Comparative Assessment of Renewable Hydrogen Production Pathways",
@@ -540,14 +548,6 @@
       "excerpt": "A World War I submarine wreck off Denmark is leaking TNT into the surrounding water, seabed, and marine life more than a century after it sank. Scientists warn that thousands of similar wrecks could pose growing environm…"
     },
     {
-      "title": "One Mount Etna eruption took weeks. Another happened in hours",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220100.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-09-14T03:18:35.000Z",
-      "excerpt": "Mount Etna’s ancient eruptions followed radically different paths, with some magma lingering near the surface for weeks while other magma raced upward from nearly 30 kilometers deep in just hours. Scientists traced the d…"
-    },
-    {
       "title": "Tiny nanolaser could cut computer energy use in half",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -660,6 +660,22 @@
       "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Houfeng He, Yun Han, Yifei Guo, Shun Liu, Shibao Yuan, Jianbin Liu, Xin Chen, Pengcheng Liu"
     },
     {
+      "title": "Mechanism of gas drainage enhancement of pulsating hydraulic fracturing in the deep soft-hard heterogeneous coal seam with low permeability and it's application",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004732?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Chaojie Wang, Yanwei Zhang, Chaofan Ge, Bingwei Nan, Buzhuang Zhou, Xiaowei Li, Changhang Xu"
+    },
+    {
+      "title": "Numerical modeling of CO 2 fracturing based on the phase-field-cohesive zone method for thermo-hydro-mechanical coupling",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004811?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Xun Gong, Zhijun Jin, Xinhua Ma, Yuyang Liu, Chunyang Hong"
+    },
+    {
       "title": "Multifracture effect on pressure transient from water hammer fracturing diagnostics: A new comprehensive simulation model and time-frequency characteristics analysis",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004082?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -714,22 +730,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): I. Lizarraga, D. Alonso de Mezquia, A. Mialdun, V. Shevtsova, M.M. Bou-Ali"
-    },
-    {
-      "title": "Quantifying the impact of residual oil zone simulation initialization on CO 2 storage and recovery forecasts and proposing a physically consistent solution",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004616?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Ahmed Wagia-Alla, Eric J. Mackay, Saeed Ghanbari, Arne Skauge"
-    },
-    {
-      "title": "Machine learning-based model for predicting corrosion depth and permeability of cement stone in complex CO 2 environments",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004689?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Kaijun Li, Jianxun Jiang, Jincheng Mao, Xingyuan Wu, Jingguo Du, Shuo Yang, Haixin Jin"
     },
     {
       "title": "A review of vertical closed-loop geothermal heating and cooling systems with an Emphasis on the importance of the subsurface",
