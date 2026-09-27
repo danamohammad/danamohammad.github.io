@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T05:41:09.922Z",
+  "generatedAt": "2026-09-27T12:24:17.180Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,14 @@
   ],
   "items": [
     {
+      "title": "Powerful storm pummels Northeast US with rain, high winds",
+      "link": "https://phys.org/news/2026-09-powerful-storm-pummels-northeast-high.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-27T10:40:01.000Z",
+      "excerpt": "Heavy rain and strong winds battered the northeastern United States on Sunday as an unusually powerful autumn storm intensified, leaving tens of thousands without power. U.S. media reported one person dead."
+    },
+    {
       "title": "Why AI has trouble predicting the fury of hurricane intensity",
       "link": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
       "source": "Phys.org — Earth",
@@ -84,12 +92,92 @@
       "excerpt": "Artificial intelligence has revolutionized weather forecasting in just a few years, with global AI weather models now able to produce forecasts that rival some of the world's best physics-based prediction systems."
     },
     {
+      "title": "Energies, Vol. 19, Pages 4585: An Improved Informer-Based Load Forecasting Method Incorporating Electricity Consumption Profiling",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4585",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "Accurate demand-side load forecasting is essential for reliable power system operation, energy management, and demand-side decision-making. However, heterogeneous electricity-use behavior among residential users and mult…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4586: Multi-Objective Optimisation of a Spanish Energy Community Powered by Renewable Energy-Based Electric Vehicle Charging Facilities",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4586",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "The Energy Community (EC) can play an essential role in collective energy sharing and management by maximising on-site energy use among its members (i.e., consumers, producers, and prosumers). ECs can play a pivotal role…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4583: Platform Pitch Velocity Coupling in a Two-Body Aero-Hydro-Servo-Elastic Model for Floating Offshore Wind Turbines",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4583",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "Floating Conventional models for floating offshore wind turbines (FOWTs) typically treat the floating platform and turbine assembly as a single rigid body, obscuring the dynamic coupling between platform motions and roto…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4584: Machine Learning-Based Dispatch Optimization of a Molten-Salt Concentrating Solar Power Plant Using Day-Ahead Electricity Price Forecasting",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4584",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "The energy transition poses substantial challenges for all actors in modern power systems, where the output of key renewable technologies is weather-dependent and electricity prices are increasingly volatile. This work p…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4582: Deep Learning-Based Optimal Power Flow Algorithm with Grid Topology-Variation Perception",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4582",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "With the increasing penetration of renewable energy resources and the continuous diversification of power system operating conditions, data-driven methods are becoming an important means for real-time optimal power flow…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4581: Reliability Test of Closed Crakcase Ventilation System in Industrial NG Lean Burn Engine",
       "link": "https://www.mdpi.com/1996-1073/19/19/4581",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-09-27T00:00:00.000Z",
       "excerpt": "This study evaluates the reliability of a Closed Crankcase Ventilation (CCV) system installed on a Caterpillar G3516ULB four-stroke lean-burn natural gas (NG) industrial engine. A year of testing was conducted at a compr…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3096: Effect of Equal Channel Angular Pressing Parameters on Grain Refinement for Magnesium and Its Alloys: A Review",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3096",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "Equal Channel Angular Pressing (ECAP) technique is widely used to refine grains in metallic materials, including magnesium and its alloys. This paper reviews the grain refinement data for various magnesium alloys achieve…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3094: Development and Characterization of Biomaterials Produced with Fungal Mycelium on Agroindustrial Residues",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3094",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "Production of synthetic plastics has increased substantially and shows no global signs of decline despite environmental concerns; today, annual production exceeds 450 million tons. In the search for more sustainable alte…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3095: Composition and Distribution Characteristics of Volatile Products from the Rapid Pyrolysis of Refinery Water Treatment Sludge",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3095",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "Refinery water treatment sludge (RWTS) is a hazardous organic waste that requires effective treatment prior to disposal, yet its resource potential remains underexplored. In this work, the physicochemical properties and…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3093: A Review of In Situ Pyrolysis Technologies, Kinetics and Influencing Factors for Oil Shale Based on Thermogravimetric Analysis",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3093",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "As a vital unconventional oil and gas resource, the efficient exploitation of oil shale relies on breakthroughs in pyrolysis conversion technologies. Based on thermogravimetric analysis and related thermal analysis studi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3092: Energy Recovery from Biogas at Wastewater Treatment Plants in Sorocaba, S&atilde;o Paulo, Brazil: A Comparison Between UASB and Activated Sludge Systems for Electric Energy and H2 Production",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3092",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-27T00:00:00.000Z",
+      "excerpt": "This work examined, across a 20-year horizon, how much energy could be recovered from the biogas generated at UASB reactors versus an from an activated sludge process system (ASPS) treating wastewater in Sorocaba (SP, Br…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3091: Design of a Two-Stage Emergency Control Strategy with Energy Storage and Transmission Line Thermal Dynamics for Large-Scale New Energy Base Power Export",
@@ -196,46 +284,6 @@
       "excerpt": "Partial-discharge (PD) evolution toward surface flashover in resin-impregnated paper (RIP) bushing cores was investigated through experiments and an idealized electroquasistatic calculation. Two independent 40.5 kV cores…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4573: Correlating Spatial and Dynamic Responses of a Precessing Vortex Under Multi-Jet Actuation",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4573",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-26T00:00:00.000Z",
-      "excerpt": "The precessing vortex core (PVC) in the draft tube of a Francis turbine at part load produces severe pressure pulsations that threaten structural integrity. Efficient active control of PVC demands an understanding of how…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4574: Allocating Wood-Processing Residues Between Material and Bioenergy Uses: A Sequential Decision Framework",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4574",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-26T00:00:00.000Z",
-      "excerpt": "Wood-processing residues can support both circular material use and bioenergy, but gross residue generation is not equivalent to additional energy availability. This review develops a literature-derived sequential framew…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4572: Two-Layer Collaborative Optimization for Multi-Period Fault Recovery in Active Distribution Networks with Fast Decomposition",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4572",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-26T00:00:00.000Z",
-      "excerpt": "With the increasing integration of distributed generation, energy storage, and flexible loads, active distribution networks have gained multiple fault-recovery options, including network reconfiguration, islanded operati…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4571: Short-Term Load Forecasting in Smart Distribution Networks: A Systematic Review of Data Analytics, Clustering Techniques, and Forecasting Models",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4571",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-26T00:00:00.000Z",
-      "excerpt": "The operation and management of Smart Distribution Networks (SDNs) heavily relies on the Short-Term Load Forecasting (STLF) function in the context of Demand-Side Management (DSM), Distributed Energy Resource (DER) integ…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4570: A Feedforward Power Coordination Control Strategy for Hydrogen Fuel Cell Hybrid Trains Considering Dynamic Response Delay",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4570",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-26T00:00:00.000Z",
-      "excerpt": "Hydrogen fuel cell hybrid trains are normally sized so that the fuel cell supplies the average or base power demand, while the traction battery accommodates short-duration power transients and regenerative braking. Even…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3088: Comparative Assessment of Renewable Hydrogen Production Pathways",
       "link": "https://www.mdpi.com/2227-9717/14/19/3088",
       "source": "Processes (MDPI)",
@@ -274,22 +322,6 @@
       "category": "processing",
       "published": "2026-09-26T00:00:00.000Z",
       "excerpt": "Residual copper in recycled steel scrap causes surface hot shortness during high-temperature reheating: a copper-rich liquid forms at the scale&amp;ndash;metal interface and infiltrates prior austenite grain boundaries (…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3083: Fiber&ndash;Obstacle Interaction in a Shear Flow",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3083",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-26T00:00:00.000Z",
-      "excerpt": "Fiber&amp;ndash;obstacle interactions are important in refining processes, where fibers interact with solid surfaces under shearing flow. In this study, a coupled CFD&amp;ndash;DEM approach is used to investigate the eff…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3084: Quantifying the Sustainability of Oil Production from Native Avocado in Northern Colombia via SWROIM Approach",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3084",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-26T00:00:00.000Z",
-      "excerpt": "The Colombian Caribbean region has favorable conditions for Creole-Antillean avocado production, providing an agro-industrial feedstock with potential for value-added oil processing. This study evaluates the process-leve…"
     },
     {
       "title": "New tools pinpoint where urban trees could provide the most relief from heat",
@@ -348,14 +380,6 @@
       "excerpt": "Climate change is bringing extreme summer heat to many more countries, but using the right plants in your garden could help keep your home a bit cooler next summer."
     },
     {
-      "title": "September's ozone hole was the biggest in 20 years",
-      "link": "https://phys.org/news/2026-09-september-ozone-hole-biggest-years.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-25T12:40:05.000Z",
-      "excerpt": "The area covered by the Antarctic ozone hole peaked at more than 27 million square kilometers (10.4 million square miles) in September, the second-largest area ever observed for this time of year."
-    },
-    {
       "title": "Earth is tearing apart beneath the Pacific Northwest",
       "link": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
       "source": "ScienceDaily — Geology",
@@ -386,30 +410,6 @@
       "category": "industry",
       "published": "2026-09-25T08:04:45.000Z",
       "excerpt": "US-based Select Water Solutions has agreed to acquire Delaware Basin-focused water midstream company Pilot Water Solutions for $700m."
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3082: Comparative Evaluation of Hydrogen Energy Policy Frameworks in Spain and T&uuml;rkiye: A Public Policy Perspective Using MCDM Methods",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3082",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "Hydrogen is increasingly recognized as a key component of the low-carbon energy transition and has become an important element of national energy strategies worldwide. Despite the growing interest in hydrogen development…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3080: Development, Characterization, and Statistical Evaluation of Functional Snacks Based on Microalgae, Quinoa, and Lucuma Using Extrusion Processes",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3080",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "This study evaluated the effect of twin-screw extrusion parameters on the nutritional, physical, and in vitro antioxidant properties of functional snacks formulated with quinoa, lucuma, and spirulina flours. A fractional…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3081: CO2 Extraction of Shale Oil from Nanoscale Variable-Diameter Blind Pores from a Molecular Dynamic Perspective",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3081",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-25T00:00:00.000Z",
-      "excerpt": "Shale oil, despite its substantial reserves and significant development potential, presents a great extraction challenge. The existence of micro- and nanopores within shale formations renders conventional recovery method…"
     },
     {
       "title": "US EXIM backs Argentina LNG project with potential $6bn financing",
@@ -828,52 +828,52 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
-      "title": "Construction of multi-field coupling model based on desorption hysteresis effect and response mechanism of CBM extraction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032321?dgcid=rss_sd_all",
+      "title": "From pore-scale mechanisms to hydraulic-work analysis: a microfluidic study of CO 2 -EOR via WAG, FWAG, and PWAG",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031984?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Ziwen Li, Zhenhao Huang, Wei Yang, Zhiyong Hao, Yabin Gao, Fazhi Yan"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Wenlian Xiao, Yuhao Zhang, Majid Hassanizadeh, Qichao Xie, Zhengping Ling, Chaozhong Qin, Yu Xu, Lingli Zheng, Yanbing Tang"
     },
     {
-      "title": "Effect of the dynamic pore structure parameter changes on coal particle gas desorption during pulverization: Implications for estimation of underground gas loss",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032126?dgcid=rss_sd_all",
+      "title": "High-performance thin film nanocomposite membrane prepared from 2D ZIF-67 nanosheets and Pebax for natural gas dehydration",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032382?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Jie Zhang, Yuanping Cheng, Ming Cheng, Jilin Yin, Shijie Li, Minghao Yi, Zhuang Lu"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Ruyun Yan, Siding Chen, Qing Li, Zhe Zhang, Weiyuan Liang, Xinyu Wang, Lu Yao, Lin Yang, Wenju Jiang, Junfeng Zheng, Hongyan Zhang, Zhongde Dai"
     },
     {
-      "title": "Chemical recycling of polycarbonate and biodiesel synthesis catalyzed over Brønsted acid sites of ionic POMs: waste to valuable chemicals",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032138?dgcid=rss_sd_all",
+      "title": "Synergistic effect of mesoporosity and basicity in calcium aluminate catalysts on catalytic cracking of medium–low temperature coal tar to light olefins",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032357?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Kacper Pobłocki, Patrycja Jutrzenka Trzebiatowska, Katarzyna N. Jarzembska, Radosław Kamiński, Olena Tynkevych, Kinga Góra-Marek, Dagmara Jacewicz"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Jie Li, Jian Li, Qi Li, Wenshuo Ma, Shuya Li, Hao Zhang, Dan Luo, Jingwu Wei, Jingxian Wang, Yingyun Qiao, Yuanyu Tian"
     },
     {
-      "title": "Effects of hydrogen addition on laminar burning velocity and nitrogen oxide emissions of ammonia flames",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031327?dgcid=rss_sd_all",
+      "title": "Influence of stress environment on displacement-adsorption behavior during enhanced coalbed methane recovery: Insights from CT characterization of coal Pore-Fracture structures",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032448?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Mansour Almazroui, Q Alkhawlani, Salah Sabeeh, Mohammad Alanber, Adel Abdullah Abbas, Sameer Algburi"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Ye Tian, Lei Zhang, Liang Yuan, Ting Ren, Jinghua Li, He Tian, Songzhao Li, Zhongbei Li"
     },
     {
-      "title": "Ni/Cr metal foam alloy catalyst for heat transfer intensification in the dehydrogenation of Dodecahydro-N-ethylcarbazole",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031364?dgcid=rss_sd_all",
+      "title": "Temperature-dependent mineral-mediated char–NO reduction by cattle manure char: mineral-assisted promotion and ash-related attenuation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032205?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Bo Wang, Xinlong Zhao, Juan Xiao, Bin Wang, Xiang Gong, Fusheng Yang, Tao Fang"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Myung Chul Shin, Yu Jeong Kim, Hee Sun Youn, Jin Ki Lee, Jongsup Hong, Jungho Hwang"
     },
     {
-      "title": "Performance, combustion, and emissions characterisation of a 100 % methanol-fuelled compression ignition engine",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612602956X?dgcid=rss_sd_all",
+      "title": "Experimental study on the effect of secondary air parameters on flame characteristics during high-temperature gas-solid combustion",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032266?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Shashank Shekhar, Avinash Kumar Agarwal"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Xuezhen Qin, Yingjie Wang, Qinlin Gong, Yu Lu, Neng Fang, Wei Li, Qiangqiang Ren"
     }
   ]
 }
