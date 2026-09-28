@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:25:54.952Z",
+  "generatedAt": "2026-09-28T23:28:39.099Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,12 +76,60 @@
   ],
   "items": [
     {
-      "title": "Hurricane Polo approaches Mexico, threatens severe damage",
+      "title": "European rivers are improving, but not fast enough to meet 2030 goals",
+      "link": "https://phys.org/news/2026-09-european-rivers-fast-goals.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-28T22:20:01.000Z",
+      "excerpt": "The quality of European rivers has improved in recent years, but not at the pace required to meet the environmental targets set for 2030. This is one of the main conclusions of a study led by researchers María Pachés Gin…"
+    },
+    {
+      "title": "More damaged trees mean fewer ecosystem benefits for low-income residents",
+      "link": "https://phys.org/news/2026-09-trees-ecosystem-benefits-income-residents.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-28T20:20:10.000Z",
+      "excerpt": "Maya Mangala-Munuma '25 first noticed it in her hometown of Grand Rapids, Michigan. When she walked from an affluent neighborhood to a more impoverished one, it wasn't just the houses and demographics that changed. The t…"
+    },
+    {
+      "title": "Road testing: Research team studies potholes in quest for better asphalt sustainability",
+      "link": "https://phys.org/news/2026-09-road-team-potholes-quest-asphalt.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-28T20:00:09.000Z",
+      "excerpt": "A Missouri S&T research team is studying asphalt binders, the materials that hold road materials together, to better understand how they perform and help improve the durability of Missouri's roads. Because roads are cons…"
+    },
+    {
+      "title": "Yemen's Houthis move to control crucial waterway—our research maps the countries most at risk",
+      "link": "https://phys.org/news/2026-09-yemen-houthis-crucial-waterway-countries.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-28T16:40:01.000Z",
+      "excerpt": "The advance of the Iran-aligned Houthi rebel group in Yemen has driven more than 130,000 people from their homes since the beginning of September, deepening the humanitarian crisis in an already poor country with a long…"
+    },
+    {
+      "title": "Halting plastic flows into oceans by 2050 may not stop microplastic buildup",
+      "link": "https://phys.org/news/2026-09-halting-plastic-oceans-microplastic-buildup.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-28T15:20:05.000Z",
+      "excerpt": "Halting new marine plastic inputs by 2050 is the core objective of the Osaka Blue Ocean Vision, which was shared and endorsed alongside the G20 Implementation Framework for Actions on Marine Plastic Litter. However, stop…"
+    },
+    {
+      "title": "Climate risks don't stop at sector boundaries—our responses shouldn't either",
+      "link": "https://phys.org/news/2026-09-climate-dont-sector-boundaries-responses.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-28T14:40:01.000Z",
+      "excerpt": "Australia's first mandatory climate reporting regime is now upon us. Since January 2025, organizations across the economy have been required to comply with AASB S2. It requires organizations to assess their climate risks…"
+    },
+    {
+      "title": "Hurricane Polo approaches Mexico, threatens 'severe' damage",
       "link": "https://phys.org/news/2026-09-hurricane-polo-approaches-mexico-threatens.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-09-28T13:20:20.000Z",
-      "excerpt": "Hurricane Polo is expected to make landfall Monday in a small town on Mexico's Pacific coast, where authorities expect heavy rain and severe damage."
+      "excerpt": "Strong winds battered Mexico's Baja California peninsula on Monday ahead of the arrival of Hurricane Polo, a major El Niño-charged storm expected to cause severe damage along the Pacific coast."
     },
     {
       "title": "Shearwater wins seabed node survey contract in South America",
@@ -180,6 +228,22 @@
       "excerpt": "arXiv:2609.31464v1 Announce Type: new Abstract: Sites hosting strong-motion stations in the Central and Eastern United States are commonly characterized using proxy-based parameters, limiting the ability to identify the…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4605: Carbon Pricing and Coal Displacement in the European Union: Complementarity Between Price Signals and Phase-Out Commitments, 2005&ndash;2024",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4605",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-28T00:00:00.000Z",
+      "excerpt": "Whether the European Union Emissions Trading System has influenced the composition of electricity generation remains contested, and the evidence rests largely on aggregate European time series in which carbon prices and…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4604: Equal Increment Rate Optimization for Power System Stochastic Optimal Power Flow with Carbon Footprint Quantification and Optimal Carbon Trading",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4604",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-28T00:00:00.000Z",
+      "excerpt": "High shares of wind and solar power make generation outputs strongly random. Traditional stochastic optimal power flow (SOPF) also lacks power&amp;ndash;carbon coordination. Low-carbon constraints are often disconnected…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4603: A Resilience Enhancement Method for Distribution Networks Under Extreme-Event Scenarios Considering Flexible Interconnection via Energy Routers",
       "link": "https://www.mdpi.com/1996-1073/19/19/4603",
       "source": "Energies (MDPI)",
@@ -220,20 +284,20 @@
       "excerpt": "With the global energy transition and the increasing use of renewable energy, coal-fired power plants are shifting from baseload generation toward flexible operation for load following and frequency regulation. However,…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4598: Design and Experimental Validation of an Adjustable High-Voltage Test Fixture for Dielectric Strength Characterization of Magnesium Oxide Powder",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4598",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Magnesium oxide (MgO) powder is widely used as an electrical insulating medium in high-temperature electrical systems; however, reproducible dielectric breakdown characterization remains challenging because the measured…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4597: Analysis of the Start-Up of a Wound-Rotor Induction Motor with an Eddy-Current Starter",
       "link": "https://www.mdpi.com/1996-1073/19/19/4597",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-09-28T00:00:00.000Z",
       "excerpt": "This paper presents an integer and fractional-order Park&amp;rsquo;s model of a wound-rotor induction motor with a three-phase eddy-current starter incorporated into the rotor circuit. The integer-order model is describe…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4598: Design and Experimental Validation of an Adjustable High-Voltage Test Fixture for Dielectric Strength Characterization of Magnesium Oxide Powder",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4598",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-28T00:00:00.000Z",
+      "excerpt": "Magnesium oxide (MgO) powder is widely used as an electrical insulating medium in high-temperature electrical systems; however, reproducible dielectric breakdown characterization remains challenging because the measured…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4596: Development and Experimental Field Validation of an Arduino- Based Condition Monitoring System for Heliostat Drive Units",
@@ -260,20 +324,36 @@
       "excerpt": "Accurate photovoltaic (PV) power forecasting is essential for renewable energy integration, dynamic reserve allocation, and generation scheduling. Unpredicted generation ramps induce substantial voltage and frequency dev…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4593: Field-Test-Based Heat-Loss and Resolved Exergy-Loss Assessment of a 660 MW Ultra-Supercritical Boiler Under Variable Load",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4593",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3116: Sparse-Positive Outage Anomaly Ranking in Power Distribution Telemetry Using Positive-Unlabeled Similarity and Graph Propagation",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3116",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Flexible operation alters the thermodynamic performance of coal-fired boilers, but conventional heat-loss indicators do not fully describe the quality of energy discharged from the system. This study evaluates a 660 MW u…"
+      "excerpt": "Few outages have confirmed labels in power distribution data, which makes anomaly ranking difficult. Semi-Supervised Local Outlier Factor with Positive-Unlabeled Learning (SSLOF-PU) combines local density with similarity…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4592: Numerical Investigation of Cavitating Flow in a Diesel Injector Control Valve Using Large-Eddy Simulation and Different Cavitation Models",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4592",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3115: Coal Mine Accidents in China and the United States, 2011&ndash;2025: Harmonized Spatio-Temporal Patterns, Key Risk Factors, and Interpretable Machine Learning Severity Prediction from Public Accident Data",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3115",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Cavitation flow inside an injector control valve significantly affects the injection performance and operational reliability of diesel engines, and the selection of turbulence and cavitation models is crucial for accurat…"
+      "excerpt": "The two largest coal producers, China and the United States, operate markedly different accident-reporting regimes, yet comparable cross-country evidence is scarce. We harmonized 47,986 U.S. Mine Safety and Health Admini…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3114: Integrated Nonlinear Equilibrium and Kinetic Modeling, Thermodynamic Evaluation, and Desorption Analysis of Cd(II) Adsorption Onto Vine Rod-Derived Biochar",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3114",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-28T00:00:00.000Z",
+      "excerpt": "This study investigates Cd(II) adsorption from aqueous solutions onto biochar derived from vine rods (BC-VR) through physicochemical characterization, nonlinear kinetic and equilibrium modeling, thermodynamic evaluation,…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3113: Hydroponic Cultivation of the Medicinal Plant Scolymus hispanicus: Phytochemical Characterization and Biological Evaluation of Hydroponically Cultivated Scolymus hispanicus Root Extracts Using Biochemical and Bioelectric Approaches",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3113",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-28T00:00:00.000Z",
+      "excerpt": "Scolymus hispanicus L. (golden thistle) is an edible and medicinal Asteraceae species of Mediterranean origin. This study investigated the phytochemical composition and biological potential of root extracts obtained from…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3112: CFD-PBM Simulation of Flocculation-Settling in Deep-Cone Thickener: Effects of Fine Tailings Content and Rake Rotational Speed",
@@ -300,12 +380,12 @@
       "excerpt": "The increasing integration of renewable energy into power grids requires thermal power units to operate with enhanced flexibility, and accurate power output estimation is a fundamental task for achieving flexible operati…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3109: Physicochemical, Techno-Functional, and Storage Properties of Chicken Skin-Based Protein&ndash;Fat Emulsions",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3109",
+      "title": "Processes, Vol. 14, Pages 3107: Simulation-Based Optimization of the Anaerobic Digestion/Co-Digestion Process: A Comprehensive Review",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3107",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Chicken skin and related poultry by-products are rich in collagen and lipids but remain underutilized, creating opportunities for their conversion into value-added functional ingredients. This study developed chicken-ski…"
+      "excerpt": "The production of sustainable gaseous fuels via anaerobic digestion (AD) is a promising pathway to decarbonize fossil-reliant heat and electricity systems. Despite their potential, the development and optimization of bio…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3108: Design and Implementation of an Advanced Control Algorithm for an Inverted Pendulum QUBE-Rotary Servo",
@@ -316,12 +396,12 @@
       "excerpt": "The inverted pendulum represents a problem of considerable complexity in the field of systems control due to its unstable and nonlinear behavior. In this context, the objective of this research is to design and implement…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3107: Simulation-Based Optimization of the Anaerobic Digestion/Co-Digestion Process: A Comprehensive Review",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3107",
+      "title": "Processes, Vol. 14, Pages 3109: Physicochemical, Techno-Functional, and Storage Properties of Chicken Skin-Based Protein&ndash;Fat Emulsions",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3109",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "The production of sustainable gaseous fuels via anaerobic digestion (AD) is a promising pathway to decarbonize fossil-reliant heat and electricity systems. Despite their potential, the development and optimization of bio…"
+      "excerpt": "Chicken skin and related poultry by-products are rich in collagen and lipids but remain underutilized, creating opportunities for their conversion into value-added functional ingredients. This study developed chicken-ski…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3105: Hydrodynamic Simulation of Swelling of Bentonite Granules and Hydraulic Conductivity of Geosynthetic Clay Liner",
@@ -338,38 +418,6 @@
       "category": "processing",
       "published": "2026-09-28T00:00:00.000Z",
       "excerpt": "The pore structure and connectivity of coal directly control fluid storage and migration and provide an important basis for evaluating coal-seam permeability and gas-drainage performance. To quantitatively characterise t…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3104: Development of a Two-Dimensional Bead Shape Prediction Algorithm for Fillet FCAW Considering Welding Speed and Torch Offset",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3104",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Automated welding processes have become increasingly critical in the shipbuilding, automotive, and aerospace industries. Precise weld seam tracking is essential for reliable automated welding, as torch misalignment cause…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3103: Hybrid Temporal and Physics-Guided Modeling for Startup Screw-Speed Prediction in Weatherstrip Co-Extrusion",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3103",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Accurate prediction of startup screw speeds in rubber weatherstrip co-extrusion is challenging due to batch-dependent process variation, material variability, and target-specific geometric constraints. This study propose…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3102: A Finite Difference Method for 3D Fracture Characteristics of Hard-Thick Strata Considering Elastic&ndash;Plastic Supports and Strain-Softening",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3102",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Mid-Thick Plate Theory oversimplifies boundary conditions and ignores key attributes like material plasticity and strain-softening behavior. In response to these challenges, this study introduces a refined method aimed a…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3100: Effects of Lamellar Stratification on Pore Systems and Fluid Flow Behavior in Shale Reservoirs",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3100",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "To clarify lithofacies and fluid mobility in Ordos Basin lamellar shales, an integrated characterization workflow was developed using image texture analysis, gas adsorption, mercury injection porosimetry, and low-field n…"
     },
     {
       "title": "Who is responsible for limiting global warming to 1.5°?",
@@ -404,60 +452,12 @@
       "excerpt": "Heavy rain and strong winds battered the northeastern United States on Sunday as an unusually powerful autumn storm intensified, leaving tens of thousands without power. U.S. media reported one person dead."
     },
     {
-      "title": "Why AI has trouble predicting the fury of hurricane intensity",
-      "link": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-27T00:30:01.000Z",
-      "excerpt": "Artificial intelligence has revolutionized weather forecasting in just a few years, with global AI weather models now able to produce forecasts that rival some of the world's best physics-based prediction systems."
-    },
-    {
       "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
       "link": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
       "source": "ScienceDaily — Geology",
       "category": "geoscience",
       "published": "2026-09-26T14:38:02.000Z",
       "excerpt": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-…"
-    },
-    {
-      "title": "Millions in the US Northeast brace for a powerful storm",
-      "link": "https://phys.org/news/2026-09-millions-northeast-brace-powerful-storm.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-26T09:40:05.000Z",
-      "excerpt": "More than 40 million people in the northeastern United States braced Friday for heavy rain and strong winds as an unusually powerful storm for the season was forecast to crash into the region."
-    },
-    {
-      "title": "Canals full, roads submerged as Bangkok declares flood disaster",
-      "link": "https://phys.org/news/2026-09-canals-full-roads-submerged-bangkok.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-26T09:30:01.000Z",
-      "excerpt": "Bangkok authorities declared a flood disaster across the Thai capital on Saturday after almost 48 hours of heavy rain left canals full, roads submerged and residents wading through deep water."
-    },
-    {
-      "title": "Indonesia fires threaten critically endangered orangutan: IUCN",
-      "link": "https://phys.org/news/2026-09-indonesia-threaten-critically-endangered-orangutan.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-26T09:13:57.000Z",
-      "excerpt": "Wildfires that tore through Indonesian Borneo's vast tropical forests have increased pressure on critically endangered Bornean orangutans, the International Union for Conservation of Nature (IUCN) said Saturday."
-    },
-    {
-      "title": "Climate crisis is affecting children's nutrition",
-      "link": "https://phys.org/news/2026-09-climate-crisis-affecting-children-nutrition.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-26T00:00:01.000Z",
-      "excerpt": "Wildfires, floods and other extreme weather events are no longer the only ways climate change affects children around the world. Increasingly, it also affects their diets. Droughts reduce agricultural production, floods…"
-    },
-    {
-      "title": "New tools pinpoint where urban trees could provide the most relief from heat",
-      "link": "https://phys.org/news/2026-09-tools-urban-trees-relief.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-25T18:40:01.000Z",
-      "excerpt": "Cities trying to cool sweltering streets often set broad tree canopy targets. But those targets can overlook the reality that not all shade is equally useful, and not every neighborhood has room for more trees."
     },
     {
       "title": "Aker BP and partners upgrade Verdandi and Lillefix resource size",
