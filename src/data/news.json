@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T13:17:12.119Z",
+  "generatedAt": "2026-09-29T22:33:52.697Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -22,7 +22,7 @@
     {
       "name": "International Journal of Greenhouse Gas Control",
       "ok": true,
-      "count": 82,
+      "count": 83,
       "error": null
     },
     {
@@ -76,20 +76,100 @@
   ],
   "items": [
     {
-      "title": "Overlooked lakes may be helping to keep the Northern Hemisphere cool",
-      "link": "https://phys.org/news/2026-09-overlooked-lakes-northern-hemisphere-cool.html",
+      "title": "Canada's 2023 wildfires broke longstanding media caution around climate reporting",
+      "link": "https://phys.org/news/2026-09-canada-wildfires-broke-longstanding-media.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
-      "published": "2026-09-29T12:00:07.000Z",
-      "excerpt": "Lakes may cover only a small fraction of Earth's surface, but new research suggests they play a bigger role in regulating the planet's climate than previously recognized. By reflecting sunlight back into space when cover…"
+      "published": "2026-09-29T20:40:01.000Z",
+      "excerpt": "Fueled by record-breaking drought and unusually high temperatures, Canada's 2023 wildfire season was the worst in the country's history, with more than 15 million hectares (37 million acres) charred. Smoke blanketed the…"
     },
     {
-      "title": "Microplastics and the law explained: What California's new rule means for plastic policy",
-      "link": "https://phys.org/news/2026-09-microplastics-law-california-plastic-policy.html",
+      "title": "We can finally measure the damage each new coal, gas or oil project will do to people and nature",
+      "link": "https://phys.org/news/2026-09-coal-gas-oil-people-nature.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
-      "published": "2026-09-29T11:40:01.000Z",
-      "excerpt": "While talks on an international plastics treaty remain deadlocked, California is starting a process that could lead to microplastics regulation. On Oct. 1, the state will add microplastics to a list of substances that ev…"
+      "published": "2026-09-29T19:40:09.000Z",
+      "excerpt": "We have long known every tonne of carbon dioxide matters to the climate. But governments keep approving new fossil fuel projects—even as climate change worsens."
+    },
+    {
+      "title": "Arctic infrastructure was built on frozen ground—drones and digital twins can help spot the permafrost thaw coming",
+      "link": "https://phys.org/news/2026-09-arctic-infrastructure-built-frozen-ground.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T19:20:10.000Z",
+      "excerpt": "From the air, Wainwright, Alaska, looks like a perfectly stable band of homes and roads between the Chukchi Sea and a vast, flat tundra. But just below the surface, the frozen ground on which this town was built contains…"
+    },
+    {
+      "title": "How the moon and sun may trigger slow earthquakes on Earth",
+      "link": "https://phys.org/news/2026-09-moon-sun-trigger-earthquakes-earth.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T18:00:01.000Z",
+      "excerpt": "While not quite a fatal attraction, the gravitational pull of the moon and sun creates tiny stresses on Earth that can trigger events known as slow earthquakes. These are movements along fault lines (fault slips) that re…"
+    },
+    {
+      "title": "Survey reveals plastic 12,800 feet deep off Ecuador as beach waste rises",
+      "link": "https://phys.org/news/2026-09-survey-reveals-plastic-feet-deep.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T16:50:02.000Z",
+      "excerpt": "Plastic pollution is a growing threat to marine environments, with discarded waste reaching from coastlines to the deepest parts of the ocean. Now, a six-year study has revealed how quickly debris can accumulate on a bea…"
+    },
+    {
+      "title": "'Losing our history and identity'—three B.C. glaciers on the brink of extinction",
+      "link": "https://phys.org/news/2026-09-history-identity-bc-glaciers-brink.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T16:40:01.000Z",
+      "excerpt": "Three much-loved glaciers in British Columbia are set to disappear completely within a few decades, according to a Simon Fraser University study."
+    },
+    {
+      "title": "Past vs. modern flood risk: Impacts of rainfall, terrain and urban growth",
+      "link": "https://phys.org/news/2026-09-modern-impacts-rainfall-terrain-urban.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T16:20:01.000Z",
+      "excerpt": "A false sense of security can be dangerous. The \"Safe Development Paradox\" is a phenomenon in which flood-control infrastructure makes people feel safe, so communities subconsciously start building closer and closer to h…"
+    },
+    {
+      "title": "Tropical weather patterns steer West Antarctic snowfall, ice cores reveal",
+      "link": "https://phys.org/news/2026-09-tropical-weather-patterns-west-antarctic.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T16:00:12.000Z",
+      "excerpt": "Climate patterns in the tropics help determine how much snow falls from year to year in Antarctica, one of the coldest, windiest and driest places on Earth. New research from the University of Utah shows that tropical co…"
+    },
+    {
+      "title": "Tokyo suffers the longest streak of rainy days on record",
+      "link": "https://phys.org/news/2026-09-tokyo-longest-streak-rainy-days.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T15:30:01.000Z",
+      "excerpt": "Tokyo has logged 34 straight days of rain, the longest streak on record, Japan's weather agency said Tuesday."
+    },
+    {
+      "title": "Polo makes landfall in Mexico as a category 3 hurricane",
+      "link": "https://phys.org/news/2026-09-polo-landfall-mexico-category-hurricane.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T14:49:58.000Z",
+      "excerpt": "Hurricane Polo made landfall on Mexico's Baja California peninsula on Tuesday, cutting power and causing flooding as the sea breached coastal defenses."
+    },
+    {
+      "title": "Warming weakens Asian monsoon's reach into the Mediterranean",
+      "link": "https://phys.org/news/2026-09-weakens-asian-monsoon-mediterranean.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T14:00:02.000Z",
+      "excerpt": "The South Asian summer monsoon has long been known to shape the Mediterranean climate thousands of kilometers away as part of a phenomenon known as the \"monsoon–desert\" mechanism. Through this mechanism, intense monsoon…"
+    },
+    {
+      "title": "Peeling crust beneath Italy's Apennines may explain why mountains stretch and squeeze",
+      "link": "https://phys.org/news/2026-09-crust-beneath-italy-apennines-mountains.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T13:40:12.000Z",
+      "excerpt": "Extending some 1,200 kilometers (750 miles) along the length of Italy, the Apennine Mountains present a challenging puzzle for geologists. In some places, the mountains are steadily being stretched apart, while in region…"
     },
     {
       "title": "Oil prices climb for second day over Middle East supply concerns",
@@ -220,12 +300,52 @@
       "excerpt": "arXiv:2609.23725v2 Announce Type: replace-cross Abstract: This study investigates storm-to-storm variability and hemispheric differences in magnetosphere-ionosphere (MI) coupling during the extreme (G5) geomagnetic storm…"
     },
     {
-      "title": "How Bolsonaro's statements destroyed the rainforest",
-      "link": "https://phys.org/news/2026-09-bolsonaro-statements-destroyed-rainforest.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-29T00:20:01.000Z",
-      "excerpt": "Former Brazilian President Jair Bolsonaro contributed to deforestation through statements opposing forest conservation, according to an international study led by the University of Bonn. The study found that destruction…"
+      "title": "Energies, Vol. 19, Pages 4622: Energy-Efficient Calcium Looping with Vacuum-Assisted CaCO3 Decomposition for Biomass-Derived Hydrogen Production",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4622",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "The aim of this study is to propose and evaluate a novel hydrogen production process that integrates biomass gasification and calcium looping with vacuum-assisted low-temperature CaCO3 decomposition. To achieve this obje…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4621: From Hazard Assessment to Operational Action: A Preliminary Evidence-Bounded Intervention-Selection Framework for Hydrogen Energy Facilities",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4621",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "Hydrogen energy facilities require recurring intervention decisions under incomplete probability data. This study proposes the Differentiated Process-Safety Intervention Framework (DPSIF), a preliminary conceptual framew…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4620: Partial Discharge Characteristics of Cable Terminations with Stress Cone Misalignment Defects Under AC-Superimposed Switching Impulse Voltage",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4620",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "This study investigates the partial discharge (PD) behavior of a 10 kV XLPE cable termination with a controlled stress cone misalignment defect under AC-superimposed switching impulse voltage. A test platform was develop…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4619: Scenario-Based Intraday Multi-Service Co-Optimization and Grid-Value Assessment of Renewable Power Plants with Co-Located Energy Storage",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4619",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "Renewable power plants with co-located battery energy storage systems (BESSs) coordinate forecast-deviation control, renewable-surplus management, electricity-price arbitrage, and ancillary-service commitments through th…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4618: Extending Energy Management Towards Suppliers&mdash;An Analysis of Drivers, Barriers and Selection Criteria",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4618",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "Energy management (EnM) is crucial for reducing GHG emissions, but there is still a large potential to improve the energy efficiency of manufacturing companies. One approach that could be leveraged is to reduce Scope 3 e…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4616: Hydrogen-Assisted Extension of the Lean Operating Limit of a Small-Bore Air-Cooled Gasoline Direct-Injection Engine: Combustion Stability, Efficiency Optimization, and Emissions",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4616",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "Extending the lean operating limit of small-bore gasoline direct-injection (GDI) engines offers a practical pathway to improve fuel conversion efficiency in the light-duty transportation segment; however, deteriorated fl…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4617: Mapping the Scientific Interest in Integrating Digital Twin Technology into Renewable Energy Systems: Efficiency-Oriented Trends, Evidence-Based Gaps and Strategic Directions",
@@ -276,44 +396,44 @@
       "excerpt": "High photovoltaic (PV) penetration can increase active power losses and cause steady-state voltage violations in distribution networks. This paper develops an integrated day-ahead and intraday voltage/var control (VVC) f…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4610: Wastewater Heat Recovery System as a Source of Affordable and Clean Energy in Buildings: Multi-Factor Assessment of an Innovative Shower Drain Water Heat Exchanger",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4610",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3134: Systematic Evaluation of Sedimentation Stability and Gel Strength of Water-Based Testing Fluid Under Multiple Downhole Factors",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3134",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Greywater can be a valuable source of energy, which is often wasted when discharged into the sewer system. The use of drain water heat recovery (DWHR) exchangers in buildings allows for the recovery of this energy. With…"
+      "excerpt": "Sedimentation stability and gel strength are critical performance metrics of water-based testing fluids, yet their responses to multiple downhole factors have not been systematically compared within a single fluid system…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4609: Digital Twins for Nuclear Reactor Monitoring and Operational Intelligence: A Systematic Scoping Review",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4609",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3133: Integrated Process for CO2 Mineralization and Potassium Chloride Recovery from Cement Bypass Dust: A Pilot-Scale Study",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3133",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Digital twins (DTs) are increasingly proposed for nuclear-reactor monitoring, diagnosis, prediction, control, and decision support, but the maturity of reported systems is difficult to compare because DT realization, phy…"
+      "excerpt": "Cement bypass dust (CBPD), a fine particulate by-product generated during cement manufacturing, contains large alkaline constituents such as calcium and potassium, present largely as soluble potassium chloride. In this s…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4608: Thermochemical Resorption Heat Pump Module: A Case Study with the UK Climate",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4608",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3132: Coordinated Optimisation of Rural Renewable Energy Accommodation Considering the Spatiotemporal Transfer Characteristics of Urban&ndash;Rural Electric Buses",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3132",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Resorption systems (RES) utilize the difference in ammonia equilibrium between two distinct salts to produce useful heating/cooling. The salt with comparatively lower ammonia affinity is used as a Low-Temperature Salt (L…"
+      "excerpt": "The rapid integration of rural distributed photovoltaics has improved rural energy self-sufficiency. However, because of low rural load density, insufficient midday electricity demand, and limited distribution-network ex…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4606: Event-Driven CNN&ndash;LSTM for Grid Exchange Forecasting in Industrial Microgrids: Feature Ablation and Multi-Horizon Evaluation",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4606",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3131: Integrated Three-Dimensional Modeling of Reservoir Facies and Petrophysical Properties in a Carbonate Geothermal Reservoir: A Case Study of the Wumishan Formation, Rongcheng Area, Xiong&rsquo;an New Area",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3131",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Industrial microgrids integrating distributed photovoltaic (PV) systems require accurate grid exchange forecasting for effective energy management. However, grid exchange exhibits substantial fluctuations due to physical…"
+      "excerpt": "Medium- to low-temperature carbonate geothermal reservoirs exhibit strong multiscale heterogeneity under sparse well control. This study presents an integrated three-dimensional modeling workflow combining fault-constrai…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4607: Tea Tree Oil as an Oxygenated Diesel Blend Fuel: Chemical Characterisation, Droplet Combustion, Performance and Emission Analysis",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4607",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3130: Numerical Analysis of Thermal Performance of Flat-Plate Solar Air&ndash;Water Heater for Simultaneous Heating of Air and Water",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3130",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Depleting fossil reserves and tightening emission limits have driven interest in plant-derived diesel blend fuels. This work evaluates tea tree oil (Melaleuca alternifolia) at 5, 10, 15 and 20 vol% in diesel through GC&a…"
+      "excerpt": "A solar air&amp;ndash;water heater (SAWH) is a solar collector capable of heating air and water simultaneously. Although many studies have examined the performance and applicability of SAWHs, the effects of operating con…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3129: Evidence Gating for Small-Displacement Fault Attribution in Composite Coal-Seam Reflections",
@@ -372,102 +492,6 @@
       "excerpt": "In the highly dynamic production environment of intelligent logistics centers, autonomous mobile robots (AMRs) serve as the core carriers connecting automated storage systems with assembly lines. Their operational effici…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3122: Development and Characterization of Egg White Protein&ndash;Sodium Alginate Particles for Stabilizing Pequi Pulp Oil-Based Emulsions",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3122",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Pequi pulp oil is a lipid ingredient obtained from a fruit native to the Brazilian Cerrado, but its incorporation into structured food systems remains underexplored. This study prepared and characterized freeze-dried egg…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3121: The Challenges and Urgent Need for Treatment and Monitoring of Micro- and Nano-Plastics in the Environment",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3121",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "As global plastic production and inadequate waste management continue to increase, fragmentation and weathering accelerate the widespread occurrence of micro- and nanoplastics (MNPs) across environmental compartments. In…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3120: Research and Application of Temporary Plugging Diverting Fracturing in Horizontal Shale Oil Wells of the Sichuan Basin",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3120",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "The shale oil reservoirs in the Sichuan Basin are distinguished by pronounced heterogeneity, with natural fractures locally developed within specific horizontal well intervals. These fractures serve as pivotal conduits f…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3119: Online Multiscale Conformal Calibration for Response-Defined Wind-Ramp Groups",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3119",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Wind-ramp events depend on future wind speed, so their group membership is unknown when a forecast is issued. We study MS-CRACP-D, a model-agnostic online calibrator that combines candidate-response inversion, overlappin…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3118: Protein Processing from Amazonian Leaf-Cutter Ants (Atta laevigata) Through pH-Shifting: Electrophoretic Profile Changes, Gastrointestinal Digestion, and In Vitro Membrane-Stabilizing Activity",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3118",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "The growing interest in alternative protein sources has driven research into edible insects as sustainable raw materials for food and bioprocessing applications. In this study, protein concentrates were produced from Ama…"
-    },
-    {
-      "title": "European rivers are improving, but not fast enough to meet 2030 goals",
-      "link": "https://phys.org/news/2026-09-european-rivers-fast-goals.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-28T22:20:01.000Z",
-      "excerpt": "The quality of European rivers has improved in recent years, but not at the pace required to meet the environmental targets set for 2030. This is one of the main conclusions of a study led by researchers María Pachés Gin…"
-    },
-    {
-      "title": "More damaged trees mean fewer ecosystem benefits for low-income residents",
-      "link": "https://phys.org/news/2026-09-trees-ecosystem-benefits-income-residents.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-28T20:20:10.000Z",
-      "excerpt": "Maya Mangala-Munuma '25 first noticed it in her hometown of Grand Rapids, Michigan. When she walked from an affluent neighborhood to a more impoverished one, it wasn't just the houses and demographics that changed. The t…"
-    },
-    {
-      "title": "Road testing: Research team studies potholes in quest for better asphalt sustainability",
-      "link": "https://phys.org/news/2026-09-road-team-potholes-quest-asphalt.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-28T20:00:09.000Z",
-      "excerpt": "A Missouri S&T research team is studying asphalt binders, the materials that hold road materials together, to better understand how they perform and help improve the durability of Missouri's roads. Because roads are cons…"
-    },
-    {
-      "title": "Yemen's Houthis move to control crucial waterway—our research maps the countries most at risk",
-      "link": "https://phys.org/news/2026-09-yemen-houthis-crucial-waterway-countries.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-28T16:40:01.000Z",
-      "excerpt": "The advance of the Iran-aligned Houthi rebel group in Yemen has driven more than 130,000 people from their homes since the beginning of September, deepening the humanitarian crisis in an already poor country with a long…"
-    },
-    {
-      "title": "Halting plastic flows into oceans by 2050 may not stop microplastic buildup",
-      "link": "https://phys.org/news/2026-09-halting-plastic-oceans-microplastic-buildup.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-28T15:20:05.000Z",
-      "excerpt": "Halting new marine plastic inputs by 2050 is the core objective of the Osaka Blue Ocean Vision, which was shared and endorsed alongside the G20 Implementation Framework for Actions on Marine Plastic Litter. However, stop…"
-    },
-    {
-      "title": "Climate risks don't stop at sector boundaries—our responses shouldn't either",
-      "link": "https://phys.org/news/2026-09-climate-dont-sector-boundaries-responses.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-28T14:40:01.000Z",
-      "excerpt": "Australia's first mandatory climate reporting regime is now upon us. Since January 2025, organizations across the economy have been required to comply with AASB S2. It requires organizations to assess their climate risks…"
-    },
-    {
-      "title": "Hurricane Polo approaches Mexico, threatens 'severe' damage",
-      "link": "https://phys.org/news/2026-09-hurricane-polo-approaches-mexico-threatens.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-28T13:20:20.000Z",
-      "excerpt": "Strong winds battered Mexico's Baja California peninsula on Monday ahead of the arrival of Hurricane Polo, a major El Niño-charged storm expected to cause severe damage along the Pacific coast."
-    },
-    {
       "title": "Shearwater wins seabed node survey contract in South America",
       "link": "https://www.offshore-technology.com/news/shearwater-seabed-node-survey-south-america/",
       "source": "Offshore Technology",
@@ -500,36 +524,12 @@
       "excerpt": "Performance should be judged from the flowline to the final waste stream, writes Othman Soliman, founder of SC DrillTech."
     },
     {
-      "title": "The wildfires choking Indonesia, sparking regional haze",
-      "link": "https://phys.org/news/2026-09-wildfires-indonesia-regional-haze.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-28T08:32:52.000Z",
-      "excerpt": "For weeks, Indonesia has been battling fires that have burned vast swaths of forest and peat ecosystems, causing toxic haze to blanket parts of the country, Malaysia and Singapore."
-    },
-    {
       "title": "TotalEnergies and partners approve Absheron gas project FID",
       "link": "https://www.offshore-technology.com/news/totalenergies-partners-absheron-gas-fid/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-09-28T07:54:25.000Z",
       "excerpt": "TotalEnergies and its partners State Oil Company of the Republic of Azerbaijan (SOCAR) and XRG have made a final investment decision (FID) to move ahead with the full field development of the Absheron gas and condensate…"
-    },
-    {
-      "title": "Antarctic radar data improves forecasts for Southern Hemisphere atmospheric rivers in tests",
-      "link": "https://phys.org/news/2026-09-antarctic-radar-southern-hemisphere-atmospheric.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-28T07:00:02.000Z",
-      "excerpt": "Weather forecasts in the Southern Hemisphere (SH) are generally less accurate than those in the Northern Hemisphere because Antarctica and the surrounding Southern Ocean have relatively few weather observations. With lim…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4605: Carbon Pricing and Coal Displacement in the European Union: Complementarity Between Price Signals and Phase-Out Commitments, 2005&ndash;2024",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4605",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Whether the European Union Emissions Trading System has influenced the composition of electricity generation remains contested, and the evidence rests largely on aggregate European time series in which carbon prices and…"
     },
     {
       "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
