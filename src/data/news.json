@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:28:39.099Z",
+  "generatedAt": "2026-09-29T06:08:53.754Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 5,
+      "count": 12,
       "error": null
     },
     {
@@ -75,6 +75,182 @@
     }
   ],
   "items": [
+    {
+      "title": "Efficient One-Step Surface-Wave Tomography through Implicit Differentiation and Jacobian Factorization",
+      "link": "https://arxiv.org/abs/2609.32142",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2609.32142v1 Announce Type: new Abstract: Surface-wave tomography provides important constraints on the crust and upper mantle, but directly inverting millions of measurements for three-dimensional structure remain…"
+    },
+    {
+      "title": "A Review of Deep-learning-based Seismic Data Denoising and Its Promising Paradigm Shift to Foundation Models",
+      "link": "https://arxiv.org/abs/2609.34530",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2609.34530v1 Announce Type: new Abstract: Denoising is a long-standing and widely-concerned topic in seismic data processing, for it can significantly increase the signal-to-noise ratio of seismic data. Numerous de…"
+    },
+    {
+      "title": "Toward Enhanced Water Detection in SWOT Pixel Clouds using Dynamic Graph Neural Networks",
+      "link": "https://arxiv.org/abs/2609.34954",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2609.34954v1 Announce Type: new Abstract: The Surface Water and Ocean Topography (SWOT) mission offers unprecedented freshwater monitoring capabilities through its innovative wide-swath measurement system, which ge…"
+    },
+    {
+      "title": "AutoCF: An Automated LLM-Assisted Ecosystem for Compound Flood Simulation, Evaluation, and Impact Attribution",
+      "link": "https://arxiv.org/abs/2609.35753",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2609.35753v1 Announce Type: new Abstract: Compound coastal flooding (CCF) arises from interacting coastal, precipitation, and river processes, yet modeling workflows often separate simulation, evaluation, and impac…"
+    },
+    {
+      "title": "A method for measuring and analyzing four-dimensional flow fields in viscous Rayleigh-B\\'enard convection",
+      "link": "https://arxiv.org/abs/2609.33036",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2609.33036v1 Announce Type: cross Abstract: Laboratory investigation of convective flow in viscous fluids is crucial for various engineering and geophysical applications, including vigorous convection in planetary…"
+    },
+    {
+      "title": "Morphology, interactions, and evolution of laminar thermal plumes revealed by time-resolved volumetric velocity measurements and analysis: Application to Earth's mantle",
+      "link": "https://arxiv.org/abs/2609.33042",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2609.33042v1 Announce Type: cross Abstract: Plume-laden convection plays a fundamental role in thermal transport in geophysical and industrial flows. While the dynamics of isolated laminar plumes have been extensiv…"
+    },
+    {
+      "title": "Structural Alignment for Reliable Industrial AI: Bridging Physical Reality, Data, Models, and Human Intent",
+      "link": "https://arxiv.org/abs/2609.35400",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2609.35400v1 Announce Type: cross Abstract: Artificial intelligence is increasingly deployed in critical industrial domains, including healthcare, energy grids, subsurface exploration, where failures can have sever…"
+    },
+    {
+      "title": "A Poromechanics-Based Framework for Fully Coupled Reactive Transport and Geomechanics in Porous Rocks",
+      "link": "https://arxiv.org/abs/2608.00310",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2608.00310v2 Announce Type: replace Abstract: Mineral precipitation and dissolution in rocks alter pore structure, stress, and hydraulic properties, producing tightly coupled chemo-hydro-mechanical processes that a…"
+    },
+    {
+      "title": "Direction-Aware Masked Pretraining on 3D Seismic Data with Transfer to Cross-Area Acoustic Impedance Inversion",
+      "link": "https://arxiv.org/abs/2609.24615",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2609.24615v2 Announce Type: replace Abstract: Seismic feature extraction and acoustic impedance inversion are important for subsurface characterisation, but sparse well-log data limit the generalisation of data-dri…"
+    },
+    {
+      "title": "Explaining Ground-Motion Residuals at Two Strong-Motion Stations in Southeastern New York: Sediment Resonance and Topographic Amplification",
+      "link": "https://arxiv.org/abs/2609.31464",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2609.31464v2 Announce Type: replace Abstract: Sites hosting strong-motion stations in the Central and Eastern United States are commonly characterized using proxy-based parameters, limiting the ability to identify…"
+    },
+    {
+      "title": "Near-real-time, meter-scale 3D urban wind modeling for low-altitude micrometeorology: numerical verification of a GPU-accelerated lattice Boltzmann framework",
+      "link": "https://arxiv.org/abs/2607.04516",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2607.04516v2 Announce Type: replace-cross Abstract: This study presents a near-real-time, meter-scale three-dimensional urban wind simulation framework for low-altitude flight events in complex urban meteorological…"
+    },
+    {
+      "title": "Interhemispheric differences in field-aligned currents, ground magnetic perturbations, and TEC during the geomagnetic storms of May and October 2024",
+      "link": "https://arxiv.org/abs/2609.23725",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-29T04:00:00.000Z",
+      "excerpt": "arXiv:2609.23725v2 Announce Type: replace-cross Abstract: This study investigates storm-to-storm variability and hemispheric differences in magnetosphere-ionosphere (MI) coupling during the extreme (G5) geomagnetic storm…"
+    },
+    {
+      "title": "How Bolsonaro's statements destroyed the rainforest",
+      "link": "https://phys.org/news/2026-09-bolsonaro-statements-destroyed-rainforest.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T00:20:01.000Z",
+      "excerpt": "Former Brazilian President Jair Bolsonaro contributed to deforestation through statements opposing forest conservation, according to an international study led by the University of Bonn. The study found that destruction…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4606: Event-Driven CNN&ndash;LSTM for Grid Exchange Forecasting in Industrial Microgrids: Feature Ablation and Multi-Horizon Evaluation",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4606",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "Industrial microgrids integrating distributed photovoltaic (PV) systems require accurate grid exchange forecasting for effective energy management. However, grid exchange exhibits substantial fluctuations due to physical…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4607: Tea Tree Oil as an Oxygenated Diesel Blend Fuel: Chemical Characterisation, Droplet Combustion, Performance and Emission Analysis",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4607",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "Depleting fossil reserves and tightening emission limits have driven interest in plant-derived diesel blend fuels. This work evaluates tea tree oil (Melaleuca alternifolia) at 5, 10, 15 and 20 vol% in diesel through GC&a…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3123: An Improved DWA-Based Local Path-Planning Method for an AMR Using Adaptive Fuzzy Control",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3123",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "In the highly dynamic production environment of intelligent logistics centers, autonomous mobile robots (AMRs) serve as the core carriers connecting automated storage systems with assembly lines. Their operational effici…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3122: Development and Characterization of Egg White Protein&ndash;Sodium Alginate Particles for Stabilizing Pequi Pulp Oil-Based Emulsions",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3122",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "Pequi pulp oil is a lipid ingredient obtained from a fruit native to the Brazilian Cerrado, but its incorporation into structured food systems remains underexplored. This study prepared and characterized freeze-dried egg…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3121: The Challenges and Urgent Need for Treatment and Monitoring of Micro- and Nano-Plastics in the Environment",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3121",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "As global plastic production and inadequate waste management continue to increase, fragmentation and weathering accelerate the widespread occurrence of micro- and nanoplastics (MNPs) across environmental compartments. In…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3120: Research and Application of Temporary Plugging Diverting Fracturing in Horizontal Shale Oil Wells of the Sichuan Basin",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3120",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "The shale oil reservoirs in the Sichuan Basin are distinguished by pronounced heterogeneity, with natural fractures locally developed within specific horizontal well intervals. These fractures serve as pivotal conduits f…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3119: Online Multiscale Conformal Calibration for Response-Defined Wind-Ramp Groups",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3119",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "Wind-ramp events depend on future wind speed, so their group membership is unknown when a forecast is issued. We study MS-CRACP-D, a model-agnostic online calibrator that combines candidate-response inversion, overlappin…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3118: Protein Processing from Amazonian Leaf-Cutter Ants (Atta laevigata) Through pH-Shifting: Electrophoretic Profile Changes, Gastrointestinal Digestion, and In Vitro Membrane-Stabilizing Activity",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3118",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "The growing interest in alternative protein sources has driven research into edible insects as sustainable raw materials for food and bioprocessing applications. In this study, protein concentrates were produced from Ama…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3117: Research Progress on Microwave-Assisted Rock Fragmentation Technology: Multi-Field Coupling Mechanisms, Multi-Scale Damage Characterization, and Frontier Engineering Applications",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3117",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "As a disruptive technology to overcome the bottlenecks of conventional mechanical excavation and blasting, microwave-assisted rock fragmentation demonstrates tremendous potential in deep geo-resource development and extr…"
+    },
     {
       "title": "European rivers are improving, but not fast enough to meet 2030 goals",
       "link": "https://phys.org/news/2026-09-european-rivers-fast-goals.html",
@@ -188,46 +364,6 @@
       "excerpt": "Weather forecasts in the Southern Hemisphere (SH) are generally less accurate than those in the Northern Hemisphere because Antarctica and the surrounding Southern Ocean have relatively few weather observations. With lim…"
     },
     {
-      "title": "Data-driven analysis of muon flux variations in muography time series at the Sos Enattos Mine",
-      "link": "https://arxiv.org/abs/2609.31073",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-28T04:00:00.000Z",
-      "excerpt": "arXiv:2609.31073v1 Announce Type: new Abstract: Muon flux variations in muography time series can provide information on density-related changes in geological targets. A common approach is to define regions of interest b…"
-    },
-    {
-      "title": "From Image Morphology to Multiphysics Earth Posteriors",
-      "link": "https://arxiv.org/abs/2609.31229",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-28T04:00:00.000Z",
-      "excerpt": "arXiv:2609.31229v1 Announce Type: new Abstract: Structural learning and physical-property inference can draw on different sources of knowledge. We learn morphology from 33,140 natural, satellite, and texture images, with…"
-    },
-    {
-      "title": "Wave-Propagation Geometry Emerges from Scalar Travel-Time Relations",
-      "link": "https://arxiv.org/abs/2609.31238",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-28T04:00:00.000Z",
-      "excerpt": "arXiv:2609.31238v1 Announce Type: new Abstract: Scalar travel-time relations can identify propagation geometry without velocity inputs, ray labels or equation supervision during learning. Physical interpretation is appli…"
-    },
-    {
-      "title": "Structure-dependent failure modes of neural priors in acoustic full-waveform inversion",
-      "link": "https://arxiv.org/abs/2609.31251",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-28T04:00:00.000Z",
-      "excerpt": "arXiv:2609.31251v1 Announce Type: new Abstract: Frequency continuation does not improve every neural representation, and better velocity recovery need not imply better prediction of unseen waveforms. We compare a velocit…"
-    },
-    {
-      "title": "Explaining Ground-Motion Residuals at Two Strong-Motion Stations in Southeastern New York: Sediment Resonance and Topographic Amplification",
-      "link": "https://arxiv.org/abs/2609.31464",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-28T04:00:00.000Z",
-      "excerpt": "arXiv:2609.31464v1 Announce Type: new Abstract: Sites hosting strong-motion stations in the Central and Eastern United States are commonly characterized using proxy-based parameters, limiting the ability to identify the…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4605: Carbon Pricing and Coal Displacement in the European Union: Complementarity Between Price Signals and Phase-Out Commitments, 2005&ndash;2024",
       "link": "https://www.mdpi.com/1996-1073/19/19/4605",
       "source": "Energies (MDPI)",
@@ -284,14 +420,6 @@
       "excerpt": "With the global energy transition and the increasing use of renewable energy, coal-fired power plants are shifting from baseload generation toward flexible operation for load following and frequency regulation. However,…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4597: Analysis of the Start-Up of a Wound-Rotor Induction Motor with an Eddy-Current Starter",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4597",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "This paper presents an integer and fractional-order Park&amp;rsquo;s model of a wound-rotor induction motor with a three-phase eddy-current starter incorporated into the rotor circuit. The integer-order model is describe…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4598: Design and Experimental Validation of an Adjustable High-Voltage Test Fixture for Dielectric Strength Characterization of Magnesium Oxide Powder",
       "link": "https://www.mdpi.com/1996-1073/19/19/4598",
       "source": "Energies (MDPI)",
@@ -300,28 +428,20 @@
       "excerpt": "Magnesium oxide (MgO) powder is widely used as an electrical insulating medium in high-temperature electrical systems; however, reproducible dielectric breakdown characterization remains challenging because the measured…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4597: Analysis of the Start-Up of a Wound-Rotor Induction Motor with an Eddy-Current Starter",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4597",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-28T00:00:00.000Z",
+      "excerpt": "This paper presents an integer and fractional-order Park&amp;rsquo;s model of a wound-rotor induction motor with a three-phase eddy-current starter incorporated into the rotor circuit. The integer-order model is describe…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4596: Development and Experimental Field Validation of an Arduino- Based Condition Monitoring System for Heliostat Drive Units",
       "link": "https://www.mdpi.com/1996-1073/19/19/4596",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-09-28T00:00:00.000Z",
       "excerpt": "In concentrating solar power tower plants, heliostat drive units (HDUs) are critical components that control the precise two-axis alignment of the heliostats focussing solar radiation onto the receiver. Consequently, the…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4595: Microwave Versus Conventional Acid-Free Thermohydrolysis of Maize Silage: Effects on Methane Yield and Yeast Fermentation",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4595",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Hydrothermal pretreatment is routinely judged by how much organic matter it releases into solution, yet the value of that release depends on which microbial system consumes it&amp;mdash;a premise that is rarely tested be…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4594: Deep Learning Benchmarks for Multi-Step Photovoltaic Power Forecasting: Comparative Assessment of GRU, LSTM, and BiLSTM Architectures",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4594",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Accurate photovoltaic (PV) power forecasting is essential for renewable energy integration, dynamic reserve allocation, and generation scheduling. Unpredicted generation ramps induce substantial voltage and frequency dev…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3116: Sparse-Positive Outage Anomaly Ranking in Power Distribution Telemetry Using Positive-Unlabeled Similarity and Graph Propagation",
@@ -364,62 +484,6 @@
       "excerpt": "High-concentration slurry preparation via deep-cone thickeners (DCTs) is crucial for tailings recycling in cemented paste backfill (CPB), where fine tailings content (FTC) and rake rotational speed (RRS) are key regulato…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3110: Batch-Aware Machine Learning for Early Warning and Soft Sensing in Industrial Fed-Batch Fermentation",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3110",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Industrial fed-batch fermentation generates coupled, time-dependent process data that are difficult to interpret using isolated alarms. This study developed a retrospective, batch-aware machine learning framework integra…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3111: Attention-Enhanced Random Forest for Power Output Estimation of a 660 MW Supercritical Thermal Power Unit",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3111",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "The increasing integration of renewable energy into power grids requires thermal power units to operate with enhanced flexibility, and accurate power output estimation is a fundamental task for achieving flexible operati…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3107: Simulation-Based Optimization of the Anaerobic Digestion/Co-Digestion Process: A Comprehensive Review",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3107",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "The production of sustainable gaseous fuels via anaerobic digestion (AD) is a promising pathway to decarbonize fossil-reliant heat and electricity systems. Despite their potential, the development and optimization of bio…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3108: Design and Implementation of an Advanced Control Algorithm for an Inverted Pendulum QUBE-Rotary Servo",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3108",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "The inverted pendulum represents a problem of considerable complexity in the field of systems control due to its unstable and nonlinear behavior. In this context, the objective of this research is to design and implement…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3109: Physicochemical, Techno-Functional, and Storage Properties of Chicken Skin-Based Protein&ndash;Fat Emulsions",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3109",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Chicken skin and related poultry by-products are rich in collagen and lipids but remain underutilized, creating opportunities for their conversion into value-added functional ingredients. This study developed chicken-ski…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3105: Hydrodynamic Simulation of Swelling of Bentonite Granules and Hydraulic Conductivity of Geosynthetic Clay Liner",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3105",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "Sodium bentonite geosynthetic clay liners (NaB GCLs) rely on the hydration-induced swelling of bentonite to achieve low hydraulic conductivity. However, the pore scale evolution linking nonuniform granule swelling to cha…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3106: Pore Structure Characterisation and Permeability Prediction of Coal Samples Based on CT Digital Core and Fractal Theory",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3106",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-28T00:00:00.000Z",
-      "excerpt": "The pore structure and connectivity of coal directly control fluid storage and migration and provide an important basis for evaluating coal-seam permeability and gas-drainage performance. To quantitatively characterise t…"
-    },
-    {
       "title": "Who is responsible for limiting global warming to 1.5°?",
       "link": "https://phys.org/news/2026-09-responsible-limiting-global.html",
       "source": "Phys.org — Earth",
@@ -442,14 +506,6 @@
       "category": "geoscience",
       "published": "2026-09-27T11:55:50.000Z",
       "excerpt": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open sea…"
-    },
-    {
-      "title": "Powerful storm pummels Northeast US with rain, high winds",
-      "link": "https://phys.org/news/2026-09-powerful-storm-pummels-northeast-high.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-27T10:40:01.000Z",
-      "excerpt": "Heavy rain and strong winds battered the northeastern United States on Sunday as an unusually powerful autumn storm intensified, leaving tens of thousands without power. U.S. media reported one person dead."
     },
     {
       "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
@@ -818,62 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Huiying Tang, Zhicheng Wen, Liehui Zhang, Junsheng Zeng, Xiao He, Jianfa Wu, Jian Zheng"
-    },
-    {
-      "title": "Lithofacies analysis and paleosedimentary evolution of Taiyuan Formation in Southern North China Basin",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009792?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Yanxia Peng, Shaobin Guo"
-    },
-    {
-      "title": "Evaluation of hematite and Micromax-based cement systems for high- density well cementing",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009779?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Abdulmalek Ahmed, Ahmed Abdelaal, Salaheldin Elkatatny"
-    },
-    {
-      "title": "Dynamic effect of gas initial desorption in coals with different moisture contents and energy-controlling mechanism for outburst prevention of water injection in coal seams",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011226?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
-    },
-    {
-      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
-    },
-    {
-      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
-    },
-    {
-      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Pore-scale visualization of hydrate formation and morphological evolution in heterogeneous porous media via microfluidic chip",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032667?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part E Author(s): Chaozheng Ma, Tingting Luo, Tao Han, M.Fahed Qureshi, Yaohui Liu, Chuanhe Ma, Weihao Yang, Peng Wu, Yanghui Li"
     }
   ]
 }
