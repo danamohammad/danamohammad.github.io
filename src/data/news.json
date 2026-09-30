@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T05:55:40.252Z",
+  "generatedAt": "2026-09-30T12:58:19.078Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Why Kamchatka's giant earthquake sent a smaller tsunami across the Pacific",
+      "link": "https://phys.org/news/2026-09-kamchatka-giant-earthquake-smaller-tsunami.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-30T12:40:05.000Z",
+      "excerpt": "In 2025, along parts of Kamchatka's coast in Russia, a magnitude 8.8 earthquake caused a tsunami to surge nearly 20 meters (65 feet) above sea level. Yet across the Pacific, its waves were much smaller than those produce…"
+    },
+    {
+      "title": "Argentina warns UK of legal action over Sea Lion oil development",
+      "link": "https://www.offshore-technology.com/news/argentina-warns-uk-legal-sea-lion/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-30T10:19:20.000Z",
+      "excerpt": "Argentina’s President Javier Milei has delivered a warning to the UK, setting a two-week deadline to halt oil exploration activity at the Sea Lion oilfield located off the Falkland Islands, or face international legal ac…"
+    },
+    {
+      "title": "Fluor-JGC JV receives NTP for LNG Canada phase two expansion",
+      "link": "https://www.offshore-technology.com/news/fluor-jgc-jv-ntp-lng-canada-phase-2/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-30T09:38:03.000Z",
+      "excerpt": "Fluor and JGC’s joint venture (JV) has received notice to proceed (NTP) on LNG Canada’s Phase 2 expansion after the project partners made a final investment decision (FID) on the expansion programme."
+    },
+    {
+      "title": "One-third of world population exposed to harmful air pollution: Monitor",
+      "link": "https://phys.org/news/2026-09-world-population-exposed-air-pollution.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-30T08:20:01.000Z",
+      "excerpt": "Heat waves and wildfires combined with human-caused emissions this year to expose one-third of the world's population to extremely high levels of ozone pollution, a European Union report said Wednesday."
+    },
+    {
+      "title": "SLB OneSubsea wins Rovuma LNG subsea systems contract",
+      "link": "https://www.offshore-technology.com/news/slb-onesubsea-rovuma-lng-contract/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-30T07:09:37.000Z",
+      "excerpt": "SLB OneSubsea has won a contract to provide subsea production systems for the first phase of the Rovuma LNG project in Mozambique’s offshore Rovuma Basin."
+    },
     {
       "title": "Climate-informed cryospheric reanalysis via hierarchical Bayesian data assimilation",
       "link": "https://arxiv.org/abs/2609.36077",
@@ -172,6 +212,78 @@
       "excerpt": "arXiv:2605.23166v3 Announce Type: replace-cross Abstract: What do the ocean surface and a swaying flag have in common? Both are deformable surfaces exhibiting chaotic motion when exposed to turbulent flows. Whether such…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4634: Molten Salt Thermal Energy Storage for Flexible Operation of Coal-Fired Power Plants: Integration Configurations, Operating Strategies, and Future Perspectives",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4634",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "Coal-fired power plants are increasingly required to operate flexibly in power systems with high shares of variable renewable energy. Molten-salt thermal energy storage (MSTES) offers a promising retrofit option because…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4633: Back Feeding Energization Transients in a 500 kV Gas-Insulated Switchgear: Field Tests and Electromagnetic Transient Analysis",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4633",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "The special back feeding energization process involves several stages, including tie-transformer energization, GIS-busbar energization, and no-load line energization. These operations can generate transient overvoltages…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4632: RETRACTED: Mahmoud et al. The Current State of the Art in Research on Predictive Maintenance in Smart Grid Distribution Network: Fault&rsquo;s Types, Causes, and Prediction Methods&mdash;A Systematic Review. Energies 2021, 14, 5078",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4632",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "The journal retracts the review article titled &amp;ldquo;The Current State of the Art in Research on Predictive Maintenance in Smart Grid Distribution Network: Fault&amp;rsquo;s Types, Causes, and Prediction Methods&amp…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4631: Demand-Side Flexibility for Community Benefits and Distribution Network Deferral: A Case Study of a New Zealand Island",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4631",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "The decarbonisation of the energy system is accelerating the uptake of distributed and renewable energy resources. Nevertheless, this stresses already-constrained distribution networks, and it can lead to expensive grid…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4630: Numerical Simulation of Solid Melting with Natural Convection Using the Double Lattice Boltzmann Method",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4630",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "A double lattice Boltzmann method (LBM) based on the D2Q9 model was developed to simulate natural convection melting and heat transfer in energy systems, including nuclear systems. Fluid flow in the liquid region was sol…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4629: Experimental Investigation on Dynamic Ice Adhesion Characteristics of Wind Turbine Blade Surfaces After Sand Erosion",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4629",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "To investigate the coupling effect of sand erosion and dynamic icing on ice adhesion strength of wind turbine blades in alpine regions, this study experimentally examines the single-factor and coupling effects of four ke…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4628: An Advanced Dual Energy Control with Energy Dissipation Strategy to Enhance Fault Ride-Through in Offshore Wind MMC-HVDC Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4628",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "The Modular Multilevel Converter-based High-Voltage Direct Current (MMC-HVDC) system has emerged as a promising technology to integrate offshore wind farms (OWFs). However, onshore AC faults and resulting DC-link voltage…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4627: AI-Based Deflector Control for Vertical Axis Wind Turbines: A Systematic Literature Review",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4627",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "Vertical axis wind turbines (VAWTs) have become an attractive option for use in cities and other built environments because they can capture wind from different directions. This gives them an advantage over horizontal ax…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4626: The Influence of Supply Chain Innovation and Application Policy on Green Total-Factor Energy Efficiency: Evidence from Chinese Prefecture-Level Cities",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4626",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "Climate change and mounting energy pressures have placed green energy efficiency at the centre of sustainable development agendas worldwide. Although the role of digital technologies in transforming supply chains has rec…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4624: Does Standards Harmonization Reduce Energy Intensity? Evidence from Chinese Industrial Firms",
       "link": "https://www.mdpi.com/1996-1073/19/19/4624",
       "source": "Energies (MDPI)",
@@ -194,6 +306,38 @@
       "category": "energy",
       "published": "2026-09-30T00:00:00.000Z",
       "excerpt": "Commercial deployment of all-solid-state batteries depends on scalable, economically viable production of solid electrolytes. Although ASSBs offer improved safety, thermal stability, and energy density, the high cost of…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3138: Contamination Characteristics and Human Health Risks of Heavy Metals in Brownfield Soil from a Decommissioned Electroplating Factory, Shandong Province, China",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3138",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "The relocation and closure of electroplating industries have generated numerous contaminated brownfields, many of which are located in areas with potential for residential and commercial redevelopment. However, informati…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3140: A Multi-Scale Computational Framework for Durability-State Reconstruction and Sequential Updating of Environmentally Aged Textile-Reinforced Mortar",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3140",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "Durability assessments of textile-reinforced mortar (TRM) are often fragmented across exposure conditions, test scales, and observation times. An existing durability campaign on glass- and basalt-textile TRM was reorgani…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3139: Engineering Approximation of Saturated-Vapor P-v-T Behavior Using a Gas-Specific Temperature-Dependent Fitting Parameter: A Gas-Specific Empirical Correlation",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3139",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "Accurate prediction of thermodynamic properties of real gases is essential for the analysis and design of energy systems such as power plants, gas turbines, and energy conversion processes. Although many equations of sta…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3137: Thermal-Fluid Simulation and Structure Optimization for Heat Dissipation of Submersible Pump Motors",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3137",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "Submersible pumps operate continuously under actual operating conditions, such as in mines and river dredging projects, where the heat dissipation performance of their built-in motors directly affects the equipment&amp;r…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3136: Strain-Dependent Effects of Glycosidases and Papain on Preformed Biofilm Biomass and Biofilm Formation in Escherichia coli",
@@ -292,20 +436,20 @@
       "excerpt": "Tokyo has logged 34 straight days of rain, the longest streak on record, Japan's weather agency said Tuesday."
     },
     {
-      "title": "Polo makes landfall in Mexico as a category 3 hurricane",
-      "link": "https://phys.org/news/2026-09-polo-landfall-mexico-category-hurricane.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-29T14:49:58.000Z",
-      "excerpt": "Hurricane Polo made landfall on Mexico's Baja California peninsula on Tuesday, cutting power and causing flooding as the sea breached coastal defenses."
+      "title": "Shell advances LNG Canada phase two project with FID",
+      "link": "https://www.offshore-technology.com/news/shell-lng-canada-phase-2-project-fid/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-29T11:55:56.000Z",
+      "excerpt": "Shell Canada Energy, an affiliate of Shell, has taken a FID on Phase 2 of the LNG Canada project in Kitimat, British Columbia."
     },
     {
-      "title": "Warming weakens Asian monsoon's reach into the Mediterranean",
-      "link": "https://phys.org/news/2026-09-weakens-asian-monsoon-mediterranean.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-29T14:00:02.000Z",
-      "excerpt": "The South Asian summer monsoon has long been known to shape the Mediterranean climate thousands of kilometers away as part of a phenomenon known as the \"monsoon–desert\" mechanism. Through this mechanism, intense monsoon…"
+      "title": "The future of Europe’s refining is flexibility",
+      "link": "https://www.offshore-technology.com/sponsored/the-future-of-europes-refining-is-flexibility/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-09-29T11:07:22.000Z",
+      "excerpt": "Europe’s refineries must boost flexibility with digitisation, resilience and petrochemical integration to stay competitive through 2035."
     },
     {
       "title": "Oil prices climb for second day over Middle East supply concerns",
@@ -338,78 +482,6 @@
       "category": "geoscience",
       "published": "2026-09-29T05:08:47.000Z",
       "excerpt": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle, revealing a surprisingly dynamic world thousands of kilome…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4622: Energy-Efficient Calcium Looping with Vacuum-Assisted CaCO3 Decomposition for Biomass-Derived Hydrogen Production",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4622",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "The aim of this study is to propose and evaluate a novel hydrogen production process that integrates biomass gasification and calcium looping with vacuum-assisted low-temperature CaCO3 decomposition. To achieve this obje…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4621: From Hazard Assessment to Operational Action: A Preliminary Evidence-Bounded Intervention-Selection Framework for Hydrogen Energy Facilities",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4621",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Hydrogen energy facilities require recurring intervention decisions under incomplete probability data. This study proposes the Differentiated Process-Safety Intervention Framework (DPSIF), a preliminary conceptual framew…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4620: Partial Discharge Characteristics of Cable Terminations with Stress Cone Misalignment Defects Under AC-Superimposed Switching Impulse Voltage",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4620",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "This study investigates the partial discharge (PD) behavior of a 10 kV XLPE cable termination with a controlled stress cone misalignment defect under AC-superimposed switching impulse voltage. A test platform was develop…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4619: Scenario-Based Intraday Multi-Service Co-Optimization and Grid-Value Assessment of Renewable Power Plants with Co-Located Energy Storage",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4619",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Renewable power plants with co-located battery energy storage systems (BESSs) coordinate forecast-deviation control, renewable-surplus management, electricity-price arbitrage, and ancillary-service commitments through th…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4618: Extending Energy Management Towards Suppliers&mdash;An Analysis of Drivers, Barriers and Selection Criteria",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4618",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Energy management (EnM) is crucial for reducing GHG emissions, but there is still a large potential to improve the energy efficiency of manufacturing companies. One approach that could be leveraged is to reduce Scope 3 e…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4617: Mapping the Scientific Interest in Integrating Digital Twin Technology into Renewable Energy Systems: Efficiency-Oriented Trends, Evidence-Based Gaps and Strategic Directions",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4617",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Digital twin (DT) technology is increasingly mobilized to improve the efficiency and operational performance of renewable energy (RE) systems. This study maps the efficiency-oriented segment of DT research in RE through…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4616: Hydrogen-Assisted Extension of the Lean Operating Limit of a Small-Bore Air-Cooled Gasoline Direct-Injection Engine: Combustion Stability, Efficiency Optimization, and Emissions",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4616",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Extending the lean operating limit of small-bore gasoline direct-injection (GDI) engines offers a practical pathway to improve fuel conversion efficiency in the light-duty transportation segment; however, deteriorated fl…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4615: Three-Stage Peer-to-Peer Coordination for Multi-Microgrids: Rolling Alternating Direction Method of Multipliers Dispatch and Environmental Contribution-Weighted Nash Settlement",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4615",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Peer-to-peer (P2P) energy trading and shared energy storage (SES) are effective means for multi-microgrid systems to improve operational flexibility, but the cooperative surplus they create must be allocated among partic…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4614: Hydrodynamic Constraints and Safety Implications of a 100% Hydrogen Fuel-Supply Train Retrofit for a Gas-Engine Power Plant: An Integrated Assessment",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4614",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Retrofitting existing natural-gas power plants for hydrogen operation may reduce asset replacement, but energy-equivalent fuel substitution can substantially alter hydraulic loading and accident consequences. This study…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3134: Systematic Evaluation of Sedimentation Stability and Gel Strength of Water-Based Testing Fluid Under Multiple Downhole Factors",
@@ -460,38 +532,6 @@
       "excerpt": "Small fault offsets in thin coal seams can resemble responses caused by tuning, impedance variation, processing effects, or poor data quality. We developed the Scale- and Dependence-Aware Evidence-Gating workflow (SDEG)…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3128: Advances in Biological Electrolytic Water Splitting for Hydrogen Production",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3128",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Electrocatalytic water splitting stands as one of the most promising methods for producing clean and sustainable fuels from intermittent renewable energy sources. The strategic design of efficient electrocatalysts is cru…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3127: Optimization of Cr(VI) Photoreduction in Water over Ag-Promoted Nb2O5: Effects of Operating Conditions and Reactive Species",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3127",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Photocatalytic reduction of Cr(VI) using Nb2O5-based catalysts has been reported; however, Ag-promoted Nb2O5 remains scarcely explored. In this context, the present study describes the performance of Ag/Nb2O5 catalysts i…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3126: Well Orientation Effects on Hydraulic Fracturing in Tight Sandstone: A True Triaxial Experimental Study",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3126",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "To clarify the controlling effects of the well deviation angle and azimuth angle on the breakdown pressure, propagation morphology, and fracture-network complexity of hydraulic fractures in tight sandstone, true triaxial…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3125: Magnetically Functionalized Moringa oleifera Biosorbent for Paracetamol Removal: Adsorptive Performance and Toxicological Safety in Water Treatment",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3125",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Pharmaceutical residues in aquatic environments have emerged as an important environmental concern, highlighting the need for effective, sustainable, and economically viable water treatment technologies. This study inves…"
-    },
-    {
       "title": "Shearwater wins seabed node survey contract in South America",
       "link": "https://www.offshore-technology.com/news/shearwater-seabed-node-survey-south-america/",
       "source": "Offshore Technology",
@@ -506,30 +546,6 @@
       "category": "industry",
       "published": "2026-09-28T10:51:00.000Z",
       "excerpt": "Genel Energy, via its wholly owned indirect subsidiary Genel Energy No.9 (Bidco), has increased its recommended cash offer for UK-listed Capricorn Energy to $436m, surpassing a competing bid from DNO."
-    },
-    {
-      "title": "Inpex exercises pre-emptive rights to raise Ichthys LNG stake",
-      "link": "https://www.offshore-technology.com/news/inpex-pre-emptive-ichthys-lng-stake/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-28T10:42:39.000Z",
-      "excerpt": "Japanese oil and gas explorer Inpex, via its Australian subsidiaries, will acquire an additional 0.735% participating interest in the Ichthys LNG project from JERA, increasing its total holding to 68.555%."
-    },
-    {
-      "title": "The offshore solids control blind spot: when running equipment hides a failing system",
-      "link": "https://www.offshore-technology.com/opinion/offshore-solids-control-equipment-system/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-28T09:00:00.000Z",
-      "excerpt": "Performance should be judged from the flowline to the final waste stream, writes Othman Soliman, founder of SC DrillTech."
-    },
-    {
-      "title": "TotalEnergies and partners approve Absheron gas project FID",
-      "link": "https://www.offshore-technology.com/news/totalenergies-partners-absheron-gas-fid/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-28T07:54:25.000Z",
-      "excerpt": "TotalEnergies and its partners State Oil Company of the Republic of Azerbaijan (SOCAR) and XRG have made a final investment decision (FID) to move ahead with the full field development of the Absheron gas and condensate…"
     },
     {
       "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
@@ -548,28 +564,12 @@
       "excerpt": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-…"
     },
     {
-      "title": "Aker BP and partners upgrade Verdandi and Lillefix resource size",
-      "link": "https://www.offshore-technology.com/news/aker-bp-partners-upgrade-verdandi-lillefix/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-25T13:58:29.000Z",
-      "excerpt": "Aker BP and its partners Equinor and DNO have increased the projected size of the Verdandi and Lillefix discoveries in the Norwegian North Sea following an appraisal well drilled from the Symra field subsea template."
-    },
-    {
       "title": "Earth is tearing apart beneath the Pacific Northwest",
       "link": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
       "source": "ScienceDaily — Geology",
       "category": "geoscience",
       "published": "2026-09-25T12:20:18.000Z",
       "excerpt": "Scientists have captured a subduction zone off Vancouver Island in the process of tearing itself apart, revealing that these massive tectonic systems may die piece by piece rather than all at once. The discovery could he…"
-    },
-    {
-      "title": "Vietnam’s BSR inks crude oil supply agreement with ExxonMobil",
-      "link": "https://www.offshore-technology.com/news/bsr-crude-supply-agreement-exxonmobil/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-25T09:41:12.000Z",
-      "excerpt": "Petrovietnam Refining and Petrochemical Corporation (BSR) has entered into a framework agreement to purchase crude oil from ExxonMobil Asia Pacific, an affiliate of ExxonMobil."
     },
     {
       "title": "The “big one” might not come alone: Two major West Coast faults may strike back to back",
