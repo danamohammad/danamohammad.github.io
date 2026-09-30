@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:33:52.697Z",
+  "generatedAt": "2026-09-30T05:55:40.252Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,150 @@
     }
   ],
   "items": [
+    {
+      "title": "Climate-informed cryospheric reanalysis via hierarchical Bayesian data assimilation",
+      "link": "https://arxiv.org/abs/2609.36077",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2609.36077v1 Announce Type: new Abstract: The cryosphere regulates global cycles of water, energy, and carbon, affecting societies and ecosystems. By assimilating observations into models, we can infer the past tra…"
+    },
+    {
+      "title": "From Wildfire Severity to Snow Persistence: A Multisource GeoAI Study of the 2020 Creek Fire",
+      "link": "https://arxiv.org/abs/2609.36345",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2609.36345v1 Announce Type: new Abstract: Accurate prediction of post-fire snow conditions does not necessarily establish how wildfire changed those conditions. We developed an explainable geospatial artificial int…"
+    },
+    {
+      "title": "Finite-Horizon Triggering Cores of Earthquake Sequences",
+      "link": "https://arxiv.org/abs/2609.37213",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2609.37213v1 Announce Type: new Abstract: Models of triggered seismicity commonly aggregate the contributions of all past earthquakes into a total predicted rate. This aggregation does not distinguish a forecast do…"
+    },
+    {
+      "title": "Convergent representations of elastic-wave structure emerge across deliberately distinct seismic training routes",
+      "link": "https://arxiv.org/abs/2609.37462",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2609.37462v1 Announce Type: new Abstract: Elastic-wave propagation connects laboratory fracture with earthquakes, raising the prospect of seismic models that reuse waveform structure across physical scales. Here we…"
+    },
+    {
+      "title": "Does High Signal-to-Noise Ratio Identify Better Training Data for Seismic Deep Learning?",
+      "link": "https://arxiv.org/abs/2609.37463",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2609.37463v1 Announce Type: new Abstract: Hard signal-to-noise ratio (SNR) screening removes weak seismic records, but does retaining clearer waveforms improve learning enough to compensate for the discarded data?…"
+    },
+    {
+      "title": "Temporal Correlation between Ionospheric Storm-Enhanced Density Plume and Plasmaspheric Plume Occurrence",
+      "link": "https://arxiv.org/abs/2609.36110",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2609.36110v1 Announce Type: cross Abstract: We present a statistical evidence of a temporal correlation between ionospheric storm-enhanced density (SED) and plasmaspheric plumes during magnetic storms. We identifie…"
+    },
+    {
+      "title": "Physical Cross-Modal Masked Autoencoding for Seismic-to-Well Representation Learning",
+      "link": "https://arxiv.org/abs/2609.36193",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2609.36193v1 Announce Type: cross Abstract: Learning from scientific measurements often requires aligning modalities with different spatial support and resolution. Subsurface characterization is an extreme dense-sp…"
+    },
+    {
+      "title": "Anomalous pressure-dependent viscosity of basaltic melts and its role in asthenosphere melt accumulation",
+      "link": "https://arxiv.org/abs/2609.36623",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2609.36623v1 Announce Type: cross Abstract: The asthenosphere's mechanical weakness enables plate tectonics, but its origin is debated. Partial melt has been proposed to cause this softening, yet recent studies sug…"
+    },
+    {
+      "title": "Determining the optimal focusing parameter in sparse promoting inversions of EMI surveys",
+      "link": "https://arxiv.org/abs/2211.12552",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2211.12552v2 Announce Type: replace Abstract: If the magnetic field caused by a magnetic dipole is measured, the electrical conductivity of the subsurface can be determined by solving the inverse problem. For this…"
+    },
+    {
+      "title": "Large-scale bioacoustic detection using semantic segmentation: a deep learning framework applied to fin whale calls in ocean-bottom seismometer recordings",
+      "link": "https://arxiv.org/abs/2609.13281",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2609.13281v2 Announce Type: replace Abstract: Ocean-bottom seismometers (OBS), originally deployed for geophysical research, continuously record low-frequency sound for months to years across broad areas of ocean,…"
+    },
+    {
+      "title": "Hydrodynamic escape from the proto-lunar disk and the origin of the Earth-Moon volatile dichotomy",
+      "link": "https://arxiv.org/abs/2603.05322",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2603.05322v2 Announce Type: replace-cross Abstract: Volatile elements - those that vaporize at low temperatures - are depleted in lunar rocks relative to terrestrial rocks. This systematic chemical depletion is evi…"
+    },
+    {
+      "title": "Free surfaces in turbulence - A unified framework from water surfaces to elastic solids",
+      "link": "https://arxiv.org/abs/2605.23166",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-09-30T04:00:00.000Z",
+      "excerpt": "arXiv:2605.23166v3 Announce Type: replace-cross Abstract: What do the ocean surface and a swaying flag have in common? Both are deformable surfaces exhibiting chaotic motion when exposed to turbulent flows. Whether such…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4624: Does Standards Harmonization Reduce Energy Intensity? Evidence from Chinese Industrial Firms",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4624",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "This study proposes a novel mapping approach that links China&amp;rsquo;s national standards with international standards, enabling the measurement of the degree of harmonization between Chinese and international standar…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4625: Segmented Bias Correction of ERA5 100 m Wind Speed for Wind-Resource Assessment in Complex Terrain",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4625",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "ERA5 100 m wind speed provides long-term and spatially continuous information for regional wind-resource assessment, but its grid-scale representation may introduce terrain- and wind-regime-dependent biases in complex te…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4623: Low-Cost Solid Electrolytes for All-Solid-State Batteries: Material Design, Scalable Manufacturing, and Perspectives on Commercialization",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4623",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "Commercial deployment of all-solid-state batteries depends on scalable, economically viable production of solid electrolytes. Although ASSBs offer improved safety, thermal stability, and energy density, the high cost of…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3136: Strain-Dependent Effects of Glycosidases and Papain on Preformed Biofilm Biomass and Biofilm Formation in Escherichia coli",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3136",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "Biofilm formation by Escherichia coli can contribute to persistence and reduced susceptibility to antimicrobial treatment. Here, we evaluated treatment-associated changes following individual exposure to preparations of…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3135: Investigation of Micro-Mechanism and Crystallization Behavior of Salts in Brine Discharge Tubing of Deep Salt Cavern Gas Storage",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3135",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-09-30T00:00:00.000Z",
+      "excerpt": "To address brine discharge pipe blockage caused by salt crystallization in natural gas storage facilities within salt caverns, this study employed GROMACS molecular dynamics simulations to develop a three-dimensional reg…"
+    },
+    {
+      "title": "Beyond temperature: How people experience urban heat",
+      "link": "https://phys.org/news/2026-09-temperature-people-urban.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-09-29T23:20:04.000Z",
+      "excerpt": "Urban heat is more than a matter of temperature. It can affect how people sleep, work, travel through the city and dress, and even how safe or comfortable they feel in public spaces. Yet these everyday consequences often…"
+    },
     {
       "title": "Canada's 2023 wildfires broke longstanding media caution around climate reporting",
       "link": "https://phys.org/news/2026-09-canada-wildfires-broke-longstanding-media.html",
@@ -164,14 +308,6 @@
       "excerpt": "The South Asian summer monsoon has long been known to shape the Mediterranean climate thousands of kilometers away as part of a phenomenon known as the \"monsoon–desert\" mechanism. Through this mechanism, intense monsoon…"
     },
     {
-      "title": "Peeling crust beneath Italy's Apennines may explain why mountains stretch and squeeze",
-      "link": "https://phys.org/news/2026-09-crust-beneath-italy-apennines-mountains.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-09-29T13:40:12.000Z",
-      "excerpt": "Extending some 1,200 kilometers (750 miles) along the length of Italy, the Apennine Mountains present a challenging puzzle for geologists. In some places, the mountains are steadily being stretched apart, while in region…"
-    },
-    {
       "title": "Oil prices climb for second day over Middle East supply concerns",
       "link": "https://www.offshore-technology.com/news/oil-climb-middle-east-supply-concerns/",
       "source": "Offshore Technology",
@@ -202,102 +338,6 @@
       "category": "geoscience",
       "published": "2026-09-29T05:08:47.000Z",
       "excerpt": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle, revealing a surprisingly dynamic world thousands of kilome…"
-    },
-    {
-      "title": "Efficient One-Step Surface-Wave Tomography through Implicit Differentiation and Jacobian Factorization",
-      "link": "https://arxiv.org/abs/2609.32142",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2609.32142v1 Announce Type: new Abstract: Surface-wave tomography provides important constraints on the crust and upper mantle, but directly inverting millions of measurements for three-dimensional structure remain…"
-    },
-    {
-      "title": "A Review of Deep-learning-based Seismic Data Denoising and Its Promising Paradigm Shift to Foundation Models",
-      "link": "https://arxiv.org/abs/2609.34530",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2609.34530v1 Announce Type: new Abstract: Denoising is a long-standing and widely-concerned topic in seismic data processing, for it can significantly increase the signal-to-noise ratio of seismic data. Numerous de…"
-    },
-    {
-      "title": "Toward Enhanced Water Detection in SWOT Pixel Clouds using Dynamic Graph Neural Networks",
-      "link": "https://arxiv.org/abs/2609.34954",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2609.34954v1 Announce Type: new Abstract: The Surface Water and Ocean Topography (SWOT) mission offers unprecedented freshwater monitoring capabilities through its innovative wide-swath measurement system, which ge…"
-    },
-    {
-      "title": "AutoCF: An Automated LLM-Assisted Ecosystem for Compound Flood Simulation, Evaluation, and Impact Attribution",
-      "link": "https://arxiv.org/abs/2609.35753",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2609.35753v1 Announce Type: new Abstract: Compound coastal flooding (CCF) arises from interacting coastal, precipitation, and river processes, yet modeling workflows often separate simulation, evaluation, and impac…"
-    },
-    {
-      "title": "A method for measuring and analyzing four-dimensional flow fields in viscous Rayleigh-B\\'enard convection",
-      "link": "https://arxiv.org/abs/2609.33036",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2609.33036v1 Announce Type: cross Abstract: Laboratory investigation of convective flow in viscous fluids is crucial for various engineering and geophysical applications, including vigorous convection in planetary…"
-    },
-    {
-      "title": "Morphology, interactions, and evolution of laminar thermal plumes revealed by time-resolved volumetric velocity measurements and analysis: Application to Earth's mantle",
-      "link": "https://arxiv.org/abs/2609.33042",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2609.33042v1 Announce Type: cross Abstract: Plume-laden convection plays a fundamental role in thermal transport in geophysical and industrial flows. While the dynamics of isolated laminar plumes have been extensiv…"
-    },
-    {
-      "title": "Structural Alignment for Reliable Industrial AI: Bridging Physical Reality, Data, Models, and Human Intent",
-      "link": "https://arxiv.org/abs/2609.35400",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2609.35400v1 Announce Type: cross Abstract: Artificial intelligence is increasingly deployed in critical industrial domains, including healthcare, energy grids, subsurface exploration, where failures can have sever…"
-    },
-    {
-      "title": "A Poromechanics-Based Framework for Fully Coupled Reactive Transport and Geomechanics in Porous Rocks",
-      "link": "https://arxiv.org/abs/2608.00310",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2608.00310v2 Announce Type: replace Abstract: Mineral precipitation and dissolution in rocks alter pore structure, stress, and hydraulic properties, producing tightly coupled chemo-hydro-mechanical processes that a…"
-    },
-    {
-      "title": "Direction-Aware Masked Pretraining on 3D Seismic Data with Transfer to Cross-Area Acoustic Impedance Inversion",
-      "link": "https://arxiv.org/abs/2609.24615",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2609.24615v2 Announce Type: replace Abstract: Seismic feature extraction and acoustic impedance inversion are important for subsurface characterisation, but sparse well-log data limit the generalisation of data-dri…"
-    },
-    {
-      "title": "Explaining Ground-Motion Residuals at Two Strong-Motion Stations in Southeastern New York: Sediment Resonance and Topographic Amplification",
-      "link": "https://arxiv.org/abs/2609.31464",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2609.31464v2 Announce Type: replace Abstract: Sites hosting strong-motion stations in the Central and Eastern United States are commonly characterized using proxy-based parameters, limiting the ability to identify…"
-    },
-    {
-      "title": "Near-real-time, meter-scale 3D urban wind modeling for low-altitude micrometeorology: numerical verification of a GPU-accelerated lattice Boltzmann framework",
-      "link": "https://arxiv.org/abs/2607.04516",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2607.04516v2 Announce Type: replace-cross Abstract: This study presents a near-real-time, meter-scale three-dimensional urban wind simulation framework for low-altitude flight events in complex urban meteorological…"
-    },
-    {
-      "title": "Interhemispheric differences in field-aligned currents, ground magnetic perturbations, and TEC during the geomagnetic storms of May and October 2024",
-      "link": "https://arxiv.org/abs/2609.23725",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-09-29T04:00:00.000Z",
-      "excerpt": "arXiv:2609.23725v2 Announce Type: replace-cross Abstract: This study investigates storm-to-storm variability and hemispheric differences in magnetosphere-ionosphere (MI) coupling during the extreme (G5) geomagnetic storm…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4622: Energy-Efficient Calcium Looping with Vacuum-Assisted CaCO3 Decomposition for Biomass-Derived Hydrogen Production",
@@ -340,20 +380,20 @@
       "excerpt": "Energy management (EnM) is crucial for reducing GHG emissions, but there is still a large potential to improve the energy efficiency of manufacturing companies. One approach that could be leveraged is to reduce Scope 3 e…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4616: Hydrogen-Assisted Extension of the Lean Operating Limit of a Small-Bore Air-Cooled Gasoline Direct-Injection Engine: Combustion Stability, Efficiency Optimization, and Emissions",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4616",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Extending the lean operating limit of small-bore gasoline direct-injection (GDI) engines offers a practical pathway to improve fuel conversion efficiency in the light-duty transportation segment; however, deteriorated fl…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4617: Mapping the Scientific Interest in Integrating Digital Twin Technology into Renewable Energy Systems: Efficiency-Oriented Trends, Evidence-Based Gaps and Strategic Directions",
       "link": "https://www.mdpi.com/1996-1073/19/19/4617",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-09-29T00:00:00.000Z",
       "excerpt": "Digital twin (DT) technology is increasingly mobilized to improve the efficiency and operational performance of renewable energy (RE) systems. This study maps the efficiency-oriented segment of DT research in RE through…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4616: Hydrogen-Assisted Extension of the Lean Operating Limit of a Small-Bore Air-Cooled Gasoline Direct-Injection Engine: Combustion Stability, Efficiency Optimization, and Emissions",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4616",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-09-29T00:00:00.000Z",
+      "excerpt": "Extending the lean operating limit of small-bore gasoline direct-injection (GDI) engines offers a practical pathway to improve fuel conversion efficiency in the light-duty transportation segment; however, deteriorated fl…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4615: Three-Stage Peer-to-Peer Coordination for Multi-Microgrids: Rolling Alternating Direction Method of Multipliers Dispatch and Environmental Contribution-Weighted Nash Settlement",
@@ -370,30 +410,6 @@
       "category": "energy",
       "published": "2026-09-29T00:00:00.000Z",
       "excerpt": "Retrofitting existing natural-gas power plants for hydrogen operation may reduce asset replacement, but energy-equivalent fuel substitution can substantially alter hydraulic loading and accident consequences. This study…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4613: RETRACTED: Shi, Y.; Li, D. Control Strategy for Photovoltaic-Storage Hybrid System Based on Cascaded Linear-Nonlinear Extended State Observer. Energies 2026, 19, 2597",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4613",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "The journal retracts the article titled &amp;ldquo;Control Strategy for Photovoltaic-Storage Hybrid System Based on Cascaded Linear-Nonlinear Extended State Observer&amp;rdquo; [...]"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4612: A Review of Research on Underground Energy Storage in China",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4612",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "With the rapid development of clean energy in China, the demand for underground energy storage is increasing. This paper reviews the current status of underground energy storage and advances in safety assessment and envi…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4611: A Difference-of-Convex Programming-Based Method for Day-Ahead and Intraday Coordinated Voltage/Var Control in Active Distribution Networks",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4611",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "High photovoltaic (PV) penetration can increase active power losses and cause steady-state voltage violations in distribution networks. This paper develops an integrated day-ahead and intraday voltage/var control (VVC) f…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3134: Systematic Evaluation of Sedimentation Stability and Gel Strength of Water-Based Testing Fluid Under Multiple Downhole Factors",
@@ -474,22 +490,6 @@
       "category": "processing",
       "published": "2026-09-29T00:00:00.000Z",
       "excerpt": "Pharmaceutical residues in aquatic environments have emerged as an important environmental concern, highlighting the need for effective, sustainable, and economically viable water treatment technologies. This study inves…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3124: Effect of Osmotic Pressure on Huff-n-Puff Performance Under Fractured Conditions",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3124",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "Water retention after imbibition and the recovery response to low-salinity injection suggest that capillarity alone does not describe all fluid exchange in tight formations. How osmotic forces influence successive inject…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3123: An Improved DWA-Based Local Path-Planning Method for an AMR Using Adaptive Fuzzy Control",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3123",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-09-29T00:00:00.000Z",
-      "excerpt": "In the highly dynamic production environment of intelligent logistics centers, autonomous mobile robots (AMRs) serve as the core carriers connecting automated storage systems with assembly lines. Their operational effici…"
     },
     {
       "title": "Shearwater wins seabed node survey contract in South America",
