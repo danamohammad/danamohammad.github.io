@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T22:53:02.462Z",
+  "generatedAt": "2026-10-02T06:07:38.282Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,110 @@
     }
   ],
   "items": [
+    {
+      "title": "Cosmic-ray particles help probe powerful electric fields inside thunderstorms",
+      "link": "https://phys.org/news/2026-10-cosmic-ray-particles-probe-powerful.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-02T04:00:02.000Z",
+      "excerpt": "An instrument built to study cosmic rays has turned out to be a powerful tool for investigating thunderstorms. Earlier observations with the GRAPES-3 muon telescope revealed that thunderclouds can develop electrical pote…"
+    },
+    {
+      "title": "Higher--order gradient modeling of velocity dispersion in tight sandstones with implications to agroseismology",
+      "link": "https://arxiv.org/abs/2610.00269",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-02T04:00:00.000Z",
+      "excerpt": "arXiv:2610.00269v1 Announce Type: new Abstract: Modeling frequency-dependent shear-wave propagation in fluid-saturated porous rocks remains a challenge today because existing poroelastic theories generally rely a large n…"
+    },
+    {
+      "title": "GeoFWI3D: Large-scale 3D Velocity Model Dataset for Deep Learning-assisted Seismic Imaging",
+      "link": "https://arxiv.org/abs/2610.01033",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-02T04:00:00.000Z",
+      "excerpt": "arXiv:2610.01033v1 Announce Type: new Abstract: We introduce GeoFWI3D, a large-scale open-source benchmark dataset of geologically plausible 3D subsurface models designed to accelerate deep learning (DL) assisted seismic…"
+    },
+    {
+      "title": "Coarse-to-fine multi-resolution hash encoding for implicit full waveform inversion",
+      "link": "https://arxiv.org/abs/2610.01081",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-02T04:00:00.000Z",
+      "excerpt": "arXiv:2610.01081v1 Announce Type: new Abstract: Implicit full waveform inversion (IFWI) reparameterizes the velocity model with a neural network, but it suffers from spectral bias and requires many iterations to converge…"
+    },
+    {
+      "title": "Flow-rate controls on trapped hydrogen redistribution in a heterogeneous sandstone: a synchrotron X-ray micro-CT study",
+      "link": "https://arxiv.org/abs/2610.01886",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-02T04:00:00.000Z",
+      "excerpt": "arXiv:2610.01886v1 Announce Type: new Abstract: Subsurface hydrogen storage in porous geological formations is a promising strategy for balancing temporal mismatches between renewable energy generation and demand. The vi…"
+    },
+    {
+      "title": "SW1D: A Python package for seismic surface wave solutions in 1-D elastic media",
+      "link": "https://arxiv.org/abs/2610.02194",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-02T04:00:00.000Z",
+      "excerpt": "arXiv:2610.02194v1 Announce Type: new Abstract: We present SW1D, a Python version of a legacy code for the forward computation of Rayleigh and Love wave dispersion curves as well as synthetic seismograms, in elastic, iso…"
+    },
+    {
+      "title": "Constructive Reuse of Free-Surface Ghost Wavefields in Marine Seismic Data: A Propagation-Based Framework",
+      "link": "https://arxiv.org/abs/2602.07759",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-02T04:00:00.000Z",
+      "excerpt": "arXiv:2602.07759v3 Announce Type: replace Abstract: Recent advances in marine seismic acquisition and processing have substantially improved the decomposition of free surface ghost wavefields. Building upon these develop…"
+    },
+    {
+      "title": "TRACE: A Multi-Agent System for Autonomous Physical Reasoning for Seismology",
+      "link": "https://arxiv.org/abs/2603.21152",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-02T04:00:00.000Z",
+      "excerpt": "arXiv:2603.21152v4 Announce Type: replace Abstract: Modern seismic networks resolve earthquake sequences in unprecedented detail, yet explaining how large earthquakes emerge from evolving fault systems remains difficult.…"
+    },
+    {
+      "title": "The NCS-Model: A seismic foundation model trained on the Norwegian repository of public data",
+      "link": "https://arxiv.org/abs/2603.23211",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-02T04:00:00.000Z",
+      "excerpt": "arXiv:2603.23211v5 Announce Type: replace Abstract: We present the NCS-models, a family of seismic foundation models pretrained on a large curated share of full-stack seismic cubes from the Norwegian Continental Shelf (N…"
+    },
+    {
+      "title": "Aging and configurational memories at rough frictional interfaces",
+      "link": "https://arxiv.org/abs/2510.14769",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-02T04:00:00.000Z",
+      "excerpt": "arXiv:2510.14769v3 Announce Type: replace-cross Abstract: Frictional interfaces retain distinct memories of how they were sheared and how long they have rested, yet rate-and-state descriptions typically compress these hi…"
+    },
+    {
+      "title": "Meteorology-driven Causal Nowcasting of Fugitive Landfill Emissions from Measured Coupling Timescales",
+      "link": "https://arxiv.org/abs/2608.14254",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-02T04:00:00.000Z",
+      "excerpt": "arXiv:2608.14254v2 Announce Type: replace-cross Abstract: Which meteorological processes control exposure to fugitive gases downwind of a source, and on what timescales, have largely been inferred from dispersion theory…"
+    },
+    {
+      "title": "Metal-organic interactions identified as a key factor in carbon cycling, improving predictions under climate change",
+      "link": "https://phys.org/news/2026-10-metal-interactions-key-factor-carbon.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-02T02:20:01.000Z",
+      "excerpt": "The global annual amount of carbon dioxide (CO₂) released through the microbial decomposition of soil organic carbon is estimated to be approximately five times greater than anthropogenic CO₂ emissions, highlighting the…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3163: Research on Fretting Wear and Seal Structure Optimization of Premium Threaded Connections for Deepwater Gas Production String",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3163",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "To address the susceptibility of premium threaded connections in deepwater gas production strings to fretting wear and seal failure under long-term cyclic loading, a numerical simulation method for fretting wear was deve…"
+    },
     {
       "title": "Where the waters meet: Connecting global limits and river basin management",
       "link": "https://phys.org/news/2026-10-global-limits-river-basin.html",
@@ -156,28 +260,12 @@
       "excerpt": "What is helping some Florida wildfires burn hotter and spread farther? A University of Florida study suggests cogongrass, an invasive grass that has spread across much of Florida and the southeastern United States, is ad…"
     },
     {
-      "title": "Science or strategy? Researchers call for transparency over the Anthropocene rejection",
-      "link": "https://phys.org/news/2026-09-science-strategy-transparency-anthropocene.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-01T13:00:08.000Z",
-      "excerpt": "Since its introduction in 2000, the concept of the Anthropocene—the idea that human activities are the major driver of Earth systems—has become highly influential throughout society, including in culture, science and law…"
-    },
-    {
       "title": "Glenfarne secures $50bn in Korean backing for Alaska LNG",
       "link": "https://www.offshore-technology.com/news/glenfarne-50bn-korean-backing-alaska-lng/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-10-01T12:39:34.000Z",
       "excerpt": "Glenfarne Group has welcomed an investment commitment exceeding $50bn from South Korea to advance the Alaska LNG project towards construction and a FID."
-    },
-    {
-      "title": "Empty nets in Latin America as fish flee El Niño",
-      "link": "https://phys.org/news/2026-10-nets-latin-america-fish-el.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-01T11:00:01.000Z",
-      "excerpt": "Fishermen along Latin America's Pacific coast are reeling in half-empty nets as ocean warming aggravated by El Niño causes tuna, anchovies and other top catches to migrate to cooler waters."
     },
     {
       "title": "Oil prices hold steady as Gulf exports resume and US-Iran talks progress",
@@ -210,86 +298,6 @@
       "category": "industry",
       "published": "2026-10-01T07:34:30.000Z",
       "excerpt": "Mangalore Refinery and Petrochemicals Limited (MRPL) reported an explosion and subsequent fire at its Kuthethoor facility, north of Mangaluru city, India, leaving one person dead and nine injured."
-    },
-    {
-      "title": "A limit theorem linking continuous plate models to the topology of the plate boundary network",
-      "link": "https://arxiv.org/abs/2609.39187",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-01T04:00:00.000Z",
-      "excerpt": "arXiv:2609.39187v1 Announce Type: new Abstract: Plate tectonics is described in two registers: a discrete one, in which rigid plates tile the sphere and meet at trivalent junctions, and a continuous one, in which Bercovi…"
-    },
-    {
-      "title": "Iterative separation of coherent blended signals in common shot gathers using synchrosqueezed curvelet-Radon constraints",
-      "link": "https://arxiv.org/abs/2609.39354",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-01T04:00:00.000Z",
-      "excerpt": "arXiv:2609.39354v1 Announce Type: new Abstract: Blended data acquired via simultaneous-source seismic exploration conventionally require post-acquisition deblending, which typically relies on the coherence differences in…"
-    },
-    {
-      "title": "Three-Dimensional Simulation of Flood Propagation at Syabrubesi, Nepal",
-      "link": "https://arxiv.org/abs/2609.38351",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-01T04:00:00.000Z",
-      "excerpt": "arXiv:2609.38351v1 Announce Type: cross Abstract: Three-dimensional flood propagation through the Bhote Koshi--Langtang Khola junction at Syabrubesi, Nepal, is studied using an incompressible free-surface model. The calc…"
-    },
-    {
-      "title": "Rigorous vertical averaging for pseudo-3D modeling of precipitation obstructed fluid flow",
-      "link": "https://arxiv.org/abs/2609.39391",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-01T04:00:00.000Z",
-      "excerpt": "arXiv:2609.39391v1 Announce Type: cross Abstract: Computing effective hydraulic properties of porous materials with a dynamically changing pore morphology presents a complex and critical challenge in both theoretical and…"
-    },
-    {
-      "title": "Elasticity of polycrystalline davemaoite constrains its grain size in the lower mantle",
-      "link": "https://arxiv.org/abs/2609.39423",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-01T04:00:00.000Z",
-      "excerpt": "arXiv:2609.39423v1 Announce Type: cross Abstract: Earth's lower mantle hosts large low shear-velocity provinces (LLSVPs) beneath Africa and the Pacific, but their origin remains debated. Davemaoite, a major lower-mantle…"
-    },
-    {
-      "title": "A library for differentiable signal processing and machine learning on the sphere",
-      "link": "https://arxiv.org/abs/2609.39737",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-01T04:00:00.000Z",
-      "excerpt": "arXiv:2609.39737v1 Announce Type: cross Abstract: The two-dimensional sphere embedded in three-dimensional Euclidean space S2, plays a central role in a variety of scientific and engineering domains, including geophysics…"
-    },
-    {
-      "title": "The NCS-Model: A seismic foundation model trained on the Norwegian repository of public data",
-      "link": "https://arxiv.org/abs/2603.23211",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-01T04:00:00.000Z",
-      "excerpt": "arXiv:2603.23211v4 Announce Type: replace Abstract: We present the NCS-models, a family of seismic foundation models pretrained on a large curated share of full-stack seismic cubes from the Norwegian Continental Shelf (N…"
-    },
-    {
-      "title": "Ground-to-Cable Strain Transfer in Unburied DAS on Earth and the Moon",
-      "link": "https://arxiv.org/abs/2608.10287",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-01T04:00:00.000Z",
-      "excerpt": "arXiv:2608.10287v2 Announce Type: replace Abstract: Distributed acoustic sensing (DAS) cables are typically buried to ensure good coupling and reduce unwanted atmospheric noise. Unburied deployments are attractive for ra…"
-    },
-    {
-      "title": "Rheology-controlled hydraulic selection in fracture-matrix heat transport: Mechanisms and thermal signatures",
-      "link": "https://arxiv.org/abs/2608.15735",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-01T04:00:00.000Z",
-      "excerpt": "arXiv:2608.15735v2 Announce Type: replace-cross Abstract: Geological fractures exhibit heterogeneous aperture fields that localize flow along preferential pathways and produce nonuniform fluid-matrix contact times. Heat…"
-    },
-    {
-      "title": "Anomalous pressure-dependent viscosity of basaltic melts and its role in asthenosphere melt accumulation",
-      "link": "https://arxiv.org/abs/2609.36623",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-01T04:00:00.000Z",
-      "excerpt": "arXiv:2609.36623v2 Announce Type: replace-cross Abstract: The asthenosphere's mechanical weakness enables plate tectonics, but its origin is debated. Partial melt has been proposed to cause this softening, yet recent stu…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4665: A New Approach to the Determination of Optimal Locations of Energy Storages to Reduce Power Line Losses",
@@ -474,14 +482,6 @@
       "category": "processing",
       "published": "2026-10-01T00:00:00.000Z",
       "excerpt": "In selective catalytic reduction (SCR) systems, urea-water solution (UWS) is injected upstream of the catalyst, where water evaporation, urea thermolysis, and isocyanic acid (HNCO) hydrolysis release the NH3 required for…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3151: An Improved MOEA/D Algorithm for Multi-Objective Green Flexible Job Shop Scheduling Problem",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3151",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "To address the trade-off between production efficiency and sustainable manufacturing, this study investigates the green flexible job shop scheduling problem (GFJSP) by simultaneously minimizing makespan and total energy…"
     },
     {
       "title": "Amplitude Energy takes FID on ECSP development offshore Australia",
