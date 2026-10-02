@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T06:07:38.282Z",
+  "generatedAt": "2026-10-02T13:06:56.654Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -22,7 +22,7 @@
     {
       "name": "International Journal of Greenhouse Gas Control",
       "ok": true,
-      "count": 84,
+      "count": 85,
       "error": null
     },
     {
@@ -75,6 +75,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Nepal disaster highlights risks for NZ mountains",
+      "link": "https://phys.org/news/2026-10-nepal-disaster-highlights-nz-mountains.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-02T12:40:05.000Z",
+      "excerpt": "Te Whare Wānanga o Waitaha | University of Canterbury (UC) School of Earth and Environment senior lecturer Dr. Robinson was part of an international research team investigating the Aug. 26 disaster, when a massive rock a…"
+    },
+    {
+      "title": "Bushfire simulation reveals green strategy that could cut Australia's fire threat",
+      "link": "https://phys.org/news/2026-10-bushfire-simulation-reveals-green-strategy.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-02T12:00:01.000Z",
+      "excerpt": "New modeling shows irrigating low-flammability vegetation substantially reduces the predicted spread and intensity of wildfires, which could give communities critical extra preparation time, according to a University of…"
+    },
+    {
+      "title": "Europe's hottest summer caused record heat stress: Monitor",
+      "link": "https://phys.org/news/2026-10-europe-hottest-summer-stress.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-02T07:40:02.000Z",
+      "excerpt": "A record 52% of Europe was exposed to intense heat stress during the exceptionally hot summer that seared the continent this year, the EU's climate monitor said Friday."
+    },
     {
       "title": "Cosmic-ray particles help probe powerful electric fields inside thunderstorms",
       "link": "https://phys.org/news/2026-10-cosmic-ray-particles-probe-powerful.html",
@@ -172,6 +196,94 @@
       "excerpt": "The global annual amount of carbon dioxide (CO₂) released through the microbial decomposition of soil organic carbon is estimated to be approximately five times greater than anthropogenic CO₂ emissions, highlighting the…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4671: Dynamic Flexibility Duration Assessment of Low-Voltage Feeders Using Multi-Feature Trajectory Similarity Matching",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4671",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "Increasing distributed energy resource penetration makes low-voltage feeder flexibility highly time-varying and uncertain, limiting the operational value of static capacity-based estimates. This paper proposes a dynamic…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4668: High-Temperature Corrosion in Biomass and Waste-to-Energy Boilers: Mechanisms, Materials and Mitigation Strategies",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4668",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "Biomass and waste contain elevated concentrations of chlorine and alkali metals that promote the problem of high-temperature chlorine corrosion in power boilers. The results are rapid metal loss, increased maintenance co…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4669: A Sensor Specification and Deployment Framework for Condition Monitoring of Existing Hydraulic Turbines",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4669",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "Hydraulic turbines increasingly operate under variable hydraulic regimes, creating a need for condition monitoring (CM) systems that support diagnostics and predictive maintenance, rather than only protection or threshol…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4670: A Review of Pendulum Systems and Structures for Wave Energy Conversion",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4670",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "Wave energy has emerged as a promising renewable energy source due to its high energy density and consistency compared to solar and wind. This literature review explores the technological components and design considerat…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4666: Permeability Evolution and Heat Extraction in Superhot and Supercritical Geothermal Systems: From Brittle&ndash;Ductile Mechanics to Long-Term Reservoir Performance",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4666",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "Superhot and supercritical geothermal resources provide higher-enthalpy fluids than conventional systems. Their feasibility, however, depends on a connected flow system that survives extreme temperature, pressure, stress…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4667: Offshore Energy Infrastructure Resilience and Sustainable Energy Transition in the Baltic Sea Region",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4667",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "Offshore renewable energy development supports Europe&amp;rsquo;s decarbonization strategy, but its contribution depends on infrastructure performance and governance. This study examines these relationships in the Baltic…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3168: A Life-Cycle-Oriented Critical Production Drawdown Model for Weakly Consolidated Bohai Sandstone Reservoirs Under Coupled Water-Induced Weakening and Pore-Pressure Depletion",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3168",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "Weakly consolidated sandstone reservoirs in the Bohai region are susceptible to sand production and wellbore instability during high-water-cut production because water&amp;ndash;rock interaction progressively degrades ro…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3167: Roof&ndash;Facade Photovoltaic and Battery Planning in Energy Communities Under Uncertainty",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3167",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "Energy-community planning depends on when photovoltaic (PV) electricity is generated, not only on annual production. This study combines one year of 15 min demand from 20 metering profiles with 8 simulated roof and facad…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3166: A Catboost-Based Machine Learning Approach for Fault Detection in VSC-Based Multi-Terminal HVDC Grid",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3166",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "High-voltage direct current (HVDC) transmission systems face protection challenges due to the absence of natural current zero-crossings and the rapid rise of fault currents. This paper proposes a hierarchical fault detec…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3165: Investigation of Predicting Human Exposure to Environmental Hazards by Animal Inhalation Modeling",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3165",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "Inhalation exposure to nanomaterials represents a critical public health threat, while human experimental data remain ethically unobtainable. Animal studies on indispensable, face fundamental interspecies barriers in ana…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3164: Pore Pressure Prediction in Tight Sandstone Reservoirs with a Hybrid BiLSTM-CNN Model",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3164",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-02T00:00:00.000Z",
+      "excerpt": "Accurate pore pressure estimation in tight sandstone reservoirs is hampered by the limited sensitivity of conventional approaches, which rely on a single acoustic or resistivity log and assume shale undercompaction as th…"
+    },
+    {
       "title": "Processes, Vol. 14, Pages 3163: Research on Fretting Wear and Seal Structure Optimization of Premium Threaded Connections for Deepwater Gas Production String",
       "link": "https://www.mdpi.com/2227-9717/14/19/3163",
       "source": "Processes (MDPI)",
@@ -236,28 +348,12 @@
       "excerpt": "Transportation accounts for almost one-quarter of greenhouse gas emissions in Canada. In Metro Vancouver, around 40% of emissions are from transportation."
     },
     {
-      "title": "In Alaska, soil in permafrost regions is warming the fastest",
-      "link": "https://phys.org/news/2026-10-alaska-soil-permafrost-regions-fastest.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-01T17:00:09.000Z",
-      "excerpt": "Soils are warming quickly and at considerable depth across Alaska, with temperatures rising fastest in the state's permafrost region, a trend that could accelerate climate change and undermine the stability of roads, bui…"
-    },
-    {
-      "title": "Study finds city-level fire data can hide what's happening block by block",
-      "link": "https://phys.org/news/2026-10-city-block.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-01T15:20:29.000Z",
-      "excerpt": "A decade of New York City fire data shows that citywide trends can mask sharply different realities on the ground, with some neighborhoods moving in the opposite direction of the city as a whole."
-    },
-    {
-      "title": "What is helping some Florida wildfires burn hotter, spread faster?",
-      "link": "https://phys.org/news/2026-10-florida-wildfires-hotter-faster.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-01T14:40:12.000Z",
-      "excerpt": "What is helping some Florida wildfires burn hotter and spread farther? A University of Florida study suggests cogongrass, an invasive grass that has spread across much of Florida and the southeastern United States, is ad…"
+      "title": "Energy sector remains the backbone of global CCUS adoption",
+      "link": "https://www.offshore-technology.com/analyst-comment/energy-sector-backbone-global-ccus-adoption/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-01T14:30:30.000Z",
+      "excerpt": "CCUS adoption remains uneven, with current capacity concentrated in industries where capture is easier or already commercially proven."
     },
     {
       "title": "Glenfarne secures $50bn in Korean backing for Alaska LNG",
@@ -348,54 +444,6 @@
       "excerpt": "The growing demand for green hydrogen has driven the development of efficient and grid-compatible power electronic converters for electrolyzer systems. In this context, this work provides a comprehensive overview of ac-d…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4659: Wellbore Stability Assessment of the Luzhou Block Shale Gas Reservoir Based on Mogi&ndash;Coulomb&ndash;Jaeger Failure Assessment Model",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4659",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "During deep shale gas development, complex in situ stress conditions, abnormal formation pressure, and well-developed bedding planes result in complicated wellbore instability mechanisms. Conventional homogeneous rock mo…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4658: Parameter Identification of a Six-Phase Permanent Magnet Synchronous Motor for Maximum Torque per Ampere Control",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4658",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "This paper proposes a parameter identification method for maximum torque per ampere (MTPA) control of an asymmetrical six-phase permanent magnet synchronous motor (PMSM) using a dual three-phase drive without additional…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4657: Tank-to-Wheel Greenhouse Gas Emissions of Methanol&ndash;Gasoline Blends: Vehicle Emissions and Fuel-Based Emission Factors",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4657",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "Renewable methanol has attracted increasing attention as an alternative fuel for reducing greenhouse gas (GHG) emissions from transport. However, comprehensive evaluations of tank-to-wheel (TTW) GHG emissions, including…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4656: A Field-Scale Model for Proppant Transport and Distribution in a Main&ndash;Branch Fracture System",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4656",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "Proppant deposition changes the hydraulic resistance of connected fractures, while the resulting flow redistribution controls subsequent particle delivery. Resolving this feedback efficiently is important for evaluating…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4655: Advances in Load Frequency Control Topologies for Frequency Stability in Power Grids: A Review",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4655",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "The increased penetration of renewable energy sources and Inverter-Based Resources (IBRs) has resulted in power systems operating with significantly reduced inertia, thus increasing their susceptibility to frequency inst…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4654: Comparison of the Energy and Economic Efficiency of Demand-Driven and Linear Biogas Plant",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4654",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "The aim of the study was to conduct an energy and economic analysis of construction of a demand-driven biogas plant. Two capacity configurations, 0.249 MW and 0.499 MW, were analyzed using four demand-driven operating va…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3162: Molecular Dynamics Analysis of Linoleic Acid Retention in a Preformed Amylose Inclusion Structure",
       "link": "https://www.mdpi.com/2227-9717/14/19/3162",
       "source": "Processes (MDPI)",
@@ -444,46 +492,6 @@
       "excerpt": "To evaluate the hydrocarbon generation potential and depositional environmental characteristics of dark mudstones in the upper assemblage of the Yanchang Formation in the central&amp;ndash;eastern Ordos Basin, 39 samples…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3156: Quantification of Power Grid Frequency Regulation Capacity Demand Based on Deviation Prediction",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3156",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "Driven by global decarbonization goals, the rapid growth of renewable generation is increasing the frequency-regulation burden on power systems. Reliable estimates of regulation-capacity demand are therefore essential fo…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3155: A Loop-Space Embedded Optimization Framework for Energy-Efficient Underground Mine Ventilation Networks",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3155",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "Underground mine ventilation is a safety-critical engineering system and one of the largest electricity consumers in mining, typically accounting for 40&amp;ndash;60% of a mine&amp;rsquo;s electrical demand. Allocating a…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3154: Tuning Bovine Serum Albumin Nanoparticle Properties Through Desolvating Agents and Synthesis Parameters: Implications for Proteolysis and Drug Release",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3154",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "Bovine serum albumin nanoparticles (BSA-NPs) are widely used as model protein nanocarriers, and their physicochemical properties are strongly influenced by synthesis conditions. This study evaluated the effect of four de…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3153: Catalytic Hydration of Cyclohexene to Cyclohexanol for Nylon-6 Production: A Review",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3153",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "Nylon-6 (PA6) is a widely used engineering plastic, with cyclohexanol as the key intermediate of the benzene&amp;ndash;cyclohexene&amp;ndash;caprolactam chain. Cyclohexene hydration is considered a green alternative to c…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3152: Numerical Study on Urea-Water Solution Spray Evaporation and NH3 Formation Potential Under High-Pressure Transient Conditions in a Non-Firing Diesel Engine",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3152",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "In selective catalytic reduction (SCR) systems, urea-water solution (UWS) is injected upstream of the catalyst, where water evaporation, urea thermolysis, and isocyanic acid (HNCO) hydrolysis release the NH3 required for…"
-    },
-    {
       "title": "Amplitude Energy takes FID on ECSP development offshore Australia",
       "link": "https://www.offshore-technology.com/news/amplitude-energy-fid-ecsp-offshore-australia/",
       "source": "Offshore Technology",
@@ -522,14 +530,6 @@
       "category": "industry",
       "published": "2026-09-30T07:09:37.000Z",
       "excerpt": "SLB OneSubsea has won a contract to provide subsea production systems for the first phase of the Rovuma LNG project in Mozambique’s offshore Rovuma Basin."
-    },
-    {
-      "title": "Shell advances LNG Canada phase two project with FID",
-      "link": "https://www.offshore-technology.com/news/shell-lng-canada-phase-2-project-fid/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-29T11:55:56.000Z",
-      "excerpt": "Shell Canada Energy, an affiliate of Shell, has taken a FID on Phase 2 of the LNG Canada project in Kitimat, British Columbia."
     },
     {
       "title": "Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet",
