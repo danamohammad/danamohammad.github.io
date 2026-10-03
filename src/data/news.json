@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T22:31:23.367Z",
+  "generatedAt": "2026-10-03T05:41:54.405Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 10,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 4676: Coordinated Distribution Network Reconfiguration and Optimal Distributed Generation Placement for Power Loss Reduction and Reliability Enhancement Using HGA&ndash;PSO",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4676",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-03T00:00:00.000Z",
+      "excerpt": "Distribution network reconfiguration (DNR) and distributed generation (DG) integration are effective strategies for improving the operational efficiency and voltage performance of modern power distribution systems. Howev…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4675: Fracture&nbsp;Propagation and Productivity Prediction for Horizontal Wells in Shale Oil Reservoirs",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4675",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-03T00:00:00.000Z",
+      "excerpt": "As a typical unconventional oil and gas resource, shale oil is characterized by tight reservoir matrices and low permeability; multi-stage horizontal well fracturing is the core technology for its effective development.…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3174: Natural Fracture Characterization and Geothermal Well Placement Optimization Based on THM Multiphysics Simulation: A Case Study from the JR Block, Huabei Oilfield",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3174",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-03T00:00:00.000Z",
+      "excerpt": "Natural fractures play a key role in controlling fluid flow and heat extraction in carbonate geothermal reservoirs. Due to the high degree of rock fragmentation and strong seismic wave absorption at the top of the carbon…"
+    },
     {
       "title": "Small changes can have a big impact on sustainability transitions",
       "link": "https://phys.org/news/2026-10-small-big-impact-sustainability-transitions.html",
@@ -170,86 +194,6 @@
       "category": "geoscience",
       "published": "2026-10-02T04:00:02.000Z",
       "excerpt": "An instrument built to study cosmic rays has turned out to be a powerful tool for investigating thunderstorms. Earlier observations with the GRAPES-3 muon telescope revealed that thunderclouds can develop electrical pote…"
-    },
-    {
-      "title": "Higher--order gradient modeling of velocity dispersion in tight sandstones with implications to agroseismology",
-      "link": "https://arxiv.org/abs/2610.00269",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-02T04:00:00.000Z",
-      "excerpt": "arXiv:2610.00269v1 Announce Type: new Abstract: Modeling frequency-dependent shear-wave propagation in fluid-saturated porous rocks remains a challenge today because existing poroelastic theories generally rely a large n…"
-    },
-    {
-      "title": "GeoFWI3D: Large-scale 3D Velocity Model Dataset for Deep Learning-assisted Seismic Imaging",
-      "link": "https://arxiv.org/abs/2610.01033",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-02T04:00:00.000Z",
-      "excerpt": "arXiv:2610.01033v1 Announce Type: new Abstract: We introduce GeoFWI3D, a large-scale open-source benchmark dataset of geologically plausible 3D subsurface models designed to accelerate deep learning (DL) assisted seismic…"
-    },
-    {
-      "title": "Coarse-to-fine multi-resolution hash encoding for implicit full waveform inversion",
-      "link": "https://arxiv.org/abs/2610.01081",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-02T04:00:00.000Z",
-      "excerpt": "arXiv:2610.01081v1 Announce Type: new Abstract: Implicit full waveform inversion (IFWI) reparameterizes the velocity model with a neural network, but it suffers from spectral bias and requires many iterations to converge…"
-    },
-    {
-      "title": "Flow-rate controls on trapped hydrogen redistribution in a heterogeneous sandstone: a synchrotron X-ray micro-CT study",
-      "link": "https://arxiv.org/abs/2610.01886",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-02T04:00:00.000Z",
-      "excerpt": "arXiv:2610.01886v1 Announce Type: new Abstract: Subsurface hydrogen storage in porous geological formations is a promising strategy for balancing temporal mismatches between renewable energy generation and demand. The vi…"
-    },
-    {
-      "title": "SW1D: A Python package for seismic surface wave solutions in 1-D elastic media",
-      "link": "https://arxiv.org/abs/2610.02194",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-02T04:00:00.000Z",
-      "excerpt": "arXiv:2610.02194v1 Announce Type: new Abstract: We present SW1D, a Python version of a legacy code for the forward computation of Rayleigh and Love wave dispersion curves as well as synthetic seismograms, in elastic, iso…"
-    },
-    {
-      "title": "Constructive Reuse of Free-Surface Ghost Wavefields in Marine Seismic Data: A Propagation-Based Framework",
-      "link": "https://arxiv.org/abs/2602.07759",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-02T04:00:00.000Z",
-      "excerpt": "arXiv:2602.07759v3 Announce Type: replace Abstract: Recent advances in marine seismic acquisition and processing have substantially improved the decomposition of free surface ghost wavefields. Building upon these develop…"
-    },
-    {
-      "title": "TRACE: A Multi-Agent System for Autonomous Physical Reasoning for Seismology",
-      "link": "https://arxiv.org/abs/2603.21152",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-02T04:00:00.000Z",
-      "excerpt": "arXiv:2603.21152v4 Announce Type: replace Abstract: Modern seismic networks resolve earthquake sequences in unprecedented detail, yet explaining how large earthquakes emerge from evolving fault systems remains difficult.…"
-    },
-    {
-      "title": "The NCS-Model: A seismic foundation model trained on the Norwegian repository of public data",
-      "link": "https://arxiv.org/abs/2603.23211",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-02T04:00:00.000Z",
-      "excerpt": "arXiv:2603.23211v5 Announce Type: replace Abstract: We present the NCS-models, a family of seismic foundation models pretrained on a large curated share of full-stack seismic cubes from the Norwegian Continental Shelf (N…"
-    },
-    {
-      "title": "Aging and configurational memories at rough frictional interfaces",
-      "link": "https://arxiv.org/abs/2510.14769",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-02T04:00:00.000Z",
-      "excerpt": "arXiv:2510.14769v3 Announce Type: replace-cross Abstract: Frictional interfaces retain distinct memories of how they were sheared and how long they have rested, yet rate-and-state descriptions typically compress these hi…"
-    },
-    {
-      "title": "Meteorology-driven Causal Nowcasting of Fugitive Landfill Emissions from Measured Coupling Timescales",
-      "link": "https://arxiv.org/abs/2608.14254",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-02T04:00:00.000Z",
-      "excerpt": "arXiv:2608.14254v2 Announce Type: replace-cross Abstract: Which meteorological processes control exposure to fugitive gases downwind of a source, and on what timescales, have largely been inferred from dispersion theory…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4674: A Systematic Review of Wideband Harmonic Impedance Identification Methodologies in Inverter-Based Transmission Networks",
@@ -466,30 +410,6 @@
       "category": "energy",
       "published": "2026-10-01T00:00:00.000Z",
       "excerpt": "Connection of a storage installation to the distribution system can result in a reduction in power line losses. However, the effect of the operation of an identical energy storage within different system nodes will be va…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4663: Geopolitical Weaponization of Energy: Implications for European Energy Security and NATO Strategic Preparedness",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4663",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "Energy can become an instrument of geopolitical coercion when asymmetric dependencies, infrastructure vulnerabilities, and limited resilience allow energy resources, supplies, prices, technologies, or infrastructure to b…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4664: Fused Filament Fabrication of Micro-Turbojet Engines for Small UAVs: Energy-Efficiency Perspectives on High-Performance Polymers and Sinterable Bound-Metal Filaments",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4664",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "The growing operational demands placed on small uncrewed aerial vehicles (UAVs) favor propulsion systems with high onboard energy density, which has renewed interest in micro-turbojet engines in the 100&amp;ndash;500 N t…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3162: Molecular Dynamics Analysis of Linoleic Acid Retention in a Preformed Amylose Inclusion Structure",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3162",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-01T00:00:00.000Z",
-      "excerpt": "Previous molecular dynamics studies have examined the conformational stability and concentration-dependent complexation of amylose&amp;ndash;LA systems, but persistence after explicit removal of a host&amp;ndash;guest di…"
     },
     {
       "title": "Amplitude Energy takes FID on ECSP development offshore Australia",
@@ -874,6 +794,86 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Abdulmalek Ahmed, Ahmed Abdelaal, Salaheldin Elkatatny"
+    },
+    {
+      "title": "Dynamic effect of gas initial desorption in coals with different moisture contents and energy-controlling mechanism for outburst prevention of water injection in coal seams",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011226?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
+    },
+    {
+      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "The advantageous mechanism of membrane emulsification method in THV-GAP synergistic modification of nano-sized boron to promote its ignition and combustion",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033247?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Shufan Feng, Run Li, Baozhong Zhu, Yunlan Sun"
+    },
+    {
+      "title": "Fe polarization site in Bi 19 S 27 Cl 3 promotes near-infrared photocatalytic reduction of nitrate to ammonia",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033272?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Rong Tang, Shaofa Ma, Jiajing Zhang, Jun Xiong, Haipeng Zuo, Pin Song, Wei Jiang, Jun Di"
+    },
+    {
+      "title": "Construction of a polyoxometalate-based composite catalyst for efficient extractive and oxidative desulfurization of fuel",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033351?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Miao Yan, NiNa Han, Haoran Chang, Jiajia Ma, Zhihong Han, Yan Gao, Jianshe Zhao"
+    },
+    {
+      "title": "Mild continuous-flow methanol extraction coupled with formic acid assisted catalytic hydrogenolysis of corn stover",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033028?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Xiangle Meng, Yuze Su, Shaoqi Yang, Youwang Huang"
+    },
+    {
+      "title": "Multi-objective optimization of combustion, performance, and emission characteristics of diesel–MTBE–SiO 2 fuel blends in a single-cylinder diesel engine using response surface methodology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033168?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Emrah Erçek"
+    },
+    {
+      "title": "Study on the effect of ammonia energy ratio on the combustion characteristics of ammonia-diesel dual-fuel under CO 2 /O 2",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033302?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Yuanchao Shao, Yongfeng Liu, Jiahao Zhang, Haifeng Liu, Bin Guan, Zijian Zhou, Hua Sun"
     }
   ]
 }
