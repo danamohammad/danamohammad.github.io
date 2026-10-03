@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T11:58:55.737Z",
+  "generatedAt": "2026-10-03T16:41:05.202Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,14 @@
   ],
   "items": [
     {
+      "title": "When the atmosphere slows the Earth: Uncovering a subtle signal of climate change",
+      "link": "https://phys.org/news/2026-10-atmosphere-earth-uncovering-subtle-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-03T16:20:01.000Z",
+      "excerpt": "Atmospheric circulation governs weather and climate, but it also carries angular momentum. When winds shift or mass redistributes, the atmosphere can exchange momentum with the solid Earth, slightly altering the planet's…"
+    },
+    {
       "title": "Sea levels to rise in California as a coastal wave surges up the West Coast",
       "link": "https://phys.org/news/2026-10-sea-california-coastal-surges-west.html",
       "source": "Phys.org — Earth",
@@ -124,12 +132,12 @@
       "excerpt": "As a typical unconventional oil and gas resource, shale oil is characterized by tight reservoir matrices and low permeability; multi-stage horizontal well fracturing is the core technology for its effective development.…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3177: Multi-Site Planning of Renewable Energy Bases and Green Hydrogen&ndash;Ammonia Production Systems: A Stochastic Location and Capacity Optimization Approach",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3177",
+      "title": "Processes, Vol. 14, Pages 3179: Numerical Simulation of Hydraulic Fracturing in Coal Reservoirs Based on a Damage&ndash;Seepage Coupled Model and Optimization of Perforation Parameters",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3179",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-10-03T00:00:00.000Z",
-      "excerpt": "Green hydrogen&amp;ndash;ammonia production offers a promising pathway for large-scale renewable energy utilization and the decarbonization of energy-intensive industries. The geographical mismatch between renewable reso…"
+      "excerpt": "Coal reservoirs exhibit strong heterogeneity and complex in situ stress conditions, and the initiation and propagation of hydraulic fractures are jointly controlled by reservoir geology and perforation design. A damage&a…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3178: Multi-Dimensional Comfort and EV Stochasticity-Aware Optimization Strategy for Residential PV Storage Systems",
@@ -138,6 +146,14 @@
       "category": "processing",
       "published": "2026-10-03T00:00:00.000Z",
       "excerpt": "Residential photovoltaic&amp;ndash;battery energy storage systems (PV-BESSs) and electric vehicles (EVs) expose households to a persistent conflict between electricity cost minimization and multi-dimensional comfort. Thi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3177: Multi-Site Planning of Renewable Energy Bases and Green Hydrogen&ndash;Ammonia Production Systems: A Stochastic Location and Capacity Optimization Approach",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3177",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-03T00:00:00.000Z",
+      "excerpt": "Green hydrogen&amp;ndash;ammonia production offers a promising pathway for large-scale renewable energy utilization and the decarbonization of energy-intensive industries. The geographical mismatch between renewable reso…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3176: Bridging Shelf Life and Functionality: Non-Thermal Processing of Fruit and Vegetable Juices, Pur&eacute;es and Sauces for Health-Oriented Nutrition",
@@ -244,12 +260,20 @@
       "excerpt": "New modeling shows irrigating low-flammability vegetation substantially reduces the predicted spread and intensity of wildfires, which could give communities critical extra preparation time, according to a University of…"
     },
     {
-      "title": "Europe's hottest summer caused record heat stress: Monitor",
-      "link": "https://phys.org/news/2026-10-europe-hottest-summer-stress.html",
-      "source": "Phys.org — Earth",
+      "title": "Scientists just pushed superconductors beyond their usual current limit",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225452.htm",
+      "source": "ScienceDaily — Energy Technology",
+      "category": "energy",
+      "published": "2026-10-02T11:08:12.000Z",
+      "excerpt": "Ultrashort electrical pulses allowed scientists to push superconductors closer than ever to the point where their electron pairs actually break apart. The method revealed hidden differences between superconducting materi…"
+    },
+    {
+      "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
+      "source": "ScienceDaily — Geology",
       "category": "geoscience",
-      "published": "2026-10-02T07:40:02.000Z",
-      "excerpt": "A record 52% of Europe was exposed to intense heat stress during the exceptionally hot summer that seared the continent this year, the EU's climate monitor said Friday."
+      "published": "2026-10-02T04:58:10.000Z",
+      "excerpt": "Researchers say stress on Southern California’s San Andreas and San Jacinto faults has reached some of the highest levels seen in a 1,000-year simulation. Because both faults are highly stressed at the same time, the Caj…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4674: A Systematic Review of Wideband Harmonic Impedance Identification Methodologies in Inverter-Based Transmission Networks",
@@ -354,14 +378,6 @@
       "category": "processing",
       "published": "2026-10-02T00:00:00.000Z",
       "excerpt": "Weakly consolidated sandstone reservoirs in the Bohai region are susceptible to sand production and wellbore instability during high-water-cut production because water&amp;ndash;rock interaction progressively degrades ro…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3167: Roof&ndash;Facade Photovoltaic and Battery Planning in Energy Communities Under Uncertainty",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3167",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-02T00:00:00.000Z",
-      "excerpt": "Energy-community planning depends on when photovoltaic (PV) electricity is generated, not only on annual production. This study combines one year of 15 min demand from 20 metering profiles with 8 simulated roof and facad…"
     },
     {
       "title": "Energy sector remains the backbone of global CCUS adoption",
@@ -540,14 +556,6 @@
       "excerpt": "Anak Krakatau erupted for more than 24 hours in early September, sending volcanic ash up to 50,000 feet into the atmosphere. The ash cloud shut down eight airports, disrupted nearly 3,000 flights, and affected air qualit…"
     },
     {
-      "title": "Scientists stunned as volcano cloud starts destroying methane",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260915095750.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-09-15T15:15:31.000Z",
-      "excerpt": "The Hunga Tonga eruption may have triggered a surprising chemical reaction that destroyed some of the methane released into the atmosphere. Scientists say the discovery could reshape estimates of methane pollution and in…"
-    },
-    {
       "title": "Tiny nanolaser could cut computer energy use in half",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -628,14 +636,6 @@
       "excerpt": "Scientists have successfully generated electricity with a hydrogen turbine that produces its own pressure through detonation waves instead of relying on a mechanical compressor. The breakthrough could unlock dramatically…"
     },
     {
-      "title": "Scientists left water inside a battery and nearly doubled its power",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729043937.htm",
-      "source": "ScienceDaily — Energy Technology",
-      "category": "energy",
-      "published": "2026-08-01T10:41:53.000Z",
-      "excerpt": "A surprisingly simple change could make sodium-ion batteries far more powerful while opening the door to turning seawater into drinking water. Researchers at the University of Surrey found that sodium vanadium oxide perf…"
-    },
-    {
       "title": "Artificial intelligence for subsurface characterization: A critical review of advances, challenges, and future directions",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004628?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -658,6 +658,22 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Houfeng He, Yun Han, Yifei Guo, Shun Liu, Shibao Yuan, Jianbin Liu, Xin Chen, Pengcheng Liu"
+    },
+    {
+      "title": "A new insight into gas diffusion in coal: Spatiotemporal evolution and pressure-based modeling",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004847?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Yanhai Wang, Kai Wang, Xueming Shu, Aitao Zhou, Chao Xu, Haijun Guo"
+    },
+    {
+      "title": "Molecular dynamics insights into occurrence, transport and miscibility behavior of CO 2 -multicomponent shale oil-water in organic-inorganic heterogeneous nanopores",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004975?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Yanwei Wang, Zhuoshi Wang, Jing Wang, Siyu Yin, Wentong Zhang, Fangxuan Chen, Huiqing Liu"
     },
     {
       "title": "Quantitative study on heat accumulation effect of large-scale water-conducting faults in faulted basins: A case study of the karst geothermal system in Xiongan New Area, Northern China",
@@ -714,22 +730,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Deli Jia, Hongyan Fan, Fan Feng, Quanbin Wang, Chuan Yu, Songbo Wei"
-    },
-    {
-      "title": "The safety chart boundary of drilling system based on the drill string torque limit with multi-body dynamics approach",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004835?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Xinyu Tang, Zaibin Cheng, Zhiwen Xiao, Deqiang Tian, Yupei Liu, Kejie Wang, Jiaqi Chen, Ningyu Wang, Gexue Ren"
-    },
-    {
-      "title": "Energy dissipation and surface roughness evolution in thermally-stimulated hot dry rock with pre-existing flaws",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004720?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Dan Huang, Qingmei Xu, Qingyou Zhu"
     },
     {
       "title": "A review of vertical closed-loop geothermal heating and cooling systems with an Emphasis on the importance of the subsurface",
