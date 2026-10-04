@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T21:43:22.283Z",
+  "generatedAt": "2026-10-04T06:17:11.201Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Processes, Vol. 14, Pages 3180: Multi-Source Annotation Uncertainty Fusion Method for Aluminum Ingot Surface Defect Detection",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3180",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-04T00:00:00.000Z",
+      "excerpt": "Surface slag inclusions on aluminum ingots in high-temperature casting lines often appear in dense clusters. Under poor imaging conditions and with ambiguous defect boundaries, annotators frequently disagree on the locat…"
+    },
     {
       "title": "How can the same El Niño cause drought in one part of the world and floods in another?",
       "link": "https://phys.org/news/2026-09-el-nio-drought-world.html",
@@ -156,20 +164,20 @@
       "excerpt": "Coal reservoirs exhibit strong heterogeneity and complex in situ stress conditions, and the initiation and propagation of hydraulic fractures are jointly controlled by reservoir geology and perforation design. A damage&a…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3177: Multi-Site Planning of Renewable Energy Bases and Green Hydrogen&ndash;Ammonia Production Systems: A Stochastic Location and Capacity Optimization Approach",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3177",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-03T00:00:00.000Z",
-      "excerpt": "Green hydrogen&amp;ndash;ammonia production offers a promising pathway for large-scale renewable energy utilization and the decarbonization of energy-intensive industries. The geographical mismatch between renewable reso…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3178: Multi-Dimensional Comfort and EV Stochasticity-Aware Optimization Strategy for Residential PV Storage Systems",
       "link": "https://www.mdpi.com/2227-9717/14/19/3178",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-10-03T00:00:00.000Z",
       "excerpt": "Residential photovoltaic&amp;ndash;battery energy storage systems (PV-BESSs) and electric vehicles (EVs) expose households to a persistent conflict between electricity cost minimization and multi-dimensional comfort. Thi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3177: Multi-Site Planning of Renewable Energy Bases and Green Hydrogen&ndash;Ammonia Production Systems: A Stochastic Location and Capacity Optimization Approach",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3177",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-03T00:00:00.000Z",
+      "excerpt": "Green hydrogen&amp;ndash;ammonia production offers a promising pathway for large-scale renewable energy utilization and the decarbonization of energy-intensive industries. The geographical mismatch between renewable reso…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3176: Bridging Shelf Life and Functionality: Non-Thermal Processing of Fruit and Vegetable Juices, Pur&eacute;es and Sauces for Health-Oriented Nutrition",
@@ -370,14 +378,6 @@
       "category": "processing",
       "published": "2026-10-02T00:00:00.000Z",
       "excerpt": "The gas phase space influences liquid redistribution and pressure evolution during liquid hydrogen (LH2) filling, but the effects of its geometry remain insufficiently understood. A 34 L onboard LH2 tank was investigated…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3168: A Life-Cycle-Oriented Critical Production Drawdown Model for Weakly Consolidated Bohai Sandstone Reservoirs Under Coupled Water-Induced Weakening and Pore-Pressure Depletion",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3168",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-02T00:00:00.000Z",
-      "excerpt": "Weakly consolidated sandstone reservoirs in the Bohai region are susceptible to sand production and wellbore instability during high-water-cut production because water&amp;ndash;rock interaction progressively degrades ro…"
     },
     {
       "title": "Energy sector remains the backbone of global CCUS adoption",
