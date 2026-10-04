@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:49:35.167Z",
+  "generatedAt": "2026-10-04T21:53:21.987Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,22 @@
   ],
   "items": [
     {
+      "title": "Heat-trapping gas once frozen in Arctic ground is slowly leaking and warming the planet",
+      "link": "https://phys.org/news/2026-10-gas-frozen-arctic-ground-slowly.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-04T16:20:01.000Z",
+      "excerpt": "As Ted Schuur stepped along the edges of Smith Lake, a bubble surfaced from the muck underfoot. And then another. They're bubbles of methane, a potent heat-trapping gas made from decomposing plants and animals that had o…"
+    },
+    {
+      "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-10-04T12:41:43.000Z",
+      "excerpt": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part of…"
+    },
+    {
       "title": "Hungary's dwindling paprika producers battle to save signature spice",
       "link": "https://phys.org/news/2026-10-hungary-dwindling-paprika-signature-spice.html",
       "source": "Phys.org — Earth",
@@ -108,20 +124,20 @@
       "excerpt": "Nanofluid spectral filters can improve full-spectrum utilization in photovoltaic/thermal (PV/T) systems, but the coupled effects of core&amp;ndash;shell geometry and optical depth make conventional trial-and-error optimi…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4688: Multi-Criteria Decision Support in the Assessment of Microwave Pre-Treatment Effects of Insect Breeding Post-Production Wastes for Enhanced Biogas Production",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4688",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-04T00:00:00.000Z",
-      "excerpt": "To release the energy potential of insect breeding post-production wastes (IBWs), an adequate pre-treatment strategy with optimal operational parameters should be chosen. However, such studies yield many variables, often…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4686: Towards a Circular Photovoltaic Value Chain: An Integrated Review of Life Extension, End-of-Life Management and Resource Recovery Strategies",
       "link": "https://www.mdpi.com/1996-1073/19/19/4686",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-10-04T00:00:00.000Z",
       "excerpt": "The rapid expansion of photovoltaic (PV) deployment is expected to generate increasing volumes of end-of-life (EoL) modules, creating environmental challenges and opportunities for secondary resource recovery. This revie…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4688: Multi-Criteria Decision Support in the Assessment of Microwave Pre-Treatment Effects of Insect Breeding Post-Production Wastes for Enhanced Biogas Production",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4688",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-04T00:00:00.000Z",
+      "excerpt": "To release the energy potential of insect breeding post-production wastes (IBWs), an adequate pre-treatment strategy with optimal operational parameters should be chosen. However, such studies yield many variables, often…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4687: Parameter Estimation and Physics-Structured Model Compression of Grid-Connected Inverter Systems",
@@ -178,6 +194,14 @@
       "category": "energy",
       "published": "2026-10-04T00:00:00.000Z",
       "excerpt": "Sparse indoor-temperature sensing limits zone-level heating control in existing buildings. This study evaluates whether an anchor-corrected grey-box controller can retain indoor-air-temperature tracking in one simulated…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3186: Effect of APS Arc Current and Hydrogen Flow Rate on the Structure and Mechanical Properties of Gd2Zr2O7 Topcoats in a Multilayer YSZ/GZO Thermal Barrier System",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3186",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-04T00:00:00.000Z",
+      "excerpt": "Thermal barrier coatings protect metallic components operating under severe high-temperature conditions, but conventional yttria-stabilized zirconia (YSZ) coatings face limitations at elevated temperatures. Gadolinium zi…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3185: Design of a Novel Photovoltaic Storage&ndash;Charging System",
@@ -276,20 +300,20 @@
       "excerpt": "Coal reservoirs exhibit strong heterogeneity and complex in situ stress conditions, and the initiation and propagation of hydraulic fractures are jointly controlled by reservoir geology and perforation design. A damage&a…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3177: Multi-Site Planning of Renewable Energy Bases and Green Hydrogen&ndash;Ammonia Production Systems: A Stochastic Location and Capacity Optimization Approach",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3177",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-03T00:00:00.000Z",
-      "excerpt": "Green hydrogen&amp;ndash;ammonia production offers a promising pathway for large-scale renewable energy utilization and the decarbonization of energy-intensive industries. The geographical mismatch between renewable reso…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3178: Multi-Dimensional Comfort and EV Stochasticity-Aware Optimization Strategy for Residential PV Storage Systems",
       "link": "https://www.mdpi.com/2227-9717/14/19/3178",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-10-03T00:00:00.000Z",
       "excerpt": "Residential photovoltaic&amp;ndash;battery energy storage systems (PV-BESSs) and electric vehicles (EVs) expose households to a persistent conflict between electricity cost minimization and multi-dimensional comfort. Thi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3177: Multi-Site Planning of Renewable Energy Bases and Green Hydrogen&ndash;Ammonia Production Systems: A Stochastic Location and Capacity Optimization Approach",
+      "link": "https://www.mdpi.com/2227-9717/14/19/3177",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-03T00:00:00.000Z",
+      "excerpt": "Green hydrogen&amp;ndash;ammonia production offers a promising pathway for large-scale renewable energy utilization and the decarbonization of energy-intensive industries. The geographical mismatch between renewable reso…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3176: Bridging Shelf Life and Functionality: Non-Thermal Processing of Fruit and Vegetable Juices, Pur&eacute;es and Sauces for Health-Oriented Nutrition",
@@ -306,14 +330,6 @@
       "category": "processing",
       "published": "2026-10-03T00:00:00.000Z",
       "excerpt": "Medium-to-low-maturity shale underwent limited thermal evolution and retained considerable unconverted organic matter, thereby exhibiting substantial potential for hydrocarbon generation and oxidative exothermic release.…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3174: Natural Fracture Characterization and Geothermal Well Placement Optimization Based on THM Multiphysics Simulation: A Case Study from the JR Block, Huabei Oilfield",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3174",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-03T00:00:00.000Z",
-      "excerpt": "Natural fractures play a key role in controlling fluid flow and heat extraction in carbonate geothermal reservoirs. Due to the high degree of rock fragmentation and strong seismic wave absorption at the top of the carbon…"
     },
     {
       "title": "Small changes can have a big impact on sustainability transitions",
@@ -354,14 +370,6 @@
       "category": "geoscience",
       "published": "2026-10-02T17:00:10.000Z",
       "excerpt": "On Pakistan's Indus delta coast, a 350,000-hectare (865,000-acre) mangrove project is turning a growing forest into something that can be sold to companies thousands of miles away: carbon credits."
-    },
-    {
-      "title": "How much are the world's oceans warming? New method reveals double-digit percentage gaps from climate models",
-      "link": "https://phys.org/news/2026-10-world-oceans-method-reveals-digit.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-02T15:20:12.000Z",
-      "excerpt": "The world's oceans behave like a thermometer: As the water warms, it expands and sea levels rise. Geodesy researchers at the University of Bonn are able to measure this and determine how much the oceans are warming. For…"
     },
     {
       "title": "Scientists just pushed superconductors beyond their usual current limit",
@@ -546,14 +554,6 @@
       "category": "geoscience",
       "published": "2026-09-19T02:08:56.000Z",
       "excerpt": "Scientists are looking to diatoms, sea sponges, and plants for a cleaner way to recover rare earth elements and other valuable minerals hidden inside coal ash, red mud, and mine tailings. The bio-inspired approach could…"
-    },
-    {
-      "title": "Anak Krakatau blasts ash nearly 10 miles high",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003718.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-09-18T03:16:17.000Z",
-      "excerpt": "Anak Krakatau erupted for more than 24 hours in early September, sending volcanic ash up to 50,000 feet into the atmosphere. The ash cloud shut down eight airports, disrupted nearly 3,000 flights, and affected air qualit…"
     },
     {
       "title": "Tiny nanolaser could cut computer energy use in half",
