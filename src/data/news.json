@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:53:21.987Z",
+  "generatedAt": "2026-10-05T06:10:16.480Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 6,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,70 @@
     }
   ],
   "items": [
+    {
+      "title": "Multi-Modal Surface Wave Inversion using Physics Guided Variational Autoencoders",
+      "link": "https://arxiv.org/abs/2610.02337",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-05T04:00:00.000Z",
+      "excerpt": "arXiv:2610.02337v1 Announce Type: new Abstract: The growth in seismic acquisition techniques has led to large-scale surveys, making traditional manual dispersion analysis logistically and computationally prohibitive. Whi…"
+    },
+    {
+      "title": "Quantum spin regulates the catalytic cycle beyond binding energy",
+      "link": "https://arxiv.org/abs/2610.02592",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-05T04:00:00.000Z",
+      "excerpt": "arXiv:2610.02592v1 Announce Type: new Abstract: Conventional catalytic descriptors evaluate symmetric, dissipative responses ($\\mathcal{D}$), remaining blind to the antisymmetric, non-dissipative circulation ($\\mathcal{L…"
+    },
+    {
+      "title": "Spatially Organized Hillslope Weakening Localizes Retrogressive Thaw Slumps across the Tibetan Plateau",
+      "link": "https://arxiv.org/abs/2610.03046",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-05T04:00:00.000Z",
+      "excerpt": "arXiv:2610.03046v1 Announce Type: new Abstract: Long-term permafrost warming on the Tibetan Plateau is continuously and broadly reshaping cold-region landscapes, and has produced numerous localized and clustered retrogre…"
+    },
+    {
+      "title": "Structure-Driven Methodology: An Emerging Cross-Domain Paradigm",
+      "link": "https://arxiv.org/abs/2610.02698",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-05T04:00:00.000Z",
+      "excerpt": "arXiv:2610.02698v1 Announce Type: cross Abstract: This article proposes and articulates structure-driven methodology as an emerging cross-domain paradigm. In contrast to the objective-driven paradigm that has dominated i…"
+    },
+    {
+      "title": "Acceleration methods for the planar 3D ILSA hydraulic fracturing model",
+      "link": "https://arxiv.org/abs/2606.20025",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-05T04:00:00.000Z",
+      "excerpt": "arXiv:2606.20025v2 Announce Type: replace Abstract: Planar 3D models of hydraulic fracturing provide a practical balance between models with restrictive geometric assumptions and fully 3D simulators, capturing fractures…"
+    },
+    {
+      "title": "Magnetoconvection in a spherical shell: Bridging the gap between weak and strong-field dynamo regimes",
+      "link": "https://arxiv.org/abs/2603.08261",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-05T04:00:00.000Z",
+      "excerpt": "arXiv:2603.08261v3 Announce Type: replace-cross Abstract: At moderate levels of convective driving, simulations of dynamos in spherical shells often separate into two broad dipolar regimes characterised either by their r…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4691: High-Temperature Solid-Particle Thermal Energy Storage Integrated with Coal-Fired Power Plants: Current Status and Future Trends",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4691",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-05T00:00:00.000Z",
+      "excerpt": "The increasing penetration of renewable energy requires coal-fired power plants to operate with greater flexibility, while deep load reduction and frequent load variations challenge combustion stability, efficiency, and…"
+    },
+    {
+      "title": "A climate threat may lurk beneath Antarctica's last great unknown",
+      "link": "https://phys.org/news/2026-09-climate-threat-lurk-beneath-antarctica.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-04T23:00:01.000Z",
+      "excerpt": "A region of Antarctica with some of the greatest potential to reshape the natural world and human society is also the least scientifically understood and explored."
+    },
     {
       "title": "Heat-trapping gas once frozen in Arctic ground is slowly leaking and warming the planet",
       "link": "https://phys.org/news/2026-10-gas-frozen-arctic-ground-slowly.html",
@@ -124,20 +188,20 @@
       "excerpt": "Nanofluid spectral filters can improve full-spectrum utilization in photovoltaic/thermal (PV/T) systems, but the coupled effects of core&amp;ndash;shell geometry and optical depth make conventional trial-and-error optimi…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4686: Towards a Circular Photovoltaic Value Chain: An Integrated Review of Life Extension, End-of-Life Management and Resource Recovery Strategies",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4686",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-04T00:00:00.000Z",
-      "excerpt": "The rapid expansion of photovoltaic (PV) deployment is expected to generate increasing volumes of end-of-life (EoL) modules, creating environmental challenges and opportunities for secondary resource recovery. This revie…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4688: Multi-Criteria Decision Support in the Assessment of Microwave Pre-Treatment Effects of Insect Breeding Post-Production Wastes for Enhanced Biogas Production",
       "link": "https://www.mdpi.com/1996-1073/19/19/4688",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-10-04T00:00:00.000Z",
       "excerpt": "To release the energy potential of insect breeding post-production wastes (IBWs), an adequate pre-treatment strategy with optimal operational parameters should be chosen. However, such studies yield many variables, often…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4686: Towards a Circular Photovoltaic Value Chain: An Integrated Review of Life Extension, End-of-Life Management and Resource Recovery Strategies",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4686",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-04T00:00:00.000Z",
+      "excerpt": "The rapid expansion of photovoltaic (PV) deployment is expected to generate increasing volumes of end-of-life (EoL) modules, creating environmental challenges and opportunities for secondary resource recovery. This revie…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4687: Parameter Estimation and Physics-Structured Model Compression of Grid-Connected Inverter Systems",
@@ -284,14 +348,6 @@
       "excerpt": "Sea levels in California are set to rise by as much as a foot (30 centimeters) in the coming days as an enormous wave washes up the U.S. West Coast."
     },
     {
-      "title": "Energies, Vol. 19, Pages 4679: Management of Renewable Energy Integration into Local Energy Systems Under Unstable Uncertain Grid Support Conditions",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4679",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-03T00:00:00.000Z",
-      "excerpt": "The study is based on the use of methods of mathematical modeling of power system regimes, time series forecasting based on neural network models LSTM/Transformer, predictive control, as well as methods of optimizing the…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3179: Numerical Simulation of Hydraulic Fracturing in Coal Reservoirs Based on a Damage&ndash;Seepage Coupled Model and Optimization of Perforation Parameters",
       "link": "https://www.mdpi.com/2227-9717/14/19/3179",
       "source": "Processes (MDPI)",
@@ -362,14 +418,6 @@
       "category": "geoscience",
       "published": "2026-10-02T17:20:03.000Z",
       "excerpt": "Earth's poles do not always stay in the same place. For example, a region once near the North Pole can end up near the equator, and an area near the equator can shift up toward the pole. This is known as true polar wande…"
-    },
-    {
-      "title": "Mangrove restoration is becoming big business, but benefits don't always reach local people",
-      "link": "https://phys.org/news/2026-10-mangrove-big-business-benefits-dont.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-02T17:00:10.000Z",
-      "excerpt": "On Pakistan's Indus delta coast, a 350,000-hectare (865,000-acre) mangrove project is turning a growing forest into something that can be sold to companies thousands of miles away: carbon credits."
     },
     {
       "title": "Scientists just pushed superconductors beyond their usual current limit",
@@ -826,54 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Novel bimetallic ZIF (Cu-Zn-ZIF-8) for enhanced and stable carbon capture from industrial moisture-laden flue gas through systematic and hierarchical material and process optimization",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033612?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Neha Mohiuddin, Jayesh Vibhandik, Varsha Vel, Satyapaul A Singh, Akshit Kumar, Rajesh Yadav, I. Sreedhar"
-    },
-    {
-      "title": "Multi‑objective optimisation and experimental validation of a compact energy‑efficient active regeneration burner for diesel particulate filter regeneration",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603365X?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Wei Zhang, Liqun Dong, Yufeng Fang, Xili Yang, Zhaohui Chen, Zehong Li, Guisheng Chen, Shuo Ning"
-    },
-    {
-      "title": "Parameter decoupling analysis and equipment-constrained multi-objective optimization of electrochemical–thermodynamic synergy for a SOFC–semi-closed CO 2 Brayton cycle hybrid system",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033090?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Yongyi Li, Yuxuan Zhang, Tianqi Wang, Zongming Li, Guoqiang Zhang, Cheng Xu, Ming Lei"
-    },
-    {
-      "title": "Steam reforming of acetic acid over Ni nanoparticle catalysts encapsulated on Al 2 O 3 using cellulose nanofibers (CNFs) as a template: the role of promoter addition",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032187?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Silmina Silmina, Mingming Peng, Jianglong Pu, Meng Shen, Naoko Suyama, Shaohua She, Eika W. Qian"
-    },
-    {
-      "title": "Enhancing shale gas production forecasting performance using bidirectional gated recurrent unit with integration of attention mechanism and Fourier analysis networks",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126031303?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Woong-Gyu Choi, Jong-Se Lim"
-    },
-    {
-      "title": "Enhancing combustion in an ethanol rotary engine via turbulent jet ignition: parametric study and mechanism analysis",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126030231?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Weijie Li, Baowei Fan, Jianfeng Pan, Mingming Fan, Yonghao Zeng, Wang Zhao, Wenming Yang"
     }
   ]
 }
