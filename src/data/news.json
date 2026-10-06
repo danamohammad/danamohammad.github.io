@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T15:13:29.198Z",
+  "generatedAt": "2026-10-06T00:17:53.468Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Forests are dying along North Carolina's coast—and it's speeding up",
+      "link": "https://phys.org/news/2026-10-forests-dying-north-carolina-coast.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-05T22:00:10.000Z",
+      "excerpt": "A new study finds that coastal forest loss in North Carolina's Albemarle-Pamlico Peninsula began accelerating after 2010 and may still be speeding up. The study also found that North Carolina lost more than 20% of its co…"
+    },
+    {
+      "title": "Long-term logging experiment reveals how protecting the forest floor helps preserve soil carbon",
+      "link": "https://phys.org/news/2026-10-term-reveals-forest-floor-soil.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-05T21:20:15.000Z",
+      "excerpt": "Forest soils store an estimated 40% of the world's terrestrial carbon, but estimates suggest that around 15–30% of that soil carbon is lost when a forest is harvested. Tracking such losses can be tricky: wildfires, insec…"
+    },
+    {
+      "title": "Detecting forever chemicals—with yeast and AI",
+      "link": "https://phys.org/news/2026-10-chemicals-yeast-ai.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-05T19:00:10.000Z",
+      "excerpt": "If you're reading this, your body probably contains forever chemicals."
+    },
+    {
+      "title": "Why Great Plains rivers depend on wetlands as well as climate",
+      "link": "https://phys.org/news/2026-10-great-plains-rivers-wetlands-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-05T18:00:01.000Z",
+      "excerpt": "When a prairie river carries more water in one year than another, the obvious place to look for an explanation is the sky. A year with more snow and rain should have more water in rivers. That was also how I initially th…"
+    },
+    {
+      "title": "'Flying rivers' above South America form drainage networks resembling those on land",
+      "link": "https://phys.org/news/2026-10-flying-rivers-south-america-drainage.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-05T16:00:01.000Z",
+      "excerpt": "Water does not flow only through rivers on the ground. Vast quantities of water also move through the atmosphere, carried by winds from oceans and land before eventually falling as precipitation hundreds or even thousand…"
+    },
     {
       "title": "Kauri dieback threatens more than trees—it could change how much carbon forests store",
       "link": "https://phys.org/news/2026-10-kauri-dieback-threatens-trees-carbon.html",
@@ -172,6 +212,14 @@
       "excerpt": "arXiv:2603.08261v3 Announce Type: replace-cross Abstract: At moderate levels of convective driving, simulations of dynamos in spherical shells often separate into two broad dipolar regimes characterised either by their r…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4698: Thermodynamic and Annual Performance Assessment of a Cascaded Air-Source Heat Pump for Industrial Steam Generation: a Mediterranean Case Study",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4698",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-05T00:00:00.000Z",
+      "excerpt": "Industrial heat decarbonization is a key challenge for the energy transition, particularly in applications requiring high-temperature steam when industrial waste heat is unavailable. This study presents a thermodynamic a…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4697: Parametric Analysis of a Dual-Fluid Air&ndash;Refrigerant BIPV/T Fa&ccedil;ade Concept",
       "link": "https://www.mdpi.com/1996-1073/19/19/4697",
       "source": "Energies (MDPI)",
@@ -180,20 +228,20 @@
       "excerpt": "A solar-assisted heat pump (SAHP) with a building-integrated photovoltaic/thermal (BIPV/T) fa&amp;ccedil;ade evaporator is presented. The novelty of the proposed configuration is the integration of refrigerant-based PV c…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4696: Design and Experimental Validation of a Fully Soft-Switched High Step-Up DC&ndash;DC Converter with Reduced Input Current Ripple for Distributed Generation Systems Applications",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4696",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-05T00:00:00.000Z",
-      "excerpt": "This paper introduces a non-isolated high step-up DC&amp;ndash;DC converter suitable for distributed generation system applications. The proposed topology uses the zero-voltage-transition (ZVT) technique to achieve soft-…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4695: Effects of Manufacturer-Defined Driving Modes on Electric Vehicle Energy Consumption Under Two Real-World Route Conditions",
       "link": "https://www.mdpi.com/1996-1073/19/19/4695",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-10-05T00:00:00.000Z",
       "excerpt": "Manufacturer-defined driving modes modify traction-power availability, accelerator response, regenerative braking, and auxiliary-system operation, but their comparative effects under real-world urban and suburban conditi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4696: Design and Experimental Validation of a Fully Soft-Switched High Step-Up DC&ndash;DC Converter with Reduced Input Current Ripple for Distributed Generation Systems Applications",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4696",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-05T00:00:00.000Z",
+      "excerpt": "This paper introduces a non-isolated high step-up DC&amp;ndash;DC converter suitable for distributed generation system applications. The proposed topology uses the zero-voltage-transition (ZVT) technique to achieve soft-…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4694: Pore-Scale Flow Dynamics and Mobilization of Remaining Oil Under Different Waterflooding Regimes in Deepwater Sandstone Reservoirs",
@@ -316,14 +364,6 @@
       "excerpt": "Nanofluid spectral filters can improve full-spectrum utilization in photovoltaic/thermal (PV/T) systems, but the coupled effects of core&amp;ndash;shell geometry and optical depth make conventional trial-and-error optimi…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4688: Multi-Criteria Decision Support in the Assessment of Microwave Pre-Treatment Effects of Insect Breeding Post-Production Wastes for Enhanced Biogas Production",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4688",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-04T00:00:00.000Z",
-      "excerpt": "To release the energy potential of insect breeding post-production wastes (IBWs), an adequate pre-treatment strategy with optimal operational parameters should be chosen. However, such studies yield many variables, often…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4686: Towards a Circular Photovoltaic Value Chain: An Integrated Review of Life Extension, End-of-Life Management and Resource Recovery Strategies",
       "link": "https://www.mdpi.com/1996-1073/19/19/4686",
       "source": "Energies (MDPI)",
@@ -332,12 +372,12 @@
       "excerpt": "The rapid expansion of photovoltaic (PV) deployment is expected to generate increasing volumes of end-of-life (EoL) modules, creating environmental challenges and opportunities for secondary resource recovery. This revie…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4687: Parameter Estimation and Physics-Structured Model Compression of Grid-Connected Inverter Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4687",
+      "title": "Energies, Vol. 19, Pages 4688: Multi-Criteria Decision Support in the Assessment of Microwave Pre-Treatment Effects of Insect Breeding Post-Production Wastes for Enhanced Biogas Production",
+      "link": "https://www.mdpi.com/1996-1073/19/19/4688",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-10-04T00:00:00.000Z",
-      "excerpt": "The growing deployment of renewable energy systems calls for accurate parameter estimation and compact modeling of grid-connected inverter systems (GCISs). This paper presents a framework for parameter estimation and phy…"
+      "excerpt": "To release the energy potential of insect breeding post-production wastes (IBWs), an adequate pre-treatment strategy with optimal operational parameters should be chosen. However, such studies yield many variables, often…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3186: Effect of APS Arc Current and Hydrogen Flow Rate on the Structure and Mechanical Properties of Gd2Zr2O7 Topcoats in a Multilayer YSZ/GZO Thermal Barrier System",
@@ -404,52 +444,12 @@
       "excerpt": "The Pacific Ocean is warming unusually quickly, and this year's El Niño has already surpassed previous records. Forecasters expect it to strengthen even further before approaching its usual peak around December."
     },
     {
-      "title": "Today's emissions choices could limit Antarctic ice loss and sea-level rise for coastal communities",
-      "link": "https://phys.org/news/2026-10-today-emissions-choices-limit-antarctic.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-03T20:00:01.000Z",
-      "excerpt": "Cutting greenhouse gas emissions now may limit how much ice Antarctica loses this century and reduce the sea-level rise facing coastal communities, according to findings from a new study."
-    },
-    {
-      "title": "When the atmosphere slows the Earth: Uncovering a subtle signal of climate change",
-      "link": "https://phys.org/news/2026-10-atmosphere-earth-uncovering-subtle-climate.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-03T16:20:01.000Z",
-      "excerpt": "Atmospheric circulation governs weather and climate, but it also carries angular momentum. When winds shift or mass redistributes, the atmosphere can exchange momentum with the solid Earth, slightly altering the planet's…"
-    },
-    {
-      "title": "Sea levels to rise in California as a coastal wave surges up the West Coast",
-      "link": "https://phys.org/news/2026-10-sea-california-coastal-surges-west.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-03T10:00:10.000Z",
-      "excerpt": "Sea levels in California are set to rise by as much as a foot (30 centimeters) in the coming days as an enormous wave washes up the U.S. West Coast."
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3179: Numerical Simulation of Hydraulic Fracturing in Coal Reservoirs Based on a Damage&ndash;Seepage Coupled Model and Optimization of Perforation Parameters",
       "link": "https://www.mdpi.com/2227-9717/14/19/3179",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-10-03T00:00:00.000Z",
       "excerpt": "Coal reservoirs exhibit strong heterogeneity and complex in situ stress conditions, and the initiation and propagation of hydraulic fractures are jointly controlled by reservoir geology and perforation design. A damage&a…"
-    },
-    {
-      "title": "Small changes can have a big impact on sustainability transitions",
-      "link": "https://phys.org/news/2026-10-small-big-impact-sustainability-transitions.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-02T19:20:13.000Z",
-      "excerpt": "In her dissertation, Hanna Entsalo examines how public policies, such as policy strategies and legislation, influence transitions toward the circular economy and sustainability. Entsalo works as a researcher in the Circu…"
-    },
-    {
-      "title": "Scientists zero in on tiny particles to improve weather and air quality forecasts",
-      "link": "https://phys.org/news/2026-10-scientists-tiny-particles-weather-air.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-02T19:00:11.000Z",
-      "excerpt": "Aerosols are small particles suspended in our atmosphere. They come in many flavors: Wildfire smoke, pollen, desert dust, sea salt lofted by powerful storms, volcanic sulfates and emissions from engines and industrial pr…"
     },
     {
       "title": "Scientists just pushed superconductors beyond their usual current limit",
