@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:17:53.468Z",
+  "generatedAt": "2026-10-06T06:49:06.453Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,78 @@
   ],
   "items": [
     {
+      "title": "Eigenwaves: Finite-frequency Eigenrays in Elastic Anisotropic Media",
+      "link": "https://arxiv.org/abs/2610.04101",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-06T04:00:00.000Z",
+      "excerpt": "arXiv:2610.04101v1 Announce Type: new Abstract: The Eigenray method solves two-point boundary-value ray-tracing problems in heterogeneous anisotropic elastic media using a variational formulation based on the eikonal equ…"
+    },
+    {
+      "title": "Broadband Ground-Motion Synthesis by Conditioning Denoising Diffusion Models on Low-Frequency Waveforms",
+      "link": "https://arxiv.org/abs/2610.04334",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-06T04:00:00.000Z",
+      "excerpt": "arXiv:2610.04334v1 Announce Type: new Abstract: Seismic hazard and structural analyses require broadband ground-motion time histories, yet the high-frequency band (above 1~Hz) is the hardest to obtain: physics-based simu…"
+    },
+    {
+      "title": "Efficient, Geometry-only Prediction of Advection-dominated Particle Transport through Saturated Soils",
+      "link": "https://arxiv.org/abs/2610.03767",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-06T04:00:00.000Z",
+      "excerpt": "arXiv:2610.03767v1 Announce Type: cross Abstract: The environmental transport of microplastic particles has raised concerns because of their potential ecological and human-health impacts. A particular challenge for exper…"
+    },
+    {
+      "title": "A Multivariable Approach to the Regional Calibration of the Galvez Davison Index across Mexico Climate Regimes",
+      "link": "https://arxiv.org/abs/2610.03915",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-06T04:00:00.000Z",
+      "excerpt": "arXiv:2610.03915v1 Announce Type: cross Abstract: The G\\'alvez Davison Index (GDI) is a thermodynamic diagnostic designed to summarize convective favorability in the tropical regions, yet its transferability across compl…"
+    },
+    {
+      "title": "Buried Fiber-Optic Geolocalization with Distributed Acoustic Sensing",
+      "link": "https://arxiv.org/abs/2604.10331",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-06T04:00:00.000Z",
+      "excerpt": "arXiv:2604.10331v2 Announce Type: replace Abstract: We present a scalable method for geolocalizing buried fiber-optic cables using Distributed Acoustic Sensing (DAS) and traffic-induced quasi-static seismic signals. Assu…"
+    },
+    {
+      "title": "Nutation Damping from Core-Mantle Boundary Topography",
+      "link": "https://arxiv.org/abs/2507.01671",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-06T04:00:00.000Z",
+      "excerpt": "arXiv:2507.01671v4 Announce Type: replace-cross Abstract: Periodic gravitational forcing by the Moon and Sun produces small oscillations in Earth's rotation known as nutations. Nutations are amplified by a resonance with…"
+    },
+    {
+      "title": "Global review reveals major blind spots in our understanding of climate change impacts on Mediterranean ecosystems",
+      "link": "https://phys.org/news/2026-10-global-reveals-major-climate-impacts.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-06T01:40:01.000Z",
+      "excerpt": "A new global review of observed climate change impacts on plant communities reveals major gaps in where and how we monitor some of the world's most climate-vulnerable ecosystems."
+    },
+    {
+      "title": "Why some Indigenous communities don't resist oil extraction in their territories",
+      "link": "https://phys.org/news/2026-10-indigenous-communities-dont-resist-oil.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-06T01:00:01.000Z",
+      "excerpt": "More than half of the Ecuadorian Amazon has been marked for oil drilling, overlapping with Indigenous territories and areas of high biodiversity. The ecological and cultural impacts of oil extraction are well documented…"
+    },
+    {
+      "title": "Global soil erosion outpaces natural recovery, report warns",
+      "link": "https://phys.org/news/2026-10-global-soil-erosion-outpaces-natural.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-06T00:40:02.000Z",
+      "excerpt": "Isaac Larsen, an associate professor in the College of Natural Sciences' Department of Earth, Geographic, and Climate Sciences, is a lead author of \"Status of the World's Soil Resources 2026,\" a new report produced by th…"
+    },
+    {
       "title": "Forests are dying along North Carolina's coast—and it's speeding up",
       "link": "https://phys.org/news/2026-10-forests-dying-north-carolina-coast.html",
       "source": "Phys.org — Earth",
@@ -124,6 +196,14 @@
       "excerpt": "Kauri are among Aotearoa New Zealand's tallest and longest-lived trees—and their place in our cultural landscape looms equally large."
     },
     {
+      "title": "Seatrium wins ninth FSRU conversion project from Karpowership",
+      "link": "https://www.offshore-technology.com/news/seatrium-ninth-fsru-conversion-project-karpowership/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-05T13:52:54.000Z",
+      "excerpt": "Seatrium has secured a contract from Karpowership to convert a LNG carrier into the FSRU LNGT Akdeniz, marking the ninth FSRU conversion project between the companies."
+    },
+    {
       "title": "A new kind of magnetism could unlock faster, more efficient computers",
       "link": "https://www.sciencedaily.com/releases/2026/10/261002080015.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -162,54 +242,6 @@
       "category": "geoscience",
       "published": "2026-10-05T07:30:01.000Z",
       "excerpt": "Extreme heat is putting pregnant mothers and their newborns at increasing risk, United Nations climate chief Simon Stiell will warn on Monday."
-    },
-    {
-      "title": "Multi-Modal Surface Wave Inversion using Physics Guided Variational Autoencoders",
-      "link": "https://arxiv.org/abs/2610.02337",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-05T04:00:00.000Z",
-      "excerpt": "arXiv:2610.02337v1 Announce Type: new Abstract: The growth in seismic acquisition techniques has led to large-scale surveys, making traditional manual dispersion analysis logistically and computationally prohibitive. Whi…"
-    },
-    {
-      "title": "Quantum spin regulates the catalytic cycle beyond binding energy",
-      "link": "https://arxiv.org/abs/2610.02592",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-05T04:00:00.000Z",
-      "excerpt": "arXiv:2610.02592v1 Announce Type: new Abstract: Conventional catalytic descriptors evaluate symmetric, dissipative responses ($\\mathcal{D}$), remaining blind to the antisymmetric, non-dissipative circulation ($\\mathcal{L…"
-    },
-    {
-      "title": "Spatially Organized Hillslope Weakening Localizes Retrogressive Thaw Slumps across the Tibetan Plateau",
-      "link": "https://arxiv.org/abs/2610.03046",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-05T04:00:00.000Z",
-      "excerpt": "arXiv:2610.03046v1 Announce Type: new Abstract: Long-term permafrost warming on the Tibetan Plateau is continuously and broadly reshaping cold-region landscapes, and has produced numerous localized and clustered retrogre…"
-    },
-    {
-      "title": "Structure-Driven Methodology: An Emerging Cross-Domain Paradigm",
-      "link": "https://arxiv.org/abs/2610.02698",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-05T04:00:00.000Z",
-      "excerpt": "arXiv:2610.02698v1 Announce Type: cross Abstract: This article proposes and articulates structure-driven methodology as an emerging cross-domain paradigm. In contrast to the objective-driven paradigm that has dominated i…"
-    },
-    {
-      "title": "Acceleration methods for the planar 3D ILSA hydraulic fracturing model",
-      "link": "https://arxiv.org/abs/2606.20025",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-05T04:00:00.000Z",
-      "excerpt": "arXiv:2606.20025v2 Announce Type: replace Abstract: Planar 3D models of hydraulic fracturing provide a practical balance between models with restrictive geometric assumptions and fully 3D simulators, capturing fractures…"
-    },
-    {
-      "title": "Magnetoconvection in a spherical shell: Bridging the gap between weak and strong-field dynamo regimes",
-      "link": "https://arxiv.org/abs/2603.08261",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-05T04:00:00.000Z",
-      "excerpt": "arXiv:2603.08261v3 Announce Type: replace-cross Abstract: At moderate levels of convective driving, simulations of dynamos in spherical shells often separate into two broad dipolar regimes characterised either by their r…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4698: Thermodynamic and Annual Performance Assessment of a Cascaded Air-Source Heat Pump for Industrial Steam Generation: a Mediterranean Case Study",
@@ -332,22 +364,6 @@
       "excerpt": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part of…"
     },
     {
-      "title": "Hungary's dwindling paprika producers battle to save signature spice",
-      "link": "https://phys.org/news/2026-10-hungary-dwindling-paprika-signature-spice.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-04T11:20:07.000Z",
-      "excerpt": "Working from before dawn until midnight, farmers Nikoletta Pajsan Nagy and Laszlo Pajsan fought Europe's driest summer ever to save their red pepper harvest in Hungary."
-    },
-    {
-      "title": "Cry for help as French-Swiss lake dries up",
-      "link": "https://phys.org/news/2026-10-cry-french-swiss-lake-dries.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-04T11:01:39.000Z",
-      "excerpt": "The picturesque Lac des Brenets between France and Switzerland has dried up after a record-breaking hot summer, leaving locals crying out for help to save the lake."
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4690: Wear Degradation of High-Nitrogen Austenitic Steels for Internal Combustion Engines in Hydrogen-Containing Alternative Fuels",
       "link": "https://www.mdpi.com/1996-1073/19/19/4690",
       "source": "Energies (MDPI)",
@@ -436,14 +452,6 @@
       "excerpt": "Surface slag inclusions on aluminum ingots in high-temperature casting lines often appear in dense clusters. Under poor imaging conditions and with ambiguous defect boundaries, annotators frequently disagree on the locat…"
     },
     {
-      "title": "How can the same El Niño cause drought in one part of the world and floods in another?",
-      "link": "https://phys.org/news/2026-09-el-nio-drought-world.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-03T21:00:01.000Z",
-      "excerpt": "The Pacific Ocean is warming unusually quickly, and this year's El Niño has already surpassed previous records. Forecasters expect it to strengthen even further before approaching its usual peak around December."
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3179: Numerical Simulation of Hydraulic Fracturing in Coal Reservoirs Based on a Damage&ndash;Seepage Coupled Model and Optimization of Perforation Parameters",
       "link": "https://www.mdpi.com/2227-9717/14/19/3179",
       "source": "Processes (MDPI)",
@@ -514,14 +522,6 @@
       "category": "industry",
       "published": "2026-10-01T07:34:30.000Z",
       "excerpt": "Mangalore Refinery and Petrochemicals Limited (MRPL) reported an explosion and subsequent fire at its Kuthethoor facility, north of Mangaluru city, India, leaving one person dead and nine injured."
-    },
-    {
-      "title": "Amplitude Energy takes FID on ECSP development offshore Australia",
-      "link": "https://www.offshore-technology.com/news/amplitude-energy-fid-ecsp-offshore-australia/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-09-30T13:13:58.000Z",
-      "excerpt": "Amplitude Energy has taken FID on the development phase of its ECSP in Victoria, Australia, with first gas still targeted for calendar year 2028."
     },
     {
       "title": "Pompeii’s 2,000-year-old eruption just gave scientists a better clock for Earth’s past",
