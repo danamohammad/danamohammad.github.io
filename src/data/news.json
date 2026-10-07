@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T22:46:18.057Z",
+  "generatedAt": "2026-10-07T06:24:21.090Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 6,
+      "count": 3,
       "error": null
     },
     {
@@ -75,6 +75,46 @@
     }
   ],
   "items": [
+    {
+      "title": "The world's oyster reefs could add $12 trillion to planetary health each year—if they were better managed",
+      "link": "https://phys.org/news/2026-10-world-oyster-reefs-trillion-planetary.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-07T04:00:01.000Z",
+      "excerpt": "A new study shows that the world's oyster reefs are a precious resource that's vastly underestimated and underutilized. The authors set out to calculate the reefs' potential gross ecosystem product (GEP), the ecological…"
+    },
+    {
+      "title": "Ground roll suppression based on the synchrosqueezed wavelet transform and local adaptive subtraction filtering",
+      "link": "https://arxiv.org/abs/2610.08035",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-07T04:00:00.000Z",
+      "excerpt": "arXiv:2610.08035v1 Announce Type: new Abstract: Ground roll suppression remains a challenge in land seismic data processing, particularly when strong surface wave energy exhibits significant overlap with effective reflec…"
+    },
+    {
+      "title": "Principal Surface Fault Rupture Hazard: Moving Beyond Aggregate Displacement Metrics",
+      "link": "https://arxiv.org/abs/2610.08763",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-07T04:00:00.000Z",
+      "excerpt": "arXiv:2610.08763v1 Announce Type: new Abstract: Structures crossing active faults are subjected to permanent ground deformation that can impose severe demands on infrastructure. Although probabilistic fault displacement…"
+    },
+    {
+      "title": "Structure-Function Coherent Coarsening for Cross-Resolution Ecohydrological Modeling",
+      "link": "https://arxiv.org/abs/2511.17482",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-07T04:00:00.000Z",
+      "excerpt": "arXiv:2511.17482v2 Announce Type: replace Abstract: Ecohydrological models are increasingly applied in regional scenario-based studies, yet their cross-resolution application remains constrained by high computational cos…"
+    },
+    {
+      "title": "Study highlights the European waters at greatest risk of harmful light pollution",
+      "link": "https://phys.org/news/2026-10-highlights-european-greatest-pollution.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-07T00:00:01.000Z",
+      "excerpt": "Scientists have produced a first-of-its-kind assessment showing which coastal regions of Europe they believe are at greatest risk from harmful light pollution."
+    },
     {
       "title": "Clearer air does not always signal lower harmful potential from particle pollution",
       "link": "https://phys.org/news/2026-10-clearer-air-potential-particle-pollution.html",
@@ -156,14 +196,6 @@
       "excerpt": "It's often the sight of heavy digging machinery that makes us question how our taxes and property taxes are being spent. As a new project begins, we may wonder why money is being spent on that and not on other things."
     },
     {
-      "title": "As the planet warms, cities like Bangkok could be increasingly inundated by deadly floods",
-      "link": "https://phys.org/news/2026-10-planet-cities-bangkok-inundated-deadly.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-06T12:00:08.000Z",
-      "excerpt": "In the humid tropics of Southeast Asia, afternoon thunderstorms roll through almost every day. Daytime heat causes towering, fluffy cumulonimbus clouds to form and swell before unleashing torrential rain on cities such a…"
-    },
-    {
       "title": "Centalion buys Silver Hill’s Haynesville natural gas assets",
       "link": "https://www.offshore-technology.com/news/centalion-buys-silver-hills-haynesville-assets/",
       "source": "Offshore Technology",
@@ -186,62 +218,6 @@
       "category": "industry",
       "published": "2026-10-06T08:05:36.000Z",
       "excerpt": "Canada-based oil sands producer Cenovus Energy has reached a definitive agreement to acquire Athabasca Oil in a cash and stock transaction worth C$5.7bn ($4bn)."
-    },
-    {
-      "title": "Eigenwaves: Finite-frequency Eigenrays in Elastic Anisotropic Media",
-      "link": "https://arxiv.org/abs/2610.04101",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-06T04:00:00.000Z",
-      "excerpt": "arXiv:2610.04101v1 Announce Type: new Abstract: The Eigenray method solves two-point boundary-value ray-tracing problems in heterogeneous anisotropic elastic media using a variational formulation based on the eikonal equ…"
-    },
-    {
-      "title": "Broadband Ground-Motion Synthesis by Conditioning Denoising Diffusion Models on Low-Frequency Waveforms",
-      "link": "https://arxiv.org/abs/2610.04334",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-06T04:00:00.000Z",
-      "excerpt": "arXiv:2610.04334v1 Announce Type: new Abstract: Seismic hazard and structural analyses require broadband ground-motion time histories, yet the high-frequency band (above 1~Hz) is the hardest to obtain: physics-based simu…"
-    },
-    {
-      "title": "Efficient, Geometry-only Prediction of Advection-dominated Particle Transport through Saturated Soils",
-      "link": "https://arxiv.org/abs/2610.03767",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-06T04:00:00.000Z",
-      "excerpt": "arXiv:2610.03767v1 Announce Type: cross Abstract: The environmental transport of microplastic particles has raised concerns because of their potential ecological and human-health impacts. A particular challenge for exper…"
-    },
-    {
-      "title": "A Multivariable Approach to the Regional Calibration of the Galvez Davison Index across Mexico Climate Regimes",
-      "link": "https://arxiv.org/abs/2610.03915",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-06T04:00:00.000Z",
-      "excerpt": "arXiv:2610.03915v1 Announce Type: cross Abstract: The G\\'alvez Davison Index (GDI) is a thermodynamic diagnostic designed to summarize convective favorability in the tropical regions, yet its transferability across compl…"
-    },
-    {
-      "title": "Buried Fiber-Optic Geolocalization with Distributed Acoustic Sensing",
-      "link": "https://arxiv.org/abs/2604.10331",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-06T04:00:00.000Z",
-      "excerpt": "arXiv:2604.10331v2 Announce Type: replace Abstract: We present a scalable method for geolocalizing buried fiber-optic cables using Distributed Acoustic Sensing (DAS) and traffic-induced quasi-static seismic signals. Assu…"
-    },
-    {
-      "title": "Nutation Damping from Core-Mantle Boundary Topography",
-      "link": "https://arxiv.org/abs/2507.01671",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-06T04:00:00.000Z",
-      "excerpt": "arXiv:2507.01671v4 Announce Type: replace-cross Abstract: Periodic gravitational forcing by the Moon and Sun produces small oscillations in Earth's rotation known as nutations. Nutations are amplified by a resonance with…"
-    },
-    {
-      "title": "Global review reveals major blind spots in our understanding of climate change impacts on Mediterranean ecosystems",
-      "link": "https://phys.org/news/2026-10-global-reveals-major-climate-impacts.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-06T01:40:01.000Z",
-      "excerpt": "A new global review of observed climate change impacts on plant communities reveals major gaps in where and how we monitor some of the world's most climate-vulnerable ecosystems."
     },
     {
       "title": "Energies, Vol. 19, Pages 4708: Efficiencies of Single-Objective Linear Programing and Multi-Objective Optimization: A Case of Electricity Generation in Thailand",
@@ -874,6 +850,30 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Structural integration of inert porous media as a primary mitigation strategy for firewood stoves: Toward decoupling combustion intensification from emissions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032564?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Lorena Espinoza, Fabián Guerrero, Karen Yáñez, Lautaro Taborga, Mario Toledo"
+    },
+    {
+      "title": "Elucidating the mechanism of catalytic cracking reactions by integrating microscopic and macroscopic research methods: a combined analysis of radical formation and thermogravimetric kinetic data",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033776?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Ruotong Cui, Xucheng Zhang, Yanpeng Zhang, Wenshuo Ma, Wenlong Xu, Jingxian Wang, Yingyun Qiao, Yuanyu Tian"
+    },
+    {
+      "title": "In-situ study on the evolution of biochar–coal blended agglomerates during co-gasification",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603320X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part F Author(s): Junjie Cao, Qinghua Guo, Yan Gong, Yue Wu, Haishen Hu, Wenhao Yuan, Lu Ding, Jin Bai, Longfei Gao, Guangsuo Yu"
     }
   ]
 }
