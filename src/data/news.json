@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T23:32:15.872Z",
+  "generatedAt": "2026-10-09T06:38:55.310Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 11,
+      "count": 6,
       "error": null
     },
     {
@@ -75,6 +75,110 @@
     }
   ],
   "items": [
+    {
+      "title": "Fault-conditioned Seismic Image Generation using Denoising Diffusion Probabilistic Modeling and Neural Style Transfer",
+      "link": "https://arxiv.org/abs/2610.10788",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-09T04:00:00.000Z",
+      "excerpt": "arXiv:2610.10788v1 Announce Type: new Abstract: Seismic data augmentation is critical for training robust deep learning (DL) models for fault detection and characterization, yet conventional approaches remain inadequate.…"
+    },
+    {
+      "title": "Escaping Geological Generative Prior Distributions in Bayesian Travel Time Tomography",
+      "link": "https://arxiv.org/abs/2610.11962",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-09T04:00:00.000Z",
+      "excerpt": "arXiv:2610.11962v1 Announce Type: new Abstract: Solutions to geophysical inverse problems are generally non-unique, and greatly benefit from additional geological prior information. Generative Neural Networks (GNNs) are…"
+    },
+    {
+      "title": "Variational Derivation of the Weak Form for Viscous Flows Involving Free Surfaces with Implications for Geodynamic Simulations",
+      "link": "https://arxiv.org/abs/2610.12152",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-09T04:00:00.000Z",
+      "excerpt": "arXiv:2610.12152v1 Announce Type: cross Abstract: Geodynamic simulations involve solving the Stokes equations, where boundary conditions play a crucial role in governing internal dynamics and surface topography evolution…"
+    },
+    {
+      "title": "Effects of microstructural heterogeneity on the macroscopic spectrum of elastically accommodated grain-boundary sliding",
+      "link": "https://arxiv.org/abs/2606.12090",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-09T04:00:00.000Z",
+      "excerpt": "arXiv:2606.12090v3 Announce Type: replace Abstract: Elastically accommodated grain-boundary sliding (EAGBS) is a plausible source of upper-mantle seismic attenuation and dispersion, yet classical theory predicts a locali…"
+    },
+    {
+      "title": "A Moment-Based Shallow Water Model for Coupled Bedload-Suspended Load Transport with Variable Density: Hyperbolicity and Numerical Validation",
+      "link": "https://arxiv.org/abs/2505.22278",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-09T04:00:00.000Z",
+      "excerpt": "arXiv:2505.22278v3 Announce Type: replace-cross Abstract: In this paper, we develop a Hyperbolic Shallow Water Exner Moment model with Erosion and Deposition (HSWEMED), which extends the recent shallow water moment frame…"
+    },
+    {
+      "title": "Prospects for geoneutrino detection with JUNO",
+      "link": "https://arxiv.org/abs/2511.07227",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-09T04:00:00.000Z",
+      "excerpt": "arXiv:2511.07227v2 Announce Type: replace-cross Abstract: Geoneutrinos, which are antineutrinos emitted during the decay of long-lived radioactive elements inside Earth, serve as a unique tool for studying the compositio…"
+    },
+    {
+      "title": "Scientists create new statewide surface geologic map of Nebraska",
+      "link": "https://phys.org/news/2026-10-scientists-statewide-surface-geologic-nebraska.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-09T03:40:01.000Z",
+      "excerpt": "A new academic paper by Paul Hanson and Matthew Joeckel of the Conservation and Survey Division in the University of Nebraska–Lincoln's School of Natural Resources contains a brief phrase—\"new linework\"—that looks innocu…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4754: Participant Mobility as a Temporary Urban Transport-Energy System: Energy Use, Carbon Emissions and Low-Carbon Scenarios for the 2024 Wuhan Marathon",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4754",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-09T00:00:00.000Z",
+      "excerpt": "A mass-participation marathon assembles tens of thousands of people from many origins for a single morning, so its energy demand is dominated by a temporary transport system, not a venue. Event footprints are usually rep…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4752: Oscillation-Stability-Constrained Coordinated Optimal Operation of Grid-Forming Energy Storage for Dynamic Support",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4752",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-09T00:00:00.000Z",
+      "excerpt": "The high penetration of grid-following (GFL) renewable energy integrated into weak grids may induce small-signal synchronous oscillations due to the coupling between phase-locked loop (PLL) dynamics and network impedance…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4751: The Cost of Flexibility: Life-Cycle Assessment and Mitigation Pathways for LNG-Dependent Grids",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4751",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-09T00:00:00.000Z",
+      "excerpt": "Power systems with rising shares of variable renewable energy require dispatchable flexibility, but the economic sustainability of gas-fired generation is increasingly shaped by LNG exposure, fuel-price volatility, decli…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3223: Consequence Assessment of a 440 L Propylene Y-Cylinder Gas Cabinet in Semiconductor Gas Supply Systems",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3223",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-09T00:00:00.000Z",
+      "excerpt": "The use of propylene (C3H6) in semiconductor manufacturing processes is increasing, and conventional 47 L cylinder supply systems are recognized as a primary source of leakage accidents associated with human error due to…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3222: Life Cycle Assessment of Polylactic Acid/Brewer&rsquo;s Spent Grain Biocomposites: Environmental Impact of Lignocellulosic Waste Incorporation",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3222",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-09T00:00:00.000Z",
+      "excerpt": "The environmental burden of conventional plastic packaging has increased interest in sustainable alternatives. This study evaluates the environmental performance of polylactic acid (PLA) biocomposites reinforced with bre…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3221: Advancements in Photovoltaic System Operation and Intelligence: Innovations for Enhanced Energy Conversion and Efficiency",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3221",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-09T00:00:00.000Z",
+      "excerpt": "Photovoltaic (PV) energy continues to expand its role in modern power systems, accompanied by growing requirements for higher conversion efficiency, more effective energy extraction, accurate power forecasting, reliable…"
+    },
     {
       "title": "Stratospheric winds can warn of extreme energy demand in Europe",
       "link": "https://phys.org/news/2026-10-stratospheric-extreme-energy-demand-europe.html",
@@ -188,102 +292,6 @@
       "excerpt": "Pacific Coast Energy Company (PCEC) has entered into agreements with Petróleos de Venezuela (PDVSA) to manage and develop oil fields in the Delta and Cabimas blocks in Venezuela."
     },
     {
-      "title": "Bridge Vibrations as Persistent Seismic Sources for Time-lapse Imaging of River Corridors with Distributed Acoustic Sensing",
-      "link": "https://arxiv.org/abs/2610.09289",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-08T04:00:00.000Z",
-      "excerpt": "arXiv:2610.09289v1 Announce Type: new Abstract: Fluvial corridors mediate dynamic river-groundwater exchanges and support major transportation infrastructure, yet continuous subsurface monitoring remains limited by spars…"
-    },
-    {
-      "title": "Spectral Element Extension for Direct Simulation of Rotational Ground Motions",
-      "link": "https://arxiv.org/abs/2610.09568",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-08T04:00:00.000Z",
-      "excerpt": "arXiv:2610.09568v1 Announce Type: new Abstract: A complete characterization of earthquake induced ground motions require three translational and three rotational components, together with the six components of the strain…"
-    },
-    {
-      "title": "Real-world application of deep learning in large-scale seismic interference attenuation: A case study in the Camie field of Angola",
-      "link": "https://arxiv.org/abs/2610.09663",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-08T04:00:00.000Z",
-      "excerpt": "arXiv:2610.09663v1 Announce Type: new Abstract: In marine seismic acquisition, seismic interference (SI) occurs when energy from nearby external seismic source(s) is captured. It typically appears as coherent noise with…"
-    },
-    {
-      "title": "An AI-assisted conditioning and geological interpretation workflow for usage in implicit geological modeling",
-      "link": "https://arxiv.org/abs/2610.09871",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-08T04:00:00.000Z",
-      "excerpt": "arXiv:2610.09871v1 Announce Type: new Abstract: Implicit modeling and Relative Geologic Time are geological modeling techniques that enable more efficient, faster, less biased and more reproducible modeling results. For…"
-    },
-    {
-      "title": "Quantification of plastic deformation in anorthite using micropillar compression",
-      "link": "https://arxiv.org/abs/2610.10081",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-08T04:00:00.000Z",
-      "excerpt": "arXiv:2610.10081v1 Announce Type: new Abstract: Plagioclase is the most abundant mineral group of the crust and will therefore either control or strongly influence crustal rheology. Yet, we still know little about crysta…"
-    },
-    {
-      "title": "Assessment of sky brightness in central Portugal: the Dark Sky destination \"Aldeias do Xisto\" case study",
-      "link": "https://arxiv.org/abs/2610.09028",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-08T04:00:00.000Z",
-      "excerpt": "arXiv:2610.09028v1 Announce Type: cross Abstract: A combination of remote sensing techniques, open space data and field testing was developed to derive astronomical and meteorological parameters and assess Dark Sky brigh…"
-    },
-    {
-      "title": "Twist Flow for Inverse Problems",
-      "link": "https://arxiv.org/abs/2610.09281",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-08T04:00:00.000Z",
-      "excerpt": "arXiv:2610.09281v1 Announce Type: cross Abstract: In Bayesian inverse problems, posterior sampling requires generating samples that are consistent with given observations while capturing the range of plausible solutions.…"
-    },
-    {
-      "title": "Self-attention summary networks for subsurface velocity-model building from common-image gathers",
-      "link": "https://arxiv.org/abs/2610.09282",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-08T04:00:00.000Z",
-      "excerpt": "arXiv:2610.09282v1 Announce Type: cross Abstract: Common-image gathers (CIGs) contain physically meaningful information about velocity-model errors through reflector focusing and residual moveout, but in conventional ima…"
-    },
-    {
-      "title": "Statistical Oceanography of Profiling Floats and Surface Drifters",
-      "link": "https://arxiv.org/abs/2610.09668",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-08T04:00:00.000Z",
-      "excerpt": "arXiv:2610.09668v1 Announce Type: cross Abstract: The Global Ocean Observing System is key to understanding oceanic variability and climate change. The ocean is vast and often sparsely and irregularly sampled in time and…"
-    },
-    {
-      "title": "Three-dimensional Lagrangian ecosystems: carbon dynamics and potential for artificial fertilization",
-      "link": "https://arxiv.org/abs/2610.10204",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-08T04:00:00.000Z",
-      "excerpt": "arXiv:2610.10204v1 Announce Type: cross Abstract: Transient supplies of nutrients to the surface ocean, both natural and artificial, stimulate blooms of phytoplankton and the formation of organic matter, driving air-sea…"
-    },
-    {
-      "title": "Forward Modeling of Spectral-Line Polarization for Weak Magnetic-Field Imaging",
-      "link": "https://arxiv.org/abs/2605.28407",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-08T04:00:00.000Z",
-      "excerpt": "arXiv:2605.28407v2 Announce Type: replace-cross Abstract: Measurements of interplanetary magnetic fields rely mainly on spacecraft observations that provide in-situ sampling and cannot directly reveal global magnetic str…"
-    },
-    {
-      "title": "AI chatbots endorse existing climate-related policies twice as often as new proposals",
-      "link": "https://phys.org/news/2026-10-ai-chatbots-endorse-climate-policies.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-08T02:20:01.000Z",
-      "excerpt": "A new study of multiple large language models (LLMs) found that when users asked chatbots for advice, the chatbots were more likely to make suggestions that favor the status quo over alternatives. The tendency of artific…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4750: From Power Quality Monitoring to Reactive Power Compensation: A Measurement-Based Framework for Sizing Passive Compensators in Low-Voltage Installations",
       "link": "https://www.mdpi.com/1996-1073/19/19/4750",
       "source": "Energies (MDPI)",
@@ -356,30 +364,6 @@
       "excerpt": "To address the complex multi-agent trading interactions in the coordinated operation of a distribution network and multiple microgrids, which may prevent microgrids from achieving optimal trading decisions under bounded…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4740: Exact-Gated, Reproducible Evaluation of Temporal-Guided Unit Commitment Search on Renewable-Rich Smart-Grid Networks",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4740",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-08T00:00:00.000Z",
-      "excerpt": "Learning-assisted unit commitment must preserve valuable feasible schedules while introducing guided alternatives. This paper develops a candidate-attribution analysis and a reference-retaining extension for renewable-ri…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4738: Molecular Geochemical Responses to Shale Oil Development: A Case Study of the Chang 7 Member, Ordos Basin",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4738",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-08T00:00:00.000Z",
-      "excerpt": "Accurately characterizing the utilization state of shale oil reservoirs is important for understanding post-development hydrocarbon occurrence and remaining oil potential. This study investigated mudstone&amp;ndash;shale…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4741: Ultra-Short-Term Multi-Horizon Point and Probabilistic Wind Power Forecasting with Power-Increment Enhancement and Signed Adaptive Conformal Inference",
-      "link": "https://www.mdpi.com/1996-1073/19/19/4741",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-08T00:00:00.000Z",
-      "excerpt": "Local power changes, weak-output states, and changing interval coverage complicate ultra-short-term wind power forecasting. This study develops power-increment enhancement and signed adaptive conformal inference (PIE-SAC…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3220: Quantitative Assessment of Precursor Crystallinity on the Reactivity and Strength of Basalt-Based Geopolymers",
       "link": "https://www.mdpi.com/2227-9717/14/19/3220",
       "source": "Processes (MDPI)",
@@ -450,30 +434,6 @@
       "category": "processing",
       "published": "2026-10-08T00:00:00.000Z",
       "excerpt": "Ontology-based risk assessment usually infers what a query needs before the query is posed. For a material the knowledge graph does not contain, or when a query changes how similarity is measured, part of that informatio…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3211: Application of Grey Relational Analysis in Oil and Gas Resource Exploration",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3211",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-08T00:00:00.000Z",
-      "excerpt": "Since its inception in 1982, grey relational analysis (GRA) has evolved from early point relational coefficient models and generalized grey relational analysis models to contemporary complex models integrating multiple m…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3210: Flexible Day-Ahead Scheduling of a Cascade Hydro-Wind-Solar-Thermal-Storage System Including Hybrid Pumped Storage",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3210",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-08T00:00:00.000Z",
-      "excerpt": "To advance the modernization of power systems, the role of hydropower has transitioned from mere energy generation to serving as both a primary energy provider and a critical flexibility resource. However, conventional d…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3209: Deep Learning-Based Reconstruction and Representation Learning of Open-Hole Well Logs Using Machine Learning",
-      "link": "https://www.mdpi.com/2227-9717/14/19/3209",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-08T00:00:00.000Z",
-      "excerpt": "Well-log measurements provide essential information for lithological identification, petrophysical characterization, and reservoir interpretation but incomplete log intervals may occur because of technical, operational,…"
     },
     {
       "title": "KBR to deliver engineering services for Aramco’s Marjan field",
@@ -874,6 +834,46 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Yanxia Peng, Shaobin Guo"
+    },
+    {
+      "title": "Evaluation of hematite and Micromax-based cement systems for high- density well cementing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009779?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Abdulmalek Ahmed, Ahmed Abdelaal, Salaheldin Elkatatny"
+    },
+    {
+      "title": "Dynamic effect of gas initial desorption in coals with different moisture contents and energy-controlling mechanism for outburst prevention of water injection in coal seams",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011226?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
+    },
+    {
+      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     }
   ]
 }
