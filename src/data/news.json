@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:51:53.765Z",
+  "generatedAt": "2026-10-10T06:20:37.698Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 6,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Mountaineer: 'Tenzing biopic made me wonder what he would think if he could return to the mountain today'",
+      "link": "https://phys.org/news/2026-10-mountaineer-tenzing-biopic-mountain-today.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-10T01:20:01.000Z",
+      "excerpt": "Seventy-three years ago, Tenzing Norgay stood on top of Everest, known as Chomolungma in Tibetan, which roughly translates as \"Goddess Mother of the World.\""
+    },
+    {
+      "title": "Geologists uncover evidence of a missing Late Cretaceous magmatic arc in northwestern Iran",
+      "link": "https://phys.org/news/2026-10-geologists-uncover-evidence-late-cretaceous.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-10T00:20:05.000Z",
+      "excerpt": "Mountains preserve evidence of ancient oceans, moving continents and tectonic processes that have shaped Earth over millions of years. Later deformation, erosion and burial, however, can obscure important parts of this g…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4776: Parameter Estimation of a Single-Phase Diode-Bridge Rectifier Under Steady-State, Load Variation, and Startup Transient Using Terminal Measurements",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4776",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-10T00:00:00.000Z",
+      "excerpt": "This paper presents a numerical framework for parameter estimation of a single-phase diode-bridge rectifier with capacitive filtering. The proposed approach integrates a state-space model of the rectifier, numerically so…"
+    },
+    {
+      "title": "Food testing reveals how diet can add to exposure to 'forever chemicals'",
+      "link": "https://phys.org/news/2026-10-food-reveals-diet-exposure-chemicals.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-09T23:00:01.000Z",
+      "excerpt": "Per- and polyfluoroalkyl substances (PFAS)—a vast family of chemicals used largely for their nonstick, water-repellent and grease-resistant properties—are called \"forever chemicals\" because of their remarkable resistance…"
+    },
     {
       "title": "Polar oceans store carbon—but policy is not yet ready to count it",
       "link": "https://phys.org/news/2026-10-polar-oceans-carbon-policy-ready.html",
@@ -164,76 +196,12 @@
       "excerpt": "Malaysia closed schools in Kuala Lumpur and other parts of the country Friday as haze from fires in neighboring Indonesia again pushed local air quality to some of the world's worst levels."
     },
     {
-      "title": "Hurricane Isaias strengthens en route to US Gulf Coast",
-      "link": "https://phys.org/news/2026-10-hurricane-isaias-en-route-gulf.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-09T08:40:01.000Z",
-      "excerpt": "Isaias strengthened to a Category 2 hurricane on Thursday as it headed toward the U.S. Gulf Coast, the U.S. National Hurricane Center said, prompting mandatory evacuations and disrupting oil and gas production."
-    },
-    {
       "title": "Equinor finds gas at Gullfaks South field in North Sea",
       "link": "https://www.offshore-technology.com/news/equinor-gas-gullfaks-south-field/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-10-09T07:21:05.000Z",
       "excerpt": "Equinor and its partners have discovered gas at the Gullfaks South field in the Norwegian North Sea, around 190km north-west of Bergen."
-    },
-    {
-      "title": "Fault-conditioned Seismic Image Generation using Denoising Diffusion Probabilistic Modeling and Neural Style Transfer",
-      "link": "https://arxiv.org/abs/2610.10788",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-09T04:00:00.000Z",
-      "excerpt": "arXiv:2610.10788v1 Announce Type: new Abstract: Seismic data augmentation is critical for training robust deep learning (DL) models for fault detection and characterization, yet conventional approaches remain inadequate.…"
-    },
-    {
-      "title": "Escaping Geological Generative Prior Distributions in Bayesian Travel Time Tomography",
-      "link": "https://arxiv.org/abs/2610.11962",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-09T04:00:00.000Z",
-      "excerpt": "arXiv:2610.11962v1 Announce Type: new Abstract: Solutions to geophysical inverse problems are generally non-unique, and greatly benefit from additional geological prior information. Generative Neural Networks (GNNs) are…"
-    },
-    {
-      "title": "Variational Derivation of the Weak Form for Viscous Flows Involving Free Surfaces with Implications for Geodynamic Simulations",
-      "link": "https://arxiv.org/abs/2610.12152",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-09T04:00:00.000Z",
-      "excerpt": "arXiv:2610.12152v1 Announce Type: cross Abstract: Geodynamic simulations involve solving the Stokes equations, where boundary conditions play a crucial role in governing internal dynamics and surface topography evolution…"
-    },
-    {
-      "title": "Effects of microstructural heterogeneity on the macroscopic spectrum of elastically accommodated grain-boundary sliding",
-      "link": "https://arxiv.org/abs/2606.12090",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-09T04:00:00.000Z",
-      "excerpt": "arXiv:2606.12090v3 Announce Type: replace Abstract: Elastically accommodated grain-boundary sliding (EAGBS) is a plausible source of upper-mantle seismic attenuation and dispersion, yet classical theory predicts a locali…"
-    },
-    {
-      "title": "A Moment-Based Shallow Water Model for Coupled Bedload-Suspended Load Transport with Variable Density: Hyperbolicity and Numerical Validation",
-      "link": "https://arxiv.org/abs/2505.22278",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-09T04:00:00.000Z",
-      "excerpt": "arXiv:2505.22278v3 Announce Type: replace-cross Abstract: In this paper, we develop a Hyperbolic Shallow Water Exner Moment model with Erosion and Deposition (HSWEMED), which extends the recent shallow water moment frame…"
-    },
-    {
-      "title": "Prospects for geoneutrino detection with JUNO",
-      "link": "https://arxiv.org/abs/2511.07227",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-09T04:00:00.000Z",
-      "excerpt": "arXiv:2511.07227v2 Announce Type: replace-cross Abstract: Geoneutrinos, which are antineutrinos emitted during the decay of long-lived radioactive elements inside Earth, serve as a unique tool for studying the compositio…"
-    },
-    {
-      "title": "Scientists create new statewide surface geologic map of Nebraska",
-      "link": "https://phys.org/news/2026-10-scientists-statewide-surface-geologic-nebraska.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-09T03:40:01.000Z",
-      "excerpt": "A new academic paper by Paul Hanson and Matthew Joeckel of the Conservation and Survey Division in the University of Nebraska–Lincoln's School of Natural Resources contains a brief phrase—\"new linework\"—that looks innocu…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4774: Two-Stage Combustion of Ammonia/Hydrogen Blends: An Experimental Approach to Low-Carbon Fuel Utilisation",
@@ -324,14 +292,6 @@
       "excerpt": "Reliable short-term prediction of global horizontal irradiance (GHI) is essential for maximizing photovoltaic (PV) power generation, improving grid reliability, and enabling efficient integration of renewable energy sour…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4765: A Holistic Lifecycle-Oriented Analysis of High-Performance Lithium-Ion Batteries: Aging, Advanced Diagnostics, Thermal Management, and Digitalized Education",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4765",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-09T00:00:00.000Z",
-      "excerpt": "Lithium-ion batteries (LIBs) have become central to modern energy storage systems, yet their increasing material and electrochemical complexity introduces significant challenges across their entire lifecycle. During firs…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3238: Carbon Footprint of Hydrogen Production with PEM Water Electrolysis: Effects of Electricity Generation Mix, Load-Shifting Strategies",
       "link": "https://www.mdpi.com/2227-9717/14/20/3238",
       "source": "Processes (MDPI)",
@@ -380,20 +340,20 @@
       "excerpt": "Temperature control of industrial furnaces is challenging because of large thermal inertia, actuator constraints, and asymmetric heating and cooling dynamics. This paper compares four temperature control strategies for a…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3231: Response Surface Methodology-Assisted Optimization of Operating Parameters in a Laboratory-Scale Contact Stabilization Process Treating Synthetic Food-Processing Wastewater",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3231",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-09T00:00:00.000Z",
-      "excerpt": "The contact stabilization (CS) process is a promising technology for wastewater treatment, yet its performance under elevated organic loading remains poorly understood. This study investigated the effects of cycle time,…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3232: PGNN-Based Harmonic Source Localization in Distribution Networks",
       "link": "https://www.mdpi.com/2227-9717/14/20/3232",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-10-09T00:00:00.000Z",
       "excerpt": "Accurate localization and quantification of multiple harmonic sources from limited synchronized measurements remain challenging in distribution networks. To address measurement noise, limited phasor measurement unit (PMU…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3231: Response Surface Methodology-Assisted Optimization of Operating Parameters in a Laboratory-Scale Contact Stabilization Process Treating Synthetic Food-Processing Wastewater",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3231",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-09T00:00:00.000Z",
+      "excerpt": "The contact stabilization (CS) process is a promising technology for wastewater treatment, yet its performance under elevated organic loading remains poorly understood. This study investigated the effects of cycle time,…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3230: Low-Velocity Impact Response and Residual Burst Strength of Fiber-Wound Composite Pressure Vessels",
@@ -420,20 +380,12 @@
       "excerpt": "Carbon-rich organic solid wastes should be introduced to students not only as pollutants to be disposed of, but also as secondary carbon resources that can be converted into energy carriers and useful products. To connec…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3227: CanCybernetic Twins Function as Regulators for Sustainable (Sea)Food Systems?",
+      "title": "Processes, Vol. 14, Pages 3227: Can Cybernetic Twins Function as Regulators for Sustainable (Sea)Food Systems?",
       "link": "https://www.mdpi.com/2227-9717/14/20/3227",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-10-09T00:00:00.000Z",
       "excerpt": "Feeding the growing global population without permanently overshooting local-to-planetary boundaries demands a transition from conventional resource extraction to holistic models. Current digital twin applications in (se…"
-    },
-    {
-      "title": "Stratospheric winds can warn of extreme energy demand in Europe",
-      "link": "https://phys.org/news/2026-10-stratospheric-extreme-energy-demand-europe.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-08T23:10:09.000Z",
-      "excerpt": "A breakdown of normal polar winds in winter raises the chance of extreme cold—and a resulting spike in energy demand—in Europe, new research shows. Normally, strong and stable westerly winds circle high above the Arctic…"
     },
     {
       "title": "Wärtsilä wins five-year LNG carrier support deal with TMS",
@@ -874,6 +826,54 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Ni and C co-doping synergistically modulates the electronic distribution of MoO 2 to achieve efficient hydrogen evolution in alkaline seawater",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033557?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Ruonan Liu, Yangshuo Liu, Taili Yang, PeiXin Li, Yao Meng, Liang Qiao, Junlei Qi, Yaotian Yan, Xiaohang Zheng"
+    },
+    {
+      "title": "Energy, exergy, and direct engine-out emission impact assessment of an ethyl acetate–diesel dual-fuel engine under different EGR rates",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033715?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Usame Demir, Samet Çelebi, Halil Erdi Gülcan"
+    },
+    {
+      "title": "Photothermal catalytic conversion of nonanoic acid into bio-jet fuel-range alkanes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034198?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Gaoxiang Xu, Chun Zhou, Yichen Nie, Wen Gu, Chenhao Song, Xingyong Li, Yubao Chen, Ming Cao, Guanben Du"
+    },
+    {
+      "title": "Effects of synergistic ultrasonic–NaClO treatment on coal microstructure at different liquid saturations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033971?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Xufei Yang, Jiuyuan Fan, Qiming Huang, Hao Xu, Jiuling Zhang, Kuanhong Zhang, Chenjing Wu"
+    },
+    {
+      "title": "Enhancing CO 2 -to-methanol conversion via interfacial engineering in CuZnCeO x /Cu-foam catalyst",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033995?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Zerong Sun, Jialin Lv, Yuxin Shi, Lingjun Zhu, Hongcai Su, Shurong Wang"
+    },
+    {
+      "title": "Assessment of strategies to enhance the performance of a glow plug-assisted methanol engine",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603351X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Xinlei Liu, Mohammad Raghib Shakeel, Vallinayagam Raman, Balaji Mohan, Rafael Menaca, Yoann Viollet, Abdullah S. AlRamadan, Emre Cenker, Hong G. Im"
     }
   ]
 }
