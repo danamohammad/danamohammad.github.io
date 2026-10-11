@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T13:28:01.656Z",
+  "generatedAt": "2026-10-11T22:25:34.255Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,30 @@
     }
   ],
   "items": [
+    {
+      "title": "At least 4 dead as cyclone Isaias drenches southern U.S.",
+      "link": "https://phys.org/news/2026-10-dead-cyclone-isaias-drenches-southern.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-11T16:20:04.000Z",
+      "excerpt": "Four people died in the southeastern United States as post-tropical cyclone Isaias posed flooding and tornado risks Saturday as it moved northward after making landfall on Florida's Gulf Coast."
+    },
+    {
+      "title": "Hurricane Simon strengthens as it nears western Mexico",
+      "link": "https://phys.org/news/2026-10-hurricane-simon-nears-western-mexico.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-11T16:00:01.000Z",
+      "excerpt": "Hurricane Simon strengthened into a powerful Category 4 storm and was expected to make landfall or skirt the coast of west-central Mexico on Sunday, according to the U.S. National Hurricane Center."
+    },
+    {
+      "title": "South Korea completes trial of Arctic shipping route",
+      "link": "https://phys.org/news/2026-10-south-korea-trial-arctic-shipping.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-11T15:40:02.000Z",
+      "excerpt": "A South Korean container ship returned on Sunday from a trial voyage through the Arctic, testing an alternative route opened by melting sea ice as conflict in the Middle East disrupts global shipping."
+    },
     {
       "title": "New algorithm could predict Arctic sea ice up to 9 months ahead, offering new climate insights",
       "link": "https://phys.org/news/2026-10-algorithm-arctic-sea-ice-months.html",
@@ -170,6 +194,30 @@
       "category": "energy",
       "published": "2026-10-11T00:00:00.000Z",
       "excerpt": "Environmental challenges are becoming increasingly severe, and biomass energy, as a clean and renewable resource, plays a vital role in mitigating carbon emissions. The co-production of valuable CO-rich syngas and porous…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3262: Diesel Engine Intelligent Fault Diagnosis Based on Synchro Extracting Enhanced Generalized S-Transform and Improved Swin Transformer",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3262",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "To address the issue where irrelevant information interferes with subtle fault features, making it difficult to clearly define the boundaries between different fault types and thereby affecting the accuracy of fault diag…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3261: Process-Shift-Aware Three-State Output Supervision for Recursive Alumina-Concentration Soft Sensing in Aluminium Electrolysis",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3261",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Dissolved alumina concentration in the electrolyte cannot be measured continuously in aluminium reduction cells. Recursive soft sensing estimates the concentration from online process variables; however, process-conditio…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3260: Effects of Olea europaea Callus Culture Lysate with or Without a Polyphenolic Complex on Skin Elasticity and Fine Lines: A Randomized Double-Blind Placebo-Controlled Study",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3260",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Background: Age-related deterioration of skin biomechanical properties is characterized by reduced elasticity, increased viscoelasticity, and the appearance of fine lines. Plant-derived bioactive compounds have attracted…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3258: Hydro-Mechanical Coupled FDEM Modeling of Multi-Cluster Hydraulic Fracture Propagation and Interaction in Shale Reservoirs",
@@ -316,30 +364,6 @@
       "excerpt": "Microbially induced calcium carbonate precipitation (MICP) has extensive applications in fields such as geology, environmental science, and engineering. In this study, Lysinibacillus sp. YT41, a bacterium isolated from m…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3250: Ductility-Based Stiffness Optimization of Transmission Tower&ndash;Line Systems for Wind-Induced Collapse Resistance",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3250",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "To enhance the collapse resistance of transmission tower&amp;ndash;line systems under strong-wind loads, this study develops a ductility-based stiffness optimization framework for weak structural segments. A finite-eleme…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3249: Risk Assessment of Simultaneous Dual-Well Drilling Operations on the Same Shale Gas Well Pad Based on a BT-BN Model",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3249",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "Shale gas is an important unconventional energy resource in China with considerable development potential. However, the coupling of hazards during simultaneous dual-well drilling on multi-well pads has not been adequatel…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3248: Risks to Human and Environmental Health Associated with the Intensive Use of Glyphosate and Biological Alternatives for Its Treatment: A Mini-Review",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3248",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "Glyphosate is a non-selective, broad-spectrum herbicide commonly used to control various types of weeds in both urban and agricultural settings. Due to their high effectiveness, herbicide formulations containing glyphosa…"
-    },
-    {
       "title": "Food testing reveals how diet can add to exposure to 'forever chemicals'",
       "link": "https://phys.org/news/2026-10-food-reveals-diet-exposure-chemicals.html",
       "source": "Phys.org — Earth",
@@ -348,36 +372,12 @@
       "excerpt": "Per- and polyfluoroalkyl substances (PFAS)—a vast family of chemicals used largely for their nonstick, water-repellent and grease-resistant properties—are called \"forever chemicals\" because of their remarkable resistance…"
     },
     {
-      "title": "Polar oceans store carbon—but policy is not yet ready to count it",
-      "link": "https://phys.org/news/2026-10-polar-oceans-carbon-policy-ready.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-09T19:20:06.000Z",
-      "excerpt": "Polar oceans may play an important role in storing carbon and supporting biodiversity, but current science and policy frameworks are not yet ready to fully recognize their potential."
-    },
-    {
-      "title": "What a swordfish washing up on British Columbia's coast says about our changing oceans",
-      "link": "https://phys.org/news/2026-10-swordfish-british-columbia-coast-oceans.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-09T19:00:01.000Z",
-      "excerpt": "Filmmaker and outdoorsperson Quinn Barabash recently made headlines when he found a swordfish carcass nearly two meters (6.6 feet) long on the remote shores of Haida Gwaii in northern British Columbia."
-    },
-    {
       "title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
       "link": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm",
       "source": "ScienceDaily — Energy Technology",
       "category": "energy",
       "published": "2026-10-09T17:55:59.000Z",
       "excerpt": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a tunable beam of plasma capable of transmitting radio waves. The technology could revolutionize wireless communi…"
-    },
-    {
-      "title": "Kīlauea's swelling summit helps scientists forecast lava fountain eruptions",
-      "link": "https://phys.org/news/2026-10-klauea-summit-scientists-lava-fountain.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-09T16:40:08.000Z",
-      "excerpt": "Episodic lava fountaining is a rare volcanic behavior in which repeated, hours-long bursts of molten lava and gas are spewed from volcanic vents, with quiet pauses lasting days to weeks between episodes. These lava fount…"
     },
     {
       "title": "Devon Energy to sell Eagle Ford assets to Crescent for $4.2bn",
@@ -636,6 +636,14 @@
       "excerpt": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-s…"
     },
     {
+      "title": "Mechanisms of high-pressure fluid jet-assisted rock breaking and reservoir fracture network construction in hot dry rock development: A review",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004926?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Dazhi Wu, Gan Feng, Yichun Gao, Haobo Liu"
+    },
+    {
       "title": "Digital twins for energy wells through multiscale physics-data fusion: Review, challenges, and a conceptual framework",
       "link": "https://www.sciencedirect.com/science/article/pii/S294989102600504X?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -692,6 +700,14 @@
       "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Houfeng He, Yun Han, Yifei Guo, Shun Liu, Shibao Yuan, Jianbin Liu, Xin Chen, Pengcheng Liu"
     },
     {
+      "title": "Evolution process of geothermal water in the granite distribution areas: Insights from hydrochemistry with O-D-Sr isotopes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004987?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Lei Chen, Jinchuan Zhang, Yuchao Ma, Xingxu Zhao, Zongming Liu, Miao Shi, Yuhang Sun"
+    },
+    {
       "title": "Nonlinear propagation mechanism of fractures and fracability evaluation of shale oil reservoirs controlled by laminae",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005038?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -714,22 +730,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Ahmed Hafez, J. Carlos Santamarina"
-    },
-    {
-      "title": "Thermo-hydro-mechanical modeling of enhanced geothermal systems with a rough fractal discrete fracture network",
-      "link": "https://www.sciencedirect.com/science/article/pii/S294989102600494X?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Chengdong Deng, Bo Feng, Junyi Liu, Tao Shi, Wang Yan, Botong Hu"
-    },
-    {
-      "title": "NMR-based characterization of microstructural evolution and fatigue damage in bedded salt rock",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004902?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Jiangyu Fang, Hongling Ma, Hang Li, Wei Liang, Ronghui Xu, Xiaomeng Sun, Zongze Li, Chunhe Yang"
     },
     {
       "title": "A review of vertical closed-loop geothermal heating and cooling systems with an Emphasis on the importance of the subsurface",
@@ -828,52 +828,52 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
+      "title": "Experimental study on the characteristics of methanotrophs in degrading coal seam methane using a RL-TW80 formulation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034277?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Jun Xie, Zheming Zhu, Dawei Chen, Xianzhong You, Shurong Xu"
+    },
+    {
+      "title": "Effects of various nanoparticle additives on the ignition and combustion characteristics of diesel",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034137?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Jianan Li, Zongyu Yue, Rui Yang, Zining Yu, Bing Li, Chuang Gao, Haifeng Liu, Mingfa Yao"
+    },
+    {
+      "title": "Sustainable syngas production by photothermal dry reforming of bio-ethanol over a Ni/Mn 0.1 Ce 0.9 O 2 catalyst",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034411?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Jie Xie, Fagen Wang, Weijie Cai"
+    },
+    {
+      "title": "Surface property descriptors governing high N 2 selectivity over CuO in NH 3 /H 2 co-combustion and its implementation in structured catalysts",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033235?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): JeongHyun Cho, Sangeun Lee, Sumin Jung, Hai Woong Park, Ji Chul Jung"
+    },
+    {
+      "title": "Misapprehending labels as types: A note to the molecular simulation community on kerogen model labeling",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034149?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Jean-Marc Leyssale, Amaël Obliger, Alex Eduardo Delhumeau"
+    },
+    {
       "title": "A multi-scale transient multiphase flow model for hydrate particle formation-aggregation-deposition in pipeline",
       "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032813?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Enqi Guo, Bohui Shi, Jie Guo, Haoqi Chen, Lei Shan, Shangfei Song, Jing Gong"
-    },
-    {
-      "title": "Thermodynamic simulation and mechanistic analysis of a dual-pathway biomass chemical looping gasification–steam reaction system for hydrogen production from typical aquatic invasive biomass",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034071?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Yufei Gao, Qian Wang, Lingning Zhang, Futong Li, Rui Wang, Xiaoqian Liu, Yanhua Zhao"
-    },
-    {
-      "title": "NO and N 2 O emissions and mitigation in circulating fluidized-bed coal combustion: complementary experimental studies",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033600?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Qianghua Ding, Yingchuan Zhou, Zhaoxin Wan, Kang Xia, Meng Liu, Yufeng Duan"
-    },
-    {
-      "title": "Numerical analysis of the effects of nozzle number on jet ignition mechanism and combustion characteristics in a methanol engine with a passive pre-chamber",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034113?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Zhou Fang, Weijie Liu, Wenjun Li, Junbo Luo, Yuan Lu, Shishuo Gong, Jiabiao Zou, Peng Liu, Chenghang Zheng, Weiguo Weng, Xiang Gao"
-    },
-    {
-      "title": "A composite inhibitor developed through mine-water resource utilization: synergistic mechanisms for suppressing coal spontaneous combustion",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034046?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Wenzhou Du, Cong Zhang, Luyao Wang, Guizhuang Zhu, Zhili Ni"
-    },
-    {
-      "title": "A data-driven surrogate framework for predicting axial dynamic-pressure distributions at resonant modes in a model gas turbine combustor",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034174?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Min Jae Jeon, Dae Jin Jang, Yeong Jun Heo, Min Chul Lee"
     }
   ]
 }
