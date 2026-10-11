@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T06:23:25.764Z",
+  "generatedAt": "2026-10-11T13:28:01.656Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,78 @@
   ],
   "items": [
     {
+      "title": "New algorithm could predict Arctic sea ice up to 9 months ahead, offering new climate insights",
+      "link": "https://phys.org/news/2026-10-algorithm-arctic-sea-ice-months.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-11T13:00:01.000Z",
+      "excerpt": "Researchers at the Mubadala Arabian Center for Climate and Environmental Sciences (ACCESS) at NYU Abu Dhabi have developed a new algorithm that can forecast Arctic sea ice extent up to nine months in advance, offering a…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4801: Evaporative Cooling Across Building Types and World Climate Zones",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4801",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Cooling demand in buildings is rising, met mostly by electric air conditioners. Evaporative cooling uses water instead of a synthetic refrigerant, but its benefit depends on the climate and on how much humidity a buildin…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4799: Simulation and Experimental Testing of Waste Heat Utilisation for Electricity Generation Using a Rotary Blower Driven by Wet Steam",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4799",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "This paper presents an experimental investigation of a wet steam cycle (WSC) for waste-heat-to-power conversion using a rotary blower as an expander. In a WSC, the entire process takes place in the wet-steam region. To d…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4800: Hydrology-Aware Maintenance Scheduling for a Large Run-of-River Hydropower Plant Using FID-Guided Large Neighborhood Search",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4800",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Maintenance scheduling in large run-of-river hydropower plants requires balancing maintenance urgency, asset condition, hydrological opportunity, and operational constraints. This study proposes an integrated decision-su…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4798: Energy Security in South Korean News Media During International Conflicts: A Text Mining and Semantic Network Analysis",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4798",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "This study examines how energy security was represented in South Korean news media during the Russia&amp;ndash;Ukraine War and the U.S.&amp;ndash;Iran War. Although not a direct party to either conflict, South Korea is a…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4797: Data Quality and Predictive Reliability in AI-Enabled Aviation Energy Management: Physics-Informed Sensitivity Analysis with Open-Data Validation",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4797",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "The objective of this study is to quantify how independently degraded operational-data quality affects predictive accuracy, predictive uncertainty, and prediction-level eligibility for decision support in AI-enabled avia…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4795: EMT-Validated Branch-and-Bound Determination of Robust Small-Signal Stability Regions for Multi-Converter Power Systems Under Joint Operating, Control, Model-Error and Topological Uncertainty",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4795",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Assessing additional converter capacity requires stability analysis under operating, control, device-model and network-topology uncertainty. This paper integrates structured singular value analysis with branch and bound…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4796: Comparative Analysis of the Characteristics and Operational Efficiency of a Combined Heat and Power Plant with AP300 and BWRX-300 SMR Reactors",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4796",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "The purpose of this study is to compare the energy performance characteristics of two small modular reactor (SMR) technologies, the AP300 and the BWRX-300, under conditions of simultaneous electricity and heat production…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4794: Stability-Driven Multistage Transformer&ndash;BiLSTM for Short-Term PV Power Forecasting",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4794",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "This study proposes an integrated short-term photovoltaic (PV) power forecasting framework, termed MSD-STB-OptFormer, to jointly address multiscale power fluctuations, unstable meteorological relevance, and model-paramet…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4793: Dynamic State Estimation for a Back-to-Back VSC-HVDC Sending-End System Under Short-Circuit Faults: An Event-Triggered Model-Matching Approach",
       "link": "https://www.mdpi.com/1996-1073/19/20/4793",
       "source": "Energies (MDPI)",
@@ -98,6 +170,38 @@
       "category": "energy",
       "published": "2026-10-11T00:00:00.000Z",
       "excerpt": "Environmental challenges are becoming increasingly severe, and biomass energy, as a clean and renewable resource, plays a vital role in mitigating carbon emissions. The co-production of valuable CO-rich syngas and porous…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3258: Hydro-Mechanical Coupled FDEM Modeling of Multi-Cluster Hydraulic Fracture Propagation and Interaction in Shale Reservoirs",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3258",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Competition among hydraulic fractures can redistribute growth between clusters without producing a comparable increase in total fracture length. We examine this distinction using a two-dimensional hydro-mechanical finite…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3259: Effect of Activated Carbon as an Additive on the Anaerobic Digestion of Food Wastewater",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3259",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Activated carbon (AC) may improve methane production, but its performance can depend on substrate loading and incubation time. This study evaluated 60-day batch anaerobic digestion of food wastewater at 38 &amp;deg;C usi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3257: Transient-Energy-Based Coordinated DC-Voltage Control for Dual-DC-Bus Soft Open Point",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3257",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Dual-DC-bus soft open points (SOPs) provide an effective means of enhancing the operational flexibility and resilience of distribution systems. However, transient power imbalances caused by source/load variations and fee…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3256: Stability Analysis of Asymmetric Embankment Widening and Reinforcement on Soft Foundation Using Centrifugal Model Tests and Numerical Simulations",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3256",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "To ensure the safe operation of embankment projects in flood detention areas, this study systematically investigates the rehabilitation and filling works of the embankment on soft foundation in the Fuhua Area of the Huay…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3255: Neural Network-Based Prediction Model for High Temperature and High Pressure Rheological Parameters of Water-Based Drilling Fluids",
@@ -188,70 +292,6 @@
       "excerpt": "High-temperature alkali metal heat pipes are key passive heat-transfer components of heat pipe cooled reactors, space nuclear power sources, and advanced non-light-water reactors; their long-term reliability sets the saf…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4789: Marketization of Data Elements and Total-Factor Energy Efficiency of Agriculture: Evidence from China&rsquo;s Big-Data Trading Platforms",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4789",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "As one of the core production factors in the digital age, the data factor reshapes the inherent logic of green and low-carbon agricultural development through its unique value, and has become a new engine driving high-qu…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4787: Unified Power Theory of Electric Circuits Driven by Non-Sinusoidal Periodic Voltage and Current Sources Developed Using Inner-Exterior Product Vectors",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4787",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "The article deals with the power theory of electric circuits considered in steady states when circuit currents and voltages are non-sinusoidal periodic signals with a common period of the fundamental harmonic. The power…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4788: A Thermal-Aware Infrared&ndash;Visible Image Fusion Method for Defect Detection in Power Transmission Equipment",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4788",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "Infrared and visible images provide complementary information for transmission equipment inspection, but a single modality is often insufficient to simultaneously represent structural defects and thermal abnormalities. T…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4786: ESG Performance and Green Innovation Capability of Photovoltaic Enterprises: Empirical Evidence from China Based on EWM-TOPSIS Method",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4786",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "Driven by global carbon neutrality goals and the accelerating energy transition, green innovation has become a core driver for the sustainable development of the photovoltaic (PV) industry. Environmental, social, and gov…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4784: Transformer Fault Diagnosis Method Based on TLR-WSMOTE and IAOO-SVM-AdaBoost",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4784",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "In view of the issues of sample imbalance and low diagnostic accuracy associated with traditional methods for oil-immersed power transformer fault diagnosis, an ensemble support vector machine (SVM)-based fault diagnosis…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4785: Investment Timing and Electricity Decarbonization in Romania Under Stylized Emissions Constraints",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4785",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "This study compares long term generation/investment patterns in a simplified representation of Romania&amp;rsquo;s electricity sector between 2025 and 2050. A deterministic OSeMOSYS/MUIO model is used to examine a refere…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4783: Design and Optimization of an Asymmetric CLLC Resonant Converter with Interleaved Totem-Pole Front-End for Wide Voltage Range Single-Stage EV Charging",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4783",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "The increasing adoption of 800 V-class electric vehicles has created strong demand for single-stage onboard chargers capable of operating over a wide output voltage range while maintaining high efficiency and power densi…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4782: Safety-Constrained Data-Driven Supervisory Scheduling of Virtual Inertia and Active-Power Release for a Three-Level NPC Grid-Forming Inverter",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4782",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "This paper develops a lightweight, safety-constrained supervisory scheduler for a switching three-level neutral-point-clamped (NPC) grid-forming (GFM) inverter. The scheduler maps grid strength, DC-source resistance, an…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3253: Interface Dynamics and Heat Transfer in Droplet-Laden Rayleigh&ndash;B&eacute;nard Convection: A Triple-Distribution-Function Lattice Boltzmann Simulation",
       "link": "https://www.mdpi.com/2227-9717/14/20/3253",
       "source": "Processes (MDPI)",
@@ -300,38 +340,6 @@
       "excerpt": "Glyphosate is a non-selective, broad-spectrum herbicide commonly used to control various types of weeds in both urban and agricultural settings. Due to their high effectiveness, herbicide formulations containing glyphosa…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3247: A Study on the Enhanced Longitudinal Resolution in Radio-Electromagnetic Wave Transillumination Detection",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3247",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "Based on the governing equations of the electromagnetic radiation field and the theory of multi-layer media propagation, the governing equations for electromagnetic wave attenuation are derived. A stable solution to the…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3246: Closing Editorial: Advances in Computer Vision and Image Processing for Industrial Processes",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3246",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "Computer vision and image processing have become essential technologies for the transformation of conventional industrial systems into intelligent, automated, and data-driven processes [...]"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3242: Physics-Guided Graph Safe Reinforcement Learning for High-Fidelity and Scalable Alternating Current Optimal Power Flow",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3242",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "The alternating current (AC) optimal power flow (AC-OPF) problem is crucial for efficient power system operation, yet it remains challenging due to its nonlinear, nonconvex structure and numerous operational constraints.…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3241: Narrowband Internet of Things over Non-Terrestrial Networks for Remote Renewable-Energy Management: Architecture and Performance Evaluation",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3241",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "Reliable communication is essential for monitoring and supervisory operation of renewable-energy facilities beyond terrestrial-network coverage. This study proposes a four-layer Internet of Things (IoT) architecture alig…"
-    },
-    {
       "title": "Food testing reveals how diet can add to exposure to 'forever chemicals'",
       "link": "https://phys.org/news/2026-10-food-reveals-diet-exposure-chemicals.html",
       "source": "Phys.org — Earth",
@@ -370,14 +378,6 @@
       "category": "geoscience",
       "published": "2026-10-09T16:40:08.000Z",
       "excerpt": "Episodic lava fountaining is a rare volcanic behavior in which repeated, hours-long bursts of molten lava and gas are spewed from volcanic vents, with quiet pauses lasting days to weeks between episodes. These lava fount…"
-    },
-    {
-      "title": "Some climate tipping points are being studied far more than others",
-      "link": "https://phys.org/news/2026-10-climate.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-09T15:40:17.000Z",
-      "excerpt": "Parts of Earth's climate system can change abruptly once warming pushes them beyond critical thresholds. The Greenland and Antarctic ice sheets, the Amazon rainforest, coral reefs and major ocean currents are all among t…"
     },
     {
       "title": "Devon Energy to sell Eagle Ford assets to Crescent for $4.2bn",
