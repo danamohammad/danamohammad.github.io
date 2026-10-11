@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T21:58:19.215Z",
+  "generatedAt": "2026-10-11T06:23:25.764Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 4793: Dynamic State Estimation for a Back-to-Back VSC-HVDC Sending-End System Under Short-Circuit Faults: An Event-Triggered Model-Matching Approach",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4793",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Short-circuit faults alter the algebraic network relations of a back-to-back voltage-source-converter high-voltage direct-current (VSC-HVDC) sending-end system, creating structural mismatch when a dynamic state estimator…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4792: Prospective Economics of Small Modular Reactors in Vietnam: A Time-Indexed Techno-Economic Assessment",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4792",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Vietnam&amp;rsquo;s growing electricity demand, net-zero commitment, and renewed consideration of nuclear power motivate a transparent assessment of small modular reactor (SMR) economics. This study applies a harmonized…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4791: A Novel Biomass CO2 Gasification Process Assisted by Induction Heating for Co-Production of Porous Carbon and CO-Rich Syngas",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4791",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Environmental challenges are becoming increasingly severe, and biomass energy, as a clean and renewable resource, plays a vital role in mitigating carbon emissions. The co-production of valuable CO-rich syngas and porous…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3255: Neural Network-Based Prediction Model for High Temperature and High Pressure Rheological Parameters of Water-Based Drilling Fluids",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3255",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "The rheological behavior of drilling fluids under HTHP conditions is critical for ensuring drilling safety and performing reliable wellbore hydraulic calculations. However, many traditional prediction methods require the…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3254: Low-Rank Representation-Based Soft-Sensing Modeling for Secondary Air Velocity Field in Opposed Wall-Fired Boilers",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3254",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Under the dual carbon targets, the secondary air velocity field of opposed wall-fired boilers faces challenges such as limited measurement points, high-dimensional coupling, and scarce on-site steady-state samples, which…"
+    },
     {
       "title": "Scientists may have found a shortcut to fusion energy",
       "link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
@@ -212,30 +252,6 @@
       "excerpt": "This paper develops a lightweight, safety-constrained supervisory scheduler for a switching three-level neutral-point-clamped (NPC) grid-forming (GFM) inverter. The scheduler maps grid strength, DC-source resistance, an…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4781: Redesigned Electricity Institutions with Micro-Nodal Competitive Markets Reduce Electricity Costs Substantially and Induce Dynamic Energy Innovation",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4781",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "The electricity grid is a collective good that tends toward monopoly. It links private electricity generation to private electricity use. Its institutions converged near-globally at the end of the 20th century. Large-sca…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4779: In Situ Series Resistance Estimation of an Off-Grid PV String by Charge-Controller Actuation: A Feasibility Case Study Within a Digital Twin Framework",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4779",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "Series resistance (Rs) is one of the most informative single parameters for the state of health of a photovoltaic (PV) string. Determining it without a curve tracer or interrupting production remains difficult, because m…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4780: Physically Constrained Temporal Fusion Transformer with LLM-Assisted Hyperparameter Optimization for Multi-Scenario Energy Time Series Forecasting",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4780",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "Accurate forecasting of battery state of health (SOH), wind power, and photovoltaic (PV) power is challenged by non-stationarity, multiscale dependencies, and physically implausible outputs. This study proposes a physica…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3253: Interface Dynamics and Heat Transfer in Droplet-Laden Rayleigh&ndash;B&eacute;nard Convection: A Triple-Distribution-Function Lattice Boltzmann Simulation",
       "link": "https://www.mdpi.com/2227-9717/14/20/3253",
       "source": "Processes (MDPI)",
@@ -314,22 +330,6 @@
       "category": "processing",
       "published": "2026-10-10T00:00:00.000Z",
       "excerpt": "Reliable communication is essential for monitoring and supervisory operation of renewable-energy facilities beyond terrestrial-network coverage. This study proposes a four-layer Internet of Things (IoT) architecture alig…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3245: Bi-Level Optimal Configuration of User-Side Shared Energy Storage Considering Load Shifting and Fair Cost Allocation",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3245",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "With high renewable penetration, independent user-side storage suffers from low utilization and high investment. Shared energy storage (SES) addresses this by aggregating multi-user demand. This paper proposes a bi-level…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3244: Substrate Effects on the Corrosion Behavior of Tungsten- and Titanium-Doped Diamond-like Carbon Films on 316L Stainless Steel and Ti6Al4V",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3244",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "Diamond-like carbon (DLC) films are widely used for corrosion protection, but the same film may perform differently on different substrates. Tungsten-doped (W-DLC) and titanium-doped (Ti-DLC) DLC films were sputtered wit…"
     },
     {
       "title": "Food testing reveals how diet can add to exposure to 'forever chemicals'",
