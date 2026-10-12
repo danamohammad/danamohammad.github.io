@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T22:25:34.255Z",
+  "generatedAt": "2026-10-12T06:28:05.203Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 3,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,54 @@
     }
   ],
   "items": [
+    {
+      "title": "Is the Number of Foreshocks Underestimated? The Role of Declustering Symmetry",
+      "link": "https://arxiv.org/abs/2610.13147",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-12T04:00:00.000Z",
+      "excerpt": "arXiv:2610.13147v1 Announce Type: new Abstract: The physical origin of foreshocks remains one of the major unresolved problems in statistical seismology. In bottom-up (BU) triggering models, foreshocks are interpreted as…"
+    },
+    {
+      "title": "Is Earthquake Replenishment Sufficient for Unbiased b-Value Estimation?",
+      "link": "https://arxiv.org/abs/2610.13380",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-12T04:00:00.000Z",
+      "excerpt": "arXiv:2610.13380v1 Announce Type: new Abstract: Short-term aftershock incompleteness biases Gutenberg-Richter b-value estimates because many small earthquakes remain undetected immediately after large events. Two strateg…"
+    },
+    {
+      "title": "Differences among preparatory processes preceding major earthquakes in Kamchatka, 2014-2025, including the MW 8.8 event",
+      "link": "https://arxiv.org/abs/2610.13696",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-12T04:00:00.000Z",
+      "excerpt": "arXiv:2610.13696v1 Announce Type: new Abstract: Earthquake preparation involves progressive damage accumulation, strain localization, and changes in the organization of seismicity. We investigate preparatory processes pr…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4803: Structural Design and Experimental Investigation of the Mechanical Performance of Aluminum-Foil- and EVOH-Barrier Unbonded Flexible Pipes for Hydrogen Transport",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4803",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-12T00:00:00.000Z",
+      "excerpt": "The large-scale deployment of hydrogen energy has created an urgent demand for safe, efficient, and cost-effective hydrogen transportation infrastructure. Reducing transportation costs and improving pipeline reliability…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4802: Information Reliability in Carbon Markets: Point-in-Time News-Augmented Forecasting and Implications for China&rsquo;s Energy Transition",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4802",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-12T00:00:00.000Z",
+      "excerpt": "Reliable carbon price forecasts support compliance planning and transition risk management, but multi-source backtests can appear accurate when observations are aligned by calendar date rather than actual availability. W…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3263: Transient Electric Field Evolution in a 220 kV Cable Joint Under Switching Overvoltage Considering Measured Dielectric Dispersion",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3263",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-12T00:00:00.000Z",
+      "excerpt": "Switching energization imposes wideband transient voltages on cable joints, whereas conventional simulations often use frequency-independent properties for semiconductive field-control components. This study develops a m…"
+    },
     {
       "title": "At least 4 dead as cyclone Isaias drenches southern U.S.",
       "link": "https://phys.org/news/2026-10-dead-cyclone-isaias-drenches-southern.html",
@@ -148,14 +196,6 @@
       "excerpt": "The objective of this study is to quantify how independently degraded operational-data quality affects predictive accuracy, predictive uncertainty, and prediction-level eligibility for decision support in AI-enabled avia…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4795: EMT-Validated Branch-and-Bound Determination of Robust Small-Signal Stability Regions for Multi-Converter Power Systems Under Joint Operating, Control, Model-Error and Topological Uncertainty",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4795",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-11T00:00:00.000Z",
-      "excerpt": "Assessing additional converter capacity requires stability analysis under operating, control, device-model and network-topology uncertainty. This paper integrates structured singular value analysis with branch and bound…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4796: Comparative Analysis of the Characteristics and Operational Efficiency of a Combined Heat and Power Plant with AP300 and BWRX-300 SMR Reactors",
       "link": "https://www.mdpi.com/1996-1073/19/20/4796",
       "source": "Energies (MDPI)",
@@ -172,6 +212,14 @@
       "excerpt": "This study proposes an integrated short-term photovoltaic (PV) power forecasting framework, termed MSD-STB-OptFormer, to jointly address multiscale power fluctuations, unstable meteorological relevance, and model-paramet…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4795: EMT-Validated Branch-and-Bound Determination of Robust Small-Signal Stability Regions for Multi-Converter Power Systems Under Joint Operating, Control, Model-Error and Topological Uncertainty",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4795",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-11T00:00:00.000Z",
+      "excerpt": "Assessing additional converter capacity requires stability analysis under operating, control, device-model and network-topology uncertainty. This paper integrates structured singular value analysis with branch and bound…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4793: Dynamic State Estimation for a Back-to-Back VSC-HVDC Sending-End System Under Short-Circuit Faults: An Event-Triggered Model-Matching Approach",
       "link": "https://www.mdpi.com/1996-1073/19/20/4793",
       "source": "Energies (MDPI)",
@@ -186,14 +234,6 @@
       "category": "energy",
       "published": "2026-10-11T00:00:00.000Z",
       "excerpt": "Vietnam&amp;rsquo;s growing electricity demand, net-zero commitment, and renewed consideration of nuclear power motivate a transparent assessment of small modular reactor (SMR) economics. This study applies a harmonized…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4791: A Novel Biomass CO2 Gasification Process Assisted by Induction Heating for Co-Production of Porous Carbon and CO-Rich Syngas",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4791",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-11T00:00:00.000Z",
-      "excerpt": "Environmental challenges are becoming increasingly severe, and biomass energy, as a clean and renewable resource, plays a vital role in mitigating carbon emissions. The co-production of valuable CO-rich syngas and porous…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3262: Diesel Engine Intelligent Fault Diagnosis Based on Synchro Extracting Enhanced Generalized S-Transform and Improved Swin Transformer",
@@ -332,14 +372,6 @@
       "excerpt": "Mountains preserve evidence of ancient oceans, moving continents and tectonic processes that have shaped Earth over millions of years. Later deformation, erosion and burial, however, can obscure important parts of this g…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4790: High-Temperature Alkali Metal Heat Pipes for Advanced Nuclear Energy Systems: A Review of Failure Modes and Reliability Analysis Methods",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4790",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "High-temperature alkali metal heat pipes are key passive heat-transfer components of heat pipe cooled reactors, space nuclear power sources, and advanced non-light-water reactors; their long-term reliability sets the saf…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3253: Interface Dynamics and Heat Transfer in Droplet-Laden Rayleigh&ndash;B&eacute;nard Convection: A Triple-Distribution-Function Lattice Boltzmann Simulation",
       "link": "https://www.mdpi.com/2227-9717/14/20/3253",
       "source": "Processes (MDPI)",
@@ -354,14 +386,6 @@
       "category": "processing",
       "published": "2026-10-10T00:00:00.000Z",
       "excerpt": "Hydrogen reduction of spent indium tin oxide (ITO) targets is a feasible route for indium recovery from electronic waste. However, conventional hydrogen&amp;ndash;reduction processes face critical challenges: they operat…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3251: Genomic Insights into Bacterially Induced Calcium Carbonate Precipitation by Marine Lysinibacillus sp. YT41",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3251",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-10T00:00:00.000Z",
-      "excerpt": "Microbially induced calcium carbonate precipitation (MICP) has extensive applications in fields such as geology, environmental science, and engineering. In this study, Lysinibacillus sp. YT41, a bacterium isolated from m…"
     },
     {
       "title": "Food testing reveals how diet can add to exposure to 'forever chemicals'",
@@ -850,30 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Jie Xie, Fagen Wang, Weijie Cai"
-    },
-    {
-      "title": "Surface property descriptors governing high N 2 selectivity over CuO in NH 3 /H 2 co-combustion and its implementation in structured catalysts",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033235?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): JeongHyun Cho, Sangeun Lee, Sumin Jung, Hai Woong Park, Ji Chul Jung"
-    },
-    {
-      "title": "Misapprehending labels as types: A note to the molecular simulation community on kerogen model labeling",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034149?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Jean-Marc Leyssale, Amaël Obliger, Alex Eduardo Delhumeau"
-    },
-    {
-      "title": "A multi-scale transient multiphase flow model for hydrate particle formation-aggregation-deposition in pipeline",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126032813?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Enqi Guo, Bohui Shi, Jie Guo, Haoqi Chen, Lei Shan, Shangfei Song, Jing Gong"
     }
   ]
 }
