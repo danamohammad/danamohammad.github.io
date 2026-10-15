@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T05:07:11.553Z",
+  "generatedAt": "2026-10-15T12:02:49.424Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -22,7 +22,7 @@
     {
       "name": "International Journal of Greenhouse Gas Control",
       "ok": true,
-      "count": 93,
+      "count": 94,
       "error": null
     },
     {
@@ -75,6 +75,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Oil prices drop by 2% as US considers easing Russian tanker sanctions",
+      "link": "https://www.offshore-technology.com/news/oil-prices-drop-us-russia-tanker/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-15T10:38:05.000Z",
+      "excerpt": "Oil prices declined by about 2% on Thursday, 15 October, following reports that the US is considering measures to relax restrictions on tankers associated with Russia's so-called “shadow fleet”."
+    },
+    {
+      "title": "JERA acquires JOGMEC’s shares in Wheatstone LNG project vehicle",
+      "link": "https://www.offshore-technology.com/news/jera-acquires-jogmecs-shares-wheatstone-lng/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-15T10:28:58.000Z",
+      "excerpt": "Japanese energy company JERA has completed the purchase of all shares held by the Japan Organization for Metals and Energy Security (JOGMEC) in Pan Pacific Energy (PEJ), the entity it uses to invest in Australia's Wheats…"
+    },
+    {
+      "title": "Countries most vulnerable to fossil fuel phaseout generate just 6% of global output, climate analysis finds",
+      "link": "https://phys.org/news/2026-10-countries-vulnerable-fossil-fuel-phaseout.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-15T09:00:12.000Z",
+      "excerpt": "Countries highly vulnerable to the phase-out of oil, gas and coal account for just 6% of global economic output, countries in Africa stand to benefit from their vast solar energy potential, and the economic interests of…"
+    },
+    {
+      "title": "Monumental Energy joins consortium to drill Maata prospect in Taranaki, NZ",
+      "link": "https://www.offshore-technology.com/news/monumental-drill-maata-prospect-taranaki/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-15T07:58:35.000Z",
+      "excerpt": "Canada-listed explorer Monumental Energy has announced plans to take an ownership interest in the Maata oil field through a consortium of four companies operating in New Zealand's onshore Taranaki Basin."
+    },
     {
       "title": "A Multi-frame Analysis of Flow Reversal in Tidal Bore",
       "link": "https://arxiv.org/abs/2610.18913",
@@ -146,6 +178,126 @@
       "category": "geoscience",
       "published": "2026-10-15T01:00:01.000Z",
       "excerpt": "Nepal's disaster authority said Wednesday that an avalanche of rock and ice triggered a recent flash flood, echoing the mountain collapse that unleashed a tsunami-like wall of water in August."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4887: Performance Boundaries of Hybrid Photovoltaic&ndash;Battery Inverters Under Dynamic, Unbalanced, and Grid Disturbance Conditions",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4887",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "Hybrid photovoltaic (PV)&amp;ndash;battery inverters are increasingly required to provide functions extending beyond conventional energy conversion, including zero-export operation, battery coordination, grid support, an…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4886: Evaluating Energy Savings in Smart Hotel Rooms: An IoT-Based Framework for Intelligent HVAC Control",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4886",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "Heating, ventilation and air-conditioning (HVAC) systems are a major source of hotel energy use, particularly in tropical climates, but evidence on Internet of Things (IoT)-based control under real hotel operation remain…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4885: From Cooperative Attribution to Dispute-Aware Settlement in Integrated Charging&ndash;Swapping V2G Stations",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4885",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "Fair allocation in an integrated charging&amp;ndash;swapping station depends on both how an event defines value and how evidentiary uncertainty propagates into settlement. Existing vehicle-to-grid (V2G) studies commonly…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4884: Energy Transition as a Local Development Priority: Implications for Municipal Investment Activity in South-Eastern Poland",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4884",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "The article contributes to the discussion on the determinants of local governments&amp;rsquo; engagement in energy transition-related investment. It aims at identifying the position of the energy transition among the dev…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4883: A Reactivity-Equivalent Physical Transformation Method for Annular Dispersed Particle Fuel Based on Equivalent Annulus Fitting",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4883",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "Annular dispersed particle fuel is a candidate advanced fuel form for Generation IV reactors and small modular reactors (SMRs). Conventional volumetric homogenization methods introduce significant errors when handling do…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4882: Directional Energy Emissions Responses Testing Proportionality and Symmetry in Provincial Carbon Accounting",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4882",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "Accurate energy-to-carbon conversion is essential for evaluating provincial energy transitions and emissions outcomes. This study examines whether annual changes in carbon emissions respond proportionally to energy consu…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4881: Investigating the Effect of the Water&ndash;Oil Molar Ratio on CO2-Enhanced Oil Recovery from Nanoporous Shale Using Molecular Dynamics",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4881",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "CO2-enhanced oil recovery (CO2-EOR) can be an effective method for recovering shale oil and for the sequestration of CO2, but the influence of water on the microscopic CO2 displacement behavior of shale nanopores is not…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4879: Short-Term Wind Power Forecasting Based on ICEEMDAN-EWT Decomposition, Complexity-Adaptive Networks, and Error Correction",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4879",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "Short-term wind power forecasting is challenging because power output exhibits strong non-stationarity, stochastic fluctuations, and multi-scale temporal characteristics. This study proposes an ICEEMDAN-EWT forecasting f…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4880: Correction: Rind et al. Fuzzy MRAS Speed Sensorless Induction Motor Drive Control for Electric Vehicles. Energies 2026, 19, 1580",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4880",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "In the original publication [...]"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4877: An Overview of Anti-Islanding Protection Schemes in PV-Based Microgrids",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4877",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "The increasing integration of distributed energy resources (DERs), particularly photovoltaic (PV) systems, is transforming modern power systems and introducing new challenges for protection, reliability, and stability. T…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4878: Green Energy Vehicles in the Global Energy Transition: Technological Evolution, Critical Materials, and Sustainable Supply Chains&mdash;A Bibliometric and Thematic Review (2015&ndash;2025)",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4878",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "Green energy vehicles (GEVs) are increasingly central to low-carbon energy transitions, but research remains fragmented across vehicle technologies, battery systems, critical materials, circularity, and sustainable suppl…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4873: Comparative Screening of MDEA, TSA and PSA/VPSA for CO2 Capture Upstream of Artificial Photosynthesis",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4873",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "Capturing CO2 upstream of artificial photosynthesis is worthwhile only if the utility emissions of the capture step do not offset the captured mass. This study compares 30 wt% methyldiethanolamine (MDEA) absorption, temp…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3315: Optimization and Emulsification Mechanism of a High-Density Solids-Free Drill-In Fluid System",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3315",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "Conventional solid-weighted drilling fluids suffer from particle settling under high-temperature and high-pressure (HTHP) conditions and easily induce irreversible reservoir pore damage, limiting safe drilling in deep HT…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3313: Formulation Optimization and Thermal Behavior of a Low-Trans Ternary Lipid Matrix from Fully Hydrogenated Rapeseed, Sea Buckthorn, and Rapeseed Oils for Potential Specialty Confectionery Fat Applications",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3313",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "The demand for sustainable, low-trans specialty confectionery fats drives the search for novel lipid sources. This study optimizes a ternary lipid matrix utilizing fully hydrogenated rapeseed oil (FHRSO), sea buckthorn o…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3312: Non-Destructive Forensic Discrimination of Lipstick Traces on Multiple Substrates Using ATR-FTIR and Portable Raman Spectroscopy",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3312",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "Lipstick traces are frequent in forensic investigations, but substrate interference and chemical similarities often challenge their interpretation. This study evaluates a non-destructive analytical workflow combining Att…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3311: Experimental Verification of the Thermal Component of a User-Defined Source-Term CFD Model of Heat and Mass Transfer in a Thin Liquid Layer",
@@ -228,14 +380,6 @@
       "excerpt": "When hotels replace single-use toiletries with refillable dispensers, or companies strip unnecessary items from product bundles to cut waste, they may expect consumers to hail these changes as environmentally responsible…"
     },
     {
-      "title": "Gathering rare airborne observations of firestorm clouds",
-      "link": "https://phys.org/news/2026-10-rare-airborne-firestorm-clouds.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-14T17:20:17.000Z",
-      "excerpt": "Just minutes into a planned research flight from Colorado to Oregon in August to study massive storm clouds fueled by intense wildfires, scientists discovered that a fire in Utah offered a more promising target. The miss…"
-    },
-    {
       "title": "The 2026 gas shock delays the LNG glut, but export routes will decide how long it lasts",
       "link": "https://www.offshore-technology.com/analyst-comment/gas-shock-delays-lng-glut-export-routes/",
       "source": "Offshore Technology",
@@ -250,14 +394,6 @@
       "category": "industry",
       "published": "2026-10-14T12:52:06.000Z",
       "excerpt": "Equinor and partners Petoro and TotalEnergies have made an oil and gas discovery near the Oseberg field in the North Sea, with preliminary recoverable volumes estimated at 19 to 50mboe."
-    },
-    {
-      "title": "Beyond the oil change: Why condition monitoring is becoming essential for wind turbine reliability",
-      "link": "https://www.offshore-technology.com/sponsored/beyond-the-oil-change-why-condition-monitoring-is-becoming-essential-for-wind-turbine-reliability/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-10-14T10:55:15.000Z",
-      "excerpt": null
     },
     {
       "title": "TC Energy closes First Nations investment deal for CGL pipeline",
@@ -282,102 +418,6 @@
       "category": "industry",
       "published": "2026-10-14T08:47:41.000Z",
       "excerpt": "Shell, via its subsidiary Shell Petroleum, has reached an agreement to divest its entire interest in the Shell Nigeria Gas Group to Nigerian energy company Vaaris Energy."
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4869: Forecast-Driven, Energy-Based, and Degradation-Aware Energy Management for a Photovoltaic-Integrated Hybrid UPS with a Dedicated Grid Battery Charger",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4869",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "This paper presents a forecast-plan/actual-replay energy management framework for a photovoltaic-integrated hybrid uninterruptible power supply. A day-ahead schedule is generated from forecasts and replayed using realize…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4872: Adaptive Risk-Aware OpenStreetMap Planning for Scalable Radial Distribution Networks",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4872",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "A street-constrained distribution-network synthesis framework is evaluated using open geographic data, physical medium-voltage (MV) outage consequences, and benchmark electrical checks. A synthetic radial case study in Q…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4871: Headroom-Constrained Adaptive Power Oscillation Damping for Grid-Forming Battery Energy Storage Systems Under Modal-Estimation Uncertainty",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4871",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Grid-forming battery energy storage systems (BESSs) can provide fast active-power modulation for oscillation damping, but adaptive action should be limited when modal evidence is weak or the damping-service power reserve…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4870: Hybrid AC/DC Distribution Network Planning Under Renewable Ramp Stress Considering Network-Constrained Flexibility via RL with Feasible Projection",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4870",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "High renewable energy penetration intensifies net-load ramping and increases the demand for operational flexibility in distribution networks. However, existing hybrid AC/DC distribution network planning studies rarely co…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4868: Friction Reduction and Buckling Behavior of a Horizontal Drill String Under Axial Vibration",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4868",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Severe drill-string&amp;ndash;wellbore friction during slide drilling limits axial-load transfer and reduces drilling efficiency in extended-reach horizontal wells. To investigate the mechanical response of a horizontal…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4866: A Low-Disturbance Workflow for Determining NMR T2 Cutoffs in Mechanically Sensitive Core Samples",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4866",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Centrifugation is widely used to determine the NMR T2 cutoff of core samples, but it may alter pore structures and is particularly unsuitable for mechanically sensitive cores. This study proposes a low-disturbance workfl…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4867: Geometric Optimization for Predictive Control of Low-Capacitance CHB-SVGs via Boundary-Chain Search",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4867",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Large capacitor-voltage ripple in low-capacitance cascaded H-bridge static var generators (CHB-SVGs) couples current tracking and cluster-voltage balancing. Computing the optimal switching-level solution under the result…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4865: An Open-Source Dual-Channel RTD Thermal Control Platform for Research-Scale PEM Water Electrolysis Balance-of-Plant Integration",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4865",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Inter-laboratory variation in proton exchange membrane water electrolysis (PEMWE) test bench balance-of-plant systems has contributed to significant disparity in published single-cell polarisation performance data, limit…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4864: Analysis of Inductor Model Sufficiency in High-Frequency Power Electronics",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4864",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "This paper presents a comprehensive analysis and optimization framework for power inductor models used in power electronics applications. A methodology is proposed to identify inductor models with the minimum number of e…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4863: Influence of a Novel Pole Winding Shape on the Performance of a Switched Reluctance Motor",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4863",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "This article addresses research challenges related to improving switched reluctance motor (SRM) performance, particularly for applications in electric vehicle propulsion systems and starter-generator units. The primary o…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4862: Towards Dynamic Life Cycle Assessment of Solar Energy Systems: An IoT Data Infrastructure with Hash-Chained Provenance and Stakeholder-Prioritised Indicators",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4862",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Life cycle assessment (LCA) of photovoltaic systems rests largely on aggregated, time-invariant inventories. In Colombia, registered solar projects grew by 128.6% between 2018&amp;ndash;2022 and 2022&amp;ndash;2025, whil…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4860: Power Quality and Load-Dependent Harmonic Regimes in Open-Pit Lignite Mining Electrical Systems: Field Measurements and Simulation-Assisted Interpretation",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4860",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Open-pit lignite mines contain high-power converter-fed drives whose operating state strongly affects current harmonics and internal power-quality conditions. The primary objective of this study is to experimentally char…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3308: Small-Signal Stability Enhancement of Grid-Side Converters for Permanent-Magnet Wind Turbines via Adaptive Leaky Impedance-Reshaping Compensation",
@@ -428,14 +468,6 @@
       "excerpt": "This study investigates melting heat transfer in the unsteady two-dimensional boundary-layer flow of a ferromagnetic Carreau fluid over a linearly stretching sheet under the influence of a magnetic dipole, with emphasis…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3304: Study on Dynamic Mechanical Response Characteristics and Constitutive Model of Rocks Under Impact Loading",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3304",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "In this study, impact compression tests were conducted on sandstone, shale, and conglomerate using a split Hopkinson pressure bar (SHPB) apparatus to investigate their mechanical responses and constitutive relationships…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3302: Active Pressure Management for Seasonal Aquifer Gas Storage: From Artificial Gas-Cap Establishment to Cyclic Injection&ndash;Production",
       "link": "https://www.mdpi.com/2227-9717/14/20/3302",
       "source": "Processes (MDPI)",
@@ -444,28 +476,12 @@
       "excerpt": "Seasonal balancing of energy supply and demand in China is constrained by the limited capacity of existing salt-cavern and depleted-reservoir storage facilities. To evaluate aquifer storage as a supplementary option, thi…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3303: Gas&ndash;Liquid Transport in a Stirred Non-Newtonian Slurry with Co-Rotating and Counter-Rotating Dual-Layer Inclined-Blade Impellers Under Bottom Vibration",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3303",
+      "title": "Processes, Vol. 14, Pages 3304: Study on Dynamic Mechanical Response Characteristics and Constitutive Model of Rocks Under Impact Loading",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3304",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Non-Newtonian yield-stress slurries in the presence of entrained gas is a core operation in chemical, mineral-processing, pharmaceutical, and functional-material manufacturing. In such systems, non-Newtonian rheology, ga…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3300: A Hybrid CNN&ndash;iTransformer Framework with Physics-Informed Regularization for Accurate MOSFET RUL Estimation",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3300",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Accurate forecasting of MOSFET on-state resistance drift can support remaining useful life (RUL) estimation under thermal overstress. Existing methods seldom combine local degradation patterns, long-range feature interac…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3301: Origin and Source Correlation of Permian Hydrocarbons in the Kekeya Area, Southwestern Tarim Basin, China",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3301",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "The Southwestern Depression of the Tarim Basin has considerable petroleum exploration potential, and several hydrocarbon accumulations have been discovered in Permian reservoirs of the Kekeya area. However, the sources o…"
+      "excerpt": "In this study, impact compression tests were conducted on sandstone, shale, and conglomerate using a split Hopkinson pressure bar (SHPB) apparatus to investigate their mechanical responses and constitutive relationships…"
     },
     {
       "title": "Asia to dominate global polyethylene capacity growth through 2030",
@@ -482,22 +498,6 @@
       "category": "industry",
       "published": "2026-10-13T12:34:31.000Z",
       "excerpt": "BW Energy has secured $208m in project-level lease financing for the Akoum WHP planned for the Bourdon field offshore Gabon."
-    },
-    {
-      "title": "Technip Energies wins EPC contract for HPCL Mumbai refinery upgrade",
-      "link": "https://www.offshore-technology.com/news/technip-epc-contract-hpcl-refinery/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-10-13T10:19:49.000Z",
-      "excerpt": "Technip Energies has secured an engineering, procurement and construction (EPC) contract from Hindustan Petroleum Corporation Limited (HPCL) for a refinery upgrade programme at its Mumbai facility in the Indian state of…"
-    },
-    {
-      "title": "Murphy Oil confirms oil pay in Côte d’Ivoire and Vietnam wells",
-      "link": "https://www.offshore-technology.com/news/murphy-oil-pay-cote-divoire-vietnam-wells/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-10-13T09:56:30.000Z",
-      "excerpt": "US-based energy company Murphy Oil has disclosed a series of operational advances spanning offshore Côte d'Ivoire, Vietnam and the US Gulf of Mexico."
     },
     {
       "title": "Scientists discover a hidden factor that can make or break chemical reactions",
