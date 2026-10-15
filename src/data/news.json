@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:54:54.575Z",
+  "generatedAt": "2026-10-15T05:07:11.553Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 17,
+      "count": 7,
       "error": null
     },
     {
@@ -75,6 +75,94 @@
     }
   ],
   "items": [
+    {
+      "title": "A Multi-frame Analysis of Flow Reversal in Tidal Bore",
+      "link": "https://arxiv.org/abs/2610.18913",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-15T04:00:00.000Z",
+      "excerpt": "arXiv:2610.18913v1 Announce Type: new Abstract: A tidal bore is a nonlinear step like surge propagating on the top of a river counter-current. The scientific literature reports that the passage of the tidal front may ind…"
+    },
+    {
+      "title": "Physics-based deep learning for non-stationary adaptive multiple suppression",
+      "link": "https://arxiv.org/abs/2610.19147",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-15T04:00:00.000Z",
+      "excerpt": "arXiv:2610.19147v1 Announce Type: new Abstract: Surface-related multiple elimination (SRME) is an indispensable processing step in marine seismic exploration, comprising two main components: multiple prediction and adapt…"
+    },
+    {
+      "title": "DiffSpecMatch: Differentiable Waveform Inverse Design with Configurable Optimization Modules for Response-Spectrum Matching of Ground Motions",
+      "link": "https://arxiv.org/abs/2610.19482",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-15T04:00:00.000Z",
+      "excerpt": "arXiv:2610.19482v1 Announce Type: new Abstract: Response-spectrum matching is an underdetermined waveform inverse problem in which spectral compatibility must be achieved without uncontrolled changes in other engineering…"
+    },
+    {
+      "title": "Structure-aware Bayesian full waveform inversion via diffusion-regularized Stein variational gradient descent",
+      "link": "https://arxiv.org/abs/2610.19187",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-15T04:00:00.000Z",
+      "excerpt": "arXiv:2610.19187v1 Announce Type: cross Abstract: Full waveform inversion (FWI) is a powerful tool for high-resolution subsurface model reconstruction, but it remains highly nonlinear and ill-posed, especially when the i…"
+    },
+    {
+      "title": "The Gannon Storm: Citizen science observations during the geomagnetic superstorm of 10 May 2024",
+      "link": "https://arxiv.org/abs/2610.19929",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-15T04:00:00.000Z",
+      "excerpt": "arXiv:2610.19929v1 Announce Type: cross Abstract: The 10 May 2024 geomagnetic storm, referred to as the Gannon Storm in this paper, was one of the most extreme to have occurred in over 20 years. In the era of smartphones…"
+    },
+    {
+      "title": "Probabilistic AI models outperform numerical weather prediction models on record breaking heat extremes",
+      "link": "https://arxiv.org/abs/2610.20519",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-15T04:00:00.000Z",
+      "excerpt": "arXiv:2610.20519v1 Announce Type: cross Abstract: AI weather prediction (AIWP) models have emerged as a key complement to physics-based numerical weather prediction (NWP) models, and now often outperform them on aggregat…"
+    },
+    {
+      "title": "Correlative Microstructural Analysis of a Weathered Nantan Meteorite Fragment",
+      "link": "https://arxiv.org/abs/2604.14187",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-15T04:00:00.000Z",
+      "excerpt": "arXiv:2604.14187v4 Announce Type: replace Abstract: The weathering of iron-rich phases within meteorites is a multi-stage process that significantly alters the microstructure and chemical composition based both on the en…"
+    },
+    {
+      "title": "Climate adaptation's delivery gap: Turning national plans into action",
+      "link": "https://phys.org/news/2026-10-climate-delivery-gap-national-action.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-15T02:00:11.000Z",
+      "excerpt": "By 2025, 143 of 154 developing countries had a National Adaptation Plan process in place, yet implementation has not kept pace. Many countries still lack the institutional capacity, project preparation and finance needed…"
+    },
+    {
+      "title": "Nepal flood triggered by rock and ice avalanche: Report",
+      "link": "https://phys.org/news/2026-10-nepal-triggered-ice-avalanche.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-15T01:00:01.000Z",
+      "excerpt": "Nepal's disaster authority said Wednesday that an avalanche of rock and ice triggered a recent flash flood, echoing the mountain collapse that unleashed a tsunami-like wall of water in August."
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3311: Experimental Verification of the Thermal Component of a User-Defined Source-Term CFD Model of Heat and Mass Transfer in a Thin Liquid Layer",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3311",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-15T00:00:00.000Z",
+      "excerpt": "A modular computational fluid dynamics (CFD) framework for heat and nonequimolar mass transfer in a thin liquid layer is formulated in ANSYS Fluent using user-defined source terms. The sensible thermal module rewrites th…"
+    },
+    {
+      "title": "Fine particles from aircraft exhaust become more harmful over time, lab tests suggest",
+      "link": "https://phys.org/news/2026-10-fine-particles-aircraft-exhaust-lab.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-14T23:20:02.000Z",
+      "excerpt": "Fine particulate matter consists of tiny particles with diameters in the nanometer range. They are produced, for example, by fuel combustion, remain suspended in the air and can penetrate deep into the respiratory tract.…"
+    },
     {
       "title": "Warmer climate could reshape hurricane risk and its relationship with El Niño around Hawai'i",
       "link": "https://phys.org/news/2026-10-warmer-climate-reshape-hurricane-relationship.html",
@@ -148,36 +236,12 @@
       "excerpt": "Just minutes into a planned research flight from Colorado to Oregon in August to study massive storm clouds fueled by intense wildfires, scientists discovered that a fire in Utah offered a more promising target. The miss…"
     },
     {
-      "title": "Mont Blanc's snowy crown grows nearly 2 meters higher in 3 years",
-      "link": "https://phys.org/news/2026-10-mont-blanc-snowy-crown-meters.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-14T16:36:23.000Z",
-      "excerpt": "Mont Blanc's snowy crown has been measured at nearly 2 meters (6 feet) higher than in 2023, French surveyors announced Wednesday after an expedition that involved hauling instruments up Western Europe's highest mountain…"
-    },
-    {
-      "title": "Rising seas could weaken Chesapeake Bay's natural storm surge buffer",
-      "link": "https://phys.org/news/2026-10-seas-weaken-chesapeake-bay-natural.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-14T15:40:14.000Z",
-      "excerpt": "A hurricane does not have to make a direct hit to affect the Chesapeake Bay. Even from out at sea, a hurricane's winds, waves and rising tides can cause major flooding."
-    },
-    {
       "title": "The 2026 gas shock delays the LNG glut, but export routes will decide how long it lasts",
       "link": "https://www.offshore-technology.com/analyst-comment/gas-shock-delays-lng-glut-export-routes/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-10-14T15:36:28.000Z",
       "excerpt": "The Strait of Hormuz's closure has reduced LNG supply; GlobalData analysis identifies how export routes have changed."
-    },
-    {
-      "title": "Rocks from hydrothermal vents can spontaneously combust, posing potential risks for deep-sea mining operations",
-      "link": "https://phys.org/news/2026-10-hydrothermal-vents-spontaneously-combust-posing.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-14T15:30:08.000Z",
-      "excerpt": "Projects involving the mining of seafloor massive sulfide (SMS) deposits around hydrothermal vents already face criticism over their destructive nature, and now these projects may face a new concern: spontaneous combusti…"
     },
     {
       "title": "Equinor, partners strike oil and gas near Oseberg field in North Sea",
@@ -218,102 +282,6 @@
       "category": "industry",
       "published": "2026-10-14T08:47:41.000Z",
       "excerpt": "Shell, via its subsidiary Shell Petroleum, has reached an agreement to divest its entire interest in the Shell Nigeria Gas Group to Nigerian energy company Vaaris Energy."
-    },
-    {
-      "title": "Latent Diffusion Modeling of Two- and Three-dimensional Fracture Networks with Sparse Observation Conditioning",
-      "link": "https://arxiv.org/abs/2610.14412",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.14412v1 Announce Type: new Abstract: Characterizing subsurface fracture networks is challenging because geometry and connectivity are sparsely observed and uncertain away from measurements. We develop a latent…"
-    },
-    {
-      "title": "Depth-progressive 3D seismic velocity model building via 2D generative diffusion models",
-      "link": "https://arxiv.org/abs/2610.14812",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.14812v1 Announce Type: new Abstract: Three-dimensional (3D) velocity model building (VMB) remains computationally challenging with conventional approaches and native 3D neural networks, largely due to the proh…"
-    },
-    {
-      "title": "Global Structure-Constrained 4D prestack inversion",
-      "link": "https://arxiv.org/abs/2610.16085",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.16085v1 Announce Type: new Abstract: Prestack seismic inversion often suffers from inherent ill-posedness and is significantly affected by complex factors such as the wavelets, parameter coupling, heterogeneou…"
-    },
-    {
-      "title": "Bayesian Inversion Beyond the Generator's Range: Reducing Non-physical Constraints from Generative Neural Networks",
-      "link": "https://arxiv.org/abs/2610.16614",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.16614v1 Announce Type: new Abstract: To address non-uniqueness in geophysical inversions, Generative Neural Networks (GNNs) are often used to parameterise geological or other prior information in a lower-dimen…"
-    },
-    {
-      "title": "Event-Centric Earthquake Monitoring with a Multi-Station Transformer",
-      "link": "https://arxiv.org/abs/2610.17404",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.17404v1 Announce Type: new Abstract: Earthquake catalogs underpin studies such as fault structure, earthquake processes and seismic hazard, and their value depends on being both complete and reliable. Machine…"
-    },
-    {
-      "title": "A semi-infinite hydraulic fracture propagating in a poroelastic medium",
-      "link": "https://arxiv.org/abs/2610.14049",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.14049v1 Announce Type: cross Abstract: We solve the near-tip coupled hydromechanical problem of a hydraulic fracture propagating in a permeable poroelastic medium, represented locally as a semi-infinite crack…"
-    },
-    {
-      "title": "Full Waveform Inversion with a Learned Preconditioner",
-      "link": "https://arxiv.org/abs/2610.15331",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.15331v1 Announce Type: cross Abstract: Full-waveform inversion (FWI) is a powerful approach for reconstructing subsurface velocity models, but its practical performance is limited by ill-conditioning, sensitiv…"
-    },
-    {
-      "title": "Sensitivity Fidelity Reveals Physical Dependencies Beyond Forecast Accuracy in Deep-Learning Earth-System Models",
-      "link": "https://arxiv.org/abs/2610.15540",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.15540v1 Announce Type: cross Abstract: Deep-learning models increasingly rival numerical simulation in Earth-system forecasting, yet forecast error alone cannot determine whether their learned input-output dep…"
-    },
-    {
-      "title": "Planar intrusions from a narrow, jet-like source in a linearly stratified ambient",
-      "link": "https://arxiv.org/abs/2610.16011",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.16011v1 Announce Type: cross Abstract: We present two and three dimensional direct numerical simulations of planar intrusions injected from a continuously supplied, narrow source into a linearly stratified amb…"
-    },
-    {
-      "title": "Multivariate phase-space interpretation of ensemble forecasts: A comparison of physical and AI models",
-      "link": "https://arxiv.org/abs/2610.16422",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.16422v1 Announce Type: cross Abstract: Ensemble forecasts from the ECMWF's Integrated Forecasting System (IFS) and the Artificial Intelligence Forecasting System (AIFS-ENS) are compared using a multi-dimension…"
-    },
-    {
-      "title": "CartoVec: General-Purpose Location Embeddings from Open Map Data",
-      "link": "https://arxiv.org/abs/2610.17190",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.17190v1 Announce Type: cross Abstract: Geographic coordinates are common inputs in applied machine learning, but latitude and longitude describe position rather than the surrounding environment. Image-grounded…"
-    },
-    {
-      "title": "Some generalizations of the tornado model",
-      "link": "https://arxiv.org/abs/2610.18663",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-14T04:00:00.000Z",
-      "excerpt": "arXiv:2610.18663v1 Announce Type: cross Abstract: A possible mechanism of tornado generation is associated with the Schwarzschild criterion for convective instability. The supercooled cloud-air mixture near the axis star…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4869: Forecast-Driven, Energy-Based, and Degradation-Aware Energy Management for a Photovoltaic-Integrated Hybrid UPS with a Dedicated Grid Battery Charger",
@@ -460,20 +428,20 @@
       "excerpt": "This study investigates melting heat transfer in the unsteady two-dimensional boundary-layer flow of a ferromagnetic Carreau fluid over a linearly stretching sheet under the influence of a magnetic dipole, with emphasis…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3302: Active Pressure Management for Seasonal Aquifer Gas Storage: From Artificial Gas-Cap Establishment to Cyclic Injection&ndash;Production",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3302",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Seasonal balancing of energy supply and demand in China is constrained by the limited capacity of existing salt-cavern and depleted-reservoir storage facilities. To evaluate aquifer storage as a supplementary option, thi…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3304: Study on Dynamic Mechanical Response Characteristics and Constitutive Model of Rocks Under Impact Loading",
       "link": "https://www.mdpi.com/2227-9717/14/20/3304",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-10-14T00:00:00.000Z",
       "excerpt": "In this study, impact compression tests were conducted on sandstone, shale, and conglomerate using a split Hopkinson pressure bar (SHPB) apparatus to investigate their mechanical responses and constitutive relationships…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3302: Active Pressure Management for Seasonal Aquifer Gas Storage: From Artificial Gas-Cap Establishment to Cyclic Injection&ndash;Production",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3302",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-14T00:00:00.000Z",
+      "excerpt": "Seasonal balancing of energy supply and demand in China is constrained by the limited capacity of existing salt-cavern and depleted-reservoir storage facilities. To evaluate aquifer storage as a supplementary option, thi…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3303: Gas&ndash;Liquid Transport in a Stirred Non-Newtonian Slurry with Co-Rotating and Counter-Rotating Dual-Layer Inclined-Blade Impellers Under Bottom Vibration",
@@ -490,14 +458,6 @@
       "category": "processing",
       "published": "2026-10-14T00:00:00.000Z",
       "excerpt": "Accurate forecasting of MOSFET on-state resistance drift can support remaining useful life (RUL) estimation under thermal overstress. Existing methods seldom combine local degradation patterns, long-range feature interac…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3299: Temperature Field Monitoring of an Aluminum Electrolyzer for Lining Defect Diagnosis",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3299",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Aluminum production is one of the most energy-intensive metallurgical processes, where maintaining the electrolytic cell&amp;rsquo;s thermal balance is critical to ensuring energy efficiency and equipment service life. D…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3301: Origin and Source Correlation of Permian Hydrocarbons in the Kekeya Area, Southwestern Tarim Basin, China",
@@ -874,6 +834,46 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Huiying Tang, Zhicheng Wen, Liehui Zhang, Junsheng Zeng, Xiao He, Jianfa Wu, Jian Zheng"
+    },
+    {
+      "title": "Lithofacies analysis and paleosedimentary evolution of Taiyuan Formation in Southern North China Basin",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009792?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Yanxia Peng, Shaobin Guo"
+    },
+    {
+      "title": "Evaluation of hematite and Micromax-based cement systems for high- density well cementing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009779?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Abdulmalek Ahmed, Ahmed Abdelaal, Salaheldin Elkatatny"
+    },
+    {
+      "title": "Dynamic effect of gas initial desorption in coals with different moisture contents and energy-controlling mechanism for outburst prevention of water injection in coal seams",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011226?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
+    },
+    {
+      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
     }
   ]
 }
