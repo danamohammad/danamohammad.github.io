@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:43:43.495Z",
+  "generatedAt": "2026-10-16T04:57:14.068Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 7,
+      "count": 4,
       "error": null
     },
     {
@@ -75,6 +75,78 @@
     }
   ],
   "items": [
+    {
+      "title": "The Glacier Model Intercomparison Project (GlacierMIP): Towards standardisation of global glacier projections",
+      "link": "https://arxiv.org/abs/2610.22005",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-16T04:00:00.000Z",
+      "excerpt": "arXiv:2610.22005v1 Announce Type: new Abstract: The Glacier Model Intercomparison Project (GlacierMIP) provides an international framework for the coordinated evaluation and comparison of global glacier evolution models…"
+    },
+    {
+      "title": "Building and calibrating a 3Di subgrid flood model for Hanoi, without a surveyed terrain model, drainage data, or rain gauges",
+      "link": "https://arxiv.org/abs/2610.20789",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-16T04:00:00.000Z",
+      "excerpt": "arXiv:2610.20789v1 Announce Type: cross Abstract: Urban hydrodynamic flood models typically rely on a surveyed terrain model, an explicit pipe drainage network, and rain gauge measurements, none of which were available f…"
+    },
+    {
+      "title": "Ranked Right, Sized Wrong: Ensemble Spread Fails Silently at Streamflow Extremes",
+      "link": "https://arxiv.org/abs/2610.20947",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-16T04:00:00.000Z",
+      "excerpt": "arXiv:2610.20947v1 Announce Type: cross Abstract: Deep learning models, particularly Long Short-Term Memory networks, are increasingly used for operational streamflow forecasting, with ensemble spread providing a signal…"
+    },
+    {
+      "title": "Learning relaxation time distributions from spectral induced polarization data with a complex-valued variational autoencoder",
+      "link": "https://arxiv.org/abs/2603.13973",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-16T04:00:00.000Z",
+      "excerpt": "arXiv:2603.13973v3 Announce Type: replace Abstract: Spectral induced polarization (SIP) is a geophysical method used to characterize subsurface materials. It measures the frequency-dependent complex electrical resistivit…"
+    },
+    {
+      "title": "First in-depth map of 'forever chemicals' in the Finger Lakes created",
+      "link": "https://phys.org/news/2026-10-depth-chemicals-finger-lakes.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-16T03:40:01.000Z",
+      "excerpt": "In 2023, professor Damian Helbling was getting a lot of calls and emails from local residents. The Environmental Protection Agency (EPA) had just announced regulations to limit per- and polyfluoroalkyl substances (PFAS)—…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3323: Low Temperature Chemical Bath Deposition of Tin Sulfide-Based Thin Films: Structural and Optical Properties",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3323",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "The development of earth-abundant, low-cost and chemically stable semiconductor absorbers is essential for advancing next-generation photovoltaic technologies. Among the promising candidates, copper&amp;ndash;tin sulfide…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3322: Multimodal Joint Frequency Regulation Control for Thermal Power&ndash;Hybrid Energy Storage Systems Under AGC Time-Sharing Assessment",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3322",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "In thermal power (TP) units equipped with hybrid energy storage (ES) systems, automatic generation control (AGC) command allocation and storage power control directly affect frequency regulation performance, assessment r…"
+    },
+    {
+      "title": "White Sands footprints suggest humans experienced abrupt environmental shifts during the last ice age",
+      "link": "https://phys.org/news/2026-10-white-sands-footprints-humans-experienced.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-15T23:20:08.000Z",
+      "excerpt": "Expanded excavations at White Sands National Park in New Mexico have provided researchers an opportunity to refine the age of the oldest human footprints in North America and establish a deeper understanding of the lands…"
+    },
+    {
+      "title": "Beyond national parks: Researchers explore a broader future for conservation",
+      "link": "https://phys.org/news/2026-10-national-explore-broader-future.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-15T22:00:01.000Z",
+      "excerpt": "As governments prepare to gather in Armenia for the U.N. biodiversity summit, researchers are highlighting a conservation approach that recognizes places where nature thrives beyond conventional protected areas."
+    },
     {
       "title": "Measuring deep-ocean oxygen with microscopic magnetic fossils",
       "link": "https://phys.org/news/2026-10-deep-ocean-oxygen-microscopic-magnetic.html",
@@ -172,76 +244,12 @@
       "excerpt": "Canada-listed explorer Monumental Energy has announced plans to take an ownership interest in the Maata oil field through a consortium of four companies operating in New Zealand's onshore Taranaki Basin."
     },
     {
-      "title": "A Multi-frame Analysis of Flow Reversal in Tidal Bore",
-      "link": "https://arxiv.org/abs/2610.18913",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-15T04:00:00.000Z",
-      "excerpt": "arXiv:2610.18913v1 Announce Type: new Abstract: A tidal bore is a nonlinear step like surge propagating on the top of a river counter-current. The scientific literature reports that the passage of the tidal front may ind…"
-    },
-    {
-      "title": "Physics-based deep learning for non-stationary adaptive multiple suppression",
-      "link": "https://arxiv.org/abs/2610.19147",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-15T04:00:00.000Z",
-      "excerpt": "arXiv:2610.19147v1 Announce Type: new Abstract: Surface-related multiple elimination (SRME) is an indispensable processing step in marine seismic exploration, comprising two main components: multiple prediction and adapt…"
-    },
-    {
-      "title": "DiffSpecMatch: Differentiable Waveform Inverse Design with Configurable Optimization Modules for Response-Spectrum Matching of Ground Motions",
-      "link": "https://arxiv.org/abs/2610.19482",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-15T04:00:00.000Z",
-      "excerpt": "arXiv:2610.19482v1 Announce Type: new Abstract: Response-spectrum matching is an underdetermined waveform inverse problem in which spectral compatibility must be achieved without uncontrolled changes in other engineering…"
-    },
-    {
-      "title": "Structure-aware Bayesian full waveform inversion via diffusion-regularized Stein variational gradient descent",
-      "link": "https://arxiv.org/abs/2610.19187",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-15T04:00:00.000Z",
-      "excerpt": "arXiv:2610.19187v1 Announce Type: cross Abstract: Full waveform inversion (FWI) is a powerful tool for high-resolution subsurface model reconstruction, but it remains highly nonlinear and ill-posed, especially when the i…"
-    },
-    {
-      "title": "The Gannon Storm: Citizen science observations during the geomagnetic superstorm of 10 May 2024",
-      "link": "https://arxiv.org/abs/2610.19929",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-15T04:00:00.000Z",
-      "excerpt": "arXiv:2610.19929v1 Announce Type: cross Abstract: The 10 May 2024 geomagnetic storm, referred to as the Gannon Storm in this paper, was one of the most extreme to have occurred in over 20 years. In the era of smartphones…"
-    },
-    {
-      "title": "Probabilistic AI models outperform numerical weather prediction models on record breaking heat extremes",
-      "link": "https://arxiv.org/abs/2610.20519",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-15T04:00:00.000Z",
-      "excerpt": "arXiv:2610.20519v1 Announce Type: cross Abstract: AI weather prediction (AIWP) models have emerged as a key complement to physics-based numerical weather prediction (NWP) models, and now often outperform them on aggregat…"
-    },
-    {
-      "title": "Correlative Microstructural Analysis of a Weathered Nantan Meteorite Fragment",
-      "link": "https://arxiv.org/abs/2604.14187",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-15T04:00:00.000Z",
-      "excerpt": "arXiv:2604.14187v4 Announce Type: replace Abstract: The weathering of iron-rich phases within meteorites is a multi-stage process that significantly alters the microstructure and chemical composition based both on the en…"
-    },
-    {
       "title": "Climate adaptation's delivery gap: Turning national plans into action",
       "link": "https://phys.org/news/2026-10-climate-delivery-gap-national-action.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-10-15T02:00:11.000Z",
       "excerpt": "By 2025, 143 of 154 developing countries had a National Adaptation Plan process in place, yet implementation has not kept pace. Many countries still lack the institutional capacity, project preparation and finance needed…"
-    },
-    {
-      "title": "Nepal flood triggered by rock and ice avalanche: Report",
-      "link": "https://phys.org/news/2026-10-nepal-triggered-ice-avalanche.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-15T01:00:01.000Z",
-      "excerpt": "Nepal's disaster authority said Wednesday that an avalanche of rock and ice triggered a recent flash flood, echoing the mountain collapse that unleashed a tsunami-like wall of water in August."
     },
     {
       "title": "Energies, Vol. 19, Pages 4891: Energy Policy and Energy Management in China: Governance Logic and Future Pathways of Structural Transformation",
@@ -420,30 +428,6 @@
       "excerpt": "Lipstick traces are frequent in forensic investigations, but substrate interference and chemical similarities often challenge their interpretation. This study evaluates a non-destructive analytical workflow combining Att…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3311: Experimental Verification of the Thermal Component of a User-Defined Source-Term CFD Model of Heat and Mass Transfer in a Thin Liquid Layer",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3311",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "A modular computational fluid dynamics (CFD) framework for heat and nonequimolar mass transfer in a thin liquid layer is formulated in ANSYS Fluent using user-defined source terms. The sensible thermal module rewrites th…"
-    },
-    {
-      "title": "Fine particles from aircraft exhaust become more harmful over time, lab tests suggest",
-      "link": "https://phys.org/news/2026-10-fine-particles-aircraft-exhaust-lab.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-14T23:20:02.000Z",
-      "excerpt": "Fine particulate matter consists of tiny particles with diameters in the nanometer range. They are produced, for example, by fuel combustion, remain suspended in the air and can penetrate deep into the respiratory tract.…"
-    },
-    {
-      "title": "Warmer climate could reshape hurricane risk and its relationship with El Niño around Hawai'i",
-      "link": "https://phys.org/news/2026-10-warmer-climate-reshape-hurricane-relationship.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-14T21:20:17.000Z",
-      "excerpt": "A new study examining how tropical cyclone activity near Hawai'i could change in a warmer future finds a shift toward stronger storms, even though substantial uncertainty remains about whether the total number of storms…"
-    },
-    {
       "title": "The 2026 gas shock delays the LNG glut, but export routes will decide how long it lasts",
       "link": "https://www.offshore-technology.com/analyst-comment/gas-shock-delays-lng-glut-export-routes/",
       "source": "Offshore Technology",
@@ -482,14 +466,6 @@
       "category": "industry",
       "published": "2026-10-14T08:47:41.000Z",
       "excerpt": "Shell, via its subsidiary Shell Petroleum, has reached an agreement to divest its entire interest in the Shell Nigeria Gas Group to Nigerian energy company Vaaris Energy."
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3308: Small-Signal Stability Enhancement of Grid-Side Converters for Permanent-Magnet Wind Turbines via Adaptive Leaky Impedance-Reshaping Compensation",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3308",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-14T00:00:00.000Z",
-      "excerpt": "Grid-following grid-side converters (GSCs) in permanent-magnet wind turbines may lose small-signal stability in weak grids because the synchronous reference frame phase-locked loop (SRF-PLL) interacts with grid impedance…"
     },
     {
       "title": "Asia to dominate global polyethylene capacity growth through 2030",
@@ -874,6 +850,30 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Controlling partial and deep hydrogenation of naphthalene over supported metal phosphides: kinetic and DFT insights into Ni 2 P/Al 2 O 3 and MoP/Al 2 O 3",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034587?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Guowang Shen, Yonggang Xie, Fang He, Xiaodong Yao, Zhuang Xu, Jiangyin Lu"
+    },
+    {
+      "title": "A hierarchical reinforcement learning framework for high-efficiency control of turbine-assisted fuel cell air supply systems",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033119?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part G Author(s): Fojin Zhou, Yongjun Li, Jun Li, Changqing Du, Qianya Xie, Zhengxian Chen, Ji Pu, Kai Li, Haie Chen, Zhanfeng Wang, Chunyu Li"
     }
   ]
 }
