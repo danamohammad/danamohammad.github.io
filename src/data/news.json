@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:57:14.068Z",
+  "generatedAt": "2026-10-16T11:51:48.013Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,38 @@
   ],
   "items": [
     {
+      "title": "US FERC proposes blanket permit programme for LNG facilities",
+      "link": "https://www.offshore-technology.com/news/us-ferc-blanket-permit-lng-facilities/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-16T10:28:54.000Z",
+      "excerpt": "The US Federal Energy Regulatory Commission (FERC) has put forward the first blanket authorisation programme for liquefied natural gas (LNG) facilities through a unanimously backed Notice of Proposed Rulemaking (NOPR)."
+    },
+    {
+      "title": "BW Energy reports 8–9mbbl find in Dussafu appraisal wells in Gabon",
+      "link": "https://www.offshore-technology.com/news/bw-energy-8-9mbbl-dussafu-wells-gabon/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-16T10:21:21.000Z",
+      "excerpt": "BW Energy has announced that recent appraisal drilling on the Dussafu field offshore Gabon has identified commercial oil volumes, with an estimated combined gross recovery of approximately 8-9 million barrels (mbbl)."
+    },
+    {
+      "title": "Winter sea ice loss may be underestimated, ancient clues from a warmer Arctic suggest",
+      "link": "https://phys.org/news/2026-10-winter-sea-ice-loss-underestimated.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-16T09:00:04.000Z",
+      "excerpt": "Future Arctic winter sea ice is likely to shrink by around 1 million square kilometers (386,000 square miles) more than previously thought, after researchers used clues from a warm period 6,000 years ago to improve the r…"
+    },
+    {
+      "title": "Essar Oil & Gas wins five new CBM blocks across three Indian states",
+      "link": "https://www.offshore-technology.com/sectors/industry/essar-oil-gas-five-cbm-blocks-indian/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-16T07:47:16.000Z",
+      "excerpt": "Indian coal bed methane (CBM) operator Essar Oil & Gas has been awarded five exploration blocks covering approximately 1,281km2 across West Bengal, Madhya Pradesh and Telangana in India."
+    },
+    {
       "title": "The Glacier Model Intercomparison Project (GlacierMIP): Towards standardisation of global glacier projections",
       "link": "https://arxiv.org/abs/2610.22005",
       "source": "arXiv — Geophysics",
@@ -114,6 +146,126 @@
       "category": "geoscience",
       "published": "2026-10-16T03:40:01.000Z",
       "excerpt": "In 2023, professor Damian Helbling was getting a lot of calls and emails from local residents. The Environmental Protection Agency (EPA) had just announced regulations to limit per- and polyfluoroalkyl substances (PFAS)—…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4904: Minimal Behavioral Contracts for Compositional Stability of Multi-Vendor Converter-Dominated Power Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4904",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Large converter-dominated power systems combine grid-following (GFL) converters, grid-forming (GFM) converters, and modular multilevel converters (MMCs) from different manufacturers, while complete control models are rar…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4901: A Hierarchical LP&ndash;PSO Optimization Framework for Energy Management in a Hybrid AC/DC Campus Microgrid",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4901",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "As renewable energy resources become more and more prevalent in campus distribution networks, there is a need for efficient energy management strategies that can coordinate photovoltaic (PV) generation, battery energy st…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4903: Vehicle Type Heterogeneity in Battery Electric Vehicle Energy Consumption: A Multi-Perspective Analysis Using Real-World Fleet Data",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4903",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Real-world energy consumption of battery electric vehicles (BEVs) varies with trip conditions, driving behavior, and vehicle state. Treating vehicle type merely as a control variable may mask substantial heterogeneity in…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4902: Design and Electro-Thermal Optimization of Power Distribution Units for High-Temperature Industrial Fast Hole Drilling Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4902",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "An important consideration in fast-hole drilling electrical discharge machining (FHD-EDM) systems is the reliable power delivery under high current and high temperature operating conditions. The developed mathematical mo…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4900: Screening Electric-Vehicle Charging Against Positive Model-to-Meter Renewable-Energy Residuals: Smart G2V Potential and a V2G Capacity Envelope",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4900",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "This study develops a deterministic annual screening model for matching electric-vehicle (EV) charging demand with the positive part of modelled minus metered renewable-energy production. Distribution-system-operator-sup…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4899: Adaptive Oscillatory Flow Direction Algorithm with Lambert W-Based Fitness Evaluation for Accurate Photovoltaic Parameter Extraction",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4899",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Accurate extraction of photovoltaic (PV) model parameters is essential for reliable PV-system simulation, maximum power point tracking, fault diagnosis, and performance assessment. However, this task is a nonlinear, mult…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4898: Validation of the Orthogonal Fitting Results for Short-Circuit Impedance Identification",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4898",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Background: Accurate transformer models are essential for electromagnetic transient (EMT) simulations, particularly for evaluating Transient Recovery Voltage (TRV) during switching operations. However, many transformer m…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4897: Electrical Load Matching and Loss Mechanisms of a Gas-Coupled High-Power Linear Alternator for Free-Piston Stirling Generators",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4897",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "High-power linear alternators (HPLAs) are key energy conversion components in free-piston Stirling generators (FPSGs), yet their output performance strongly depends on the coupled matching among the gas pressure wave, pi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4896: Multi-Objective Energy Management of Smart Buildings Using Neural Prophet and Reference Point-Based Non-Dominated Sorting Genetic Algorithm",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4896",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "The smart building energy management system (BEMS) has become essential for prosumers to manage their power consumption efficiently and conveniently, as building energy management evolves with the integration of distribu…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4894: Mixed-Lignin Precursor Engineering for Hierarchically Porous Pseudo-Graphitic Carbon Toward High-Performance Supercapacitors",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4894",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Developing biomass-derived carbon electrodes with simultaneously optimized pore architecture, graphitic ordering, and surface chemistry remains a challenge for high-performance supercapacitors. Herein, a dual-lignin prec…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4895: Multiphysics-Based Numerical Prediction of the Electromagnetic and Thermal Performance of a 160 kW SSDR Axial-Flux Motor",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4895",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Axial-flux motor (AFM) can achieve high torque and power density; however, integrated electromagnetic and thermal design is required to manage losses and heat generation during high-power operation. In this study, an AFM…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4892: Exergy Analysis of an Innovative System by Combining the Biomass Gasification Unit with the Supercritical Water Unit",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4892",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Contaminants such as tars in the gas from gasifiers hinder the application of biomass gasification technology. Theoretically, tars can be completely removed in the system by combining the biomass gasification unit with t…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3326: Numerical Simulation and Experimental Investigation in Gas-Assisted Laser Cutting of Cherry Wood",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3326",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Gas-assisted laser cutting is an effective approach for improving the processing quality of wood; however, the internal gas flow characteristics within the narrow kerf and their relationship with kerf formation remain in…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3324: Adaptability Limits of Steam Flooding in Edge-Water Heavy-Oil Reservoirs, Based on Quantitative Characterization of the Extreme Steam-Chambers",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3324",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Offshore medium-to-deep edge-water heavy-oil reservoirs face challenges in high-pressure steam flooding due to restricted steam-chamber expansion and uncertainty in adaptability evaluation. This study focuses on steam fl…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3325: Support-Bounded Confidence-First Selective Diagnosis of Bearing Faults Under Speed and Source Shifts",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3325",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Bearing fault diagnosis under varying operating conditions faces speed and data-source shifts that can make models unreliable outside their development regime. Record-level diagnosis therefore requires both fault classif…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3323: Low Temperature Chemical Bath Deposition of Tin Sulfide-Based Thin Films: Structural and Optical Properties",
@@ -244,110 +396,6 @@
       "excerpt": "Canada-listed explorer Monumental Energy has announced plans to take an ownership interest in the Maata oil field through a consortium of four companies operating in New Zealand's onshore Taranaki Basin."
     },
     {
-      "title": "Climate adaptation's delivery gap: Turning national plans into action",
-      "link": "https://phys.org/news/2026-10-climate-delivery-gap-national-action.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-15T02:00:11.000Z",
-      "excerpt": "By 2025, 143 of 154 developing countries had a National Adaptation Plan process in place, yet implementation has not kept pace. Many countries still lack the institutional capacity, project preparation and finance needed…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4891: Energy Policy and Energy Management in China: Governance Logic and Future Pathways of Structural Transformation",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4891",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "China&amp;rsquo;s energy policy and management are transitioning from scale expansion to systemic restructuring. During the 14th Five-Year Plan period (2021&amp;ndash;2025), renewables accounted for approximately 60% of…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4890: The Energy Economics of Artificial Intelligence Data Centers: Demand Uncertainty, System Costs, Flexibility, and Credible Decarbonization",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4890",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "Artificial intelligence is accelerating data center electricity demand, but annual energy totals alone do not reveal when, where, or at whose cost new loads enter power systems. This review asks how uncertain projects sh…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4889: Comparison and Analysis of Grid Code Compliance in the Integrated Renewable Energy and Traditional Power Grid System: A Review",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4889",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "The electric power system has seen an increase in the reliance on renewable energy sources as an alternative to traditional fossil fuel power generation in the 21st century. The two sources have different dynamic behavio…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4888: Heat Transfer Performance of Medium-Deep Coaxial Geothermal Wells: A Case Study in Changsha, China",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4888",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "A coupled model integrating three-dimensional heat transfer in the geological formation with one-dimensional non-isothermal flow in the wellbore was developed for medium-deep coaxial geothermal wells under the geological…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4887: Performance Boundaries of Hybrid Photovoltaic&ndash;Battery Inverters Under Dynamic, Unbalanced, and Grid Disturbance Conditions",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4887",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "Hybrid photovoltaic (PV)&amp;ndash;battery inverters are increasingly required to provide functions extending beyond conventional energy conversion, including zero-export operation, battery coordination, grid support, an…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4886: Evaluating Energy Savings in Smart Hotel Rooms: An IoT-Based Framework for Intelligent HVAC Control",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4886",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "Heating, ventilation and air-conditioning (HVAC) systems are a major source of hotel energy use, particularly in tropical climates, but evidence on Internet of Things (IoT)-based control under real hotel operation remain…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4885: From Cooperative Attribution to Dispute-Aware Settlement in Integrated Charging&ndash;Swapping V2G Stations",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4885",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "Fair allocation in an integrated charging&amp;ndash;swapping station depends on both how an event defines value and how evidentiary uncertainty propagates into settlement. Existing vehicle-to-grid (V2G) studies commonly…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4884: Energy Transition as a Local Development Priority: Implications for Municipal Investment Activity in South-Eastern Poland",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4884",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "The article contributes to the discussion on the determinants of local governments&amp;rsquo; engagement in energy transition-related investment. It aims at identifying the position of the energy transition among the dev…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4883: A Reactivity-Equivalent Physical Transformation Method for Annular Dispersed Particle Fuel Based on Equivalent Annulus Fitting",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4883",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "Annular dispersed particle fuel is a candidate advanced fuel form for Generation IV reactors and small modular reactors (SMRs). Conventional volumetric homogenization methods introduce significant errors when handling do…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4882: Directional Energy Emissions Responses Testing Proportionality and Symmetry in Provincial Carbon Accounting",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4882",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "Accurate energy-to-carbon conversion is essential for evaluating provincial energy transitions and emissions outcomes. This study examines whether annual changes in carbon emissions respond proportionally to energy consu…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4881: Investigating the Effect of the Water&ndash;Oil Molar Ratio on CO2-Enhanced Oil Recovery from Nanoporous Shale Using Molecular Dynamics",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4881",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "CO2-enhanced oil recovery (CO2-EOR) can be an effective method for recovering shale oil and for the sequestration of CO2, but the influence of water on the microscopic CO2 displacement behavior of shale nanopores is not…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4879: Short-Term Wind Power Forecasting Based on ICEEMDAN-EWT Decomposition, Complexity-Adaptive Networks, and Error Correction",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4879",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "Short-term wind power forecasting is challenging because power output exhibits strong non-stationarity, stochastic fluctuations, and multi-scale temporal characteristics. This study proposes an ICEEMDAN-EWT forecasting f…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3317: A Fluid&ndash;Structure Interaction Model of Coal Considering the Dynamic Slippage Effect and Its Application",
       "link": "https://www.mdpi.com/2227-9717/14/20/3317",
       "source": "Processes (MDPI)",
@@ -404,30 +452,6 @@
       "excerpt": "The optical masking properties of pyrotechnic obscurant aerosol-generating systems are time-dependent and determined by the interrelationship among aerosol-formation dynamics, radiation attenuation efficiency, spatial di…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3315: Optimization and Emulsification Mechanism of a High-Density Solids-Free Drill-In Fluid System",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3315",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "Conventional solid-weighted drilling fluids suffer from particle settling under high-temperature and high-pressure (HTHP) conditions and easily induce irreversible reservoir pore damage, limiting safe drilling in deep HT…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3313: Formulation Optimization and Thermal Behavior of a Low-Trans Ternary Lipid Matrix from Fully Hydrogenated Rapeseed, Sea Buckthorn, and Rapeseed Oils for Potential Specialty Confectionery Fat Applications",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3313",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "The demand for sustainable, low-trans specialty confectionery fats drives the search for novel lipid sources. This study optimizes a ternary lipid matrix utilizing fully hydrogenated rapeseed oil (FHRSO), sea buckthorn o…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3312: Non-Destructive Forensic Discrimination of Lipstick Traces on Multiple Substrates Using ATR-FTIR and Portable Raman Spectroscopy",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3312",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "Lipstick traces are frequent in forensic investigations, but substrate interference and chemical similarities often challenge their interpretation. This study evaluates a non-destructive analytical workflow combining Att…"
-    },
-    {
       "title": "The 2026 gas shock delays the LNG glut, but export routes will decide how long it lasts",
       "link": "https://www.offshore-technology.com/analyst-comment/gas-shock-delays-lng-glut-export-routes/",
       "source": "Offshore Technology",
@@ -450,30 +474,6 @@
       "category": "industry",
       "published": "2026-10-14T09:56:19.000Z",
       "excerpt": "TC Energy has announced the closing of an investment agreement that grants five Indigenous communities an economic interest in the Coastal GasLink (CGL) natural gas pipeline in British Columbia, Canada."
-    },
-    {
-      "title": "ENGIE and CMA CGM to develop biomethane plant in Le Havre, France",
-      "link": "https://www.offshore-technology.com/news/engie-cma-cgm-biomethane-plant-france/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-10-14T09:31:15.000Z",
-      "excerpt": "ENGIE and shipping and logistics group CMA CGM have agreed a framework deal to jointly develop a large-scale biomethane production plant in Le Havre's industrial port zone in France."
-    },
-    {
-      "title": "Shell agrees to divest Nigeria gas distribution arm to Vaaris Energy",
-      "link": "https://www.offshore-technology.com/news/shell-nigeria-gas-distribution-vaaris-energy/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-10-14T08:47:41.000Z",
-      "excerpt": "Shell, via its subsidiary Shell Petroleum, has reached an agreement to divest its entire interest in the Shell Nigeria Gas Group to Nigerian energy company Vaaris Energy."
-    },
-    {
-      "title": "Asia to dominate global polyethylene capacity growth through 2030",
-      "link": "https://www.offshore-technology.com/analyst-comment/asia-to-dominate-global-polyethylene-capacity-growth-through-2030/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-10-13T16:33:04.000Z",
-      "excerpt": "Growing consumption in packaging, construction, automotive, and consumer goods is driving polyethylene capacity additions across Asia."
     },
     {
       "title": "Scientists discover a hidden factor that can make or break chemical reactions",
