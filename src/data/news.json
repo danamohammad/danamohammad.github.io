@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-17T11:08:13.979Z",
+  "generatedAt": "2026-10-17T15:54:05.824Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
       "ok": true,
-      "count": 93,
+      "count": 97,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
     {
       "name": "International Journal of Greenhouse Gas Control",
       "ok": true,
-      "count": 95,
+      "count": 96,
       "error": null
     },
     {
@@ -76,12 +76,36 @@
   ],
   "items": [
     {
+      "title": "The ambiguous costs of climate change",
+      "link": "https://phys.org/news/2026-10-ambiguous-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-17T14:20:01.000Z",
+      "excerpt": "As human activity has increased temperatures globally, determining the costs directly incurred by climate change is challenging. The effects of climate change on extreme weather events—such as hurricanes and heat waves—c…"
+    },
+    {
       "title": "During El Niño, a perfect storm of weather systems could spell disaster for the Great Barrier Reef",
       "link": "https://phys.org/news/2026-10-el-nio-storm-weather-disaster.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-10-17T11:00:07.000Z",
       "excerpt": "The strong El Niño currently under way in the Pacific Ocean raises the specter of marine heat waves and coral bleaching once again threatening Australia's iconic Great Barrier Reef. And now new research has revealed the…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4922: High-Frequency Transformer Modeling: Methods, Parameter Extraction and Validation&mdash;A Review",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4922",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-17T00:00:00.000Z",
+      "excerpt": "High-frequency transient events in power systems are becoming increasingly significant due to lightning impulses, growing penetration of renewable energy sources, high-voltage direct current (HVDC) transmission systems,…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4923: Advances in Renewable Energy System Integration in China: A Four-Dimensional Analysis (2020&ndash;2026)",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4923",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-17T00:00:00.000Z",
+      "excerpt": "The article examines progress in the system integration of renewable energy sources in China over the period 2020&amp;ndash;2026, focusing on the challenge of integrating rapidly expanding renewable energy capacity into…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4921: Incentive-Based Integrated Demand Response and Distributionally Robust Optimization for Enabling Economic Dispatch of Integrated Energy Systems",
@@ -138,6 +162,22 @@
       "category": "energy",
       "published": "2026-10-17T00:00:00.000Z",
       "excerpt": "Leading-edge erosion can modify pressure fluctuations near wind turbine blade surfaces. The FFA-W3-241 airfoil with healthy, mildly eroded, and severely eroded geometries is investigated using two-dimensional unsteady Re…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3340: Experimental Evaluation of Mechanical Performance, Accelerated-Aging Durability, and Surface Wettability of Elastomeric Waterproofing Membranes",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3340",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-17T00:00:00.000Z",
+      "excerpt": "Styrene&amp;ndash;acrylic elastomeric waterproofing membranes are widely used in exterior construction because of their flexibility, adhesion, and ease of application; however, their long-term performance depends on resi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3339: Independent Bioethanol Fumigation in a Brazilian Agricultural Diesel Engine: Diesel Displacement and Emission Trade-Offs",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3339",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-17T00:00:00.000Z",
+      "excerpt": "Agricultural compression-ignition engines require decarbonization strategies that can reduce fossil-diesel demand without replacing robust power units already operating in the field. This study experimentally evaluates a…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3338: Development and Preliminary Acoustic Calibration of an Experimental Platform for Evaluating the Cement&ndash;Formation Interface",
@@ -268,14 +308,6 @@
       "excerpt": "From the clear covering on your microwave meal to the flimsy bread bag lying on the kitchen counter, plastic film is notoriously tricky to recycle. But what if those annoying bits of plastic waste could be put to better…"
     },
     {
-      "title": "Spain sizzles in hottest September on record: Weather agency",
-      "link": "https://phys.org/news/2026-10-spain-sizzles-hottest-september-weather.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-16T14:45:35.000Z",
-      "excerpt": "Mainland Spain sizzled in its warmest September since records began in 1961, with exceptional heat effectively making it another summer month, national weather agency AEMET said on Friday."
-    },
-    {
       "title": "TGS secures rights to reprocess JAAN 3D survey in Guinea-Bissau",
       "link": "https://www.offshore-technology.com/news/tgs-reprocess-jaan-3d-survey-guinea-bissau/",
       "source": "Offshore Technology",
@@ -340,22 +372,6 @@
       "excerpt": "Heat pumps are increasingly used for low-temperature heating applications. But their operation can create electricity demand peaks during periods of high thermal load. This paper presents a concept and calculation study…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4910: Structural Optimization and Test Analysis of Hot Platen in Small-Scale Laminator",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4910",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-16T00:00:00.000Z",
-      "excerpt": "To address the temperature non-uniformity of heating platens in small-scale photovoltaic (PV) module laminators, this study develops a wire-wound hot platen with a Square loop layout and arithmetic-progression wire spaci…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4911: New Quality Productive Forces and Pollution&ndash;Carbon Reduction Synergy: Evidence from Chinese Manufacturing Firms",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4911",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-16T00:00:00.000Z",
-      "excerpt": "Against the background of China simultaneously pursuing the dual strategic goals of &amp;ldquo;fundamental improvement in ecological environment quality&amp;rdquo; and &amp;ldquo;carbon peaking and carbon neutrality,&amp…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3332: Optimisation of Green Extraction and In Vitro Antioxidant Activities of Polyphenols from Aiweixin Oral Liquid Residues Using UPLC-MS-Based Targeted Metabolomics",
       "link": "https://www.mdpi.com/2227-9717/14/20/3332",
       "source": "Processes (MDPI)",
@@ -386,22 +402,6 @@
       "category": "processing",
       "published": "2026-10-16T00:00:00.000Z",
       "excerpt": "To address drilling-fluid filtrate invasion and the resulting wellbore instability associated with the well-developed micropore throats of hard&amp;ndash;brittle shale in the Yangxia Formation, X-ray diffraction, contact…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3328: An Order-Invariant Transformer-Based TSK Fault Diagnosis Model with Adaptive Neural Inference Engine",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3328",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-16T00:00:00.000Z",
-      "excerpt": "Existing Takagi&amp;ndash;Sugeno&amp;ndash;Kang (TSK)-based fault diagnosis (FD) methods widely suffer from insufficient feature interaction capability in the antecedent, vanishing fault-related activation degrees, and l…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3327: Digital Twin Modeling and Multi-Fidelity Deep Surrogate Simulation of Corrosion Fatigue Degradation Processes for the Condition-Based Maintenance of Permanent Flexible Fall Arrest Systems",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3327",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-16T00:00:00.000Z",
-      "excerpt": "Permanent flexible fall arrest systems are safety-critical equipment whose load-bearing capacity is governed by two coupled processes acting on very different time scales: a millisecond-scale transient arrest process and…"
     },
     {
       "title": "Seascape Energy receives Petronas approval for Temaris PSC expansion",
