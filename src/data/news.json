@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T21:39:28.403Z",
+  "generatedAt": "2026-10-17T04:56:42.865Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 4,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Processes, Vol. 14, Pages 3333: Silica Fume-Derived Functional Silicon-Based Materials: From Waste Valorization and Controlled Synthesis to Environmental Remediation",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3333",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-17T00:00:00.000Z",
+      "excerpt": "The ferrosilicon and metallic silicon smelting industry produces tens of millions of tons of silica fume (SF) solid waste cumulatively. The stockpiling of SF has caused prominent ecological and environmental problems, wh…"
+    },
     {
       "title": "Wider approach needed to mitigate rising rechargeable battery emissions",
       "link": "https://phys.org/news/2026-10-wider-approach-mitigate-rechargeable-battery.html",
@@ -212,38 +220,6 @@
       "excerpt": "As Hurricane Simon unleashed destructive winds and flooding along Mexico’s coast, NASA satellites captured an extraordinary sight: massive atmospheric waves rippling high above the storm. The rare images reveal how power…"
     },
     {
-      "title": "The Glacier Model Intercomparison Project (GlacierMIP): Towards standardisation of global glacier projections",
-      "link": "https://arxiv.org/abs/2610.22005",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-16T04:00:00.000Z",
-      "excerpt": "arXiv:2610.22005v1 Announce Type: new Abstract: The Glacier Model Intercomparison Project (GlacierMIP) provides an international framework for the coordinated evaluation and comparison of global glacier evolution models…"
-    },
-    {
-      "title": "Building and calibrating a 3Di subgrid flood model for Hanoi, without a surveyed terrain model, drainage data, or rain gauges",
-      "link": "https://arxiv.org/abs/2610.20789",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-16T04:00:00.000Z",
-      "excerpt": "arXiv:2610.20789v1 Announce Type: cross Abstract: Urban hydrodynamic flood models typically rely on a surveyed terrain model, an explicit pipe drainage network, and rain gauge measurements, none of which were available f…"
-    },
-    {
-      "title": "Ranked Right, Sized Wrong: Ensemble Spread Fails Silently at Streamflow Extremes",
-      "link": "https://arxiv.org/abs/2610.20947",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-16T04:00:00.000Z",
-      "excerpt": "arXiv:2610.20947v1 Announce Type: cross Abstract: Deep learning models, particularly Long Short-Term Memory networks, are increasingly used for operational streamflow forecasting, with ensemble spread providing a signal…"
-    },
-    {
-      "title": "Learning relaxation time distributions from spectral induced polarization data with a complex-valued variational autoencoder",
-      "link": "https://arxiv.org/abs/2603.13973",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-16T04:00:00.000Z",
-      "excerpt": "arXiv:2603.13973v3 Announce Type: replace Abstract: Spectral induced polarization (SIP) is a geophysical method used to characterize subsurface materials. It measures the frequency-dependent complex electrical resistivit…"
-    },
-    {
       "title": "Energies, Vol. 19, Pages 4914: Integrated Assessment of Mud Volcano&ndash;Oil Field Interaction and Production Optimization in Lokbatan Oil Field",
       "link": "https://www.mdpi.com/1996-1073/19/20/4914",
       "source": "Energies (MDPI)",
@@ -348,20 +324,20 @@
       "excerpt": "This study aimed to characterise the polyphenolic profile and evaluate the extractability of Aiweixin Oral Liquid (AWX) residues, identify polyphenolic components via targeted metabolomics, optimise ultrasonic extraction…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3330: Interpretable Hybrid Machine Learning for Predicting Microbial Growth Curves: Comparing Direct Data-Driven, Two-Step Hybrid, and One-Step Hybrid Approaches",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3330",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-16T00:00:00.000Z",
-      "excerpt": "Predictive microbiology relies on a two-step workflow in which a primary model is fitted to each growth curve and secondary models relate the kinetic parameters to environmental conditions, which can propagate primary-fi…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3331: Automatic Segmentation of Pipe Flow Core and Multi-Parameter Optimization of Cemented Tailings Backfill: A Solid-Waste-Utilization Approach via a Cascaded K-GVF Snake Model",
       "link": "https://www.mdpi.com/2227-9717/14/20/3331",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-10-16T00:00:00.000Z",
       "excerpt": "In green mine construction and bulk solid-waste utilization, pipeline transport energy efficiency and stope support stability of unclassified cemented tailings backfill exhibit a critical cross-scale mechanical trade-off…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3330: Interpretable Hybrid Machine Learning for Predicting Microbial Growth Curves: Comparing Direct Data-Driven, Two-Step Hybrid, and One-Step Hybrid Approaches",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3330",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Predictive microbiology relies on a two-step workflow in which a primary model is fitted to each growth curve and secondary models relate the kinetic parameters to environmental conditions, which can propagate primary-fi…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3329: The Synergistic Inhibition Mechanism of Interfacial Wetting Regulation and Film-Forming Plugging on the Invasion of Mudstone Micropore Throat Fluid",
@@ -396,20 +372,20 @@
       "excerpt": "Gas-assisted laser cutting is an effective approach for improving the processing quality of wood; however, the internal gas flow characteristics within the narrow kerf and their relationship with kerf formation remain in…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3324: Adaptability Limits of Steam Flooding in Edge-Water Heavy-Oil Reservoirs, Based on Quantitative Characterization of the Extreme Steam-Chambers",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3324",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-16T00:00:00.000Z",
-      "excerpt": "Offshore medium-to-deep edge-water heavy-oil reservoirs face challenges in high-pressure steam flooding due to restricted steam-chamber expansion and uncertainty in adaptability evaluation. This study focuses on steam fl…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3325: Support-Bounded Confidence-First Selective Diagnosis of Bearing Faults Under Speed and Source Shifts",
       "link": "https://www.mdpi.com/2227-9717/14/20/3325",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-10-16T00:00:00.000Z",
       "excerpt": "Bearing fault diagnosis under varying operating conditions faces speed and data-source shifts that can make models unreliable outside their development regime. Record-level diagnosis therefore requires both fault classif…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3324: Adaptability Limits of Steam Flooding in Edge-Water Heavy-Oil Reservoirs, Based on Quantitative Characterization of the Extreme Steam-Chambers",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3324",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Offshore medium-to-deep edge-water heavy-oil reservoirs face challenges in high-pressure steam flooding due to restricted steam-chamber expansion and uncertainty in adaptability evaluation. This study focuses on steam fl…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3323: Low Temperature Chemical Bath Deposition of Tin Sulfide-Based Thin Films: Structural and Optical Properties",
@@ -458,14 +434,6 @@
       "category": "industry",
       "published": "2026-10-15T07:58:35.000Z",
       "excerpt": "Canada-listed explorer Monumental Energy has announced plans to take an ownership interest in the Maata oil field through a consortium of four companies operating in New Zealand's onshore Taranaki Basin."
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3317: A Fluid&ndash;Structure Interaction Model of Coal Considering the Dynamic Slippage Effect and Its Application",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3317",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-15T00:00:00.000Z",
-      "excerpt": "Gas extraction has always been an important means of promoting the safe and high-efficiency development of coal, and the key to enhancing gas extraction performance is to clarify the dynamic variation in permeability dur…"
     },
     {
       "title": "The 2026 gas shock delays the LNG glut, but export routes will decide how long it lasts",
@@ -874,6 +842,38 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Yuyan Li, Guanglin Huang, Sen Xu, Nian Yang, Xingliang Wu"
+    },
+    {
+      "title": "Reduced electron transfer from N-doping Mo 2 C MXene cocatalyst to CdS for enhanced photocatalytic H 2 production",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034800?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Guoqiang Chen, Haiting Zou, Ping Wang, Xuefei Wang, Feng Chen"
+    },
+    {
+      "title": "Incorporating Mg into Al-based supports to modulate metal-support interactions for enhanced H 2 productivity and selectivity in Ni-catalyzed aqueous-phase reforming",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034770?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Chuo Du, Hongfei Xiao, Yifan Jin, Yuanyuan Xie, Chao Gai, Jinhou Fang, Jianghao Zhang, Changbin Zhang"
+    },
+    {
+      "title": "Composition determination of biodiesel/ethanol blends using dielectric spectroscopy and tabular prior-data fitted networks",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603423X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Julián Corach, Martín G. González, Lautaro Gómez Ciapponi, Patricio A. Sorichetti"
+    },
+    {
+      "title": "Highly stable and dispersed Ni/TiO 2 catalysts for CO 2 Methanation: In-situ X-ray absorption spectroscopy study on active site stability",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034691?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Kasama Kenyotha, Ammarika Makdee, Pinit Kidkhunthod, Yingyot Poo-arporn, Kingkaew Chayakul Chanapattharapol"
     }
   ]
 }
