@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T11:39:34.704Z",
+  "generatedAt": "2026-10-18T16:06:33.588Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -16,7 +16,7 @@
     {
       "name": "Fuel",
       "ok": true,
-      "count": 100,
+      "count": 99,
       "error": null
     },
     {
@@ -75,6 +75,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Warming could help make the Indian Ocean a stronger climate buffer",
+      "link": "https://phys.org/news/2026-10-indian-ocean-stronger-climate-buffer.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-18T15:20:01.000Z",
+      "excerpt": "The world's oceans help slow climate change by absorbing carbon dioxide (CO₂) from the atmosphere, but how much they take up can vary throughout the year. New research, published in Geophysical Research Letters, suggests…"
+    },
+    {
+      "title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-10-18T12:36:21.000Z",
+      "excerpt": "A catastrophic volcanic eruption 7,300 years ago devastated Japan, but new research reveals that its impact on prehistoric populations was far more complex than previously believed. While some communities disappeared or…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4932: Towing Response and Drag Reduction in a Semi-Submersible Floating Offshore Wind Turbine Platform with Fairings",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4932",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-18T00:00:00.000Z",
+      "excerpt": "To reduce the wet-towing resistance of a semi-submersible floating offshore wind turbine (FOWT) platform, this study proposes the installation of fairings on the outer columns and investigates their influence on the plat…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4931: Generative AI Engine for Energy Materials Intelligence and Manufacturing",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4931",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-18T00:00:00.000Z",
+      "excerpt": "Energy materials development remains experimentally intensive because relevant knowledge is dispersed across heterogeneous sources, material formulas and processing parameters are strongly coupled, and experimental data…"
+    },
     {
       "title": "Energies, Vol. 19, Pages 4930: Benchmarking Hydrogen Dispersion CFD Simulations Using OpenFOAM",
       "link": "https://www.mdpi.com/1996-1073/19/20/4930",
@@ -244,22 +276,6 @@
       "excerpt": "Source-load fluctuations have significant impacts on the economic performance of integrated energy system (IES) dispatch. Existing studies mainly focus on alleviating the supply-demand matching pressure using system-side…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4920: A Hierarchical Decision-Making Framework Using Fuzzy-Enhanced Reinforcement Learning and Stackelberg Game Theory for Sustainable and Equitable EV Charging Management",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4920",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-17T00:00:00.000Z",
-      "excerpt": "Electric Vehicles (EVs) are being increasingly used in the transportation domain due to recent advancements in the field of energy systems. As such, there is an increased need for intelligent and sustainable EV charging…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4919: Multivariate Statistical Analysis of Borehole Heat Exchanger Drilling Efficiency Using Field Measurements",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4919",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-17T00:00:00.000Z",
-      "excerpt": "Drilling operations for shallow geothermal borehole heat exchangers (BHEs) represent a crucial and energy-intensive stage of system installation, where operational parameters directly affect drilling duration and fuel co…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3340: Experimental Evaluation of Mechanical Performance, Accelerated-Aging Durability, and Surface Wettability of Elastomeric Waterproofing Membranes",
       "link": "https://www.mdpi.com/2227-9717/14/20/3340",
       "source": "Processes (MDPI)",
@@ -354,14 +370,6 @@
       "category": "geoscience",
       "published": "2026-10-16T16:20:06.000Z",
       "excerpt": "Wastewater reclamation is increasingly regarded as an alternative water source to mitigate water scarcity in China. However, expanding wastewater treatment capacity alone may not be enough to ease this scarcity, since wa…"
-    },
-    {
-      "title": "Putting wood security on the global agenda: Researchers outline 20 core challenges",
-      "link": "https://phys.org/news/2026-10-wood-global-agenda-outline-core.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-16T15:40:03.000Z",
-      "excerpt": "A study led by the Centre for Global Wood Security formally defines the concept of global wood security and identifies the 20 greatest challenges to wood security in the 21st century."
     },
     {
       "title": "TGS secures rights to reprocess JAAN 3D survey in Guinea-Bissau",
@@ -578,14 +586,6 @@
       "category": "geoscience",
       "published": "2026-09-22T10:43:31.000Z",
       "excerpt": "An amateur astronomer searching satellite maps for a Quebec camping spot accidentally discovered a massive ancient impact crater. Scientists later found shatter cones that confirmed the 25-kilometer-wide structure was bl…"
-    },
-    {
-      "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-09-22T08:32:08.000Z",
-      "excerpt": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, and rising volcanic g…"
     },
     {
       "title": "Scientists find that “perfect” systems may be surprisingly fragile",
@@ -828,52 +828,52 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
-      "title": "Sulfur transformation behaviors and synergistic mechanism during co-pyrolysis of coal and waste tire",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034824?dgcid=rss_sd_all",
+      "title": "Deep eutectic solvents for extracting nitrogen-containing heterocyclic neutral compounds from coal tar: Integrated physicochemical–thermodynamic screening and molecular insights",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126035787?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Yuxin Wen, Xinyi Gong, Xueer Ning, He Yang, Yang Li, Haoquan Hu, Lijun Jin"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Fan Yang, Yifei Wang, Na Zhang, Yao Zhang, Zhigang Zhang, Qinqin Zhang, Yugao Wang, Gang Liu, Yanxia Niu, Jun Shen"
     },
     {
-      "title": "Membrane dielectric barrier discharge plasma for low-temperature NOx abatement from hydrogen-ammonia combustion exhaust",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034356?dgcid=rss_sd_all",
+      "title": "Tuning properties of electrically controlled solid propellants with co-oxidizer formulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603591X?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Yicheng Zhang, Jason Loprete, Rodrigo Ristow Hadlich, Dimitris Assanis, Noah Van Dam, J. Hunter Mack, Juan Pablo Trelles"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Dale LeFebvre, Abram Duran, Gregory Young"
     },
     {
-      "title": "Inhibition of spontaneous combustion in low-rank coal by facultative anaerobic microflora: reducing oxidizer, increasing retardant and modifying coal structure",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603574X?dgcid=rss_sd_all",
+      "title": "Fabrication of N/O co-doped porous carbon derived from coal liquefaction pitch for high-performance supercapacitors",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033570?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Yifan Yin, Lehao Wang, Longzhen Gao, Hongguang Guo, Xiao Feng, Zhicheng Shi, Zaixing Huang, Michael Urynowicz"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Jinfeng Han, Yuan Zhao, Yong Zhao, Peng Zhao, Peng Huang"
     },
     {
-      "title": "Large language models on tabular data based molecular property prediction (MPP) of RP-3 kerosene",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033922?dgcid=rss_sd_all",
+      "title": "Coupling effects of engine speed and injection timing on spray dynamics, combustion and emissions in direct-injection spark-ignition n-butanol engine",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034915?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Muhammad Hassaan Athar, Yong Hu, Feiyang Zhao, Wenbin Yu"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Xudong Zhen, Zengbin Liu, Zhi Tian, Daming Liu, Xupeng Feng, Yang Wang"
     },
     {
-      "title": "Enhancement mechanism of Ce-Ni-modified vanadium–titanium magnetite in chemical looping hydrogen production",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126035465?dgcid=rss_sd_all",
+      "title": "Dendritic multimetal architectures for efficient DME/MF electroconversion",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126035015?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Chunhuan Deng, Zisheng Ding, Qiuxuan Yang, Hao Ma, Yifeng Cheng, Dingyuan Feng, Jing Li, Zhenhua Gu, Ming Li"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Diwakar Kashyap, Hanan Teller, Palaniappan Subramanian, Alex Schechter"
     },
     {
-      "title": "Co-packed metal hydride and phase change pellets enable rapid hydrogen storage and release",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603499X?dgcid=rss_sd_all",
+      "title": "Sr-tuned BaTiO 3 /NiFe-LDH heterostructured photocatalysts for solar-driven CO 2 -to-Fuel conversion",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034319?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Zhi Li, Zhuofan Chen, Rui Zhou, Puyang Lu, Xianglei Liu"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Harshavardhan Mohan, Pavithra Muthukumar Sathya, Gwang-Min Lee, Min Cho, Byung-Taek Oh"
     }
   ]
 }
