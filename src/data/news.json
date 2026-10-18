@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:54:31.097Z",
+  "generatedAt": "2026-10-18T05:05:01.570Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -380,20 +380,20 @@
       "excerpt": "This study aimed to characterise the polyphenolic profile and evaluate the extractability of Aiweixin Oral Liquid (AWX) residues, identify polyphenolic components via targeted metabolomics, optimise ultrasonic extraction…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3330: Interpretable Hybrid Machine Learning for Predicting Microbial Growth Curves: Comparing Direct Data-Driven, Two-Step Hybrid, and One-Step Hybrid Approaches",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3330",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-16T00:00:00.000Z",
-      "excerpt": "Predictive microbiology relies on a two-step workflow in which a primary model is fitted to each growth curve and secondary models relate the kinetic parameters to environmental conditions, which can propagate primary-fi…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3331: Automatic Segmentation of Pipe Flow Core and Multi-Parameter Optimization of Cemented Tailings Backfill: A Solid-Waste-Utilization Approach via a Cascaded K-GVF Snake Model",
       "link": "https://www.mdpi.com/2227-9717/14/20/3331",
       "source": "Processes (MDPI)",
       "category": "processing",
       "published": "2026-10-16T00:00:00.000Z",
       "excerpt": "In green mine construction and bulk solid-waste utilization, pipeline transport energy efficiency and stope support stability of unclassified cemented tailings backfill exhibit a critical cross-scale mechanical trade-off…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3330: Interpretable Hybrid Machine Learning for Predicting Microbial Growth Curves: Comparing Direct Data-Driven, Two-Step Hybrid, and One-Step Hybrid Approaches",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3330",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-16T00:00:00.000Z",
+      "excerpt": "Predictive microbiology relies on a two-step workflow in which a primary model is fitted to each growth curve and secondary models relate the kinetic parameters to environmental conditions, which can propagate primary-fi…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3329: The Synergistic Inhibition Mechanism of Interfacial Wetting Regulation and Film-Forming Plugging on the Invasion of Mudstone Micropore Throat Fluid",
