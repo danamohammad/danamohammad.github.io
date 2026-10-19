@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:59:51.435Z",
+  "generatedAt": "2026-10-19T05:15:28.489Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 5,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Bayesian Geophysical Inversion using Stein Mixture Variational Inference for Multimodal or Complex Solutions",
+      "link": "https://arxiv.org/abs/2610.23603",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-19T04:00:00.000Z",
+      "excerpt": "arXiv:2610.23603v1 Announce Type: new Abstract: Bayesian geophysical inversion provides a probabilistic framework to estimate subsurface properties, in which uncertainties are represented by a so-called posterior probabi…"
+    },
+    {
+      "title": "Operators Reveal Scale-Dependent Limits on Recovering Greenland Ice Loss from Sea Level Fingerprints",
+      "link": "https://arxiv.org/abs/2610.23748",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-19T04:00:00.000Z",
+      "excerpt": "arXiv:2610.23748v1 Announce Type: new Abstract: Sea level fingerprints connect the spatial distribution of rapid ice mass change to sea surface height (SSH) change, but the spatial resolving power of this inverse problem…"
+    },
+    {
+      "title": "An exact finite-state representation of viscoelastic memory for accelerated sea-level modeling: SLEvolve v1.0",
+      "link": "https://arxiv.org/abs/2610.23762",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-19T04:00:00.000Z",
+      "excerpt": "arXiv:2610.23762v1 Announce Type: new Abstract: Glacial Isostatic Adjustment (GIA) models solve the gravitationally self-consistent sea-level equation for the response of the solid Earth and the oceans to changing ice lo…"
+    },
+    {
+      "title": "Thermo-viscous feedback in heat transport through fracture-matrix systems with finite thermal capacity",
+      "link": "https://arxiv.org/abs/2610.22531",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-19T04:00:00.000Z",
+      "excerpt": "arXiv:2610.22531v1 Announce Type: cross Abstract: In geothermal systems, injected fluid flows along preferential fracture pathways and exchanges heat with matrix blocks. Reduced models often neglect temperature-dependent…"
+    },
+    {
+      "title": "Gabor-Enhanced Physics-Informed Neural Networks for Fast Simulations of Acoustic Wavefields",
+      "link": "https://arxiv.org/abs/2502.17134",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-19T04:00:00.000Z",
+      "excerpt": "arXiv:2502.17134v3 Announce Type: replace Abstract: Physics-Informed Neural Networks (PINNs) have gained attention for solving partial differential equations, including the scattered Helmholtz equation, due to their flex…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4933: Duty-Cycle-Driven Energy Storage Sizing for Electrified Port Cargo-Handling Equipment: A Grid-to-Actuator Energy-Flow Review",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4933",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Electrification of port cargo-handling equipment couples storage capacity with bidirectional power, thermal limits, ageing and access to replenishment. This critical review organizes published evidence through a grid-to-…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3350: Stress-Dependent Permeability in Oil&ndash;Water Displacement Through Sandstone: A Sequential Hydro-Mechanical Numerical Study",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3350",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Oil&amp;ndash;water displacement in sandstone is commonly simulated with fixed absolute permeability, although pore pressure changes can modify effective stress and the connected pore-throat network. This study proposed…"
+    },
     {
       "title": "Warming could help make the Indian Ocean a stronger climate buffer",
       "link": "https://phys.org/news/2026-10-indian-ocean-stronger-climate-buffer.html",
@@ -268,14 +324,6 @@
       "excerpt": "The article examines progress in the system integration of renewable energy sources in China over the period 2020&amp;ndash;2026, focusing on the challenge of integrating rapidly expanding renewable energy capacity into…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4921: Incentive-Based Integrated Demand Response and Distributionally Robust Optimization for Enabling Economic Dispatch of Integrated Energy Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4921",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-17T00:00:00.000Z",
-      "excerpt": "Source-load fluctuations have significant impacts on the economic performance of integrated energy system (IES) dispatch. Existing studies mainly focus on alleviating the supply-demand matching pressure using system-side…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3340: Experimental Evaluation of Mechanical Performance, Accelerated-Aging Durability, and Surface Wettability of Elastomeric Waterproofing Membranes",
       "link": "https://www.mdpi.com/2227-9717/14/20/3340",
       "source": "Processes (MDPI)",
@@ -298,14 +346,6 @@
       "category": "processing",
       "published": "2026-10-17T00:00:00.000Z",
       "excerpt": "In cementing operation, the &amp;ldquo;cement-&amp;ndash;rock&amp;rdquo; interface bonding ability is an important factor affecting the long-term sealing ability of cement sheath, and the evolution mechanism of the inter…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3335: Machine Learning Prediction of Artificial Cilia-Driven Ethylene Glycol Nanofluid in a Porous Channel with Activation Energy Effect",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3335",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-17T00:00:00.000Z",
-      "excerpt": "Artificial-cilia-driven transport is an important phenomenon in microfluidic systems, biomedical devices, porous transport media, and thermal-management applications, where controlled momentum, heat, and mass transfer ar…"
     },
     {
       "title": "Wider approach needed to mitigate rising rechargeable battery emissions",
@@ -834,46 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Fan Yang, Yifei Wang, Na Zhang, Yao Zhang, Zhigang Zhang, Qinqin Zhang, Yugao Wang, Gang Liu, Yanxia Niu, Jun Shen"
-    },
-    {
-      "title": "Tuning properties of electrically controlled solid propellants with co-oxidizer formulations",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603591X?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Dale LeFebvre, Abram Duran, Gregory Young"
-    },
-    {
-      "title": "Fabrication of N/O co-doped porous carbon derived from coal liquefaction pitch for high-performance supercapacitors",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033570?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Jinfeng Han, Yuan Zhao, Yong Zhao, Peng Zhao, Peng Huang"
-    },
-    {
-      "title": "Coupling effects of engine speed and injection timing on spray dynamics, combustion and emissions in direct-injection spark-ignition n-butanol engine",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034915?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Xudong Zhen, Zengbin Liu, Zhi Tian, Daming Liu, Xupeng Feng, Yang Wang"
-    },
-    {
-      "title": "Dendritic multimetal architectures for efficient DME/MF electroconversion",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126035015?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Diwakar Kashyap, Hanan Teller, Palaniappan Subramanian, Alex Schechter"
-    },
-    {
-      "title": "Sr-tuned BaTiO 3 /NiFe-LDH heterostructured photocatalysts for solar-driven CO 2 -to-Fuel conversion",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034319?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Harshavardhan Mohan, Pavithra Muthukumar Sathya, Gwang-Min Lee, Min Cho, Byung-Taek Oh"
     }
   ]
 }
