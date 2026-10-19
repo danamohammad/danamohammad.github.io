@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:15:28.489Z",
+  "generatedAt": "2026-10-19T13:53:23.488Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,86 @@
   ],
   "items": [
     {
+      "title": "Indonesia fires have burned nearly 2 million hectares: Monitor",
+      "link": "https://phys.org/news/2026-10-indonesia-million-hectares.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-19T13:29:48.000Z",
+      "excerpt": "Fires in Indonesia that have caused a regional haze crisis burned through over 1.9 million hectares (4.7 million acres) between January and the end of September this year, a monitor analyzing satellite imagery said on Mo…"
+    },
+    {
+      "title": "Something strange is happening beneath a volcano near 2 million people",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-10-19T12:35:09.000Z",
+      "excerpt": "Scientists have discovered evidence of two hidden magma sources beneath Nicaragua’s Masaya volcano, where satellite observations revealed mysterious ground movements suggesting magma is shifting deep underground. The fin…"
+    },
+    {
+      "title": "Researchers advance aquifer mapping using remote sensing and statistical models to improve groundwater management",
+      "link": "https://phys.org/news/2026-10-advance-aquifer-remote-statistical-groundwater.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-19T11:00:02.000Z",
+      "excerpt": "Groundwater in many areas of the U.S. and across the globe is being depleted as pumping for drinking water and agriculture outpaces nature's ability to refill aquifers. In the most severe cases, this could lead to a poin…"
+    },
+    {
+      "title": "Brazil will drill: why a global transition leader is set on oil and gas expansion",
+      "link": "https://www.offshore-technology.com/features/brazil-transition-oil-gas-expansion/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-19T10:59:50.000Z",
+      "excerpt": "Brazil leads in clean energy but – whether Lula or Bolsonaro wins – the next government will charge ahead with oil and gas expansion."
+    },
+    {
+      "title": "Europa Oil & Gas secures 12-month EG-08 licence extension",
+      "link": "https://www.offshore-technology.com/news/europa-12-month-licence-extension/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-19T10:34:18.000Z",
+      "excerpt": "Europa Oil & Gas has been granted a 12-month extension to the first exploration sub-period of its offshore EG-08 block in Equatorial Guinea, moving the deadline from 4 October 2026 to 4 October 2027."
+    },
+    {
+      "title": "NG Energy starts production at Aruchara-6 well in Colombia",
+      "link": "https://www.offshore-technology.com/news/ng-energy-production-aruchara-6/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-19T10:29:01.000Z",
+      "excerpt": "Canada-based gas producer NG Energy International (NGE) has brought the Aruchara-6 well into production at Maria Conchita Block, with drilling also under way at Sinú-9 block in Colombia."
+    },
+    {
+      "title": "UN biodiversity summit opens with nature goals off track",
+      "link": "https://phys.org/news/2026-10-nations-reset-nature-goals-track.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-19T09:40:01.000Z",
+      "excerpt": "Nearly 200 nations kicked off crucial U.N. biodiversity talks in Armenia on Monday as governments face pressure to salvage a landmark nature pact whose goals are slipping out of reach."
+    },
+    {
+      "title": "Factoring daily weather extremes into glacier models reveals greater ice loss and faster sea-level rise",
+      "link": "https://phys.org/news/2026-10-factoring-daily-weather-extremes-glacier.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-19T09:00:01.000Z",
+      "excerpt": "A new study led by researchers at ETH Zurich (Switzerland) and the Vrije Universiteit Brussel (Belgium) reveals that glaciers worldwide could lose ice faster than previously projected. Published in Nature Communications,…"
+    },
+    {
+      "title": "Record El Niño? Depends who's counting",
+      "link": "https://phys.org/news/2026-10-el-nio.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-19T08:20:01.000Z",
+      "excerpt": "Britain's Met Office says this year's El Niño is \"unprecedented.\" Japan's weather agency has called it the strongest ever observed. U.S. forecasters say it still trails the biggest events in its record books."
+    },
+    {
+      "title": "Woodside pauses Scarborough gas unit after Greenpeace protest",
+      "link": "https://www.offshore-technology.com/news/woodside-pauses-scarborough-gas-unit/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-10-19T07:54:16.000Z",
+      "excerpt": "Woodside Energy has suspended activity at a floating production unit central to its $12.5bn Scarborough natural gas development following a protest by Greenpeace off Western Australia’s northwest coast, reported Reuters."
+    },
+    {
       "title": "Bayesian Geophysical Inversion using Stein Mixture Variational Inference for Multimodal or Complex Solutions",
       "link": "https://arxiv.org/abs/2610.23603",
       "source": "arXiv — Geophysics",
@@ -116,12 +196,156 @@
       "excerpt": "arXiv:2502.17134v3 Announce Type: replace Abstract: Physics-Informed Neural Networks (PINNs) have gained attention for solving partial differential equations, including the scattered Helmholtz equation, due to their flex…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4933: Duty-Cycle-Driven Energy Storage Sizing for Electrified Port Cargo-Handling Equipment: A Grid-to-Actuator Energy-Flow Review",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4933",
+      "title": "Energies, Vol. 19, Pages 4959: Progress in Electromagnetic Analysis and Modelling of Heating Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4959",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-10-19T00:00:00.000Z",
-      "excerpt": "Electrification of port cargo-handling equipment couples storage capacity with bidirectional power, thermal limits, ageing and access to replenishment. This critical review organizes published evidence through a grid-to-…"
+      "excerpt": "Technologies that use electricity to treat and transform materials, particularly induction, dielectric, and microwave heating methods, as well as traditional electric heating with resistors, play a key role in the transi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4958: Field and Numerical Investigation of Water-Conducting Fractured Zone Development in a Deep Coal Seams with Variable Thickness at the 14,321 Working Face",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4958",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "This study characterizes the development of the water-conducting fractured zone at the 14321 working face of the Gubei Coal Mine, located in Fengtai County, Huainan City, Anhui Province, China, where segmentally differen…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4957: Prediction of Flammability Limits of Methane&ndash;Hydrogen Syngas Under High-Temperature and High-Pressure Conditions Using Machine Learning with Advanced Data Sampling Methods",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4957",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Reliable characterization of the upper and lower flammability limits of methane&amp;ndash;hydrogen mixtures is imperative for the safe application of hydrogen-enriched fuel systems. However, experimental data under eleva…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4954: Hydrogen Degradation and Integrity Assessment of Cracked X80 Pipelines Under Hydrogen-Blended Natural Gas Conditions",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4954",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Hydrogen-blended natural gas transportation offers a cost-effective pathway for large-scale hydrogen utilization by leveraging existing natural gas pipeline infrastructure. However, hydrogen-induced degradation of pipeli…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4956: Prediction for Hysteresis Loops and Losses of Nanocrystalline Under Asymmetric Duty-Cycle Square-Wave Voltage Excitation",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4956",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Nanocrystalline soft magnetic cores are promising for medium-frequency transformers. However, accurate prediction of their hysteresis behavior under asymmetric duty-cycle square-wave excitation remains hard because posit…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4955: Hybrid Phase Change Material&ndash;Heat Pipe Thermal Management of Electronics: A Comprehensive Review",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4955",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "The relentless miniaturization of electronic devices, together with the steep growth in transistor density and switching power, has pushed volumetric heat generation in modern chips, power modules, light-emitting diodes…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4952: Powering the U.S. Energy Transition Amid Uncertainty: Financial Development, Oil Prices, and Climate Policy Uncertainty",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4952",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "This study examines how climate policy uncertainty, financial development, and oil prices shape the United States energy transition, using monthly data from 2005 to 2026. Energy transition is measured by renewable energy…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4953: Proposal of Mission Profile-Based Degradation Model for Electric Double-Layer Capacitors",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4953",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "This paper proposes a mission-profile-based degradation model for electric double-layer capacitors (EDLCs) under variable electrical stress. The approach extends an exponential deterioration model for capacitance and equ…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4951: Insights into Thermal Strain Mismatch-Induced Interlayer Load Redistribution in the Bearing Mechanism of a Lined Rock Cavern for Compressed Air Energy Storage",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4951",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "The coupled thermo-mechanical response of a refined lined rock cavern (LRC) model for a real compressed air energy storage (CAES) plant is numerically investigated. The simulation captures inelastic mechanical behaviors…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4950: Two-Stage Distributionally Robust Optimization Scheduling for Industrial Park Integrated Energy Systems Considering Tiered Carbon Trading and Renewable Energy Uncertainty",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4950",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Industrial parks serve as the core carriers for low-carbon transition in the industrial sector, while multi-energy complementary integrated energy systems (IESs) represent the key technological pathway for achieving effi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4947: Development and Electrochemical Evaluation of Sustainable Algal Biochar/Hematene Aerogel Electrodes for Nitrate Conversion in Water",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4947",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "The development of sustainable electrode materials for electrochemical nitrate removal from water has attracted increasing interest due to the need for efficient and environmentally friendly nitrate removal technologies.…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4949: Is Non-Hydro Renewable Electricity Associated with Longer Life Expectancy? Quantile and Machine-Learning Evidence from Fifteen Leading Adopter Economies, 1990&ndash;2021",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4949",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Replacing fossil-fuel combustion with renewable electricity is widely expected to lengthen lives, yet the evidence comes mainly from countries early in the energy transition. This study asks whether renewable penetration…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3356: Scalable Hydrometallurgical Process for LFP Battery Recycling with Selective Lithium Extraction and Iron Stabilization",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3356",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "The expanding electric vehicle market is driving a critical demand for lithium-ion battery materials, positioning spent batteries as a strategic urban resource. Conventional hydrometallurgical studies are typically const…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3355: Kinetic Modeling of Antibody Secretion in IgG1-Producing CHO Cells Using Intracellular Antibody and Intermediate Dynamics During Translation Inhibition",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3355",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Chinese hamster ovary (CHO) cells are widely used host cells for therapeutic antibody production. Identifying and alleviating bottlenecks in the antibody secretion process in CHO cells is important for improving antibody…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3354: Localized Pitting Behavior and Competitive Film Formation Mechanism of N80 Steel in High-Temperature and High-Salinity Water-Based Drilling Fluids",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3354",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Driven by the extreme high temperatures (&amp;ge;150 &amp;deg;C) and high salinities of deep wellbore environments, the corrosion failure of drill strings in water-based drilling fluids (WBDFs) is becoming increasingly s…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3353: Design and Preparation of Nanochitin&ndash;Nanolignin Complexes for Innovative Cosmeceuticals, Nutraceuticals, and Skin-Beneficial Products",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3353",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Chitin nanofibrils (CNs) and lignin nanoparticles (LNPs) are renewable nanomaterials whose complementary surface chemistry enables the formation of chitin nanofibril&amp;ndash;nanolignin (CN&amp;ndash;NL) complexes. This…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3352: Discrete-Element Modelling of Bedding- and Stress-Controlled Hydraulic Fracturing in Deep Qiongzhusi Shale",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3352",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "The Cambrian Qiongzhusi Formation shale of the Sichuan Basin, buried below 4000 m, is a key deep-shale-gas target whose hydraulic fracturing is jointly controlled by bedding weak planes and high in situ stress. This stud…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3351: Fault Diagnosis Method for Wind Turbine Based on Feature Optimization and Deep Learning Integration",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3351",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "To address the high dimensionality and strong redundancy of wind turbine operational monitoring data, as well as the insufficient robustness ability of a single deep network under imbalanced fault sample distributions, t…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3349: A Sustainable Seawater-Based Cultivation Strategy for Arthrospira platensis: RSM-Based Process Evaluation and Biodiesel Potential Assessment",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3349",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Sustainable microalgal biodiesel requires cultivation approaches that lower resource demand without compromising biomass performance. Here, Arthrospira platensis was cultivated in natural Marmara seawater collected at di…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3350: Stress-Dependent Permeability in Oil&ndash;Water Displacement Through Sandstone: A Sequential Hydro-Mechanical Numerical Study",
@@ -146,78 +370,6 @@
       "category": "geoscience",
       "published": "2026-10-18T12:36:21.000Z",
       "excerpt": "A catastrophic volcanic eruption 7,300 years ago devastated Japan, but new research reveals that its impact on prehistoric populations was far more complex than previously believed. While some communities disappeared or…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4932: Towing Response and Drag Reduction in a Semi-Submersible Floating Offshore Wind Turbine Platform with Fairings",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4932",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "To reduce the wet-towing resistance of a semi-submersible floating offshore wind turbine (FOWT) platform, this study proposes the installation of fairings on the outer columns and investigates their influence on the plat…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4931: Generative AI Engine for Energy Materials Intelligence and Manufacturing",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4931",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Energy materials development remains experimentally intensive because relevant knowledge is dispersed across heterogeneous sources, material formulas and processing parameters are strongly coupled, and experimental data…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4930: Benchmarking Hydrogen Dispersion CFD Simulations Using OpenFOAM",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4930",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Hydrogen and hydrogen-derived fuels are candidate pathways for maritime decarbonisation. However, hydrogen&amp;rsquo;s wide flammability range and low ignition energy call for a robust assessment of release and accumulat…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4929: Three-Stage Load Transfer for Planned Feeder Maintenance via Coordinated Operation of an R-SOP and DG",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4929",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Planned feeder maintenance in radial distribution networks requires an alternative supply path when no usable mechanical tie line is available or energized AC loop closing is prohibited. This paper proposes a three-stage…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4928: Leakage-Controlled Multi-Horizon Forecasting and Rolling-Horizon MILP Dispatch for an Islanded PV&ndash;Battery Microgrid with Secondary Wind Generation",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4928",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Forecast-driven dispatch studies for renewable-storage microgrids can be weakened by feature leakage, non-receding dispatch windows, and inconsistent planned/realized evaluation scopes. This article presents a reproducib…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4926: Orientation-Guided Gaussian Processes for Probabilistic Mapping of Gas Reservoir Effective Thickness",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4926",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Probabilistic maps of gas reservoir effective thickness are increasingly used in development decisions, but production workflows rarely show how structural guidance carries into predictive uncertainty and threshold-based…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4927: Blended Braking in Hybrid Electric Tracked Vehicles: A Critical Review of Dynamic Capability Boundaries, Brake-Force Allocation, and Mission-Level Coordination",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4927",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Blended braking combines regenerative braking from traction motors with friction braking to meet braking safety and stability requirements while recovering kinetic energy. Existing reviews have mainly addressed regenerat…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4925: Pathways Towards Net-Zero Transport in Guangxi, China: A LEAP-Based Scenario Analysis of Electrification, Modal Shift, and Power-Sector Decarbonisation",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4925",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Transport emissions are still rising in fast-motorising Chinese provinces. In Guangxi, the vehicle fleet grew 32% between 2020 and 2024, while the grid is already half non-fossil. A bottom-up model built on the Low Emiss…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4924: AI-Driven Biohydrogen Production from Agri-Food Residues: Process Integration, Modeling Architectures, and Industrial Perspectives",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4924",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Agri-food residues offer renewable feedstocks for hydrogen production, but compositional variability, conversion constraints, and inconsistent data reporting hinder reliable modelling and scale-up. This review examines a…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3348: Adsorptive Removal of Oxygenated Organosulfur Compounds from Peroxymonosulfate-Treated Waters Using Micron-Sized Amorphous ZrOx",
@@ -252,38 +404,6 @@
       "excerpt": "Chemical processes operate under time-varying economic conditions, such as changes in raw-material prices and market demand. Such changes may shift the economically optimal operating point. For high-dimensional systems,…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3344: Dynamic Process of Hydraulic Fracturing Under Triaxial Compression",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3344",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Rock fracturing at a certain depth in the subsurface is caused by the weight of overlying strata and elevated fluid pressure in confined formations. It produces tensile fractures, with fracture walls moving against fluid…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3343: An Intelligent Lithofacies Identification Method of PCNN-SVM Fused with Attention Mechanism and Zebra Optimization Algorithm: Preliminary Results from the Zigong Block, Sichuan Basin",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3343",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Precise lithofacies identification is essential for efficient deep shale gas exploration and predictive targeting of reservoir &amp;ldquo;sweet spots.&amp;rdquo; However, deep shale reservoirs exhibit strong heterogeneit…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3342: A Characteristic Parameter-Based Method for Predicting Oil Production Dynamics During Chemical Flooding",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3342",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Chemical flooding commonly exhibits a non-monotonic oil-production response characterized by an initial increase, peak formation, and subsequent decline. Quantitatively characterizing this response with limited field dat…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3341: Evaluating Diagnostic Evidence in Multimodal Network Fault Classification",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3341",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Machine learning using multimodal telemetry is now standard in network fault diagnosis, but diagnostic models are compared almost exclusively by accuracy. On a virtual SONiC testbed with five injected fault types, five c…"
-    },
-    {
       "title": "What an ancient volcanic eruption teaches us about resilience today",
       "link": "https://phys.org/news/2026-10-ancient-volcanic-eruption-resilience-today.html",
       "source": "Phys.org — Earth",
@@ -308,46 +428,6 @@
       "excerpt": "The strong El Niño currently under way in the Pacific Ocean raises the specter of marine heat waves and coral bleaching once again threatening Australia's iconic Great Barrier Reef. And now new research has revealed the…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4922: High-Frequency Transformer Modeling: Methods, Parameter Extraction and Validation&mdash;A Review",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4922",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-17T00:00:00.000Z",
-      "excerpt": "High-frequency transient events in power systems are becoming increasingly significant due to lightning impulses, growing penetration of renewable energy sources, high-voltage direct current (HVDC) transmission systems,…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4923: Advances in Renewable Energy System Integration in China: A Four-Dimensional Analysis (2020&ndash;2026)",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4923",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-17T00:00:00.000Z",
-      "excerpt": "The article examines progress in the system integration of renewable energy sources in China over the period 2020&amp;ndash;2026, focusing on the challenge of integrating rapidly expanding renewable energy capacity into…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3340: Experimental Evaluation of Mechanical Performance, Accelerated-Aging Durability, and Surface Wettability of Elastomeric Waterproofing Membranes",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3340",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-17T00:00:00.000Z",
-      "excerpt": "Styrene&amp;ndash;acrylic elastomeric waterproofing membranes are widely used in exterior construction because of their flexibility, adhesion, and ease of application; however, their long-term performance depends on resi…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3339: Independent Bioethanol Fumigation in a Brazilian Agricultural Diesel Engine: Diesel Displacement and Emission Trade-Offs",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3339",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-17T00:00:00.000Z",
-      "excerpt": "Agricultural compression-ignition engines require decarbonization strategies that can reduce fossil-diesel demand without replacing robust power units already operating in the field. This study experimentally evaluates a…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3338: Development and Preliminary Acoustic Calibration of an Experimental Platform for Evaluating the Cement&ndash;Formation Interface",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3338",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-17T00:00:00.000Z",
-      "excerpt": "In cementing operation, the &amp;ldquo;cement-&amp;ndash;rock&amp;rdquo; interface bonding ability is an important factor affecting the long-term sealing ability of cement sheath, and the evolution mechanism of the inter…"
-    },
-    {
       "title": "Wider approach needed to mitigate rising rechargeable battery emissions",
       "link": "https://phys.org/news/2026-10-wider-approach-mitigate-rechargeable-battery.html",
       "source": "Phys.org — Earth",
@@ -370,46 +450,6 @@
       "category": "geoscience",
       "published": "2026-10-16T18:10:01.000Z",
       "excerpt": "Most studies of how clouds are responding to climate change focus on clouds over the oceans, rather than over mountains. Those that do focus on mountain clouds tend to explore cloud microphysics rather than long-term tre…"
-    },
-    {
-      "title": "Forecasting 'tipping points' with AI climate simulation",
-      "link": "https://phys.org/news/2026-10-ai-climate-simulation.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-16T17:40:01.000Z",
-      "excerpt": "The writer Malcolm Gladwell popularized the term \"tipping points\" to refer to the moment when a trend or social behavior crosses a threshold and rapidly spreads everywhere. In physics, tipping points occur when systems—s…"
-    },
-    {
-      "title": "Wetland reclamation brings limited agricultural gains but high flood exposure",
-      "link": "https://phys.org/news/2026-10-wetland-reclamation-limited-agricultural-gains.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-16T17:20:01.000Z",
-      "excerpt": "Wetland reclamation has long been regarded as a strategy to meet growing food demand, given the favorable soil and water conditions of wetlands. However, the trade-off between potentially greater crop production and the…"
-    },
-    {
-      "title": "'Excess oxygen' stored in deep Earth magma may help explain how Earth's atmosphere became oxygen-rich",
-      "link": "https://phys.org/news/2026-10-excess-oxygen-deep-earth-magma.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-16T17:00:14.000Z",
-      "excerpt": "A research team has found that molten rock can carry more oxygen than its chemical composition would seem to allow. Their study is published in National Science Review."
-    },
-    {
-      "title": "NASA satellites observe historic 2026 El Niño",
-      "link": "https://phys.org/news/2026-10-nasa-satellites-historic-el-nio.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-16T16:44:08.000Z",
-      "excerpt": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely."
-    },
-    {
-      "title": "Matching wastewater treatment to local demand could help China tackle water scarcity",
-      "link": "https://phys.org/news/2026-10-wastewater-treatment-local-demand-china.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-16T16:20:06.000Z",
-      "excerpt": "Wastewater reclamation is increasingly regarded as an alternative water source to mitigate water scarcity in China. However, expanding wastewater treatment capacity alone may not be enough to ease this scarcity, since wa…"
     },
     {
       "title": "TGS secures rights to reprocess JAAN 3D survey in Guinea-Bissau",
@@ -466,38 +506,6 @@
       "category": "industry",
       "published": "2026-10-15T10:38:05.000Z",
       "excerpt": "Oil prices declined by about 2% on Thursday, 15 October, following reports that the US is considering measures to relax restrictions on tankers associated with Russia's so-called “shadow fleet”."
-    },
-    {
-      "title": "JERA acquires JOGMEC’s shares in Wheatstone LNG project vehicle",
-      "link": "https://www.offshore-technology.com/news/jera-acquires-jogmecs-shares-wheatstone-lng/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-10-15T10:28:58.000Z",
-      "excerpt": "Japanese energy company JERA has completed the purchase of all shares held by the Japan Organization for Metals and Energy Security (JOGMEC) in Pan Pacific Energy (PEJ), the entity it uses to invest in Australia's Wheats…"
-    },
-    {
-      "title": "Monumental Energy joins consortium to drill Maata prospect in Taranaki, NZ",
-      "link": "https://www.offshore-technology.com/news/monumental-drill-maata-prospect-taranaki/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-10-15T07:58:35.000Z",
-      "excerpt": "Canada-listed explorer Monumental Energy has announced plans to take an ownership interest in the Maata oil field through a consortium of four companies operating in New Zealand's onshore Taranaki Basin."
-    },
-    {
-      "title": "The 2026 gas shock delays the LNG glut, but export routes will decide how long it lasts",
-      "link": "https://www.offshore-technology.com/analyst-comment/gas-shock-delays-lng-glut-export-routes/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-10-14T15:36:28.000Z",
-      "excerpt": "The Strait of Hormuz's closure has reduced LNG supply; GlobalData analysis identifies how export routes have changed."
-    },
-    {
-      "title": "Equinor, partners strike oil and gas near Oseberg field in North Sea",
-      "link": "https://www.offshore-technology.com/news/equinor-partners-oil-and-gas-oseberg-field/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-10-14T12:52:06.000Z",
-      "excerpt": "Equinor and partners Petoro and TotalEnergies have made an oil and gas discovery near the Oseberg field in the North Sea, with preliminary recoverable volumes estimated at 19 to 50mboe."
     },
     {
       "title": "Scientists discover a hidden factor that can make or break chemical reactions",
@@ -618,14 +626,6 @@
       "category": "geoscience",
       "published": "2026-09-24T01:07:40.000Z",
       "excerpt": "The Cascadia subduction zone and northern San Andreas fault may sometimes rupture in rapid succession, according to evidence preserved in 3,100 years of ocean sediments. Researchers identified unusual sediment layers sug…"
-    },
-    {
-      "title": "A strange circle on satellite maps turned out to be a 390-million-year-old impact crater",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-09-22T10:43:31.000Z",
-      "excerpt": "An amateur astronomer searching satellite maps for a Quebec camping spot accidentally discovered a massive ancient impact crater. Scientists later found shatter cones that confirmed the 25-kilometer-wide structure was bl…"
     },
     {
       "title": "Scientists find that “perfect” systems may be surprisingly fragile",
