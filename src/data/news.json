@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:36:36.949Z",
+  "generatedAt": "2026-10-20T05:12:52.191Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,102 @@
   ],
   "items": [
     {
+      "title": "Dual Reverse Time Migration: Efficient Least-squares Imaging with Multiple Scattering in Dual Space",
+      "link": "https://arxiv.org/abs/2610.25995",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-20T04:00:00.000Z",
+      "excerpt": "arXiv:2610.25995v1 Announce Type: new Abstract: Least-squares reverse time migration (LSRTM) estimates a broadband reflectivity image by iteratively minimizing the data misfit. Despite its superior imaging performance ov…"
+    },
+    {
+      "title": "Permafrost augmented simulation and forecast using hybrid modeling through spectral neural networks",
+      "link": "https://arxiv.org/abs/2610.24665",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-20T04:00:00.000Z",
+      "excerpt": "arXiv:2610.24665v1 Announce Type: cross Abstract: Purpose - Global warming is impacting several crucial Earth systems, including the permafrost. This study investigates the possibility of performing fast and reliable sim…"
+    },
+    {
+      "title": "Emergent Sparsity: How Many Effective Variables Survive Coarse-Graining in AlphaEarth Embeddings?",
+      "link": "https://arxiv.org/abs/2610.25258",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-20T04:00:00.000Z",
+      "excerpt": "arXiv:2610.25258v1 Announce Type: cross Abstract: AlphaEarth encodes each 10 m land pixel as a 64-component vector intended to support diverse global mapping tasks. Yet many scientific applications work at coarser spatia…"
+    },
+    {
+      "title": "A Targeted Quadrature Framework for Simulating Large-Scale 3D Anisotropic Electromagnetic Measurements",
+      "link": "https://arxiv.org/abs/2511.17999",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-20T04:00:00.000Z",
+      "excerpt": "arXiv:2511.17999v2 Announce Type: replace Abstract: A new efficient and accurate method is presented for simulating frequency-domain borehole electromagnetic (EM) measurements acquired in the presence of three-dimensiona…"
+    },
+    {
+      "title": "On the Adversarial Robustness of Hydrological Models",
+      "link": "https://arxiv.org/abs/2602.05237",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-20T04:00:00.000Z",
+      "excerpt": "arXiv:2602.05237v2 Announce Type: replace Abstract: The evaluation of hydrological models is essential for both model selection and reliability assessment. However, simply comparing predictions to observations is insuffi…"
+    },
+    {
+      "title": "NZ's climate in 'uncharted territory,' with more extreme weather events ahead",
+      "link": "https://phys.org/news/2026-10-nz-climate-uncharted-territory-extreme.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T03:00:01.000Z",
+      "excerpt": "Much is being made of a record-strength El Niño event that could well spell a drier, windier summer for the north and east of New Zealand. But, as a major new assessment shows, it is forming against a backdrop of warming…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4971: Development of Application-Focused Fuzzy Membership Functions for Geomechanical Parameters of CO2 Storage Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4971",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "Geomechanical risk assessment is a critical component of geological CO2 storage because storage security depends on uncertain subsurface rock mass properties controlling deformation, failure, injectivity, and caprock sea…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4970: Ex-Post Evaluation of an Energy Efficiency Program: A Case Study of a Green Economy Financing Facility in Morocco",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4970",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "Industrial small and medium-sized enterprises (SMEs) hold substantial untapped potential for energy savings. However, this potential is rarely realized because of persistent financial, informational, and organizational b…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3362: Use of Melaleuca alternifolia Essential Oil in Sustainable Agricultural Pest Management",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3362",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "The increasing adoption of sustainable farming practices has accelerated interest in eco-friendly alternatives to conventional synthetic pesticides, largely due to growing concerns over pesticide resistance, environmenta…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3361: Characteristics and Weakly Supervised Screening of Diagenetic Facies in the Chang 6 Member, Southwestern Ordos Basin",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3361",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "Linking diagenetic processes to well-log responses is essential for characterizing heterogeneous tight sandstone reservoirs. We integrate petrography, mineralogy, nitrogen adsorption, and conventional logs to investigate…"
+    },
+    {
+      "title": "13% of Earth's land identified as biodiversity conservation hotspots",
+      "link": "https://phys.org/news/2026-10-earth-biodiversity-hotspots.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-19T23:20:12.000Z",
+      "excerpt": "As governments prepare to gather in Yerevan, Armenia, this week for the U.N. Biodiversity Conference (COP17), new research identifies 13% of Earth's land area as hotspots for biodiversity conservation, highlighting where…"
+    },
+    {
+      "title": "How much of a basin's drainage network should flood models capture?",
+      "link": "https://phys.org/news/2026-10-basin-drainage-network-capture.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-19T23:20:02.000Z",
+      "excerpt": "As climate change is expected to increase the risks associated with extreme rainfall and flooding, managing floods requires approaches beyond conventional infrastructure such as dams and reservoirs."
+    },
+    {
       "title": "The hidden global market behind recycling revealed",
       "link": "https://phys.org/news/2026-10-hidden-global-recycling-revealed.html",
       "source": "Phys.org — Earth",
@@ -148,14 +244,6 @@
       "excerpt": "The world's top climate scientists will reconvene at the earliest opportunity, the panel's chair said on Monday, after member states failed to agree when to release its crucial new findings on global heating."
     },
     {
-      "title": "Monitor says Indonesia fires have burned nearly 2 million hectares",
-      "link": "https://phys.org/news/2026-10-indonesia-million-hectares.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T13:29:48.000Z",
-      "excerpt": "Indonesian wildfires that have caused a regional haze crisis burned more than 1.9 million hectares (4.7 million acres) in the first nine months of 2026, a monitor analyzing satellite data said on Monday."
-    },
-    {
       "title": "Vår Energi, Equinor find gas and condensate at Lakris prospect",
       "link": "https://www.offshore-technology.com/news/var-energi-equinor-gas-condensate-lakris/",
       "source": "Offshore Technology",
@@ -170,14 +258,6 @@
       "category": "geoscience",
       "published": "2026-10-19T12:35:09.000Z",
       "excerpt": "Scientists have discovered evidence of two hidden magma sources beneath Nicaragua’s Masaya volcano, where satellite observations revealed mysterious ground movements suggesting magma is shifting deep underground. The fin…"
-    },
-    {
-      "title": "Researchers advance aquifer mapping using remote sensing and statistical models to improve groundwater management",
-      "link": "https://phys.org/news/2026-10-advance-aquifer-remote-statistical-groundwater.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T11:00:02.000Z",
-      "excerpt": "Groundwater in many areas of the U.S. and across the globe is being depleted as pumping for drinking water and agriculture outpaces nature's ability to refill aquifers. In the most severe cases, this could lead to a poin…"
     },
     {
       "title": "Brazil will drill: why a global transition leader is set on oil and gas expansion",
@@ -204,60 +284,12 @@
       "excerpt": "Canada-based gas producer NG Energy International (NGE) has brought the Aruchara-6 well into production at Maria Conchita Block, with drilling also under way at Sinú-9 block in Colombia."
     },
     {
-      "title": "UN biodiversity summit opens with nature goals off track",
-      "link": "https://phys.org/news/2026-10-nations-reset-nature-goals-track.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T09:40:01.000Z",
-      "excerpt": "Nearly 200 nations kicked off crucial U.N. biodiversity talks in Armenia on Monday as governments face pressure to salvage a landmark nature pact whose goals are slipping out of reach."
-    },
-    {
       "title": "Woodside pauses Scarborough gas unit after Greenpeace protest",
       "link": "https://www.offshore-technology.com/news/woodside-pauses-scarborough-gas-unit/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-10-19T07:54:16.000Z",
       "excerpt": "Woodside Energy has suspended activity at a floating production unit central to its $12.5bn Scarborough natural gas development following a protest by Greenpeace off Western Australia’s northwest coast, reported Reuters."
-    },
-    {
-      "title": "Bayesian Geophysical Inversion using Stein Mixture Variational Inference for Multimodal or Complex Solutions",
-      "link": "https://arxiv.org/abs/2610.23603",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-19T04:00:00.000Z",
-      "excerpt": "arXiv:2610.23603v1 Announce Type: new Abstract: Bayesian geophysical inversion provides a probabilistic framework to estimate subsurface properties, in which uncertainties are represented by a so-called posterior probabi…"
-    },
-    {
-      "title": "Operators Reveal Scale-Dependent Limits on Recovering Greenland Ice Loss from Sea Level Fingerprints",
-      "link": "https://arxiv.org/abs/2610.23748",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-19T04:00:00.000Z",
-      "excerpt": "arXiv:2610.23748v1 Announce Type: new Abstract: Sea level fingerprints connect the spatial distribution of rapid ice mass change to sea surface height (SSH) change, but the spatial resolving power of this inverse problem…"
-    },
-    {
-      "title": "An exact finite-state representation of viscoelastic memory for accelerated sea-level modeling: SLEvolve v1.0",
-      "link": "https://arxiv.org/abs/2610.23762",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-19T04:00:00.000Z",
-      "excerpt": "arXiv:2610.23762v1 Announce Type: new Abstract: Glacial Isostatic Adjustment (GIA) models solve the gravitationally self-consistent sea-level equation for the response of the solid Earth and the oceans to changing ice lo…"
-    },
-    {
-      "title": "Thermo-viscous feedback in heat transport through fracture-matrix systems with finite thermal capacity",
-      "link": "https://arxiv.org/abs/2610.22531",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-19T04:00:00.000Z",
-      "excerpt": "arXiv:2610.22531v1 Announce Type: cross Abstract: In geothermal systems, injected fluid flows along preferential fracture pathways and exchanges heat with matrix blocks. Reduced models often neglect temperature-dependent…"
-    },
-    {
-      "title": "Gabor-Enhanced Physics-Informed Neural Networks for Fast Simulations of Acoustic Wavefields",
-      "link": "https://arxiv.org/abs/2502.17134",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-19T04:00:00.000Z",
-      "excerpt": "arXiv:2502.17134v3 Announce Type: replace Abstract: Physics-Informed Neural Networks (PINNs) have gained attention for solving partial differential equations, including the scattered Helmholtz equation, due to their flex…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4969: Toward Sustainability: Water Use Efficiency, Renewable Energy, and the Load Capacity Curve Hypothesis&mdash;A Sectoral Analysis of OECD Countries",
@@ -340,22 +372,6 @@
       "excerpt": "Distribution network reconfiguration requires switch-state decisions subject to topological and electrical constraints. This paper presents a graph-based surrogate with rooted-forest repair for a modified IEEE 69-bus, tw…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4959: Progress in Electromagnetic Analysis and Modelling of Heating Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4959",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-19T00:00:00.000Z",
-      "excerpt": "Technologies that use electricity to treat and transform materials, particularly induction, dielectric, and microwave heating methods, as well as traditional electric heating with resistors, play a key role in the transi…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4958: Field and Numerical Investigation of Water-Conducting Fractured Zone Development in a Deep Coal Seams with Variable Thickness at the 14,321 Working Face",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4958",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-19T00:00:00.000Z",
-      "excerpt": "This study characterizes the development of the water-conducting fractured zone at the 14321 working face of the Gubei Coal Mine, located in Fengtai County, Huainan City, Anhui Province, China, where segmentally differen…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3360: Crayfish Shell-Derived Biochar Enhances Paracoccus-Mediated NMP Biodegradation Under Anoxic Conditions: A Waste-to-Wealth Strategy",
       "link": "https://www.mdpi.com/2227-9717/14/20/3360",
       "source": "Processes (MDPI)",
@@ -434,22 +450,6 @@
       "category": "processing",
       "published": "2026-10-19T00:00:00.000Z",
       "excerpt": "To address the high dimensionality and strong redundancy of wind turbine operational monitoring data, as well as the insufficient robustness ability of a single deep network under imbalanced fault sample distributions, t…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3349: A Sustainable Seawater-Based Cultivation Strategy for Arthrospira platensis: RSM-Based Process Evaluation and Biodiesel Potential Assessment",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3349",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-19T00:00:00.000Z",
-      "excerpt": "Sustainable microalgal biodiesel requires cultivation approaches that lower resource demand without compromising biomass performance. Here, Arthrospira platensis was cultivated in natural Marmara seawater collected at di…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3350: Stress-Dependent Permeability in Oil&ndash;Water Displacement Through Sandstone: A Sequential Hydro-Mechanical Numerical Study",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3350",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-19T00:00:00.000Z",
-      "excerpt": "Oil&amp;ndash;water displacement in sandstone is commonly simulated with fixed absolute permeability, although pore pressure changes can modify effective stress and the connected pore-throat network. This study proposed…"
     },
     {
       "title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
