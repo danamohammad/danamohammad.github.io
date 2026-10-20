@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:29:10.037Z",
+  "generatedAt": "2026-10-20T21:50:05.507Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,52 +76,100 @@
   ],
   "items": [
     {
+      "title": "Machine learning reveals potential warning signal for polar vortex disruptions",
+      "link": "https://phys.org/news/2026-10-machine-reveals-potential-polar-vortex.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T21:40:16.000Z",
+      "excerpt": "The polar vortex, a swirling mass of cold air encircling the North Pole, is sometimes disrupted by sudden stratospheric warming (SSW) events, unleashing waves of frigid air that penetrate farther south than usual. Temper…"
+    },
+    {
+      "title": "Tofu is the winner. Scientist creates new holistic scoring system to measure the impact of food",
+      "link": "https://phys.org/news/2026-10-tofu-winner-scientist-holistic-scoring.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T21:00:07.000Z",
+      "excerpt": "Consumers are increasingly confronted with conflicting information surrounding how much protein they should have and which protein sources are healthiest, most sustainable, and best value for money. Cambridge research ha…"
+    },
+    {
+      "title": "From seafloor depths to fishing activity, free software brings ocean data together",
+      "link": "https://phys.org/news/2026-10-seafloor-depths-fishing-free-software.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T20:40:12.000Z",
+      "excerpt": "For scientists studying the ocean, finding the right data can sometimes be as challenging as figuring out what to do with it. Want to know seafloor depth, the location of underwater mountains or sea surface temperatures?…"
+    },
+    {
+      "title": "What climate change is costing California",
+      "link": "https://phys.org/news/2026-10-climate-california.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T20:30:01.000Z",
+      "excerpt": "From heat-related illness and deaths to lost work hours and higher insurance and utility bills, climate change is already affecting California's economy. A new statewide report in California's Fifth Climate Change Assess…"
+    },
+    {
+      "title": "How a cold pulse in the Northwest Atlantic reshaped East Coast fisheries",
+      "link": "https://phys.org/news/2026-10-cold-pulse-northwest-atlantic-reshaped.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T19:40:15.000Z",
+      "excerpt": "Fishers in the Northeast began noticing an unusual shift in the summer of 2023. Some familiar catches, including shortfin and longfin squid, declined, while cold-water species such as mackerel bounced back from years of…"
+    },
+    {
+      "title": "The bioeconomy is gaining ground worldwide, report shows",
+      "link": "https://phys.org/news/2026-10-bioeconomy-gaining-ground-worldwide.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T19:40:10.000Z",
+      "excerpt": "Oil and natural gas still account for the vast majority of the world's energy and raw materials, with all the associated environmental and biodiversity consequences. The bioeconomy is an approach to overcoming this depen…"
+    },
+    {
+      "title": "Filling the gaps in global rainfall maps",
+      "link": "https://phys.org/news/2026-10-gaps-global-rainfall.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T19:30:01.000Z",
+      "excerpt": "Global rainfall maps are built from observations collected by multiple satellites, but they have an important limitation. The satellites that provide these measurements cannot see the whole Earth at once. As a result, so…"
+    },
+    {
+      "title": "Limited waste collection services in rural communities linked to high microplastic levels in Mekong River",
+      "link": "https://phys.org/news/2026-10-limited-rural-communities-linked-high.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T19:10:11.000Z",
+      "excerpt": "Plastics are accumulating in ecosystems around the world, and their tiny fragments can collect and carry chemical pollutants and pathogens into plants, animals and people. When fishermen in Cambodia's Mekong River became…"
+    },
+    {
+      "title": "Cost-analysis tool allows coastal communities to see and estimate benefits of investing in storm-protection measures",
+      "link": "https://phys.org/news/2026-10-analysis-tool-coastal-communities-benefits.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T18:40:15.000Z",
+      "excerpt": "Today, as part of the official release of California's Fifth Climate Change Assessment, researchers at the University of California, Santa Cruz, have launched a platform, data and tools that community leaders can use to…"
+    },
+    {
+      "title": "PermitAI team delivers a one-stop shop for federal permitting data",
+      "link": "https://phys.org/news/2026-10-permitai-team-federal.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T18:20:25.000Z",
+      "excerpt": "The PermitAI team at the Department of Energy's Pacific Northwest National Laboratory has changed how federal agencies search past environmental permitting decisions. Now it is taking that access one step further with tw…"
+    },
+    {
+      "title": "Central Coast will face more extremes, regional report of California's Fifth Climate Assessment finds",
+      "link": "https://phys.org/news/2026-10-central-coast-extremes-regional-california.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T18:00:19.000Z",
+      "excerpt": "California's Central Coast is headed toward more climate extremes, with hotter days, stronger storms and more intense droughts."
+    },
+    {
       "title": "'Bomb carbon' in wood shavings helped researchers measure the stability of biochar in soil",
       "link": "https://phys.org/news/2026-10-carbon-wood-stability-biochar-soil.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-10-20T17:20:30.000Z",
       "excerpt": "Biochar can store carbon in the soil and reduce the amount of carbon dioxide in the atmosphere—yet we still know too little about how long the biochar will persist. Now, researchers from the Swedish University of Agricul…"
-    },
-    {
-      "title": "Can restoring large animals help mitigate climate change? It's complicated",
-      "link": "https://phys.org/news/2026-10-large-animals-mitigate-climate-complicated.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-20T15:40:09.000Z",
-      "excerpt": "Can protecting elephants and whales help mitigate climate change?"
-    },
-    {
-      "title": "Ancient wildfire study offers warning for a warming world",
-      "link": "https://phys.org/news/2026-10-ancient-wildfire-world.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-20T15:20:10.000Z",
-      "excerpt": "New research from the University of Aberdeen has revealed that periods of global warming can trigger long-lasting increases in wildfire activity, with ecosystems taking far longer to recover than previously thought. The…"
-    },
-    {
-      "title": "Study asks, Who benefits from where hospitals or landfills are located?",
-      "link": "https://phys.org/news/2026-10-benefits-hospitals-landfills.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-20T14:40:25.000Z",
-      "excerpt": "Cities are built around critical public facilities, some more desirable for neighbors than others. People want to live near hospitals and parks. Living near a wastewater plant or a landfill is another matter."
-    },
-    {
-      "title": "River model reveals how coordinated water sharing could ease drought's unequal effects",
-      "link": "https://phys.org/news/2026-10-river-reveals-ease-drought-unequal.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-20T13:00:16.000Z",
-      "excerpt": "Rivers provide water for everything from growing crops and running factories to the taps in our homes, but droughts can leave them struggling to meet all these demands. A new study, published in Water Resources Research,…"
-    },
-    {
-      "title": "Deep-sea expedition will revisit Pacific mining site five and a half years after test",
-      "link": "https://phys.org/news/2026-10-deep-sea-revisit-pacific-site.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-20T09:40:02.000Z",
-      "excerpt": "During Oct. 2026, the research vessel SONNE set sail from San Diego into the Pacific Ocean for expedition SO322. Its destination: the Clarion-Clipperton Zone north of the equator—the area that harbors the largest known d…"
     },
     {
       "title": "Dual Reverse Time Migration: Efficient Least-squares Imaging with Multiple Scattering in Dual Space",
@@ -162,14 +210,6 @@
       "category": "preprints",
       "published": "2026-10-20T04:00:00.000Z",
       "excerpt": "arXiv:2602.05237v2 Announce Type: replace Abstract: The evaluation of hydrological models is essential for both model selection and reliability assessment. However, simply comparing predictions to observations is insuffi…"
-    },
-    {
-      "title": "NZ's climate in 'uncharted territory,' with more extreme weather events ahead",
-      "link": "https://phys.org/news/2026-10-nz-climate-uncharted-territory-extreme.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-20T03:00:01.000Z",
-      "excerpt": "Much is being made of a record-strength El Niño event that could well spell a drier, windier summer for the north and east of New Zealand. But, as a major new assessment shows, it is forming against a backdrop of warming…"
     },
     {
       "title": "Energies, Vol. 19, Pages 4993: Fuzzy Adaptive Coordination of Virtual Inertia and Damping in a Wind&ndash;PV Sending-End MMC-HVDC System",
@@ -362,46 +402,6 @@
       "category": "processing",
       "published": "2026-10-20T00:00:00.000Z",
       "excerpt": "Linking diagenetic processes to well-log responses is essential for characterizing heterogeneous tight sandstone reservoirs. We integrate petrography, mineralogy, nitrogen adsorption, and conventional logs to investigate…"
-    },
-    {
-      "title": "13% of Earth's land identified as biodiversity conservation hotspots",
-      "link": "https://phys.org/news/2026-10-earth-biodiversity-hotspots.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T23:20:12.000Z",
-      "excerpt": "As governments prepare to gather in Yerevan, Armenia, this week for the U.N. Biodiversity Conference (COP17), new research identifies 13% of Earth's land area as hotspots for biodiversity conservation, highlighting where…"
-    },
-    {
-      "title": "How much of a basin's drainage network should flood models capture?",
-      "link": "https://phys.org/news/2026-10-basin-drainage-network-capture.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T23:20:02.000Z",
-      "excerpt": "As climate change is expected to increase the risks associated with extreme rainfall and flooding, managing floods requires approaches beyond conventional infrastructure such as dams and reservoirs."
-    },
-    {
-      "title": "The hidden global market behind recycling revealed",
-      "link": "https://phys.org/news/2026-10-hidden-global-recycling-revealed.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T21:40:11.000Z",
-      "excerpt": "Recycling may happen far from the place where waste is produced. Paper, metals, plastics and glass discarded in one country can be shipped across the world and used as raw materials in another. This international market…"
-    },
-    {
-      "title": "Planting trees is not enough: Lasting climate benefits depend on land rights and livelihoods",
-      "link": "https://phys.org/news/2026-10-trees-climate-benefits-rights-livelihoods.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T21:40:01.000Z",
-      "excerpt": "A new LMU study shows that three-quarters of the estimated global potential for new forests to capture CO₂ is threatened by significant social and institutional challenges."
-    },
-    {
-      "title": "Fully implementing methane plans could reverse emissions growth but miss 2030 target",
-      "link": "https://phys.org/news/2026-10-fully-methane-reverse-emissions-growth.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T20:40:01.000Z",
-      "excerpt": "A new study, led by IIASA researchers and coauthored by UNEP colleagues, finds that if governments fully implement their methane reduction plans, they could reduce global emissions by 11% between 2020 and 2030. This woul…"
     },
     {
       "title": "Vår Energi, Equinor find gas and condensate at Lakris prospect",
