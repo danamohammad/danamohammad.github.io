@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T12:04:42.519Z",
+  "generatedAt": "2026-10-20T17:29:10.037Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
       "ok": true,
-      "count": 97,
+      "count": 99,
       "error": null
     },
     {
@@ -76,6 +76,46 @@
   ],
   "items": [
     {
+      "title": "'Bomb carbon' in wood shavings helped researchers measure the stability of biochar in soil",
+      "link": "https://phys.org/news/2026-10-carbon-wood-stability-biochar-soil.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T17:20:30.000Z",
+      "excerpt": "Biochar can store carbon in the soil and reduce the amount of carbon dioxide in the atmosphere—yet we still know too little about how long the biochar will persist. Now, researchers from the Swedish University of Agricul…"
+    },
+    {
+      "title": "Can restoring large animals help mitigate climate change? It's complicated",
+      "link": "https://phys.org/news/2026-10-large-animals-mitigate-climate-complicated.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T15:40:09.000Z",
+      "excerpt": "Can protecting elephants and whales help mitigate climate change?"
+    },
+    {
+      "title": "Ancient wildfire study offers warning for a warming world",
+      "link": "https://phys.org/news/2026-10-ancient-wildfire-world.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T15:20:10.000Z",
+      "excerpt": "New research from the University of Aberdeen has revealed that periods of global warming can trigger long-lasting increases in wildfire activity, with ecosystems taking far longer to recover than previously thought. The…"
+    },
+    {
+      "title": "Study asks, Who benefits from where hospitals or landfills are located?",
+      "link": "https://phys.org/news/2026-10-benefits-hospitals-landfills.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T14:40:25.000Z",
+      "excerpt": "Cities are built around critical public facilities, some more desirable for neighbors than others. People want to live near hospitals and parks. Living near a wastewater plant or a landfill is another matter."
+    },
+    {
+      "title": "River model reveals how coordinated water sharing could ease drought's unequal effects",
+      "link": "https://phys.org/news/2026-10-river-reveals-ease-drought-unequal.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-20T13:00:16.000Z",
+      "excerpt": "Rivers provide water for everything from growing crops and running factories to the taps in our homes, but droughts can leave them struggling to meet all these demands. A new study, published in Water Resources Research,…"
+    },
+    {
       "title": "Deep-sea expedition will revisit Pacific mining site five and a half years after test",
       "link": "https://phys.org/news/2026-10-deep-sea-revisit-pacific-site.html",
       "source": "Phys.org — Earth",
@@ -132,6 +172,94 @@
       "excerpt": "Much is being made of a record-strength El Niño event that could well spell a drier, windier summer for the north and east of New Zealand. But, as a major new assessment shows, it is forming against a backdrop of warming…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 4993: Fuzzy Adaptive Coordination of Virtual Inertia and Damping in a Wind&ndash;PV Sending-End MMC-HVDC System",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4993",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "Wind&amp;ndash;photovoltaic (PV) modular-multilevel-converter-based high-voltage direct-current (MMC-HVDC) collection systems have limited inherent inertia and are vulnerable to frequency disturbances caused by renewable…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4991: Internal Compensation and Payment Allocation for Virtual Power Plants Under Multi-Stage Data Tampering Attacks",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4991",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "Virtual power plants (VPPs) use participant-reported capacity before response delivery to set internal compensation standards and participant-level response data afterward to allocate payments. Manipulation of these chro…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4992: A Practical Controller-Aware LDC Parameter Design Method for SVRs Considering Bidirectional Power Flow",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4992",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "The increasing penetration of distributed energy resources (DERs), particularly photovoltaic (PV) ones, has introduced significant challenges in distribution system voltage regulation due to bidirectional power flows and…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4990: Adaptive DC-Line Reclosing Strategy for VSC-HVDC Transmission from Desert&ndash;Gobi&ndash;Wasteland Renewable Energy Bases",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4990",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "Reliable fault-nature identification before DC-line reclosing is essential for overhead VSC-HVDC transmission from desert&amp;ndash;Gobi&amp;ndash;wasteland renewable energy bases because reclosing into a permanent fault…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4989: A Zero-Shot Multimodal Agent Framework for Power Line Inspection via Large Language Models",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4989",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "With the widespread deployment of unmanned aerial vehicles (UAVs) in smart grids, visual inspection based on deep learning has significantly advanced. However, conventional object detection paradigms heavily rely on mass…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4988: Operational Hydropower Potential Assessment of Multifunctional River Systems Under Hydrological Extremes: A Hierarchical Assessment Model for Hydropower Availability",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4988",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "Conventional hydropower potential assessment (HPA) does not explicitly account for operational requirements and constraints affecting hydropower availability in multifunctional river systems (MRSs). This study introduces…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4986: An Improved Modeling Method Used to Determine the Nine Parameters of the Three-Diode Model of Photovoltaic (PV) Modules Using an Adaptive Lightweight Trust-Region Reflective (AL-TRF) Approach",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4986",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "This study proposes a novel modeling approach based on an Adaptive Lightweight Trust-Region Reflective (AL-TRF) method for estimating all nine three-diode model (TDM) parameters under arbitrary irradiance and temperature…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4984: Comparative Evaluation of Speed and Position Estimators for Synchronous Reluctance Motor Drive with Parameter Mismatches and Current Sensor Faults",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4984",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "Sensorless control of synchronous reluctance motors (SynRMs) requires accurate rotor speed and position estimation that is robust to parameter uncertainties and sensor faults. This paper systematically investigates the i…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4987: A Unified Degradation-Aware Optimization Framework for Lithium-Ion Battery Pack Selection in Shared E-Scooters",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4987",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "Shared e-scooter systems are a key component of urban micromobility; however, battery pack selection still relies on nominal cell specifications or isolated performance metrics. This creates a design gap because existing…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4983: Energy Intensity, Energy Structure and Carbon Dioxide Dynamics in the EU Non-Metallic Mineral Sector",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4983",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "Decarbonization of non-metallic mineral manufacturing requires reductions in energy use relative to output alongside changes in fuel use and production processes. This study examines associations between energy intensity…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 4985: GIS-Based Photovoltaic Power Plant Siting Using Energy Production and a Demand Coverage Index",
+      "link": "https://www.mdpi.com/1996-1073/19/20/4985",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-20T00:00:00.000Z",
+      "excerpt": "The siting of utility-scale photovoltaic power plants requires the joint assessment of spatial feasibility, photovoltaic productivity, and electricity-demand conditions. This study proposes a two-stage GIS-based decision…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 4982: NERO Transformer: Energy Regulated Newton Optimization for Lithium Ion Battery State of Health Estimation",
       "link": "https://www.mdpi.com/1996-1073/19/20/4982",
       "source": "Energies (MDPI)",
@@ -140,92 +268,20 @@
       "excerpt": "Accurate lithium-ion battery state-of-health (SOH) estimation requires effective temporal degradation modeling and reliable hyperparameter optimization. This study proposes NERO-Transformer, an integrated framework combi…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4979: Stress-Contingent Risk Transmission in the AI&ndash;Energy Nexus: Evidence from TVP-VAR Connectedness and Nonlinear Predictive Models",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4979",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3372: Investigation of the Effects of TRIS-Buffered Plasma-Activated Water (Tb-PAW) on Buffalo and Beef Samples in Terms of the Reduction in Foodborne Pathogens and Sensory Effects on a Meat Surface",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3372",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-10-20T00:00:00.000Z",
-      "excerpt": "Artificial intelligence is creating closer links between computing infrastructure, electricity supply, critical minerals, nuclear capacity, and clean-energy investment. This study examines daily market-price transmission…"
+      "excerpt": "Considering the growing global population, attention must be paid to secure human protein supply. Animal protein is highly valuable and should be utilized in a sustainable manner. Microbial contamination of meat can occu…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 4981: Future Temperature-Induced Heating Demand in Buildings: Regional Patterns and Renewable Energy Implications in Poland",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4981",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3371: Sub-Synchronous and Super-Synchronous Oscillation Propagation in Offshore Wind Farms with Hybrid DRU MMC HVDC Transmission",
+      "link": "https://www.mdpi.com/2227-9717/14/20/3371",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-10-20T00:00:00.000Z",
-      "excerpt": "This study determines the forecasted heat demand in buildings by analysing downscaled data from different models from Coupled Model Intercomparison Project Phase 6 (CMIP6) to the year 2100. The differences in calculated…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4980: Integration of Power-to-Hydrogen Systems in Non-Interconnected Island Grids: Scenario Analysis and Impact on Grid Performance",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4980",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-20T00:00:00.000Z",
-      "excerpt": "The integration of non-dispatchable renewable energy generators into small islands with autonomous electricity grids is by no means straightforward, as such systems cannot benefit from interconnections to mainland grids.…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4978: Explainable Machine Learning-Based Predictive Thermal Management and Risk-Aware Decision Support System for Lithium-Ion Batteries Under Multi C-Rate Conditions",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4978",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-20T00:00:00.000Z",
-      "excerpt": "Effective thermal management is essential for the safety and lifetime of lithium-ion batteries. This study presents a proof-of-concept framework combining electrochemical&amp;ndash;thermal simulation with machine learnin…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4977: Thermal Source Compatibility Limits for Temperature-Vacuum Swing Adsorption Direct Air Capture: Finite Power, Heat Transfer, and Exergy Constraints for Low-Carbon Thermal Integration",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4977",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-20T00:00:00.000Z",
-      "excerpt": "Temperature-vacuum swing adsorption (TVSA) direct air capture (DAC) is often modelled with a prescribed regeneration-wall temperature, which does not identify the thermal source capability required to realise it. This st…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4976: Wellbore Stability Analysis for Deep Carbonate Formations: A Case Study of the Dengying Formation, Penglai Area",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4976",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-20T00:00:00.000Z",
-      "excerpt": "Wellbore instability remains a critical challenge over the entire service life of oil and gas wells, especially in deep carbonate reservoirs. This study integrates triaxial rock mechanics experiments and acoustic emissio…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4975: Transient Stability Enhancement Control for VSGs Based on Active-Power Deviation and Angle-Feedback Compensation",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4975",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-20T00:00:00.000Z",
-      "excerpt": "Deep grid-voltage depressions may simultaneously induce transient power-angle instability and excessive fault current in VSGs, thereby compromising the operational security of grid-connected converters. To address this c…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4973: A Reactor for Biomass Pretreatment by Rapid Compressed-Air Decompression (0&ndash;300 bar): Design, Safety, and Cycle Energetics",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4973",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-20T00:00:00.000Z",
-      "excerpt": "Rapid decompression is a physical route to disrupting lignocellulose, but its gas-based variants operate below 60 bar, release through valves, and have not been documented on the millisecond scale of the pressure drop. W…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4974: Simulation and Verification of the Driving Resistance of Refrigerated Trucks with Flow Deflectors at Different Vehicle Speeds",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4974",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-20T00:00:00.000Z",
-      "excerpt": "Air resistance is an important factor affecting the energy consumption of refrigerated-truck transportation. This study combined computational fluid dynamics (CFD) with particle image velocimetry (PIV) to investigate the…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4972: Accelerated Decarbonization of Non-Retrofitted Multifamily Buildings by Integrating Air-Source Heat Pumps in Existing Gas Boiler Systems: Techno-Economic and Environmental Analysis",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4972",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-20T00:00:00.000Z",
-      "excerpt": "In large non-retrofitted MFBs, monovalent air-source heat pump (ASHP) systems are often constrained by space, electrical capacity, investment cost, or a planned envelope renovation. In such cases, hybrid systems combinin…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 4971: Development of Application-Focused Fuzzy Membership Functions for Geomechanical Parameters of CO2 Storage Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/20/4971",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-20T00:00:00.000Z",
-      "excerpt": "Geomechanical risk assessment is a critical component of geological CO2 storage because storage security depends on uncertain subsurface rock mass properties controlling deformation, failure, injectivity, and caprock sea…"
+      "excerpt": "Hybrid high-voltage direct-current (HVDC) transmission using a diode rectifier unit (DRU) and a modular multilevel converter (MMC) reduces the required capacity of the controllable offshore converter. However, the differ…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3370: Branch Voting and Hierarchical Activation for Anomaly Inference in Refinery Units",
@@ -348,46 +404,6 @@
       "excerpt": "A new study, led by IIASA researchers and coauthored by UNEP colleagues, finds that if governments fully implement their methane reduction plans, they could reduce global emissions by 11% between 2020 and 2030. This woul…"
     },
     {
-      "title": "AI helps reveal what sustainability issues companies emphasize",
-      "link": "https://phys.org/news/2026-10-ai-reveal-sustainability-issues-companies.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T19:40:06.000Z",
-      "excerpt": "Every loaf of bread has a carbon footprint, a supply chain and a workforce behind it. As climate change, food safety and labor rights attract growing attention, corporate disclosures on environmental, social and governan…"
-    },
-    {
-      "title": "Cutting air pollution and greenhouse gases could save Africa billions while improving health",
-      "link": "https://phys.org/news/2026-10-air-pollution-greenhouse-gases-africa.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T18:20:08.000Z",
-      "excerpt": "Lowering air pollution in Africa has many economic benefits, according to new research by environmental scientists Chris Malley, Kevin Hicks and Caroline Sawe. They reflect on two reports that set out the practical ways…"
-    },
-    {
-      "title": "Social norms and infrastructure could help climate transitions stick",
-      "link": "https://phys.org/news/2026-10-social-norms-infrastructure-climate-transitions.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T18:20:01.000Z",
-      "excerpt": "During the COVID-19 pandemic, air travel declined dramatically. Many view the disruption as a potential tipping point for reducing emissions from the aviation sector. However, once travel restrictions were lifted, passen…"
-    },
-    {
-      "title": "Many data centers are located where water resources are limited",
-      "link": "https://phys.org/news/2026-10-centers-resources-limited.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T18:00:01.000Z",
-      "excerpt": "One-quarter of the world's data centers are located in areas where water demand exceeds supply for at least one month each year, according to a new global analysis. Researchers reporting in Environmental Science & Techno…"
-    },
-    {
-      "title": "Earth's core may have been leaking hydrogen for billions of years",
-      "link": "https://phys.org/news/2026-10-earth-core-leaking-hydrogen-billions.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-19T17:30:01.000Z",
-      "excerpt": "When Earth formed billions of years ago, its metallic core was wrapped in a global ocean of molten rock, which eventually cooled and crystallized to form the mantle. Today, when deep-rooted mantle plumes rise toward the…"
-    },
-    {
       "title": "Vår Energi, Equinor find gas and condensate at Lakris prospect",
       "link": "https://www.offshore-technology.com/news/var-energi-equinor-gas-condensate-lakris/",
       "source": "Offshore Technology",
@@ -434,22 +450,6 @@
       "category": "industry",
       "published": "2026-10-19T07:54:16.000Z",
       "excerpt": "Woodside Energy has suspended activity at a floating production unit central to its $12.5bn Scarborough natural gas development following a protest by Greenpeace off Western Australia’s northwest coast, reported Reuters."
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3360: Crayfish Shell-Derived Biochar Enhances Paracoccus-Mediated NMP Biodegradation Under Anoxic Conditions: A Waste-to-Wealth Strategy",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3360",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-19T00:00:00.000Z",
-      "excerpt": "N-methyl-2-pyrrolidone (NMP) is a widely used industrial solvent that can enter industrial wastewater, creating a need for efficient and low-cost treatment methods. In this study, biochar prepared from waste Procambarus…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3359: Rethinking Chemical Pretreatment of Waste-Derived Carbons for Pesticide Removal",
-      "link": "https://www.mdpi.com/2227-9717/14/20/3359",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-19T00:00:00.000Z",
-      "excerpt": "Chemical pretreatment is widely used to improve waste-derived carbon adsorbents, although its added value is strongly precursor-dependent. Here, spent rabbit litter (RL) was directly carbonized or pretreated with H3PO4 (…"
     },
     {
       "title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
@@ -684,6 +684,14 @@
       "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Bicheng Gan, Zhengmeng Hou, Hongxu Wang, Lin Wu, Nan Cai, Haichen Li, Haixiang Zhang"
     },
     {
+      "title": "Positron emission tomography guided advection-diffusion-swelling modelling to constrain effective coal matrix diffusion coefficient",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005166?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Aaron Uthaia Kumaran, Kunning Tang, Ying Da Wang, Peyman Mostaghimi, Yu Jing"
+    },
+    {
       "title": "Development characteristics and openability evaluation of coal cleats based on 3D tectonic stress field numerical simulation: Implications for horizontal well fracturing",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005105?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -762,14 +770,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Yunzhong Jia, Hao Hua, Zhaolong Ge, Xiao Sun, Zhenpeng Ma"
-    },
-    {
-      "title": "Research progress on CO 2 -based geothermal systems: Reservoir characteristics, CO 2 -water-rock interactions, influencing factors",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026004896?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2027 Source: Geoenergy Science and Engineering, Volume 268 Author(s): Yuanxiu Sun, Yanjie Lei, Zilong Wang, Yangfan Tang, Jianchao Li, Ming Li"
     },
     {
       "title": "A review of vertical closed-loop geothermal heating and cooling systems with an Emphasis on the importance of the subsurface",
@@ -868,12 +868,12 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
-      "title": "Ash deposition and gas-phase contamination of a CaMn-based perovskite during furfural residue chemical looping combustion",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034873?dgcid=rss_sd_all",
+      "title": "Dual-regime molecular restructuring in vacuum hot-pressed briquette coal: Closing the fidelity gap for gas outburst simulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126035817?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Yingjie Mi, Wen Luo, Jinchen Ma, Zhenyi Du, Haibo Zhao"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 430, Part H Author(s): Qingqing Gan, Qian Kang, Jiang Xu, Shoujian Peng"
     }
   ]
 }
