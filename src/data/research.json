@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T19:14:34.606Z",
+  "generatedAt": "2026-10-23T08:38:37.813Z",
   "sources": {
     "manual": {
       "ok": true,
@@ -9,19 +9,19 @@
     "orcid": {
       "ok": true,
       "count": 6,
-      "lastSuccess": "2026-10-22T19:14:33.304Z",
+      "lastSuccess": "2026-10-23T08:38:36.454Z",
       "error": null
     },
     "crossref": {
       "ok": true,
       "count": 3,
-      "lastSuccess": "2026-10-22T19:14:34.016Z",
+      "lastSuccess": "2026-10-23T08:38:37.271Z",
       "error": null
     },
     "zenodo": {
       "ok": true,
       "count": 0,
-      "lastSuccess": "2026-10-22T19:14:34.587Z",
+      "lastSuccess": "2026-10-23T08:38:37.799Z",
       "error": null,
       "note": "no records deposited under this ORCID yet"
     },
