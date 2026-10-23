@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:54:07.361Z",
+  "generatedAt": "2026-10-23T05:17:40.426Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 2,
+      "count": 7,
       "error": null
     },
     {
@@ -75,6 +75,78 @@
     }
   ],
   "items": [
+    {
+      "title": "Conditional Mean Flows for Frequency-Domain Scattered Wavefield Generation",
+      "link": "https://arxiv.org/abs/2610.31071",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-23T04:00:00.000Z",
+      "excerpt": "arXiv:2610.31071v1 Announce Type: new Abstract: Frequency-domain wavefield modeling underpins seismic imaging and inversion, where repeated Helmholtz solutions become costly as velocity models, source locations, and freq…"
+    },
+    {
+      "title": "GeoAgent: Contract-Constrained LLM Agents for Seismic Data Processing",
+      "link": "https://arxiv.org/abs/2610.31096",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-23T04:00:00.000Z",
+      "excerpt": "arXiv:2610.31096v1 Announce Type: new Abstract: Large language models (LLMs) can drive scientific software through function calling, but free-form tool use is fragile on long, data-dependent processing chains. Models omi…"
+    },
+    {
+      "title": "Modelling wide-swath altimeter observation-error correlations with a regularised diffusion operator",
+      "link": "https://arxiv.org/abs/2610.31409",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-23T04:00:00.000Z",
+      "excerpt": "arXiv:2610.31409v1 Announce Type: new Abstract: Unaccounted-for observation-error correlations have long been known to be detrimental to the quality of atmospheric and ocean analyses produced by data assimilation (DA) sy…"
+    },
+    {
+      "title": "First Results of Calculation of the Dayside Magnetopause Reconnection Rate with TRACERS",
+      "link": "https://arxiv.org/abs/2610.30517",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-23T04:00:00.000Z",
+      "excerpt": "arXiv:2610.30517v1 Announce Type: cross Abstract: Quantifying the rate of reconnection remains a key challenge in the study of geomagnetic storms. In this study, we present the first results from the new Tandem Reconnect…"
+    },
+    {
+      "title": "Linear and nonlinear stability of rate-and-state faults",
+      "link": "https://arxiv.org/abs/2512.18729",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-23T04:00:00.000Z",
+      "excerpt": "arXiv:2512.18729v3 Announce Type: replace Abstract: Models of faults incorporating slip rate- and state-dependent friction have reproduced phenomena from spontaneous slow, aseismic slip to earthquake-generating dynamic r…"
+    },
+    {
+      "title": "Evaluating Neural Probabilistic Forecasts of Sparse Earthquake Counts: What Survives a Careful Evaluation",
+      "link": "https://arxiv.org/abs/2605.21437",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-23T04:00:00.000Z",
+      "excerpt": "arXiv:2605.21437v2 Announce Type: replace Abstract: We revisit a neural negative binomial model for weekly earthquake counts on a 3 x 3 degree grid over the Tian Shan and Pamir, and ask which of its conclusions survive a…"
+    },
+    {
+      "title": "Order-Disorder in Fe-Si Alloys: Implications for Seismic and Transport Properties of Earth's Inner Core",
+      "link": "https://arxiv.org/abs/2511.22899",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-23T04:00:00.000Z",
+      "excerpt": "arXiv:2511.22899v2 Announce Type: replace-cross Abstract: Understanding the structure and dynamics of Earth's inner core is essential for constraining its composition, thermal evolution, and seismic behavior. Silicon is…"
+    },
+    {
+      "title": "Brazil's presidential elections linked to decades of fluctuating environmental destruction—study",
+      "link": "https://phys.org/news/2026-10-brazil-presidential-elections-linked-decades.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-22T22:20:07.000Z",
+      "excerpt": "A University of Cambridge–led analysis of maps made from satellite imagery covering over three decades and seven presidents shows how the winner of Brazil's national elections since 1990 directly affected the preservatio…"
+    },
+    {
+      "title": "How farming helped cause two medieval tsunamis in an Italian lake—and why the danger has returned",
+      "link": "https://phys.org/news/2026-10-farming-medieval-tsunamis-italian-lake.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-22T22:00:13.000Z",
+      "excerpt": "On Jan. 3, 1117, a strong earthquake shook northern Italy. A manuscript of the 12th century, kept today in the Vatican Library, recorded what came next: \"The lakes also rose so much that very few of those living in the v…"
+    },
     {
       "title": "Microplastics in sediment could trace decades of human activity worldwide",
       "link": "https://phys.org/news/2026-10-microplastics-sediment-decades-human-worldwide.html",
@@ -156,14 +228,6 @@
       "excerpt": "A pilot project in which Indigenous people in the Peruvian Amazon were given an unconditional basic income significantly improved community well-being, strengthened food security and supported rainforest protection, acco…"
     },
     {
-      "title": "Scientists discover dangerous water oscillations between Lake Varna and Black Sea",
-      "link": "https://phys.org/news/2026-10-scientists-dangerous-oscillations-lake-varna.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-22T11:00:10.000Z",
-      "excerpt": "For years, pilots have observed strong and unusual currents in the 2.4-kilometer-long (1.5-mile-long), 300-meter-wide (984-foot-wide) canal connecting Lake Varna with the Black Sea. Maarja Kruusmaa, an academician and pr…"
-    },
-    {
       "title": "Ghana signs $28bn Jomoro petroleum hub expansion deal",
       "link": "https://www.offshore-technology.com/news/ghana-28bn-jomoro-petroleum-hub-deal/",
       "source": "Offshore Technology",
@@ -188,36 +252,12 @@
       "excerpt": "Accelerating efforts to replace Russian pipeline gas with diversified LNG imports will drive Europe’s LNG regasification capacity expansion."
     },
     {
-      "title": "India capital steps up air pollution controls ahead of winter",
-      "link": "https://phys.org/news/2026-10-india-capital-air-pollution-winter.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-22T09:10:02.000Z",
-      "excerpt": "India began annual measures on Thursday to tackle toxic air pollution in New Delhi, a megacity of 30 million people regularly ranked among the world's most polluted capitals."
-    },
-    {
       "title": "Kinder Morgan approves $4.7bn for US gas pipelines",
       "link": "https://www.offshore-technology.com/news/kinder-morgan-4-7bn-us-gas-pipelines/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-10-22T07:27:17.000Z",
       "excerpt": "Kinder Morgan has committed $4.7bn as its share of investments in two natural gas pipeline joint ventures (JV), driven by increasing demand from power generation, data centres, and liquefied natural gas (LNG) export faci…"
-    },
-    {
-      "title": "Computational and experimental study of multi-grain-size sediment transport and sorting process",
-      "link": "https://arxiv.org/abs/2610.29072",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-22T04:00:00.000Z",
-      "excerpt": "arXiv:2610.29072v1 Announce Type: cross Abstract: Successful prediction of the interaction between turbulent flows and river ecosystems is essential for flood management, development of mitigation strategies, and infrast…"
-    },
-    {
-      "title": "Space weather dependence of decameter-scale ionospheric irregularities spatial distribution",
-      "link": "https://arxiv.org/abs/2610.29630",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-22T04:00:00.000Z",
-      "excerpt": "arXiv:2610.29630v1 Announce Type: cross Abstract: This paper describes an approach to constructing nowcast and forecast predictive models for the occurrence of high-latitude decameter ionospheric irregularities based on…"
     },
     {
       "title": "A rock plunged 90 kilometers into Earth and revealed something unexpected",
@@ -834,46 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
-    },
-    {
-      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Tailoring photothermal CO 2 hydrogenation by oxide-supported Pt catalysts prepared by flame spray pyrolysis",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036045?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Weiqi Wang, Guannan Liu, Liyuan Wei, Tao Ma, Tingting Xu, Dong Liu"
-    },
-    {
-      "title": "DNN-CNN-based analysis of autoignition and combustion characteristics of DME/NH 3 homogeneous mixtures under marine engine relevant conditions",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126035933?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Taipeng Mao, Xinyi Xiong, Wenchao Zhu, Mingkun Zhang, Jiabei Cao, Xinyang Tian, Xiangyu Meng, Wuqiang Long, Mingshu Bi"
-    },
-    {
-      "title": "Flow effects on laser-induced ignition of ammonia-hydrogen mixtures: minimum ignition energy and third-lobed flame kernel dynamics",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036380?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Junjie Zhang, Erjiang Hu, Haoran Li, Zhuocheng Zhang, Geyuan Yin, Zuohua Huang"
-    },
-    {
-      "title": "PW 9 V 3 confined in MIL-101(Cr) via V–O–Cr interfacial linkages for enhanced photocatalytic nitrogen reduction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036008?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Xiaoxiao Zhao, Xinjie Zhang, Yang Yang, Min Luo, Xiaoman Li"
     }
   ]
 }
