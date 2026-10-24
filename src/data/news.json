@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:37:23.267Z",
+  "generatedAt": "2026-10-24T04:58:47.753Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 7,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Child-led citizen science helps Ecuadorian community tackle beach pollution and shape environmental decisions",
+      "link": "https://phys.org/news/2026-10-child-citizen-science-ecuadorian-community.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-24T02:20:01.000Z",
+      "excerpt": "Pollution from human-generated waste in marine ecosystems has reached critical levels, with cigarette butts (CBs) among the most persistent and harmful pollutants. Globally, an estimated 4.5 trillion cigarette butts are…"
+    },
+    {
+      "title": "Study maps the human side of flood risk",
+      "link": "https://phys.org/news/2026-10-human-side.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-23T22:20:02.000Z",
+      "excerpt": "When heavy rain hits a city, knowing where water will accumulate is only part of the picture. Who lives in the affected buildings? How might flooding disrupt their lives? And where could additional support make the great…"
+    },
     {
       "title": "As flood risk rises, some communities question the idea of resilience",
       "link": "https://phys.org/news/2026-10-communities-idea-resilience.html",
@@ -180,84 +196,12 @@
       "excerpt": "Cheniere Energy has signed long-term sale and purchase agreements (SPAs) with QatarEnergy for the supply of a combined total of four million tonnes per annum (mtpa) of liquefied natural gas (LNG) through to 2054."
     },
     {
-      "title": "Just 3% of the world's glaciers account for over half of glacier ice loss",
-      "link": "https://phys.org/news/2026-10-world-glaciers-account-glacier-ice.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-23T09:00:01.000Z",
-      "excerpt": "Glaciers ending in lakes, oceans or ice shelves make up 3.2% of the world's glaciers, but lost 134 billion metric tons (148 billion tons) of ice each year between 2000 and 2019, accounting for more than half of all glaci…"
-    },
-    {
-      "title": "Taiwan shuts down as Typhoon Champi approaches",
-      "link": "https://phys.org/news/2026-10-taiwan-typhoon-champi-approaches.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-23T08:30:01.000Z",
-      "excerpt": "Most shops and schools were shut across Taiwan on Friday as Typhoon Champi neared the island, forcing hundreds of people to leave their homes ahead of the powerful storm."
-    },
-    {
       "title": "Equinor and partners award Wisting FEED contract to Aibel",
       "link": "https://www.offshore-technology.com/news/equinor-wisting-feed-contract-aibel/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-10-23T07:38:04.000Z",
       "excerpt": "Equinor and its partners have awarded Aibel a contract to carry out front-end engineering and design (FEED) for the topsides of the production vessel at the Wisting oil discovery in the Barents Sea."
-    },
-    {
-      "title": "Conditional Mean Flows for Frequency-Domain Scattered Wavefield Generation",
-      "link": "https://arxiv.org/abs/2610.31071",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-23T04:00:00.000Z",
-      "excerpt": "arXiv:2610.31071v1 Announce Type: new Abstract: Frequency-domain wavefield modeling underpins seismic imaging and inversion, where repeated Helmholtz solutions become costly as velocity models, source locations, and freq…"
-    },
-    {
-      "title": "GeoAgent: Contract-Constrained LLM Agents for Seismic Data Processing",
-      "link": "https://arxiv.org/abs/2610.31096",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-23T04:00:00.000Z",
-      "excerpt": "arXiv:2610.31096v1 Announce Type: new Abstract: Large language models (LLMs) can drive scientific software through function calling, but free-form tool use is fragile on long, data-dependent processing chains. Models omi…"
-    },
-    {
-      "title": "Modelling wide-swath altimeter observation-error correlations with a regularised diffusion operator",
-      "link": "https://arxiv.org/abs/2610.31409",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-23T04:00:00.000Z",
-      "excerpt": "arXiv:2610.31409v1 Announce Type: new Abstract: Unaccounted-for observation-error correlations have long been known to be detrimental to the quality of atmospheric and ocean analyses produced by data assimilation (DA) sy…"
-    },
-    {
-      "title": "First Results of Calculation of the Dayside Magnetopause Reconnection Rate with TRACERS",
-      "link": "https://arxiv.org/abs/2610.30517",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-23T04:00:00.000Z",
-      "excerpt": "arXiv:2610.30517v1 Announce Type: cross Abstract: Quantifying the rate of reconnection remains a key challenge in the study of geomagnetic storms. In this study, we present the first results from the new Tandem Reconnect…"
-    },
-    {
-      "title": "Linear and nonlinear stability of rate-and-state faults",
-      "link": "https://arxiv.org/abs/2512.18729",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-23T04:00:00.000Z",
-      "excerpt": "arXiv:2512.18729v3 Announce Type: replace Abstract: Models of faults incorporating slip rate- and state-dependent friction have reproduced phenomena from spontaneous slow, aseismic slip to earthquake-generating dynamic r…"
-    },
-    {
-      "title": "Evaluating Neural Probabilistic Forecasts of Sparse Earthquake Counts: What Survives a Careful Evaluation",
-      "link": "https://arxiv.org/abs/2605.21437",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-23T04:00:00.000Z",
-      "excerpt": "arXiv:2605.21437v2 Announce Type: replace Abstract: We revisit a neural negative binomial model for weekly earthquake counts on a 3 x 3 degree grid over the Tian Shan and Pamir, and ask which of its conclusions survive a…"
-    },
-    {
-      "title": "Order-Disorder in Fe-Si Alloys: Implications for Seismic and Transport Properties of Earth's Inner Core",
-      "link": "https://arxiv.org/abs/2511.22899",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-23T04:00:00.000Z",
-      "excerpt": "arXiv:2511.22899v2 Announce Type: replace-cross Abstract: Understanding the structure and dynamics of Earth's inner core is essential for constraining its composition, thermal evolution, and seismic behavior. Silicon is…"
     },
     {
       "title": "Energies, Vol. 19, Pages 5070: Productivity Prediction in Deflagration-Fractured Wells: A Novel Approach Based on Fractal Fracture Medium",
@@ -874,6 +818,62 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Raman-informed physics-constrained machine learning for CH 4 /N 2 hydrate kinetics and separation in low-concentration coalbed methane upgrading",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126035660?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Xi-Yue Li, Dong-Liang Zhong, Peter Englezos, Jin Yan, Liang-Meng Wu, Dong-Hui Xin, Wan-Ming Bao"
+    },
+    {
+      "title": "Energy management strategy for enhancing methanol economy of direct methanol fuel cell/lithium-ion battery hybrid power system",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033132?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Xuncheng Chi, Fengxiang Chen, Jianquan Xu, Hao Zhong"
+    },
+    {
+      "title": "Unravelling the kinetic and thermodynamic drivers of NO variability in ammonia-natural gas combustion based powertrains",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034964?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): P. Gabana, A. Cova-Bonillo, J.M. Herreros, A. Tsolakis"
+    },
+    {
+      "title": "Performance and estimation of regulated pollutant emissions of a touristic catamaran fueled with neat hydrotreated vegetable oil in the Atlantic Islands National Park (Spain)",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603557X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): R. García-Contreras, J.A. Soriano, L. Sánchez, O. Armas, F. Oliva, M.D. Cárdenas, A.L. Boehman"
+    },
+    {
+      "title": "Enhancing ammonia reactivity and accelerating autoignition via off-site nanosecond pulsed discharge: strategy and mechanism",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603632X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Ruizhi Cao, Yanxiao Wu, Xuejiao Li, Liang Yu, Xingcai Lu"
+    },
+    {
+      "title": "Selective hydrogenolysis of lignin catalyzed by Ni-Cu/MFI-ns",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036422?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Guangcai Long, Yinan Rao, Zejia Wu, Lixia Li, Jinxing Long"
     }
   ]
 }
