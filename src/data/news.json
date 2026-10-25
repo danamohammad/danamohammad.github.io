@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:14:18.687Z",
+  "generatedAt": "2026-10-25T11:57:20.393Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 5082: CFD Modelling of &ldquo;Clean&rdquo; Coal Technologies at Operating Thermal Power Plants Aimed at Reducing Harmful Emissions",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5082",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-25T00:00:00.000Z",
+      "excerpt": "Improving the environmental performance of utility boilers fired with high-ash coal requires optimisation of combustion aerodynamics and staged air supply. This article summarises studies investigating the effects of flo…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5081: Permeability Evolution and Water-Rock Reaction Mechanism of Dolomite Geothermal Reservoirs in Wumishan Formation During Reinjection",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5081",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-25T00:00:00.000Z",
+      "excerpt": "Geothermal reinjection is critical for sustainable exploitation of geothermal resources, yet the permeability evolution mechanism of carbonate geothermal reservoirs remains poorly understood. Taking dolomite geothermal r…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5080: China&rsquo;s LNG Ex-Factory Prices by Integrating Large Language Models and Ensemble Learning: A Cutting-Edge Hybrid Approach",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5080",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-25T00:00:00.000Z",
+      "excerpt": "China&amp;rsquo;s liquefied natural gas (LNG) ex-factory prices are affected by market-oriented reforms, supply structure changes, and diverse heterogeneous factors, presenting strong nonlinearity, nonstationarity, multi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3413: Mean Radiant Temperature Calculation Using Neural Networks in Python",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3413",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-25T00:00:00.000Z",
+      "excerpt": "Reducing energy consumption is a very important topic for engineers and researchers. The need for this reduction, combined with reductions in energy generation using fossil sources, with the aim of mitigating climate cha…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3412: Valorization of Potato, Cassava, and Yam Starch Extraction Residues in Wheat Bread: Effects on Dough Extensibility, Expansion, Crumb Structure, Texture, and Consumer Acceptance",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3412",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-25T00:00:00.000Z",
+      "excerpt": "Starch extraction generates solid residues that could be valorized as alternative ingredients in bakery products. This study evaluated potato, cassava, and yam starch extraction residue flours as partial substitutes for…"
+    },
     {
       "title": "Ancient stalagmites reveal exceptions to Asia–South America monsoon seesaw over the past 450,000 years",
       "link": "https://phys.org/news/2026-10-ancient-stalagmites-reveal-exceptions-asiasouth.html",
@@ -332,30 +372,6 @@
       "excerpt": "Equinor and its partners have awarded Aibel a contract to carry out front-end engineering and design (FEED) for the topsides of the production vessel at the Wisting oil discovery in the Barents Sea."
     },
     {
-      "title": "Energies, Vol. 19, Pages 5070: Productivity Prediction in Deflagration-Fractured Wells: A Novel Approach Based on Fractal Fracture Medium",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5070",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-23T00:00:00.000Z",
-      "excerpt": "Deflagration fracturing can create complex near-wellbore fracture networks whose contribution to well productivity remains difficult to describe analytically. We develop a flow-resistance model that represents the stimul…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5069: Multi-Dimensional Dynamic Performance Comparison of Hybrid Energy Storage Topologies for Off-Grid Flexible Hydrogen Production Based on System-Level Thermodynamic Dynamic Modeling of AEM Electrolyzers",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5069",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-23T00:00:00.000Z",
-      "excerpt": "To address the safety concerns in off-grid wind&amp;ndash;solar hydrogen production systems, where fluctuating renewable power input can induce transient current shocks to the anion-exchange membrane (AEM) electrolyzer a…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5068: Novel PWM Pattern for AC&ndash;DC Matrix Converter with Low Switching Voltage Stress and Low Common-Mode Voltage",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5068",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-23T00:00:00.000Z",
-      "excerpt": "The AC&amp;ndash;DC matrix converter (AMC) has promising application prospects; however, its widespread application is constrained by issues such as excessive common-mode voltage (CMV) and switching voltage stress. Previ…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3404: Flow Coefficient as a Normalising Operating Parameter for Comparison of Drop-in Fluid Replacement in Centrifugal Compressors",
       "link": "https://www.mdpi.com/2227-9717/14/21/3404",
       "source": "Processes (MDPI)",
@@ -378,22 +394,6 @@
       "category": "processing",
       "published": "2026-10-23T00:00:00.000Z",
       "excerpt": "Carbapenem-resistant bacteria (CRB) are increasingly documented in wastewater-impacted rivers, but their distribution along the entire river continuum remains poorly understood. We analysed CRB distribution in a river ec…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3401: Anticipation Augment-Assisted Active Disturbance Rejection Control and Its Application in SCR Denitrification Systems",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3401",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-23T00:00:00.000Z",
-      "excerpt": "Selective catalytic reduction (SCR) denitrification systems in coal-fired power plants exhibit large inertia, pronounced dynamic lag, time-varying parameters, catalyst ammonia-storage effects, and multiple disturbances,…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3400: Weather-Transition-Aware Dynamic Mixture-of-Experts for Day-Ahead Probabilistic Wind Power Forecasting",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3400",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-23T00:00:00.000Z",
-      "excerpt": "Wind power forecasting under transitional weather conditions is crucial for the secure operation and dispatch of power systems. However, existing methods have limited ability to perceive and adapt to the rapid, nonstatio…"
     },
     {
       "title": "APA makes FID on $492m Bulloo Interlink Pipeline in Australia",
@@ -828,52 +828,52 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
-      "title": "Flash-boiling spray morphology and flow characteristics of superheated RP-3 kerosene from micro-orifice nozzles",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036379?dgcid=rss_sd_all",
+      "title": "Accelerating the discovery of High-Performance multi-component thermodynamic hydrate inhibitors via Bayesian optimization with molecular insights into synergistic mechanisms",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603629X?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Junhao Tu, Xu Huang, Yuxin Fan, Puzhen Xie"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Tingting Miao, Dongsheng Chen, Cheng Chang, Xuyang Guo, Zhongli Ji"
     },
     {
-      "title": "Roles of reactive radicals and alkali and alkaline earth metal forms in ambient-temperature oxidation and rapid self-heating of low-rank coal char",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033041?dgcid=rss_sd_all",
+      "title": "Mn-regulated Fe-N-C air cathodes for efficient oxygen reduction and stable fuel-cell operation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036173?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Haiyan Wang, Xinhao Ye, Jinhu Li, Hao Yu, Huiyong Niu, Zhuangzhuang Shao, Yikang Liu, Zhenxing Zhou, Xiaolu Liu"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Menghan Liang, Yudong Zhang, Qin Peng, Yang Yang, Yaqian Dong, Yang Wang, Dongdong Chen, Hantao Liu, Tiexiong Su"
     },
     {
-      "title": "Energy analysis and phase equilibrium in clathrate hydrate-based simultaneous carbon capture and desalination",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036227?dgcid=rss_sd_all",
+      "title": "Effects of MgO on the flow behavior of CaO-rich municipal solid waste slags for stable entrained-flow gasification",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034289?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Toshikazu Sasaki, Toru Kubonaka, Shosei Morizumi, Kouki Mekaru, Taisei Uechi, Keita Yasuda"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Jiawei Wu, Xin Han, Xinping Pei, Shunxuan Hu, Fenghao Jiang, Fenghai Li, ZhiChao Ma, Junguo Li, Ke Liu"
     },
     {
-      "title": "Numerical investigation of premixed hydrogen/air combustion in a stepped micro planar combustor with splitter plate",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034988?dgcid=rss_sd_all",
+      "title": "Multi-scenario fire protection performance of an LDH-reinforced bio-based gel foam",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603646X?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Zhimin Yao, Shilong Li, Mo He, Haodong Xu, Yutao Hu"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Yan Li, Bei Li, Boyuan Wang, Ke Shi, Anwar Ahmatjan, Fuchao Tian"
     },
     {
-      "title": "Raman-informed physics-constrained machine learning for CH 4 /N 2 hydrate kinetics and separation in low-concentration coalbed methane upgrading",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126035660?dgcid=rss_sd_all",
+      "title": "Exergy-driven lifecycle dispatch of a wind–solar–geothermal–hydrogen integrated energy system for shale-oil gathering in frigid regions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036197?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Xi-Yue Li, Dong-Liang Zhong, Peter Englezos, Jin Yan, Liang-Meng Wu, Dong-Hui Xin, Wan-Ming Bao"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Yue Liu, Qinglin Cheng, Yuchun Li, Haiying Sun, Shaosong Zhao"
     },
     {
-      "title": "Energy management strategy for enhancing methanol economy of direct methanol fuel cell/lithium-ion battery hybrid power system",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033132?dgcid=rss_sd_all",
+      "title": "Mechanism of shearer-induced CO release and its impact on oxidation activity of different rank coals",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126035830?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Xuncheng Chi, Fengxiang Chen, Jianquan Xu, Hao Zhong"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Yunfei Zuo, Liyang Gao, Bo Tan, Longkun Sui, Jun Zhou, Wenkui Song, Zicheng Guo, Haiyan Wang, Huiyong Niu"
     }
   ]
 }
