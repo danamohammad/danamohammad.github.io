@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:57:20.393Z",
+  "generatedAt": "2026-10-25T16:46:53.570Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,46 @@
   ],
   "items": [
     {
+      "title": "Global underground CO₂ storage hit record 43.6 million metric tons in 2024 alone",
+      "link": "https://phys.org/news/2026-10-global-underground-storage-million-metric.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-25T12:00:01.000Z",
+      "excerpt": "The most comprehensive record yet of carbon dioxide stored underground through geological carbon dioxide storage has been published today, revealing that 43.6 million metric tons were sequestered in 2024 alone—a new annu…"
+    },
+    {
+      "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+      "source": "ScienceDaily — Energy Technology",
+      "category": "energy",
+      "published": "2026-10-25T02:19:07.000Z",
+      "excerpt": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that m…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5085: Enhanced Machine Learning Techniques for System Imbalance Forecasting",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5085",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-25T00:00:00.000Z",
+      "excerpt": "The unpredictable nature of renewable energy sources (RES) has become a major cause of imbalance between electricity generation and demand, which the Transmission System Operator (TSO) must handle in real-time operation.…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5084: A Hybrid LSTM&ndash;PPO&ndash;RBC Edge Controller for Building HVAC: Sim-to-Real Validation on a Raspberry Pi 4",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5084",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-25T00:00:00.000Z",
+      "excerpt": "Deep reinforcement learning (DRL) controllers for heating, ventilation and air conditioning (HVAC) are rarely deployed on real edge hardware or evaluated across climates, and published DRL-HVAC studies seldom report a ph…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5083: Comprehensive Evaluation of Retrogression-Resistant Well Cement Systems Set at Different Temperatures and Cured at 200 &deg;C",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5083",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-25T00:00:00.000Z",
+      "excerpt": "Traditional silica-enriched oil well cement suffers from strength retrogression at high temperatures, hindering deep geoenergy resource development. This study comprehensively evaluates novel retrogression-resistant ceme…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 5082: CFD Modelling of &ldquo;Clean&rdquo; Coal Technologies at Operating Thermal Power Plants Aimed at Reducing Harmful Emissions",
       "link": "https://www.mdpi.com/1996-1073/19/21/5082",
       "source": "Energies (MDPI)",
@@ -98,6 +138,14 @@
       "category": "energy",
       "published": "2026-10-25T00:00:00.000Z",
       "excerpt": "China&amp;rsquo;s liquefied natural gas (LNG) ex-factory prices are affected by market-oriented reforms, supply structure changes, and diverse heterogeneous factors, presenting strong nonlinearity, nonstationarity, multi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3414: DEM&ndash;MBD Modeling and Experimental Validation of Straw&ndash;Soil Particle Migration and Separation During Straw Pickup and Feeding",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3414",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-25T00:00:00.000Z",
+      "excerpt": "The migration and separation behavior of heterogeneous straw&amp;ndash;soil mixtures during agricultural processing involves complex particle interactions that are difficult to characterize experimentally. A coupled disc…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3413: Mean Radiant Temperature Calculation Using Neural Networks in Python",
@@ -194,30 +242,6 @@
       "category": "energy",
       "published": "2026-10-24T00:00:00.000Z",
       "excerpt": "Estimates of potential energy savings from selected energy efficiency measures (EEMs) typically require specialized expertise, time-intensive building audits, and detailed engineering analyses. To address this challenge,…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5073: Cryptographically Anchored Distributed Ledgers for Smart Grid Cybersecurity: An Attribute-Oriented Framework",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5073",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-24T00:00:00.000Z",
-      "excerpt": "This article provides an overview of the applications of cryptographically anchored distributed ledgers in supporting smart grid cybersecurity. The discussion focuses on multi-layer cyber&amp;ndash;physical architecture,…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5072: Rational Control of Rapid Water Filtration with Respect to Energy Consumption (Literature Review)",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5072",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-24T00:00:00.000Z",
-      "excerpt": "This article presents a literature review of energy consumption in water treatment and distribution systems. At the global level, electricity consumption for water treatment and distribution is discussed in relation to t…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5071: CNN-Based Seismic Multi-Attribute Fusion for Quantitative Cumulative Sandstone Thickness Prediction in Ultra-Deep Reservoirs Under Sparse Well Control",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5071",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-24T00:00:00.000Z",
-      "excerpt": "Ultra-deep hydrocarbon formations in northwestern China are critical exploration targets, but their reported measured depths (MD) exceeding 6700 m, low exploration degree, and extremely sparse well control restrict effic…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3411: Pharmaceutical Micropollutants in Aquatic Environments:An Integrated Review of Environmental Fate, Ecotoxicological Risks, and Hybrid Treatment Approaches",
@@ -332,14 +356,6 @@
       "excerpt": "A powerful typhoon pounded Taiwan on Friday as authorities warned of \"destructive winds\" and urged locals to shelter from the storm."
     },
     {
-      "title": "US drinking water could contain double the reported PFAS levels, model estimates",
-      "link": "https://phys.org/news/2026-10-pfas.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-23T15:00:04.000Z",
-      "excerpt": "Common ways of reporting perfluoroalkyl and polyfluoroalkyl substances (PFAS)—the man-made, so-called forever chemicals that pose environmental and health threats—could underestimate the concentration of PFAS in U.S. dri…"
-    },
-    {
       "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
       "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
       "source": "ScienceDaily — Geology",
@@ -386,14 +402,6 @@
       "category": "processing",
       "published": "2026-10-23T00:00:00.000Z",
       "excerpt": "Inter-phase disturbance propagation among three-phase electrodes can degrade electrode regulation in alternating-current electric arc furnaces (EAFs). This paper proposes ASC-DualGate, a risk-constrained structural-compe…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3402: Presence of Carbapenem-Resistant Bacteria Across a River Pollution Gradient",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3402",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-23T00:00:00.000Z",
-      "excerpt": "Carbapenem-resistant bacteria (CRB) are increasingly documented in wastewater-impacted rivers, but their distribution along the entire river continuum remains poorly understood. We analysed CRB distribution in a river ec…"
     },
     {
       "title": "APA makes FID on $492m Bulloo Interlink Pipeline in Australia",
@@ -628,14 +636,6 @@
       "excerpt": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The disco…"
     },
     {
-      "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064801.htm",
-      "source": "ScienceDaily — Energy Technology",
-      "category": "energy",
-      "published": "2026-08-17T02:28:23.000Z",
-      "excerpt": "Scientists have discovered that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior, creating surprisingly strong charge separation. The finding suggests future electronics could be t…"
-    },
-    {
       "title": "Advanced cementing for geothermal wells: A critical review of materials, placement practices, failure mechanisms, and emerging alternative binders",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005282?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -658,6 +658,14 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Bicheng Gan, Zhengmeng Hou, Hongxu Wang, Lin Wu, Nan Cai, Haichen Li, Haixiang Zhang"
+    },
+    {
+      "title": "Pore pressure prediction from well logs based on mean effective stress",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005270?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Shahad Alsadoon, Amin Mehrabian"
     },
     {
       "title": "Modeling calcium carbonate deposition driven by the geothermal gradient in low-rate geothermal reinjection wells and field-scale calibration",
@@ -722,14 +730,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Yuntao Li, Wenlong Ding, Zhong Liu, Jinghong Hu, Hongen Li, Mengyang Zhang, Pengbao Zhang, Hao Jian, Xiaoyun Cheng"
-    },
-    {
-      "title": "Study on the influence of water-jet pre-cutting parameters on rock breaking by spherical insert teeth based on X-ray CT and three-dimensional discrete element numerical simulation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005130?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Xin Huang, Haoran Yang, Zhiqiang Yin, Chuanming Li, Jucai Chang, Haoxiang Tu, Jiuqun Zou, Fuwei Liu, Lina Jia"
     },
     {
       "title": "A review of vertical closed-loop geothermal heating and cooling systems with an Emphasis on the importance of the subsurface",
