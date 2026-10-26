@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:29:38.142Z",
+  "generatedAt": "2026-10-26T22:51:17.716Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Freshwater flows reshape Coorong algae communities, 16 years of data reveal",
+      "link": "https://phys.org/news/2026-10-freshwater-reshape-coorong-algae-communities.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-26T22:00:01.000Z",
+      "excerpt": "Ongoing research is providing a clearer picture of how climate change can affect different aspects of the Coorong in South Australia—and is helping develop strong environmental strategies that can be adapted as the clima…"
+    },
+    {
+      "title": "Tree‑hugging optional: What today's green tradespeople actually care about",
+      "link": "https://phys.org/news/2026-10-treehugging-optional-today-green-tradespeople.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-26T20:40:11.000Z",
+      "excerpt": "Is masculinity a barrier to green jobs?"
+    },
+    {
+      "title": "Shared aquifers, border hotspots: Cooperation should follow where groundwater is pumped, scientists say",
+      "link": "https://phys.org/news/2026-10-aquifers-border-hotspots-cooperation-groundwater.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-26T20:10:06.000Z",
+      "excerpt": "Groundwater depletion and groundwater-dependent irrigation tend to concentrate close to international borders within aquifers shared by two or more countries, where pumping on one side is more likely to affect users on t…"
+    },
+    {
+      "title": "Biodiversity is a priority for European municipalities",
+      "link": "https://phys.org/news/2026-10-biodiversity-priority-european-municipalities.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-26T18:20:01.000Z",
+      "excerpt": "As urbanization spreads worldwide, the loss and fragmentation of habitats are driving the global decline in biodiversity. At the same time, urban green spaces like parks, meadows and forests have the potential to contrib…"
+    },
+    {
+      "title": "Climate change exposes gaps in Europe's protected-area network",
+      "link": "https://phys.org/news/2026-10-climate-exposes-gaps-europe-area.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-26T18:00:02.000Z",
+      "excerpt": "As the climate changes, protecting wildlife increasingly depends on both the conditions within protected areas and the connections between them. A new study published in Conservation Letters identifies where climatic sta…"
+    },
+    {
+      "title": "Sediment core reveals volcanic eruption preceded ancient cold spell by about 150 years",
+      "link": "https://phys.org/news/2026-10-sediment-core-reveals-volcanic-eruption.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-26T15:20:05.000Z",
+      "excerpt": "A new study led by an international research team including scientists at the University of South Carolina challenges the idea that the ancient Laacher See volcanic eruption in western Europe triggered a significant clim…"
+    },
+    {
+      "title": "While some eucalypts are hard to kill, climate change may test the ability of others to survive",
+      "link": "https://phys.org/news/2026-10-eucalypts-hard-climate-ability-survive.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-26T15:10:01.000Z",
+      "excerpt": "There's no tree like the humble eucalypt."
+    },
     {
       "title": "Rain gardens offer a balanced solution for managing urban stormwater near Tokyo",
       "link": "https://phys.org/news/2026-10-gardens-solution-urban-stormwater-tokyo.html",
@@ -156,6 +212,62 @@
       "excerpt": "arXiv:2610.31096v2 Announce Type: replace Abstract: Large language models (LLMs) can drive scientific software through function calling, but free-form tool use is fragile on long, data-dependent processing chains. Models…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 5107: Distributionally Robust Risk Dispatch for Integrated Electricity and Heating System Using Moment and Unimodal Information",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5107",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "The integration of large amounts of uncertainties in renewable energies into integrated electricity and heating systems gives rise to new challenges and threatens security. This paper presents a distributionally robust r…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5106: Adaptive Overcurrent Protection of Distribution Substations with Definite-Time Characteristics",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5106",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "The increasing penetration of distributed energy resources (DERs) introduces new challenges for the operation and protection of power systems. The main challenges for protection systems arise from varying power flows and…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5105: Impact Analysis of Battery Energy Storage System and Demand Response in Microgrid",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5105",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "Coordinated scheduling of distributed generation (DG), battery energy storage systems (BESS) and demand response (DR) is needed to reduce grid procurement costs without compromising customer comfort or network constraint…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5103: Numerical Investigation of Heat Transfer Enhancement Using Novel &ldquo;Ram-Horn&rdquo; Internal Fins in a Tube",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5103",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "Most passive heat exchanger tube inserts only raise the Nusselt number by dramatically increasing friction, and studies on fin inserts have generally focused on low turbulent Reynolds numbers used in plant equipment. In…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5104: Sustainable Hybrid Off-Grid Energy Systems for Rural Electrification in the Amazon Region",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5104",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "Although Brazil is in the last mile of achieving universal electricity access, the Amazon region represents the country&amp;rsquo;s most critical electrification frontier, where remote energy expansion has largely failed…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5102: Real-Time Management of Distributed Energy Sources in Energy Communities: A Cooperative Multi-Agent DQN Control Framework",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5102",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "In 2024, the European Commission confirmed that the residential sector is responsible for 40% of total energy consumption in the EU and for 36% of greenhouse gas emissions, while 75% of buildings are still energy-ineffic…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5101: 2050 Subnational Residential Natural Gas Demand Forecasting Using Pooled Panel Data",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5101",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "Spatially and sectorally disaggregated gas demand projections are essential for infrastructure planning and decarbonisation, yet records of consumption and its drivers often span only a few years, which is insufficient f…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 5100: Digitalization, Oil Dependence, and Carbon Emissions: Evidence from a Global Panel",
       "link": "https://www.mdpi.com/1996-1073/19/21/5100",
       "source": "Energies (MDPI)",
@@ -196,60 +308,36 @@
       "excerpt": "Advanced control strategies for inverter-based distributed energy resources (DERs) are essential to ensure stable, reliable, and high-quality operation of modern islanded microgrids (MGs) as renewable energy penetration…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5096: Simultaneous Multiple Charging Stations Load Forecasting with Graph Neural Network",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5096",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3428: Drying of Schisandra chinensis: Process Engineering, Kinetics, Quality Evolution, and Scale-Up Challenges",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3428",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Large-scale and stochastic electric vehicle (EV) charging behaviors pose challenges to the grid operation due to their spatial heterogeneity and temporal variability. This paper proposes a Multiple Charging Station (MCS)…"
+      "excerpt": "Schisandra chinensis is a high-value medicinal and edible fruit rich in lignans, polysaccharides, oligosaccharides, organic acids, and volatile compounds. Drying is an essential postharvest processing step for extending…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5095: Exact Multi-Source Evaluation for National-Scale EV Charging Station Placement: How Far Does Surrogate Assistance Take Us?",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5095",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3427: Imidazolium-Based Ionic Liquids as Auxiliaries for Aqueous Disperse Dyeing of Polyethylene Terephthalate",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3427",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Selecting facility locations on a national road network requires evaluating, for every candidate configuration, the shortest-path distance from each demand node to its nearest facility. We show that this objective admits…"
+      "excerpt": "The aim of this study was to develop a method to dye polyethylene terephthalate fabrics to light and medium shades at 95 &amp;deg;C without the use of carriers, dispersing agents, or reducing agents and to evaluate the e…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5091: Simulation Modeling and Performance Optimization of CdS/CdTe Thin-Film Solar Cells",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5091",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3425: From Icing Detection to Icing Intelligence: Toward Self-Aware and Autonomous Cold-Region Transportation Infrastructure",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3425",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Cadmium telluride (CdTe) is a direct-bandgap semiconductor with strong optical absorption and is therefore well suited to thin-film photovoltaic conversion. This study brings together the AFORS-HET modeling work on CdS/C…"
+      "excerpt": "Icing poses a severe threat to the safety, durability, and operational reliability of transportation infrastructure in cold regions. Existing studies have mainly focused on ice detection, icing prediction, and deicing te…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5093: Off-Grid Photovoltaic Supply for a Diesel-Dependent School in Western Iraq: A Coupled Life-Cycle Cost and Greenhouse Gas Assessment Under Subsidised Fuel Prices",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5093",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3426: Toward Energy-Efficient Circular Economy Systems: Process Integration and Industrial Symbiosis in the Agri-Food Sector",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3426",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Public buildings across Iraq draw their daytime electricity from small diesel generators running at low load. A photovoltaic battery supply for a girls&amp;rsquo; primary school in Ramadi is assessed by hourly simulation…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5094: Robust Flexibility Aggregation of Virtual Power Plants Considering Commercial Constraints and Temporal Decoupling",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5094",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Driven by the accelerated transition toward low-carbon power systems, Virtual Power Plants (VPPs) have emerged as an essential paradigm for aggregating distributed energy resources (DERs). Consequently, accurately charac…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5090: Uncertainty- and Age-Aware UWB Fleet Scheduling with an Admitted-Cycle Energy Proxy",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5090",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Industrial ultra-wideband (UWB) tags can share a limited ranging-update budget through gateway-side admission control. We evaluate an artificial intelligence (AI)-assisted priority rule that combines predictive uncertain…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5089: Core-Scale Experimental Evaluation of Low-Salinity Waterflooding, AOS Surfactant Flooding and N2-WAG for Controlling Capillary Hysteresis and Enhancing Oil Displacement in Porous Media",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5089",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Capillary hysteresis significantly affects oil displacement efficiency in porous media by influencing residual oil trapping, relative permeability scanning behavior, and saturation history-dependent flow resistance. This…"
+      "excerpt": "The transition towards circular production systems requires integrated methodologies capable of combining heterogeneous recovery technologies while providing consistent criteria for process evaluation and industrial impl…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3424: Nonlinear Modeling and Multidirectional Mitigation of Coupled Axial&ndash;Lateral&ndash;Torsional Drillstring Vibrations in Deep-Well Drilling",
@@ -316,22 +404,6 @@
       "excerpt": "Food is one of the basic resources necessary for human life [...]"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3417: Fracture Geometry Modeling and Analysis of Layer-Crossing Conditions in Continental Shale Considering Apparent Fracture Toughness",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3417",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Vertical viscous resistance and bedding deformation jointly influence hydraulic fracture propagation in continental shale. A coupled pseudo-three-dimensional (P3D) framework incorporates apparent fracture toughness (effe…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3415: Integrated Microwave-Assisted Fractionation of the Caatinga Oilseed Licuri (Syagrus coronata) for Biomass Valorization",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3415",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Oilseed extraction is usually assessed by oil yield alone, with the residual solid treated as a by-product. This study compared microwave-assisted extraction (MAE; 50 &amp;deg;C, 175 W, 45 min) with Soxhlet extraction (7…"
-    },
-    {
       "title": "Australian coral reefs face risk of collapse within 50 years without drastic action, global assessment finds",
       "link": "https://phys.org/news/2026-10-australian-coral-reefs-collapse-years.html",
       "source": "Phys.org — Earth",
@@ -362,78 +434,6 @@
       "category": "energy",
       "published": "2026-10-25T02:19:07.000Z",
       "excerpt": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that m…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3414: DEM&ndash;MBD Modeling and Experimental Validation of Straw&ndash;Soil Particle Migration and Separation During Straw Pickup and Feeding",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3414",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-25T00:00:00.000Z",
-      "excerpt": "The migration and separation behavior of heterogeneous straw&amp;ndash;soil mixtures during agricultural processing involves complex particle interactions that are difficult to characterize experimentally. A coupled disc…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3413: Mean Radiant Temperature Calculation Using Neural Networks in Python",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3413",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-25T00:00:00.000Z",
-      "excerpt": "Reducing energy consumption is a very important topic for engineers and researchers. The need for this reduction, combined with reductions in energy generation using fossil sources, with the aim of mitigating climate cha…"
-    },
-    {
-      "title": "Ancient stalagmites reveal exceptions to Asia–South America monsoon seesaw over the past 450,000 years",
-      "link": "https://phys.org/news/2026-10-ancient-stalagmites-reveal-exceptions-asiasouth.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-24T13:00:01.000Z",
-      "excerpt": "In places like South Asia, Africa and parts of the Americas, monsoon rains supply water for drinking, crops and hydropower for billions of people. Understanding the patterns that monsoons tend to follow can help people p…"
-    },
-    {
-      "title": "Cleaner brick kilns cut pollution, but gains did not reach workers, research finds",
-      "link": "https://phys.org/news/2026-10-cleaner-brick-kilns-pollution-gains.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-24T12:00:07.000Z",
-      "excerpt": "Relatively simple changes to the way traditional brick kilns operate in Bangladesh can reduce pollution, save fuel and improve the quality of bricks they produce."
-    },
-    {
-      "title": "Typhoon Champi knocks out power to thousands in Taiwan",
-      "link": "https://phys.org/news/2026-10-typhoon-champi-power-thousands-taiwan.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-24T09:40:01.000Z",
-      "excerpt": "Emergency crews scrambled on Saturday to restore power to tens of thousands of homes in Taiwan after Typhoon Champi's fierce winds battered the island, with the storm moving toward China and Japan."
-    },
-    {
-      "title": "Child-led citizen science helps Ecuadorian community tackle beach pollution and shape environmental decisions",
-      "link": "https://phys.org/news/2026-10-child-citizen-science-ecuadorian-community.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-24T02:20:01.000Z",
-      "excerpt": "Pollution from human-generated waste in marine ecosystems has reached critical levels, with cigarette butts (CBs) among the most persistent and harmful pollutants. Globally, an estimated 4.5 trillion cigarette butts are…"
-    },
-    {
-      "title": "Study maps the human side of flood risk",
-      "link": "https://phys.org/news/2026-10-human-side.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-23T22:20:02.000Z",
-      "excerpt": "When heavy rain hits a city, knowing where water will accumulate is only part of the picture. Who lives in the affected buildings? How might flooding disrupt their lives? And where could additional support make the great…"
-    },
-    {
-      "title": "As flood risk rises, some communities question the idea of resilience",
-      "link": "https://phys.org/news/2026-10-communities-idea-resilience.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-23T18:00:17.000Z",
-      "excerpt": "Climate change is increasing flood risk across the U.K. As floods become more frequent and intense, communities are increasingly encouraged to become resilient and \"live with water.\" Yet in some flood-prone areas, reside…"
-    },
-    {
-      "title": "Scientists find key to predicting some El Niño events 12 months ahead",
-      "link": "https://phys.org/news/2026-10-scientists-key-el-nio-events.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-23T18:00:02.000Z",
-      "excerpt": "Scientists have identified the conditions that make it possible to predict some El Niño and La Niña events up to a year in advance, potentially giving communities and decision-makers significantly more time to prepare fo…"
     },
     {
       "title": "Elixir agrees $143.8m Taroom Trough permit farmout with Beach Energy",
