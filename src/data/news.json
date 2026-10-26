@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:11:55.210Z",
+  "generatedAt": "2026-10-26T05:14:06.214Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 1,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,54 @@
     }
   ],
   "items": [
+    {
+      "title": "GeoAgent: Contract-Constrained LLM Agents for Seismic Data Processing",
+      "link": "https://arxiv.org/abs/2610.31096",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-26T04:00:00.000Z",
+      "excerpt": "arXiv:2610.31096v2 Announce Type: replace Abstract: Large language models (LLMs) can drive scientific software through function calling, but free-form tool use is fragile on long, data-dependent processing chains. Models…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5086: Hardware in the Loop-Driven Parameter Identification for Wind Turbine Controllers Using a Hybrid WaOA-GMM Method",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5086",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "With the large-scale integration of renewable energy sources into power systems, the dynamic characteristics of renewable generators have a critical impact on grid security and stability. However, wind turbine manufactur…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3418: Thermodynamic&nbsp;Variable-Augmented Ensemble Machine Learning for Feature Selection and Interfacial Tension Prediction in Underground Storage Systems",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3418",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "Reliable prediction of interfacial tension (IFT) is critical for optimizing engineering processes like hydrogen separation, high-density energy storage and fluid displacement in underground oil reservoir systems. The goa…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3416: Special Issue on &ldquo;Separation and Extraction Techniques in Food Processing and Analysis&rdquo;",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3416",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "Food is one of the basic resources necessary for human life [...]"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3417: Fracture Geometry Modeling and Analysis of Layer-Crossing Conditions in Continental Shale Considering Apparent Fracture Toughness",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3417",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "Vertical viscous resistance and bedding deformation jointly influence hydraulic fracture propagation in continental shale. A coupled pseudo-three-dimensional (P3D) framework incorporates apparent fracture toughness (effe…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3415: Integrated Microwave-Assisted Fractionation of the Caatinga Oilseed Licuri (Syagrus coronata) for Biomass Valorization",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3415",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-26T00:00:00.000Z",
+      "excerpt": "Oilseed extraction is usually assessed by oil yield alone, with the residual solid treated as a by-product. This study compared microwave-assisted extraction (MAE; 50 &amp;deg;C, 175 W, 45 min) with Soxhlet extraction (7…"
+    },
     {
       "title": "Australian coral reefs face risk of collapse within 50 years without drastic action, global assessment finds",
       "link": "https://phys.org/news/2026-10-australian-coral-reefs-collapse-years.html",
@@ -252,14 +300,6 @@
       "excerpt": "Whether the market-oriented allocation of data factors can simultaneously improve electricity resource allocation efficiency and environmental performance is a key question for the synergy between the digital economy and…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5074: Comparative Review of Simplified Building Energy Analysis Tools for Retrofitting Existing US Buildings",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5074",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-24T00:00:00.000Z",
-      "excerpt": "Estimates of potential energy savings from selected energy efficiency measures (EEMs) typically require specialized expertise, time-intensive building audits, and detailed engineering analyses. To address this challenge,…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3411: Pharmaceutical Micropollutants in Aquatic Environments:An Integrated Review of Environmental Fate, Ecotoxicological Risks, and Hybrid Treatment Approaches",
       "link": "https://www.mdpi.com/2227-9717/14/21/3411",
       "source": "Processes (MDPI)",
@@ -298,22 +338,6 @@
       "category": "processing",
       "published": "2026-10-24T00:00:00.000Z",
       "excerpt": "Forsythia suspensa is a medicinal and edible shrub, whose fruit is a commonly used herbal medicine. Forsythia suspensa flowers (FFs) exhibit significant edible and medicinal potential, but research on the chemical compos…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3406: Numerical Investigation of the Dynamic Response and Potential Damage of Cement Sheaths Under Perforation Shock Loading",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3406",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-24T00:00:00.000Z",
-      "excerpt": "Perforation shock loading may damage the cement sheath and impair wellbore sealing, raising concerns about deep-water well completion. With this engineering background, a three-dimensional wellbore model was developed to…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3405: A Nonstationary Nishihara&ndash;Heard Creep Model for Deep Salt&ndash;Gypsum Formations: Multi-Condition Parameter Identification and Cross-Well Validation of Casing Deformation",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3405",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-24T00:00:00.000Z",
-      "excerpt": "Deep salt&amp;ndash;gypsum formations undergo pronounced creep under high temperature and nonuniform in situ stresses, transferring time-dependent loads through the cement sheath and causing casing ovalization. The const…"
     },
     {
       "title": "Study maps the human side of flood risk",
@@ -386,22 +410,6 @@
       "category": "industry",
       "published": "2026-10-23T07:38:04.000Z",
       "excerpt": "Equinor and its partners have awarded Aibel a contract to carry out front-end engineering and design (FEED) for the topsides of the production vessel at the Wisting oil discovery in the Barents Sea."
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3404: Flow Coefficient as a Normalising Operating Parameter for Comparison of Drop-in Fluid Replacement in Centrifugal Compressors",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3404",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-23T00:00:00.000Z",
-      "excerpt": "The phase-out of high-GWP refrigerants means working fluids are increasingly replaced in compressors already designed and sized for the original fluid. Assessing the fluid replacement in a fixed geometry is complicated b…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3403: Risk-Constrained Decoupling Modeling and Control Compensation of Electrical Responses in Three-Phase AC Electric Arc Furnaces",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3403",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-23T00:00:00.000Z",
-      "excerpt": "Inter-phase disturbance propagation among three-phase electrodes can degrade electrode regulation in alternating-current electric arc furnaces (EAFs). This paper proposes ASC-DualGate, a risk-constrained structural-compe…"
     },
     {
       "title": "APA makes FID on $492m Bulloo Interlink Pipeline in Australia",
@@ -866,14 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Yue Liu, Qinglin Cheng, Yuchun Li, Haiying Sun, Shaosong Zhao"
-    },
-    {
-      "title": "Mechanism of shearer-induced CO release and its impact on oxidation activity of different rank coals",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126035830?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Yunfei Zuo, Liyang Gao, Bo Tan, Longkun Sui, Jun Zhou, Wenkui Song, Zicheng Guo, Haiyan Wang, Huiyong Niu"
     }
   ]
 }
