@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:37:45.153Z",
+  "generatedAt": "2026-10-27T18:14:14.298Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Greenhouse gases hit record highs, yet again",
+      "link": "https://phys.org/news/2026-10-greenhouse-gases-highs.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-27T16:40:04.000Z",
+      "excerpt": "Levels of carbon dioxide (CO₂) and other major greenhouse gases in the atmosphere reached unprecedented highs in 2025, locking in more long-term warming for the planet, according to a new report from the World Meteorolog…"
+    },
+    {
+      "title": "Greenhouse gas levels hit new record highs in 2025: UN",
+      "link": "https://phys.org/news/2026-10-greenhouse-gas-highs.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-27T14:02:50.000Z",
+      "excerpt": "Greenhouse gas concentrations in the atmosphere rose to new record highs in 2025, locking in climate impacts that will persist for centuries to come, the United Nations said Tuesday."
+    },
+    {
+      "title": "Colorado's glaciers thinned dramatically due to record-low snow and heat in 2026",
+      "link": "https://phys.org/news/2026-10-colorado-glaciers-thinned-due.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-27T14:01:38.000Z",
+      "excerpt": "The most prominent glaciers in Colorado thinned dramatically over the past year due to record-low mountain snow and record-warm temperatures, according to new research."
+    },
+    {
+      "title": "Ancient fault suggests earthquake heating may amplify tsunami-triggering slip",
+      "link": "https://phys.org/news/2026-10-ancient-fault-earthquake-amplify-tsunami.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-27T13:40:14.000Z",
+      "excerpt": "In 2011, a huge earthquake struck eastern Japan. The magnitude 9.1 earthquake caused shaking at its epicenter for almost six minutes. However, its effects didn't end there, as the movement of the plates displaced the sea…"
+    },
+    {
+      "title": "A low-cost tool can help people plan successful evacuation routes during a tsunami",
+      "link": "https://phys.org/news/2026-10-tool-people-successful-evacuation-routes.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-27T12:40:06.000Z",
+      "excerpt": "People living in coastal communities sometimes have only minutes to reach a safe spot after an earthquake-triggered tsunami. But will the evacuation route that they've chosen lead them to safety?"
+    },
     {
       "title": "El Niño watch: The impacts around the world this week",
       "link": "https://phys.org/news/2026-10-el-nio-impacts-world-week-1.html",
@@ -188,6 +228,54 @@
       "excerpt": "arXiv:2609.16199v2 Announce Type: replace-cross Abstract: This article describes an open image dataset for developing and evaluating active-fire segmentation methods in satellite imagery. The dataset contains 2,148 image…"
     },
     {
+      "title": "Energies, Vol. 19, Pages 5127: Electric Vehicle Hosting Capacity in Distribution Systems: A Critical Review of Distributed Generation Foundations, Unified Assessment, and Emerging Research Directions",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5127",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-27T00:00:00.000Z",
+      "excerpt": "Electric vehicle hosting capacity (EV-HC) is increasingly important for distribution-system planning, yet existing reviews provide limited guidance on how mature distributed-generation hosting-capacity (DG-HC) concepts s…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5126: Design Optimization and Comparative Evaluation of Surface-Mounted and Consequent-Pole Dual-Rotor Axial-Flux Permanent-Magnet Machines for Cost-Effective Industrial Applications",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5126",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-27T00:00:00.000Z",
+      "excerpt": "Electric motors consume over half of the world&amp;rsquo;s electricity. Induction machines are widely adopted in industrial sectors; however, their low power factor and poor efficiency need to be addressed, and exploring…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5125: Solar Energy Potential for the Sustainable Energy Transition in the Republic of the Congo",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5125",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-27T00:00:00.000Z",
+      "excerpt": "The Republic of the Congo is facing significant challenges in terms of access to electricity, particularly in the extensive rural and remote areas. A reliable assessment of solar resources and photovoltaic (PV) potential…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5123: Digitalization, Energy Use, and Carbon Emission Efficiency: Testing the Digital Paradox",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5123",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-27T00:00:00.000Z",
+      "excerpt": "The rapid expansion of digital technologies is reshaping economic and energy systems, but its implications for carbon efficiency remain uncertain. This study examines whether digitalization improves carbon emission effic…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5124: Energy, Carbon Emission and Sustainability Assessment of Sugar Beet Production Using Agrivoltaic Systems in T&uuml;rkiye",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5124",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-27T00:00:00.000Z",
+      "excerpt": "Rising energy demand, climate change, and the need for sustainable agriculture are increasing the importance of agrivoltaic systems (AVS), which enable the simultaneous production of food and renewable energy on the same…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5122: Integrating Life Cycle Assessment and Abiotic Depletion-Weighted Circularity Metrics: A Case Study of Photovoltaic Modules",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5122",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-27T00:00:00.000Z",
+      "excerpt": "Conventional mass-based circularity indicators quantify material recirculation but do not distinguish between materials with different levels of resource scarcity, potentially overestimating circularity performance. This…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 5118: Thermal Modeling of a Prismatic Lithium-Ion Battery for Urban Energy System Applications",
       "link": "https://www.mdpi.com/1996-1073/19/21/5118",
       "source": "Energies (MDPI)",
@@ -236,52 +324,28 @@
       "excerpt": "Offshore engineering microgrids integrate renewable generation, energy storage, and large marine test loads. Frequent start-stop transients of test loads, strong wind/PV fluctuations, and saline&amp;ndash;humid condition…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5116: Immersion and Invariance Adaptive Backstepping Control of PEMFC Air Supply Systems with Unmeasurable Cathode Air Pressure",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5116",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3448: A Dynamic Partition Method for Distributed Energy Storage Systems Considering Differentiated Regulation Capabilities",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3448",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-10-27T00:00:00.000Z",
-      "excerpt": "In this paper, an immersion and invariance (I&amp;amp;I) adaptive backstepping control strategy is proposed for proton exchange membrane fuel cell (PEMFC) air supply systems with unmeasurable cathode air pressure. To acc…"
+      "excerpt": "With the increasing penetration of renewable energy into power systems, distributed energy storage systems (DESSs) have become essential flexible resources for enhancing renewable energy accommodation and ensuring secure…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5114: Power Autonomous Allocation Strategy for Multi-Port Parallel Dual-Active-Bridge Converters Based on a Dynamic Consensus Algorithm",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5114",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3447: Effect of Bed Hydrodynamics on Microwave-Assisted Steam&ndash;Carbon Gasification for Hydrogen Production: A Comparison of Packed- and Fluidized-Bed Reactors",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3447",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-10-27T00:00:00.000Z",
-      "excerpt": "Conventional equal-sharing and fixed-capacity-weight allocation laws for parallel dual-active-bridge (DAB) converters do not explicitly account for time-varying module capacities, which can overload derated modules and u…"
+      "excerpt": "Microwave-assisted steam gasification offers a potential electrified pathway for hydrogen production, but the influence of reactor hydrodynamics on microwave-assisted gasification performance remains insufficiently under…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5115: Transient Thermal Behavior and Thermal Buffering of a Novel PCM-Integrated Cavity Solar Receiver",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5115",
-      "source": "Energies (MDPI)",
-      "category": "energy",
+      "title": "Processes, Vol. 14, Pages 3446: Magnetohydrodynamic Mixed Convection Flow and Entropy Generation of a Hybrid Cu&ndash;Al2O3/H2O Nanofluid over a Vertical Cylinder with Joule Heating and Thermal Radiation",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3446",
+      "source": "Processes (MDPI)",
+      "category": "processing",
       "published": "2026-10-27T00:00:00.000Z",
-      "excerpt": "Parabolic trough solar collectors are promising technologies for supplying thermal energy; however, their performance is strongly dependent on the continuity of solar irradiation. Solar interruptions can cause rapid redu…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5111: Thermo-Hydraulic Performance of Additively Manufactured Compact Shell-and-Tube Heat Exchangers Fabricated from PLA and PLA&ndash;Copper Composites",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5111",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-27T00:00:00.000Z",
-      "excerpt": "Additive manufacturing enables the fabrication of compact polymer heat exchangers, although their performance is constrained by low wall thermal conductivity and manufacturing-induced surface characteristics. This study…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5112: Energy Intensity of Urban Passenger Transport at Different Occupancy Levels",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5112",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-27T00:00:00.000Z",
-      "excerpt": "Urban passenger transport is a significant source of energy consumption and greenhouse gas emissions; assessing it requires distinguishing between a vehicle&amp;rsquo;s energy characteristics and the efficiency of the tr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5110: Scenario-Contextualized Short-Horizon Electricity Demand Forecasting for Istanbul: A Multi-Model Assessment for Emergency Power-System Planning",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5110",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-27T00:00:00.000Z",
-      "excerpt": "Major earthquakes can simultaneously interrupt routine electricity use and concentrate emergency-service requirements. This study reports a 22-method retrospective comparison of short-horizon hourly electricity-demand fo…"
+      "excerpt": "This study investigates entropy generation in a steady, laminar, magnetohydrodynamic mixed-convection boundary-layer flow of a hybrid Cu&amp;ndash;Al2O3/water nanofluid over a heated, slender vertical cylinder subjected…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3445: Fault Early Warning Method for Hydropower Units Based on an Improved Bees Algorithm with Two Parameters and Broad Learning System",
@@ -356,30 +420,6 @@
       "excerpt": "One of the key stages of faba bean processing is dehulling, the removal of the husk surrounding the core, which consists of the cotyledons and embryo. This process influences the digestibility, color, functional properti…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3437: Complementary Improvement in Dispersivity Resistance of Ionic Rare Earth Tailings Soil Treated by RSF-MICP",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3437",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-27T00:00:00.000Z",
-      "excerpt": "The dispersive behavior of ionic rare earth tailings restricts their potential reuse as engineering fill materials due to particle detachment and hydraulic erosion. This study investigated the effectiveness of rice straw…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3429: Potential of Self-Funded Agrivoltaic Shield Walls for Asian Citrus Psyllids",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3429",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-27T00:00:00.000Z",
-      "excerpt": "The Florida citrus industry has declined by &amp;gt;90% in two decades, driven primarily by Huanglongbing (HLB) disease transmitted by the Asian citrus psyllid (ACP). While physical barriers such as citrus under protecti…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3434: Comparative Evaluation of Used Vegetable Oil and Waste Motor Oil as Rejuvenating Agents for Aged Bitumen",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3434",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-27T00:00:00.000Z",
-      "excerpt": "This paper considers the influence of used vegetable oil (UVO) and 10W-40 waste motor oil (WMO) used as agents for restoring the physical and mechanical properties of aged BND 100/130 bitumen. The aging process was simul…"
-    },
-    {
       "title": "Freshwater flows reshape Coorong algae communities, 16 years of data reveal",
       "link": "https://phys.org/news/2026-10-freshwater-reshape-coorong-algae-communities.html",
       "source": "Phys.org — Earth",
@@ -402,46 +442,6 @@
       "category": "geoscience",
       "published": "2026-10-26T20:10:06.000Z",
       "excerpt": "Groundwater depletion and groundwater-dependent irrigation tend to concentrate close to international borders within aquifers shared by two or more countries, where pumping on one side is more likely to affect users on t…"
-    },
-    {
-      "title": "Biodiversity is a priority for European municipalities",
-      "link": "https://phys.org/news/2026-10-biodiversity-priority-european-municipalities.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-26T18:20:01.000Z",
-      "excerpt": "As urbanization spreads worldwide, the loss and fragmentation of habitats are driving the global decline in biodiversity. At the same time, urban green spaces like parks, meadows and forests have the potential to contrib…"
-    },
-    {
-      "title": "Climate change exposes gaps in Europe's protected-area network",
-      "link": "https://phys.org/news/2026-10-climate-exposes-gaps-europe-area.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-26T18:00:02.000Z",
-      "excerpt": "As the climate changes, protecting wildlife increasingly depends on both the conditions within protected areas and the connections between them. A new study published in Conservation Letters identifies where climatic sta…"
-    },
-    {
-      "title": "Sediment core reveals volcanic eruption preceded ancient cold spell by about 150 years",
-      "link": "https://phys.org/news/2026-10-sediment-core-reveals-volcanic-eruption.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-26T15:20:05.000Z",
-      "excerpt": "A new study led by an international research team including scientists at the University of South Carolina challenges the idea that the ancient Laacher See volcanic eruption in western Europe triggered a significant clim…"
-    },
-    {
-      "title": "While some eucalypts are hard to kill, climate change may test the ability of others to survive",
-      "link": "https://phys.org/news/2026-10-eucalypts-hard-climate-ability-survive.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-26T15:10:01.000Z",
-      "excerpt": "There's no tree like the humble eucalypt."
-    },
-    {
-      "title": "Rain gardens offer a balanced solution for managing urban stormwater near Tokyo",
-      "link": "https://phys.org/news/2026-10-gardens-solution-urban-stormwater-tokyo.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-26T12:40:01.000Z",
-      "excerpt": "Urban flooding is becoming a growing concern in densely developed neighborhoods, where paved surfaces limit infiltration and intense rainfall can overwhelm drainage systems. Low impact development measures, such as rain…"
     },
     {
       "title": "EQT, Range Resources to merge in $50bn all-stock deal",
