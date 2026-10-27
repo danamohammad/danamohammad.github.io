@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:51:17.716Z",
+  "generatedAt": "2026-10-27T05:32:09.173Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 1,
+      "count": 7,
       "error": null
     },
     {
@@ -75,6 +75,102 @@
     }
   ],
   "items": [
+    {
+      "title": "Ground-motion simulation of multi-segment ruptures on the Alpine-Marlborough fault system",
+      "link": "https://arxiv.org/abs/2610.33399",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-27T04:00:00.000Z",
+      "excerpt": "arXiv:2610.33399v1 Announce Type: new Abstract: The Alpine Fault (AF) is the major plate boundary crustal structure in New Zealand (NZ), producing large-to-great (M7-8+) earthquakes approximately every 300-500 years, and…"
+    },
+    {
+      "title": "Satellite-derived bathymetry of Arabian Gulf ports under leakage-free validation: a multi-site benchmark of empirical, machine-learning and deep-learning models against 285,000 multibeam soundings, with an outlook for UAE waters",
+      "link": "https://arxiv.org/abs/2610.33609",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-27T04:00:00.000Z",
+      "excerpt": "arXiv:2610.33609v1 Announce Type: cross Abstract: Satellite-derived bathymetry (SDB) is often proposed as a low-cost complement to multibeam surveys of ports, but its accuracy is seldom measured on an area the model has…"
+    },
+    {
+      "title": "Magnetic Topological Evolution and the Predictive Role of Winding-flux-based Masked PILs in Extreme Solar Flares from AR13664 and AR13842",
+      "link": "https://arxiv.org/abs/2610.34510",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-27T04:00:00.000Z",
+      "excerpt": "arXiv:2610.34510v1 Announce Type: cross Abstract: Using vector magnetogram data from the Helioseismic Magnetic Imager (HMI) on board the Solar Dynamics Observatory (SDO), we present detailed case studies of precursor act…"
+    },
+    {
+      "title": "Explainable GeoAI for urban wildfire structure loss: vegetation and built environment in the 2025 Palisades Fire",
+      "link": "https://arxiv.org/abs/2608.22293",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-27T04:00:00.000Z",
+      "excerpt": "arXiv:2608.22293v2 Announce Type: replace Abstract: Urban wildfire resilience depends on interactions among built form, vegetation condition, and extreme fire weather, yet city-scale risk models often overlook whether pr…"
+    },
+    {
+      "title": "Forecasting Ionospheric Irregularities on GNSS Lines of Sight Using Dynamic Graphs with Ephemeris Conditioning",
+      "link": "https://arxiv.org/abs/2604.18379",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-27T04:00:00.000Z",
+      "excerpt": "arXiv:2604.18379v3 Announce Type: replace-cross Abstract: Most data-driven ionospheric models operate on gridded products, which do not preserve the time-varying sampling structure of satellite-based sensing. We instead…"
+    },
+    {
+      "title": "Multisource Remote Sensing and Geospatial Analysis of Vineyard Wildfire Impacts and Exposure: The 2019 Kincade Fire",
+      "link": "https://arxiv.org/abs/2609.16168",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-27T04:00:00.000Z",
+      "excerpt": "arXiv:2609.16168v2 Announce Type: replace-cross Abstract: Working agricultural landscapes are often treated as background to wildfire disasters, even though they are managed fuel mosaics, productive assets, and parts of…"
+    },
+    {
+      "title": "A Sentinel-2 benchmark dataset for deep-learning active-fire segmentation across 25 California wildfires, July 2020-August 2026",
+      "link": "https://arxiv.org/abs/2609.16199",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-10-27T04:00:00.000Z",
+      "excerpt": "arXiv:2609.16199v2 Announce Type: replace-cross Abstract: This article describes an open image dataset for developing and evaluating active-fire segmentation methods in satellite imagery. The dataset contains 2,148 image…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3430: Fabrication of Superhydrophobic Yogurt Packaging Polymers via Hot Embossing",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3430",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-27T00:00:00.000Z",
+      "excerpt": "Yogurt adhesion to plastic packaging surfaces contributes significantly to product wastage, poor emptiability, and consumer dissatisfaction, which highlights the need for advanced non-stick food packaging solutions. In t…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3435: Influence of Partial Replacement of Conventional Zinc Oxide with Nano-Zinc Oxide on Latex Processing and Properties",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3435",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-27T00:00:00.000Z",
+      "excerpt": "This work was conducted to investigate the activity of nanosized zinc oxides in carboxylated nitrile elastomer (XNBR) and natural rubber (NR) under the vulcanization process. Zinc oxide (ZnO) nanoparticles were synthesiz…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3432: Pinewood Intermediate Pyrolysis Oil as a Marine Fuel Blend Component in Biodiesel/n-Butanol Formulations",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3432",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-27T00:00:00.000Z",
+      "excerpt": "This study investigates pinewood-derived intermediate pyrolysis oil as a renewable blend component in biodiesel/n-butanol formulations for marine-fuel-property screening. Two intermediate pyrolysis oils produced at 500 &…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3433: Simulation-Trained Explainable Policy Selection for Dynamic Production Scheduling in Manufacturing SMEs: An End-to-End Diagnostic Evaluation",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3433",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-27T00:00:00.000Z",
+      "excerpt": "Dynamic production scheduling requires decision policies that can respond to changing shop-floor conditions without imposing excessive computational demands on manufacturing SMEs. This study develops and diagnostically e…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3431: 3D-Printed Flexible Bending Sensors and the Effects of Using Different Conductive Track Geometries",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3431",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-27T00:00:00.000Z",
+      "excerpt": "Currently, humans live in a world of digital transformation, and sensors are essential for converting physical measurements to digital data. Conventional sensors often lack flexibility, leading to fragility and challenge…"
+    },
     {
       "title": "Freshwater flows reshape Coorong algae communities, 16 years of data reveal",
       "link": "https://phys.org/news/2026-10-freshwater-reshape-coorong-algae-communities.html",
@@ -202,14 +298,6 @@
       "category": "industry",
       "published": "2026-10-26T07:30:10.000Z",
       "excerpt": "Borr Drilling has announced that its Prospector 5 offshore rig sank off the coast of Mayumba, Gabon during the evening of 24 October."
-    },
-    {
-      "title": "GeoAgent: Contract-Constrained LLM Agents for Seismic Data Processing",
-      "link": "https://arxiv.org/abs/2610.31096",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-26T04:00:00.000Z",
-      "excerpt": "arXiv:2610.31096v2 Announce Type: replace Abstract: Large language models (LLMs) can drive scientific software through function calling, but free-form tool use is fragile on long, data-dependent processing chains. Models…"
     },
     {
       "title": "Energies, Vol. 19, Pages 5107: Distributionally Robust Risk Dispatch for Integrated Electricity and Heating System Using Moment and Unimodal Information",
@@ -362,46 +450,6 @@
       "category": "processing",
       "published": "2026-10-26T00:00:00.000Z",
       "excerpt": "To address the limitations of traditional fixed-threshold alarms for distributed control systems (DCS), programmable logic controllers (PLC), safety instrumented systems (SIS), and remote terminal unit (RTU) production c…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3421: Statistical Analysis and Mapping of Geothermal Potential in Vojvodina, Republic of Serbia",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3421",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "The northern province of Vojvodina in the Republic of Serbia has significant but underutilized geothermal resources. This study compiles a dataset of 78 hydrothermal boreholes, utilizing geospatial interpolation, princip…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3419: Deformation-Control Performance of Pile Reinforcement for a Large Stilling Basin on a Heterogeneous Weak-Rock Foundation",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3419",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Large stilling basins founded on heterogeneous weak-rock foundations may experience nonuniform deformation due to spatial variations in foundation stiffness. Although pile reinforcement is widely used for deformation con…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3420: Multi-Scale Scenario Generation for Large Hydro&ndash;Wind&ndash;Solar Systems Using Clustering and Vine Copulas",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3420",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Large-scale hydro&amp;ndash;wind&amp;ndash;solar systems require scenario sets that represent cross-resource dependence without losing station-level and intra-day characteristics. A remaining challenge is to connect clus…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3418: Thermodynamic&nbsp;Variable-Augmented Ensemble Machine Learning for Feature Selection and Interfacial Tension Prediction in Underground Storage Systems",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3418",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Reliable prediction of interfacial tension (IFT) is critical for optimizing engineering processes like hydrogen separation, high-density energy storage and fluid displacement in underground oil reservoir systems. The goa…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3416: Special Issue on &ldquo;Separation and Extraction Techniques in Food Processing and Analysis&rdquo;",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3416",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-26T00:00:00.000Z",
-      "excerpt": "Food is one of the basic resources necessary for human life [...]"
     },
     {
       "title": "Australian coral reefs face risk of collapse within 50 years without drastic action, global assessment finds",
@@ -826,54 +874,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
-    },
-    {
-      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
-      "source": "Journal of Petroleum Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
-    },
-    {
-      "title": "Performance evolution and adaptability improvement method of fuel cell systems at variable altitudes based on multi-dimensional bubble map",
-      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603615X?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Ke Xu, Dongfang Chen, Yulin Luo, Yuqi Tong, Zhanxin Mao, Xiaoming Xu"
-    },
-    {
-      "title": "Mechanism of the interface-to-continuum transition in transcritical n-alkane/N 2 interfaces based on an interfacial energy indicator",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036677?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Duo Li, Zhicheng Shi, Han Wu, Weihua Zhao, Xiangrong Li"
-    },
-    {
-      "title": "Super adiabatic combustion of ultra-lean gas mixtures in inert porous media with circular gas flow",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036537?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Valeri Bubnovich, Luis Henriquez-Vargas, Juan Alfaro, Mario Toledo"
-    },
-    {
-      "title": "Pore-scale mechanisms of heavy oil upgrading and mobilization through low-temperature in-situ aquathermolysis",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036707?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Yu Zhang, Jinwei Li, Jinlun Yan, Jialin Miao, Zhezhe Cao, Longli Zhang"
-    },
-    {
-      "title": "Corrective knock control and performance of a retrofitted 2.9 L heavy-duty spark-ignition engine operating in gasoline–hydrogen bi-fuel mode",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036653?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Borja Erviti, José Carlos Urroz, Pedro M. Diéguez, Pedro Villanueva, Miguel Ugalde, Fernando Bimbela, Luis M. Gandía"
     }
   ]
 }
