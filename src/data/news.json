@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:49:24.971Z",
+  "generatedAt": "2026-10-29T06:24:09.799Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 8,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Optimistic climate futures for local communities in the UK imagined in a new report",
+      "link": "https://phys.org/news/2026-10-optimistic-climate-futures-local-communities.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-29T02:00:02.000Z",
+      "excerpt": "A new report co-authored by researchers from the University of York and WWF highlights how local communities across the U.K. imagine positive, sustainable, and resilient futures for the places where they live and work."
+    },
+    {
+      "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-10-29T01:13:05.000Z",
+      "excerpt": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient v…"
+    },
+    {
+      "title": "How the Indian Ocean is linked to Europe's early-winter rain and storms",
+      "link": "https://phys.org/news/2026-10-indian-ocean-linked-europe-early.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-29T01:00:06.000Z",
+      "excerpt": "When we think about Europe's winter weather, the Indian Ocean is probably not the first place we look. We might picture Atlantic storms, cold air arriving from the north or rain sweeping across the Mediterranean. In my r…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5145: An Open-Source Wellbore-Stability Modelling Framework for Geothermal Wells: Linking Failure Mechanisms, Evidence, and Lifecycle Decisions",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5145",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-29T00:00:00.000Z",
+      "excerpt": "The economic viability of geothermal energy depends on wells that can be constructed and operated reliably. Wellbore instability can delay drilling, require remediation, and interrupt operation. Stability modelling suppo…"
+    },
     {
       "title": "Schools increasingly affected by poor air quality as wildfire smoke becomes more common",
       "link": "https://phys.org/news/2026-10-schools-affected-poor-air-quality.html",
@@ -156,28 +188,12 @@
       "excerpt": "High on the Qinghai-Xizang Plateau, the ground stays frozen, with only the top few meters melting each summer. Although the region is warming about twice as fast as the global average, a new study finds that more than a…"
     },
     {
-      "title": "Livelihood, education goals affect migration under climate change",
-      "link": "https://phys.org/news/2026-10-livelihood-goals-affect-migration-climate.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-28T12:20:01.000Z",
-      "excerpt": "Climate-driven hazards can push many to leave their homes in search of a livelihood elsewhere, but aspirations for the future may change where they decide to migrate, according to a new study led by researchers at Penn S…"
-    },
-    {
       "title": "Scientists discover a hidden 100-million-year-old volcanic system",
       "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
       "source": "ScienceDaily — Geology",
       "category": "geoscience",
       "published": "2026-10-28T12:00:17.000Z",
       "excerpt": "Scientists have uncovered a long-lost volcanic system in Iran that dates back roughly 100 million years, revealing a hidden chapter in Earth's tectonic history. The discovery sheds new light on the disappearance of an an…"
-    },
-    {
-      "title": "Study finds heat waves speed snowmelt substantially, but rivers respond unevenly",
-      "link": "https://phys.org/news/2026-10-snowmelt-substantially-rivers-unevenly.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-28T12:00:06.000Z",
-      "excerpt": "A new study by researchers at Montana State University has found that heat waves substantially accelerate the melting rate of mountain snowpack; however, the resulting water doesn't necessarily produce an immediate incre…"
     },
     {
       "title": "SNOC completes Phase 1 of Hedebah gas-condensate field in UAE",
@@ -210,70 +226,6 @@
       "category": "industry",
       "published": "2026-10-28T07:12:00.000Z",
       "excerpt": "Latham & Watkins is the leading oil and gas M&A legal adviser by both deal value and volume in the first three quarters of 2026 (Q1-Q3)."
-    },
-    {
-      "title": "A flexible regularization for magnetic vector inversion with petrophysical, structural, and sparsity constraints",
-      "link": "https://arxiv.org/abs/2610.36368",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-28T04:00:00.000Z",
-      "excerpt": "arXiv:2610.36368v1 Announce Type: new Abstract: Magnetic vector inversion (MVI) is widely used because it can account for both induced and remanent magnetization by inverting for a magnetization vector model. This flexib…"
-    },
-    {
-      "title": "Expert lithological labels do not improve learning when used to predict marine sediment properties",
-      "link": "https://arxiv.org/abs/2610.36410",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-28T04:00:00.000Z",
-      "excerpt": "arXiv:2610.36410v1 Announce Type: new Abstract: Scientific drilling has produced large archives of physical, chemical and magnetic measurements linked to descriptions of the rock recovered. These archives are mostly inco…"
-    },
-    {
-      "title": "On dependence of the source deactivation factor on the magnitude of main earthquake shock",
-      "link": "https://arxiv.org/abs/2610.36775",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-28T04:00:00.000Z",
-      "excerpt": "arXiv:2610.36775v1 Announce Type: new Abstract: We have discovered an inverse relationship between the earthquake source deactivation coefficient and the magnitude of the main shock. Recently, this pattern was confirmed…"
-    },
-    {
-      "title": "4D sensitivity kernels for infrasound atmospheric propagation: considering the need and impact of time dependent observation operators for acoustic wave observations in data assimilation methods",
-      "link": "https://arxiv.org/abs/2610.36810",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-28T04:00:00.000Z",
-      "excerpt": "arXiv:2610.36810v1 Announce Type: cross Abstract: The long range propagation of acoustic waves in Earth's atmosphere is sensitive to winds and temperature variations in the upper atmosphere. Thus, infrasound observations…"
-    },
-    {
-      "title": "Advancing global crop simulations with differentiable modelling",
-      "link": "https://arxiv.org/abs/2610.36827",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-28T04:00:00.000Z",
-      "excerpt": "arXiv:2610.36827v1 Announce Type: cross Abstract: Global gridded crop models (GGCMs) are crucial for assessing the performance of food producing systems, for example under climate change or their contribution to environm…"
-    },
-    {
-      "title": "Spatial Colorimetric Mapping of pH and Dissolved Carbon during Convective Dissolution of CO{\\_2}: Constraints from Domain, Geometry, and Indicator Mix on Measurement Reliability",
-      "link": "https://arxiv.org/abs/2610.37335",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-28T04:00:00.000Z",
-      "excerpt": "arXiv:2610.37335v1 Announce Type: cross Abstract: Quantifying the dissolution and buoyancy-driven transport of CO2-rich water is critical to understanding solubility trapping mechanism in geologic storage. Analog-fluid d…"
-    },
-    {
-      "title": "Dissolution-induced mode transition of crack propagation in carbonate rocks: From brittle fracture to diffuse damage",
-      "link": "https://arxiv.org/abs/2604.10184",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-28T04:00:00.000Z",
-      "excerpt": "arXiv:2604.10184v2 Announce Type: replace-cross Abstract: In chemically reactive environments, the mechanical integrity of geomaterials is fundamentally compromised by solid matrix dissolution. In this study, we propose…"
-    },
-    {
-      "title": "Seismic background mitigation with the Lunar Gravitational-wave Antenna",
-      "link": "https://arxiv.org/abs/2604.24866",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-28T04:00:00.000Z",
-      "excerpt": "arXiv:2604.24866v2 Announce Type: replace-cross Abstract: Lunar gravitational-wave (GW) detectors relying on the measurement of the response of the Moon to GWs are susceptible to a seismic background, which might pose a…"
     },
     {
       "title": "Energies, Vol. 19, Pages 5143: Piezoelectric Energy Harvesting from a Rotating Shaft to Power a LoRa-Based Wireless Sensor",
@@ -362,14 +314,6 @@
       "category": "energy",
       "published": "2026-10-28T00:00:00.000Z",
       "excerpt": "This study examines the economic effect of EV-supported export in a residential PV&amp;ndash;battery&amp;ndash;EV scheduling model using one prepared House1 dataset from 13 June to 2 October 2014. Corrected V2H and expor…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5132: Multi-Objective Optimization for Energy Storage Configuration in Photovoltaic DC Collection Systems Based on Improved Ivy Algorithm",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5132",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-28T00:00:00.000Z",
-      "excerpt": "With the increasing deployment of large-scale photovoltaic (PV) power generation, efficient energy storage configuration has become increasingly important for ensuring the reliable and economical operation of direct curr…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3458: Comparative Study on Heat Transfer Models for Oilfield Gathering and Transportation Pipelines",
@@ -652,14 +596,6 @@
       "excerpt": "Researchers say stress on Southern California’s San Andreas and San Jacinto faults has reached some of the highest levels seen in a 1,000-year simulation. Because both faults are highly stressed at the same time, the Caj…"
     },
     {
-      "title": "Pompeii’s 2,000-year-old eruption just gave scientists a better clock for Earth’s past",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-09-30T09:37:41.000Z",
-      "excerpt": "Mount Vesuvius’ famous 79 CE eruption has given scientists a remarkably precise benchmark for dating events deep in Earth’s past. The improved technique could sharpen the timelines of volcanic eruptions, asteroid impacts…"
-    },
-    {
       "title": "Scientists find that “perfect” systems may be surprisingly fragile",
       "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
       "source": "ScienceDaily — Energy Technology",
@@ -874,6 +810,70 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Catalytic co-pyrolysis of Chinese herb residue and PP: Investigating the influence of biomass source and carbon coating on product upgrading over Ni–Co/biochar",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036641?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Zhichao Xiang, Xin Tang, Siyan Zhang, Yuxuan Gu, Jianlin Zhu, Yu Zhang, Bin Peng, Gao Tang, Zinan Tang, Zhi Zhou, Wei Luo"
+    },
+    {
+      "title": "Enhancing in-plane homogeneity of multi-physical fields for high-performance hythane-fueled solid oxide fuel cell stacks",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036409?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Shuang Zhao, Yulong Lv, Xiaolu Wang, Chengzhou Li, Yumeng Zhang, Jan Van herle, Umberto Desideri, Ligang Wang, Yongping Yang"
+    },
+    {
+      "title": "A system-dynamics framework enabled by multi-source oxygen-atom virtual labeling for combustion coupling analysis in oxygenated multi-component fuels",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036690?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Xiaoyu Wang, Wanchen Sun, Hao Zhang, Liang Guo, Xiaonan Wang, Yan’an Guo"
+    },
+    {
+      "title": "Evolution of pore and fracture structures in coal under mining stress paths: Insights from in-Situ LF-NMR",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036811?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Hongda Wen, Cheng Zhai, Hexiang Xu, Jizhao Xu, Yong Sun, Yangfeng Zheng, Yu Wang, Zhengzheng Tang"
+    },
+    {
+      "title": "Coal combustion characteristics and apparent Gas-Solid interaction under Ammonia-Containing Atmospheres: A thermogravimetric analysis study",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036756?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Yueyue Xia, Jiazhou Sun, Zerun Lin, Zhu Wang, Hang Xu, Zhimin Lu, Hecong Liu, Shunchun Yao"
+    },
+    {
+      "title": "Impact of cyclic water saturation-microwave irradiation on percolation capacity of low-permeability coal: A Case study from the Aiweiergou mining Area, Xinjiang",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126035969?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Xingyue Li, Haichao Wang, Xin Li, Na Zhang, Liang Du, Shida Chen, Shuguang Yang, Shuxun Sang, Haiyue Yu, Zhengkai Liao, Peng Lai"
     }
   ]
 }
