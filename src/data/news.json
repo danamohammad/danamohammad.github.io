@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T22:57:00.509Z",
+  "generatedAt": "2026-10-30T06:23:17.747Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,70 @@
   ],
   "items": [
     {
+      "title": "Restoration efforts are working, but we need to move faster to meet targets, says U.N. report",
+      "link": "https://phys.org/news/2026-10-efforts-faster.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-30T02:40:01.000Z",
+      "excerpt": "A U.N. report finds that 252 million hectares (ha) (623 million acres) across 149 countries are being restored, creating more than 1 million green jobs—the largest documented global restoration effort to date."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5163: Passive&ndash;Active Co-Design for Robust LCL-Filtered Grid-Connected Photovoltaic Inverters",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5163",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-30T00:00:00.000Z",
+      "excerpt": "Efficient operation of LCL-filtered grid-connected photovoltaic inverters under uncertain grid conditions requires coordinated treatment of passive-filter and current-controller interactions. This study addresses the int…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5161: Cross-Renewable Generalization of PEM Electrolyzer Hydrogen-Flow Forecasting: Multi-Horizon Evaluation and Physics Anchoring",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5161",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-30T00:00:00.000Z",
+      "excerpt": "Forecasting renewable-powered proton-exchange-membrane (PEM) electrolysis across unfamiliar power trajectories requires evaluation at the renewable-source level rather than within familiar profile families. We evaluated…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5162: Data-Driven Multi-Objective Optimization of Low-Carbon Heating Systems in Cold Regions of China: A Case Study of Harbin",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5162",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-30T00:00:00.000Z",
+      "excerpt": "The transition to clean heating in cold regions faces challenges from extreme weather and high emissions. This study develops a dynamic modeling and surrogate-based multi-objective optimization framework for a solar-ammo…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5160: Short-Term Power Load Forecasting Based on Interpretable Time-Frequency Dual-Domain Fusion",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5160",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-30T00:00:00.000Z",
+      "excerpt": "Real-world power load series exhibit pronounced non-stationarity and complex spatiotemporal dependencies, while the black-box nature of deep learning limits its credibility in industrial dispatching. This paper proposes…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3470: Lightweight Mortar Based on Blended Cement and Waste Cellulose Fibers Exposed to High Temperature",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3470",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-30T00:00:00.000Z",
+      "excerpt": "This article presents research focusing on the analysis of lightweight polymer&amp;ndash;cement mortar using combined impact-echo (IE) and computed tomography (CT) methods after exposure to extreme temperatures. Lightwei…"
+    },
+    {
+      "title": "Using machine learning to build safer cities",
+      "link": "https://phys.org/news/2026-10-machine-safer-cities.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-29T23:40:01.000Z",
+      "excerpt": "In eThekwini, researchers have harnessed machine learning and satellite data to spot the city's most landslide-prone zones. A new study published in Scientific Reports has found that urban development activities, includi…"
+    },
+    {
+      "title": "Faraway tectonic forces may have accelerated the Gulf of California rifting",
+      "link": "https://phys.org/news/2026-10-faraway-tectonic-gulf-california-rifting.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-29T23:10:02.000Z",
+      "excerpt": "When the Baja California peninsula broke from mainland Mexico nearly 12 million years ago, it gave rise to the Gulf of California. New research suggests that this process of continental rifting was greatly accelerated du…"
+    },
+    {
       "title": "Researchers observe the arrival of El Niño in Monterey Bay",
       "link": "https://phys.org/news/2026-10-el-nio-monterey-bay.html",
       "source": "Phys.org — Earth",
@@ -146,30 +210,6 @@
       "category": "geoscience",
       "published": "2026-10-29T18:00:31.000Z",
       "excerpt": "The orange tree emerges as one of the most heat-vulnerable trees, according to a University of Córdoba (UCO) study that analyzed 17 tree species found in Córdoba's urban environment."
-    },
-    {
-      "title": "Rains bring relief to Indonesian city weary of fire haze",
-      "link": "https://phys.org/news/2026-10-relief-indonesian-city-weary-haze.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-29T17:41:40.000Z",
-      "excerpt": "Residents and firefighters in an Indonesian city long shrouded in a toxic haze brought on by months of wildfires rushed outside dancing and chanting as rain this week brought a welcome respite."
-    },
-    {
-      "title": "Africa's water availability sometimes goes untapped",
-      "link": "https://phys.org/news/2026-10-africa-availability-untapped.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-29T17:10:01.000Z",
-      "excerpt": "Water demand in Africa grew by around 26% between 2010 and 2020, yet around 717 million people lacked a piped water supply in 2020, according to research published in Nature. The findings indicate that water scarcity in…"
-    },
-    {
-      "title": "Rainfall can travel from mountain slopes to rivers far faster than expected in mountain catchments",
-      "link": "https://phys.org/news/2026-10-rainfall-mountain-slopes-rivers-faster.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-29T16:00:06.000Z",
-      "excerpt": "Researchers at University of Tsukuba have found that river responses to rainfall can reach rivers and appear as runoff much more rapidly than previously assumed in mountainous regions. Through continuous monitoring of pr…"
     },
     {
       "title": "TotalEnergies acquires 25% interest in 26 US offshore leases",
@@ -274,38 +314,6 @@
       "category": "energy",
       "published": "2026-10-29T00:00:00.000Z",
       "excerpt": "Reliable estimation of coal-seam gas content is essential for assessing the resource potential and development prospects of deep coal&amp;ndash;rock gas (CRG) reservoirs. However, complex geological conditions limit conv…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5150: Carbon Reduction in Steel Enterprises Under Carbon&ndash;Energy-Material Market Coupling: A System Dynamics Approach",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5150",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-29T00:00:00.000Z",
-      "excerpt": "Amid growing concerns over carbon emissions from the steel industry, China, the world&amp;rsquo;s largest steel producer, formally incorporated the steel sector into its national carbon emissions trading system (ETS) in…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5151: Multifractional Analysis of Waste Biomass from Grape (Vitis vinifera L.) Cultivation and Processing for Thermochemical Parameters and Emission Factors",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5151",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-29T00:00:00.000Z",
-      "excerpt": "The development of viticulture is associated with the production of significant amounts of plant residues (leaves, shoots, pedicels, and grape pomace). This study evaluated the thermochemical, elemental, emission and sto…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5149: A Multi-Level Distributed Photovoltaic Power Forecasting Method Based on Knowledge Transfer",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5149",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-29T00:00:00.000Z",
-      "excerpt": "Conventional independently trained models for distributed photovoltaic (DPV) power forecasting at the feeder, main-transformer, and regional-grid levels do not explicitly reuse spatiotemporal representations across the d…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5148: Evaluation of Biochar from Agricultural and Forestry Residues: A Comparative Study of Olive and Poplar Prunings",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5148",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-29T00:00:00.000Z",
-      "excerpt": "The sustainable valorization of agroforestry residues through thermochemical conversion can support circular bioeconomy and renewable energy production. This study evaluated olive pruning (Olea europaea L.) and poplar (P…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3469: Thermochemical Biomass Conversion for Sustainable Hydrogen Production: A Review of Techno-Economic Performance and Decarbonization Potential",
@@ -434,14 +442,6 @@
       "category": "industry",
       "published": "2026-10-28T07:12:00.000Z",
       "excerpt": "Latham & Watkins is the leading oil and gas M&A legal adviser by both deal value and volume in the first three quarters of 2026 (Q1-Q3)."
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3458: Comparative Study on Heat Transfer Models for Oilfield Gathering and Transportation Pipelines",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3458",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-28T00:00:00.000Z",
-      "excerpt": "This study compares four radial heat transfer models for buried oilfield gathering and transportation pipelines: DirectK, analytical thermal resistance, 1D FVM and 2D FVM, coupled with the same axial energy equation. Pre…"
     },
     {
       "title": "Woodside to sell Sunrise JV interest to TIMOR GAP",
