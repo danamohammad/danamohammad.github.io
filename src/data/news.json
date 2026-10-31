@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T13:00:13.498Z",
+  "generatedAt": "2026-10-31T21:50:01.069Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -22,7 +22,7 @@
     {
       "name": "International Journal of Greenhouse Gas Control",
       "ok": true,
-      "count": 37,
+      "count": 38,
       "error": null
     },
     {
@@ -92,6 +92,22 @@
       "excerpt": "Nearly 200 nations struck hard-fought agreements Friday at a U.N. biodiversity summit, but the outcome was accompanied by disappointment over missed opportunities to address humanity's destructive toll on nature."
     },
     {
+      "title": "Energies, Vol. 19, Pages 5197: Bias-Corrected State of Charge Estimation for Supercapacitors Integrating Open Circuit Voltage Slope-Weighted Adjustment and Sage&ndash;Husa Noise Adaptive Mechanism",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5197",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "High-precision state of charge (SOC) estimation is essential for reliable supercapacitor (SC) energy storage systems. However, irregular noise and sensor biases can degrade estimation accuracy. To address these issues, a…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5196: High-Fidelity Cluster-Equivalent Modeling and Fast Deadband-Aware Active Power Control for Primary Frequency Support in Grid-Following Wind Farms",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5196",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "High penetration of grid-following wind power reduces the natural inertial contribution of synchronous generation and increases the importance of primary frequency control (PFC). This paper presents a unified framework f…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 5195: Supercritical Alcohol Liquefaction of Oleaginous Halophyte Seeds: Investigating the Roles of Lipids and the Lignocellulosic Matrix in Bio-Oil Formation and Properties",
       "link": "https://www.mdpi.com/1996-1073/19/21/5195",
       "source": "Energies (MDPI)",
@@ -138,6 +154,30 @@
       "category": "energy",
       "published": "2026-10-31T00:00:00.000Z",
       "excerpt": "A wetted porous-clay-duct earth&amp;ndash;air heat exchanger (EAHE) supplied with outdoor air was tested in a 360 m2 experimental greenhouse in Al-Kharj, Saudi Arabia, during 22 July&amp;ndash;11 August 2026. Over 21 day…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3497: Response Surface Methodology for Modelling and Optimization of Chromium Adsorption onto Magnetic Carbon Nanocomposites",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3497",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Magnetic carbon nanocomposites are promising adsorbents for toxic metal removal owing to their adsorption capacity and facile magnetic separation. In this study, Response Surface Methodology (RSM) using a Box&amp;ndash;B…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3496: Research on Overburden Movement and Surface Subsidence Control of Partial Backfill Mining in Deep Coal Seams Based on NPR-DDA",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3496",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Targeting the problem of surface subsidence caused by deep coal seam mining, using the 1210 panel of the Shilawusu Coal Mine as the background and based on field-measured surface subsidence data, a numerical model of min…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3495: Heat Transfer Challenges and Advanced Thermal Management of Thermoelectric Modules and Devices: A Comprehensive Review",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3495",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Thermoelectric modules enable direct conversion between thermal and electrical energy and offer attractive opportunities for waste-heat recovery, solid-state refrigeration, electronics cooling, renewable energy harvestin…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3494: Enhanced Dielectric Performance of Mineral&ndash;Synthetic Ester Oil Blend with Varying Morphology of ZnO Nanoparticles for Transformer Liquid Insulation",
@@ -210,14 +250,6 @@
       "category": "processing",
       "published": "2026-10-31T00:00:00.000Z",
       "excerpt": "The kinetics of the azo-Diels-Alder reaction of 4-phenyl-1,2,4-triazoline-3,5-dione (1) with naphthalene (2) in solution and solid phase without a solvent was studied by manually grinding the reactants with a pestle and…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3485: Artificial Intelligence and Sustainable Development: The Role of Human Development in Global Cross-Country Disparities",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3485",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-31T00:00:00.000Z",
-      "excerpt": "Artificial intelligence (AI) is increasingly regarded as a technology that could accelerate progress towards the Sustainable Development Goals (SDGs), yet its contribution may depend on broader development conditions. Th…"
     },
     {
       "title": "Hidden erosion: Study reveals soft mountain rock erodes three times faster than hard rock—with climate implications",
@@ -346,38 +378,6 @@
       "category": "energy",
       "published": "2026-10-30T00:00:00.000Z",
       "excerpt": "Carbon capture and storage (CCS) is essential for US industrial decarbonization and must be strategically deployed. This work presents a transparent ranking framework for CCS deployment across mineral, metal, chemical, a…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5185: Influence of the West Wall Dynamic Thermal Behavior Under Specific Climate Conditions on the Electric Load of a Cold Storage Facility",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5185",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Refrigerated warehouses are among the most energy-intensive food storage facilities, with their thermal performance influenced by local climatic conditions and building envelope characteristics. This study investigates t…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5180: Influence of Architectural Detail Geometry on the Thermal Performance of Historic Masonry Walls: A Case Study",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5180",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "The energy-efficient renovation of historic buildings requires solutions that improve thermal performance while preserving their architectural character. This study investigates the influence of architectural detail geom…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3484: Research on Reliability Calculation Model for Pipeline Units Integrating Data and Mechanism",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3484",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Accurate reliability assessment of pipeline units remains challenging due to complex degradation processes and multiple sources of uncertainty. To address this issue, this paper proposes a dynamic reliability assessment…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3483: Valid but Uninformative: AI Process Alarms Beyond the Commissioned Operating Range",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3483",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "We ask whether an artificial intelligence (AI)-enabled process monitor&amp;rsquo;s alarms remain informative beyond its commissioned operating range. Conformal alarm rules rely on exchangeability, which deployment shifts…"
     },
     {
       "title": "Using machine learning to build safer cities",
