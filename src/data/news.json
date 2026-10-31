@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T22:37:29.857Z",
+  "generatedAt": "2026-10-31T06:13:46.660Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 9,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -162,78 +162,6 @@
       "category": "industry",
       "published": "2026-10-30T06:41:09.000Z",
       "excerpt": "Mazarine Energy to acquire Black Sea Oil & Gas (BSOG) from Carlyle and the European Bank for Reconstruction and Development (EBRD)."
-    },
-    {
-      "title": "A fully convolutional neural network to classify UXOs using multicomponent electromagnetic induction data",
-      "link": "https://arxiv.org/abs/2610.38177",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-30T04:00:00.000Z",
-      "excerpt": "arXiv:2610.38177v1 Announce Type: new Abstract: Unexploded ordnance (UXO) clearance relies on electromagnetic induction (EMI) methods to detect and classify buried and submerged metallic objects, but the standard classif…"
-    },
-    {
-      "title": "The impact of an in-situ stress gradient on the growth of a fluid-driven frictional rupture",
-      "link": "https://arxiv.org/abs/2610.38921",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-30T04:00:00.000Z",
-      "excerpt": "arXiv:2610.38921v1 Announce Type: new Abstract: Models of injection-induced aseismic slip commonly assume uniform in-situ stresses along the fault, and thus predict rupture growth symmetric about the injection point. We…"
-    },
-    {
-      "title": "Magma Buoyancy Couples Lunar Mantle Convection and Magmatism: Long-Lasting Mare Volcanism and Radius Change in a 3-D Regional Model",
-      "link": "https://arxiv.org/abs/2610.39376",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-30T04:00:00.000Z",
-      "excerpt": "arXiv:2610.39376v1 Announce Type: new Abstract: To understand the mantle evolution that has caused the observed histories of mare volcanism and radius change of the Moon, we developed a 3-D regional spherical shell mantl…"
-    },
-    {
-      "title": "Advance identification of where the 2026 Kumamoto earthquake would begin",
-      "link": "https://arxiv.org/abs/2610.39393",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-30T04:00:00.000Z",
-      "excerpt": "arXiv:2610.39393v1 Announce Type: new Abstract: Long-term forecasts say how likely a fault segment is to rupture, not where the rupture will begin. The b-value, the slope of the earthquake size distribution, falls as str…"
-    },
-    {
-      "title": "Adaptive Seismic Inversion in Piecewise Smooth Media Using Whiteness-based Alternating Directions",
-      "link": "https://arxiv.org/abs/2610.40433",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-30T04:00:00.000Z",
-      "excerpt": "arXiv:2610.40433v1 Announce Type: new Abstract: Post-stack acoustic impedance inversion is ill-posed because seismic data are band-limited and contaminated by noise. Regularization improves the stability of the inversion…"
-    },
-    {
-      "title": "Forward-Backward Map Matching for Airborne Magnetic Anomaly Navigation",
-      "link": "https://arxiv.org/abs/2610.38047",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-30T04:00:00.000Z",
-      "excerpt": "arXiv:2610.38047v1 Announce Type: cross Abstract: Airborne magnetic anomaly navigation provides a passive, unjammable alternative to Global Navigation Satellite Systems positioning by matching magnetometer measurements a…"
-    },
-    {
-      "title": "Expert lithological labels do not improve learning when used to predict marine sediment properties",
-      "link": "https://arxiv.org/abs/2610.36410",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-30T04:00:00.000Z",
-      "excerpt": "arXiv:2610.36410v2 Announce Type: replace Abstract: Scientific drilling has produced large archives of physical, chemical and magnetic measurements linked to descriptions of the rock recovered. These archives are mostly…"
-    },
-    {
-      "title": "Excursion-set structure factor of the auroral electric field",
-      "link": "https://arxiv.org/abs/2606.26854",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-30T04:00:00.000Z",
-      "excerpt": "arXiv:2606.26854v3 Announce Type: replace-cross Abstract: A spacecraft crossing the aurora cannot tell whether structures in the field-aligned currents are short-lived or merely small. However, by tracking clusters of co…"
-    },
-    {
-      "title": "Thermo-viscous feedback in heat transport through fracture-matrix systems with finite thermal capacity",
-      "link": "https://arxiv.org/abs/2610.22531",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-10-30T04:00:00.000Z",
-      "excerpt": "arXiv:2610.22531v2 Announce Type: replace-cross Abstract: In geothermal systems, injected fluid flows along preferential fracture pathways and exchanges heat with matrix blocks. Reduced models often neglect temperature-d…"
     },
     {
       "title": "Restoration efforts are working, but we need to move faster to meet targets, says U.N. report",
@@ -874,6 +802,78 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
+    },
+    {
+      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Enhancing thermal stability of VWTi-Zr catalyst in SCR reaction: Effect of Mo-doping",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036963?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Ao Huang, Chenguang Zhang, Shuhao Li, Fan Dang, Boxiong Shen"
+    },
+    {
+      "title": "From hydration disruption to hydrophobic reconstruction: Interfacial synergy of dodecylphosphonic acid/n-alkane collectors in low-rank coal flotation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037117?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Yong Zhang, Yang Chen, Hongzheng Zhu"
+    },
+    {
+      "title": "Experimental investigations of spray characteristics, performance and combustion behaviour of methanol-gasoline blends of a port fuel injected spark-ignition stationary engine",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033946?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Krishn Chandra, P.A. Lakhsminarayanan, Avinash Kumar Agarwal"
+    },
+    {
+      "title": "DAEM-CDF inversion-enabled interpretable machine learning for predicting Tar-Rich coal pyrolysis kinetic parameter",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036768?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Xu Jia, Xinxin Che, Dechao Wang, Baolu Cui, Chen Pu, Zhiyuan Yang"
+    },
+    {
+      "title": "Biomass-derived multifunctional carbon materials for immobilization of heavy metals in MSWI fly ash and remediation of fly ash-contaminated soil",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037087?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Yunyu Chen, Qingxi Li, Tong Mu, Huawei Han, Tao Wang, Jiawei Wang, Lipeng Su, Yongsheng Zhang, Yuanbo Lou, Wei-Ping Pan"
+    },
+    {
+      "title": "Waste Tar-Derived carbon with hierarchical porosity and pyrrolic nitrogen Dominance: A synergistic design for High-Performance Sodium-Ion storage",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036574?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Xingguo Xu, Kun Chen, Gang Liu, Zhe Zhang, Zhaohe Jiang"
     }
   ]
 }
