@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:13:46.660Z",
+  "generatedAt": "2026-10-31T13:00:13.498Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -16,7 +16,7 @@
     {
       "name": "Fuel",
       "ok": true,
-      "count": 96,
+      "count": 100,
       "error": null
     },
     {
@@ -75,6 +75,150 @@
     }
   ],
   "items": [
+    {
+      "title": "Young Canadians focus on mental health at key climate trial",
+      "link": "https://phys.org/news/2026-10-young-canadians-focus-mental-health.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-31T11:00:07.000Z",
+      "excerpt": "At a landmark Canadian trial focused on the government's obligations to fight climate change, the young plaintiffs suing Ottawa over alleged policy failures have sought to focus attention on their mental health."
+    },
+    {
+      "title": "Nations commit to get nature goals back on track",
+      "link": "https://phys.org/news/2026-10-nations-commit-nature-goals-track.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-10-31T10:37:02.000Z",
+      "excerpt": "Nearly 200 nations struck hard-fought agreements Friday at a U.N. biodiversity summit, but the outcome was accompanied by disappointment over missed opportunities to address humanity's destructive toll on nature."
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5195: Supercritical Alcohol Liquefaction of Oleaginous Halophyte Seeds: Investigating the Roles of Lipids and the Lignocellulosic Matrix in Bio-Oil Formation and Properties",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5195",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "This study investigates the influence of feedstock biochemical composition and alcohol type on product distribution and bio-oil properties during supercritical alcohol liquefaction. Seeds from six oleaginous halophyte sp…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5193: Multi-Timescale Coordinated Power Allocation and Temperature Control for Wind-Powered Multi-Stack PEM Electrolysis Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5193",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Power allocation in wind-powered multi-stack proton exchange membrane (PEM) electrolysis depends on both load-dependent efficiency and thermal response. This study evaluates coordinated allocation, stack rotation and tem…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5194: Hydraulic Coupling Suppression Control Method for Complex Hydraulic Systems Based on Feedforward Synergetic Compensation of Guide Vane Opening",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5194",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "With the increasing scale of cross-basin hydraulic engineering and cascaded hydropower stations, hydraulic systems exhibit complex characteristics such as long-distance, nonlinear, and multivariable coupling. The dynamic…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5192: Adaptive Microgrid Formation Considering Voltage/Frequency Regulation Capability and Breaker Switching Limits",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5192",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "With the large-scale integration of distributed generation (DG) and the fast development of microgrid technologies, microgrid formation (MF) attracts attention. However, existing MF methods neglect the DG&amp;rsquo;s vol…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5191: Research on Two-Stage Coordinated Optimal Control of PV-ESS Voltage in Active PV Distribution Network Based on Inverter Residual Capacity",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5191",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Under high-penetration photovoltaic integration, node voltage over-limits are frequently experienced by active distribution networks during light-load periods at noon due to reverse active power flow, while voltage sag r…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5190: Experimental Investigation of Air Cooling and Humidification by a Wetted Porous-Clay-Duct Earth&ndash;Air Heat Exchanger in a Hot-Arid Greenhouse",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5190",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "A wetted porous-clay-duct earth&amp;ndash;air heat exchanger (EAHE) supplied with outdoor air was tested in a 360 m2 experimental greenhouse in Al-Kharj, Saudi Arabia, during 22 July&amp;ndash;11 August 2026. Over 21 day…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3494: Enhanced Dielectric Performance of Mineral&ndash;Synthetic Ester Oil Blend with Varying Morphology of ZnO Nanoparticles for Transformer Liquid Insulation",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3494",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "The growing demand for sustainable transformer insulation drives the development of environmentally friendly alternatives to conventional mineral oil. Although nanoparticle-enhanced ester-based insulating liquids exhibit…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3493: Hydraulic Fracture Geometry and Pressure Responses During Growth Across Mudstone Barriers in Vertically Stacked Tight-Oil Reservoirs",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3493",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Hydraulic fractures encounter successive sandstone&amp;ndash;mudstone boundaries during the stimulation of vertically stacked tight-oil reservoirs. Eleven small-scale true-triaxial experiments were conducted on five-laye…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3492: Eocene Environmental Evolution and Organic Matter Enrichment in a Marine&ndash;Continental Transitional Rift Basin: Insights from the Northern and Central Sectors of the Western Slope Belt, Xihu Sag, East China Sea Shelf Basin",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3492",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "The Eocene Baoshi Formation (BAF) and Pinghu Formation (PIF) are the main source-rock intervals in the western slope belt of the Xihu Sag, East China Sea Shelf Basin. This study integrates TOC and Rock-Eval pyrolysis, ma…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3490: Pharmacokinetics and Tissue Distribution of Rifampicin in Carassius auratus gibelio Following Intraperitoneal Administration: An Integrated UPLC-MS/MS and Molecular Docking Study",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3490",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Rifampicin is a commonly used broad-spectrum antibiotic in aquaculture, but its pharmacokinetics in fish remain poorly understood, making it difficult to accurately assess the risk of its residues. The research examined…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3491: Processing Routes Influence on the Structure&ndash;Property Relationships of Citric Acid/Glycerol-Modified Thermoplastic Starch",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3491",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Citric acid can modify thermoplastic starch (TPS) through competing mechanisms involving intermolecular interactions, acid-catalyzed hydrolysis, and esterification. However, the products formed and their effects on TPS p…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3489: Multi-Factor Coupled Stability Mechanism and Safety Boundaries of Upward Re-Mining Above Goafs Supported by Remnant Coal Pillar Groups",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3489",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Upward re-mining of coal seams overlying goafs with remnant coal pillar groups is jointly affected by pillar loading, interburden damage, repeated mining disturbance, and goaf water, making the stability evolution and sa…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3487: Exploratory Pilot-Scale Pyrolysis of Paulownia Wood Chips: Product Recovery and Operational Behavior",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3487",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Pilot-scale pyrolysis requires joint assessment of product recovery and operational behavior. This exploratory study reanalyzed three Paulownia wood-chip runs at nominal setpoints of 300, 400 and 500 &amp;deg;C in a five…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3488: Enhancing the Long-Term Performance of Cementitious High-Integrity Containers for Low-Level Radioactive Waste Using Ultrafine Metakaolin and Silica Fume",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3488",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Cementitious high-integrity container (HIC) concrete used for long-term containment of low-level radioactive waste (LLW) requires sustained durability to maintain its structural and containment functions. This requiremen…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3486: Kinetics of the Azo-Diels-Alder Reaction of Naphthalene with 4-Phenyl-1,2,4-triazoline-3,5-dione in Solution and Solid Phase",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3486",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "The kinetics of the azo-Diels-Alder reaction of 4-phenyl-1,2,4-triazoline-3,5-dione (1) with naphthalene (2) in solution and solid phase without a solvent was studied by manually grinding the reactants with a pestle and…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3485: Artificial Intelligence and Sustainable Development: The Role of Human Development in Global Cross-Country Disparities",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3485",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-10-31T00:00:00.000Z",
+      "excerpt": "Artificial intelligence (AI) is increasingly regarded as a technology that could accelerate progress towards the Sustainable Development Goals (SDGs), yet its contribution may depend on broader development conditions. Th…"
+    },
     {
       "title": "Hidden erosion: Study reveals soft mountain rock erodes three times faster than hard rock—with climate implications",
       "link": "https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html",
@@ -220,54 +364,6 @@
       "excerpt": "The energy-efficient renovation of historic buildings requires solutions that improve thermal performance while preserving their architectural character. This study investigates the influence of architectural detail geom…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5181: Physicochemical Properties of Heavy Oil and Emulsification-Controlled Phase Inversion/Stability of Oil&ndash;Water Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5181",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Oil&amp;ndash;water emulsions formed by heavy crude oil from Block A of the YT Oilfield during production and transportation are strongly influenced by the oil&amp;rsquo;s high viscosity and density and by its abundant r…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5183: Study on Mean Wind Pressure Coefficients and Sheltering Effect of Super-Large Low-Inclination Photovoltaic Panel Arrays",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5183",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "CFD numerical simulations are conducted to investigate wind effects on super-large, low-inclination floating PV arrays, with emphasis on the influence of streamwise pitch and tilt angle on the mean wind pressure coeffici…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5184: Real-World Performance Assessment of Kaplan Turbines in a Small Hydropower Plant in Southeastern Poland",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5184",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Real-world data on the operation of full-scale Kaplan turbines in small run-of-river hydropower plants remain limited, particularly with regard to direct comparisons of several turbine&amp;ndash;generator units operating…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5182: Derivation of Equivalent Soil Thermal Resistivity for EHVDC Cable Design in Layered Offshore Seabed Conditions",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5182",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Accurate assessment of soil thermal resistivity is important for the reliable thermal design of buried EHVDC cable systems, especially along offshore routes where seabed conditions are variable and only measured at discr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5178: Electric Field Distortion and Insulation Response Characteristics of Typical Defects in 35 kV Oil-Impregnated Paper Bushings",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5178",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Oil-impregnated paper (OIP) capacitive bushings are critical insulation components of power transformers, and internal defects may induce partial discharge (PD) and further lead to insulation breakdown, threatening equip…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5179: Liquid Transport Regulation in Pore-Size-Gradient Carbonized Fiber Membranes for Enhanced Direct Methanol Fuel Cell Performance",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5179",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Pore-size-gradient carbonized fiber membranes were prepared by sequential electrospinning and carbonization, and Ag nanoparticles were incorporated to reduce the electrical resistivity. Residual-pressure decay after pump…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3484: Research on Reliability Calculation Model for Pipeline Units Integrating Data and Mechanism",
       "link": "https://www.mdpi.com/2227-9717/14/21/3484",
       "source": "Processes (MDPI)",
@@ -282,86 +378,6 @@
       "category": "processing",
       "published": "2026-10-30T00:00:00.000Z",
       "excerpt": "We ask whether an artificial intelligence (AI)-enabled process monitor&amp;rsquo;s alarms remain informative beyond its commissioned operating range. Conformal alarm rules rely on exchangeability, which deployment shifts…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3479: Small-Signal Stability of Photovoltaic Systems Connected to Weak Grids Based on Linear Time-Periodic Theory: Phase-Locked Loop Analysis and Virtual Inductance Control",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3479",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Large-scale photovoltaic (PV) plants connected to weak grids may experience oscillations caused by interactions between converter controls and grid impedance. This paper develops a linear time-periodic (LTP) small-signal…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3480: Experimental and Numerical Investigation of Injection-Induced Shear Slip in Granite Fractures",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3480",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Interface properties and loading conditions influence fracture reactivation during fluid injection, but their roles must be interpreted in relation to interface preparation and loading history. This study examines inject…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3482: Modeling the Carbon Emission Implications of Single-Use Medical Device Remanufacturing: A Stakeholder-Responsibility Perspective",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3482",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Single-use medical devices (SUMDs) are widely used across the healthcare sector and can be remanufactured over multiple use cycles. Remanufacturing offers a triple-win outcome, yielding economic, environmental and social…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3481: Evaluation of Sealing Performance and Canal Anatomy Dependency of Rotary Condensation Instruments for Sealer-Only Root Canal Obturation Using a Bioactive Glass-Based Sealer",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3481",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "This study compared filling characteristics and apical dye leakage during sealer-only obturation with a bioactive glass-based sealer using three rotary instruments. Straight and 30&amp;deg; curved simulated acrylic canal…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3478: Engineering-Constrained Explainable Machine Learning for Development Policy Optimization in the Y284 Tight Oil Block, Ordos Basin",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3478",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Tight-oil performance is controlled by a coupled reservoir-engineering system: reservoir quality, fracturing design, well pattern, and operating policy jointly determine whether geological potential becomes sustained pro…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3473: Competitive Propagation of Multi-Cluster Fractures and Parameter Combination Optimization for Ball-Sealer Temporary-Plugging Fracturing in Deep Coal Seams",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3473",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Competitive fracture propagation and the selection of temporary-plugging parameters are important challenges in multi-cluster fracturing of deep-coal horizontal wells. A three-dimensional discrete-lattice fluid&amp;ndash…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3477: Transient and Steady-State Gas Lift Transportation of Non-Newtonian Rare Earth Slurry: A Water&ndash;Gas&ndash;Slurry Modeling Study",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3477",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Gas lift transportation of deep-sea rare earth mud involves the replacement of initial water by a non-Newtonian suspension and substantial axial variation in gas content along a long riser. This study develops a one-dime…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3475: Decarbonising Industrial Process Heat with Linear Fresnel Collector-Derived Heat: A 4E Analysis",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3475",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "The decarbonisation of low- and medium-temperature industrial process heat requires the use of renewable thermal technologies capable of directly reducing dependence on fossil fuels. This study aims to comprehensively ev…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3474: Industrial-Scale Produced Carbon Black as High-Performance Anode Materials for Sodium-Ion Batteries",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3474",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "In recent years, carbon black (CB) has been reported to possess sodium-storage capability beyond its conventional role as a conductive additive. Nevertheless, most studies merely focus on its auxiliary capacitive contrib…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3476: Production Profile Calibration of Effective Composite Drilling Encounter Rate in Shale Gas Horizontal Wells: A Case Study of the Wujiaping Formation, Northeast Sichuan Basin",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3476",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-10-30T00:00:00.000Z",
-      "excerpt": "Geometric drilling encounter rates may not represent the productivity of vertically heterogeneous shale reservoirs. This study develops a production-profile-calibrated effective composite drilling encounter rate (Rce) fo…"
     },
     {
       "title": "Using machine learning to build safer cities",
@@ -386,22 +402,6 @@
       "category": "geoscience",
       "published": "2026-10-29T22:30:01.000Z",
       "excerpt": "For more than 30 years, MBARI technology has recorded real-time data about Monterey Bay, from oceanographic conditions at the surface to biological surveys in the depths of Monterey Canyon. These data are integral to und…"
-    },
-    {
-      "title": "Waves alter Antarctic polynyas by breaking up surrounding sea ice",
-      "link": "https://phys.org/news/2026-10-antarctic-polynyas-sea-ice.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-29T22:20:02.000Z",
-      "excerpt": "Polynyas are one of Antarctica's great counterintuitive features: recurring areas of open water surrounded by vast expanses of sea ice. These unusual environments are hot spots for sea-ice production, ocean–atmosphere ex…"
-    },
-    {
-      "title": "Nature finance needs a fundamental rethink, researchers argue",
-      "link": "https://phys.org/news/2026-10-nature-fundamental-rethink.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-10-29T21:40:04.000Z",
-      "excerpt": "The authors call on governments, investors and conservation organizers to reimagine nature finance based on a central tenet: raising funds should be a means to an end, not an end in itself."
     },
     {
       "title": "TotalEnergies acquires 25% interest in 26 US offshore leases",
@@ -668,6 +668,30 @@
       "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Bicheng Gan, Zhengmeng Hou, Hongxu Wang, Lin Wu, Nan Cai, Haichen Li, Haixiang Zhang"
     },
     {
+      "title": "Study on influence factors for CO 2 -EGS exploitation in HDR under thermo-hydro-mechanical coupling: Dynamic characteristics of fractures and multi-parameter regulation laws",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005361?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Yuanyuan Li, Yuanxiu Sun, Yue Wang, Yi Pan, Songqi Li, Zilong Wang"
+    },
+    {
+      "title": "A geothermal reservoir quality index for sweet spot identification in hot sedimentary aquifers",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005221?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Jwagyum Kim, Sigue Lee, Jaewook Lee, Joongmoo Byun"
+    },
+    {
+      "title": "Hydration-kinetics-coupled annular temperature evolution during the setting stage of ultra-deep managed pressure cementing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005385?dgcid=rss_sd_all",
+      "source": "Geoenergy Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Hongwei Yang, Zeyang Zhang, Jun Li, Geng Zhang, Wenxu Wang"
+    },
+    {
       "title": "Long-term monitoring and theoretical prediction of surface subsidence above salt cavern gas storage: A case study of Jintan",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005336?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -706,30 +730,6 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Zhe Liu, Huapeng Wu, Binbin Diao, Deli Gao, Guanxiang Ding, Guangyan Kang"
-    },
-    {
-      "title": "Optimizing heat extraction strategies in naturally fractured geothermal reservoirs: A hydro-thermal simulation approach",
-      "link": "https://www.sciencedirect.com/science/article/pii/S294989102600518X?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Reda Abdel Azim"
-    },
-    {
-      "title": "Effects of brine salinity and composition on near-well salt precipitation during CO 2 geological storage",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005233?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Chenguang Deng, Xiaolong Sun, Keyu Liu, Helge Hellevang, Senyou An"
-    },
-    {
-      "title": "Diagnosing injectivity regimes in sedimentary injection systems from multi-decadal saltwater-disposal data",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005300?dgcid=rss_sd_all",
-      "source": "Geoenergy Science and Engineering",
-      "category": "reservoir",
-      "published": null,
-      "excerpt": "Publication date: February 2027 Source: Geoenergy Science and Engineering, Volume 269, Part A Author(s): Farhad A. Bina, Hadi Jabbari"
     },
     {
       "title": "A review of vertical closed-loop geothermal heating and cooling systems with an Emphasis on the importance of the subsurface",
@@ -828,52 +828,52 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
-      "title": "Enhancing thermal stability of VWTi-Zr catalyst in SCR reaction: Effect of Mo-doping",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036963?dgcid=rss_sd_all",
+      "title": "Single-sensor methane emission quantification under bounded distance priors using differential evolution Monte Carlo",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036884?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Ao Huang, Chenguang Zhang, Shuhao Li, Fan Dang, Boxiong Shen"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Zhengyi Xie, Jianfeng Tang, Tong Li, Gaoxu Tian, Rongqiang Li, Rui Ma"
     },
     {
-      "title": "From hydration disruption to hydrophobic reconstruction: Interfacial synergy of dodecylphosphonic acid/n-alkane collectors in low-rank coal flotation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037117?dgcid=rss_sd_all",
+      "title": "Effects of key shale-oil components on wall-adhesion mechanisms during pipeline transportation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037105?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Yong Zhang, Yang Chen, Hongzheng Zhu"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Yihang Peng, Jie Sun, Wen Zhang, Jiaqiang Jing, Xingrui Peng, Ziqiang Wang, Zhuo Chen, Jingyi Liu"
     },
     {
-      "title": "Experimental investigations of spray characteristics, performance and combustion behaviour of methanol-gasoline blends of a port fuel injected spark-ignition stationary engine",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126033946?dgcid=rss_sd_all",
+      "title": "Integrating explainable machine learning with thermokinetic analysis for predicting the co-pyrolysis behavior of waste tire and pistachio nut shell",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034095?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Krishn Chandra, P.A. Lakhsminarayanan, Avinash Kumar Agarwal"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Gülce Çakman, Selim Ceylan"
     },
     {
-      "title": "DAEM-CDF inversion-enabled interpretable machine learning for predicting Tar-Rich coal pyrolysis kinetic parameter",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036768?dgcid=rss_sd_all",
+      "title": "High-yield hydrogen from mixed plastic waste via response surface optimized coke-resistant ni-Fe/CPA-Al 2 O 3 catalysis",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603663X?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Xu Jia, Xinxin Che, Dechao Wang, Baolu Cui, Chen Pu, Zhiyuan Yang"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Elechi Okoh, Sunny Iyuke, Yusuf Isa"
     },
     {
-      "title": "Biomass-derived multifunctional carbon materials for immobilization of heavy metals in MSWI fly ash and remediation of fly ash-contaminated soil",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037087?dgcid=rss_sd_all",
+      "title": "Evolution of thermal stability and coal oxidation inhibition mechanism of products from synergistic CO 2 mineralization of fly ash and mine water",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036859?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Yunyu Chen, Qingxi Li, Tong Mu, Huawei Han, Tao Wang, Jiawei Wang, Lipeng Su, Yongsheng Zhang, Yuanbo Lou, Wei-Ping Pan"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Zhe Jiang, Botao Qin, Quanlin Shi, Maifan Dong, Geoffrey S. Simate"
     },
     {
-      "title": "Waste Tar-Derived carbon with hierarchical porosity and pyrrolic nitrogen Dominance: A synergistic design for High-Performance Sodium-Ion storage",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036574?dgcid=rss_sd_all",
+      "title": "Insights into optimized CO 2 selective adsorption on porous FAU zeolites: effect of pore size",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126034423?dgcid=rss_sd_all",
       "source": "Fuel",
       "category": "processing",
       "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part A Author(s): Xingguo Xu, Kun Chen, Gang Liu, Zhe Zhang, Zhaohe Jiang"
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Mohammad Razmkhah"
     }
   ]
 }
