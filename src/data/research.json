@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T10:36:20.323Z",
+  "generatedAt": "2026-11-01T19:44:28.163Z",
   "sources": {
     "manual": {
       "ok": true,
@@ -9,19 +9,19 @@
     "orcid": {
       "ok": true,
       "count": 6,
-      "lastSuccess": "2026-11-01T10:36:18.287Z",
+      "lastSuccess": "2026-11-01T19:44:26.372Z",
       "error": null
     },
     "crossref": {
       "ok": true,
-      "count": 3,
-      "lastSuccess": "2026-11-01T10:36:18.740Z",
+      "count": 4,
+      "lastSuccess": "2026-11-01T19:44:27.402Z",
       "error": null
     },
     "zenodo": {
       "ok": true,
       "count": 0,
-      "lastSuccess": "2026-11-01T10:36:20.306Z",
+      "lastSuccess": "2026-11-01T19:44:28.148Z",
       "error": null,
       "note": "no records deposited under this ORCID yet"
     },
@@ -62,6 +62,26 @@
       "abstract": null,
       "citations": 6,
       "source": "orcid"
+    },
+    {
+      "title": "Ternary Nanofluid Heat Transfer in Dilating/Squeezing Channel With Uniform Walls Seepage Under Joule Heating and Radiation Effects",
+      "authors": [
+        "Adnan",
+        "Zaidi, Syed Zulfiqar Ali",
+        "Khan, Sami Ullah",
+        "Khidhir, Dana Mohammad",
+        "Saidani, Taoufik"
+      ],
+      "year": 2026,
+      "venue": "ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik",
+      "publisher": "Wiley",
+      "doi": "10.1002/zamm.70617",
+      "url": "https://doi.org/10.1002/zamm.70617",
+      "pdf": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/zamm.70617",
+      "type": "article",
+      "abstract": "ABSTRACT Heat transfer in a ternary nanofluid between dilating and squeezing walls channel with uniform permeation is an interesting research direction. The use of thermal radiation, magnetic field, and Joule heating promotes its novelty regarding heat transfer. Thus, the key purpose of this research is to model and simulate innovative ternary nanofluid heat transfer under the influence of solar r",
+      "citations": 0,
+      "source": "crossref"
     },
     {
       "title": "A comprehensive review of data analytics and storage methods in geothermal energy operations",
