@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T19:44:28.163Z",
+  "generatedAt": "2026-11-02T11:22:28.869Z",
   "sources": {
     "manual": {
       "ok": true,
@@ -8,20 +8,20 @@
     },
     "orcid": {
       "ok": true,
-      "count": 6,
-      "lastSuccess": "2026-11-01T19:44:26.372Z",
+      "count": 7,
+      "lastSuccess": "2026-11-02T11:22:24.887Z",
       "error": null
     },
     "crossref": {
       "ok": true,
       "count": 4,
-      "lastSuccess": "2026-11-01T19:44:27.402Z",
+      "lastSuccess": "2026-11-02T11:22:27.304Z",
       "error": null
     },
     "zenodo": {
       "ok": true,
       "count": 0,
-      "lastSuccess": "2026-11-01T19:44:28.148Z",
+      "lastSuccess": "2026-11-02T11:22:28.855Z",
       "error": null,
       "note": "no records deposited under this ORCID yet"
     },
@@ -81,7 +81,7 @@
       "type": "article",
       "abstract": "ABSTRACT Heat transfer in a ternary nanofluid between dilating and squeezing walls channel with uniform permeation is an interesting research direction. The use of thermal radiation, magnetic field, and Joule heating promotes its novelty regarding heat transfer. Thus, the key purpose of this research is to model and simulate innovative ternary nanofluid heat transfer under the influence of solar r",
       "citations": 0,
-      "source": "crossref"
+      "source": "orcid"
     },
     {
       "title": "A comprehensive review of data analytics and storage methods in geothermal energy operations",
