@@ -361,6 +361,14 @@
       "auth": "None",
       "free_tier": "Fully open",
       "docs": "https://www.gdeltproject.org/data.html"
+    },
+    {
+      "name": "Bucketlist Dream of the Day",
+      "category": "Media & Content",
+      "description": "Daily travel and experience inspiration with a canonical experience URL; defaults to Dutch ideas in the Netherlands, with optional language, scope and theme filters.",
+      "auth": "None",
+      "free_tier": "Free access",
+      "docs": "https://bucketlist.nl/brand/droom-van-de-dag.openapi.json"
     }
   ]
 }
