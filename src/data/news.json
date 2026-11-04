@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:46:22.159Z",
+  "generatedAt": "2026-11-04T06:56:19.623Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 12,
+      "count": 7,
       "error": null
     },
     {
@@ -75,6 +75,150 @@
     }
   ],
   "items": [
+    {
+      "title": "Extracting and Characterizing Near-Fault Effects from Strong Motion Observations of the 2022 Chishang Earthquake Sequence",
+      "link": "https://arxiv.org/abs/2611.04120",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-04T05:00:00.000Z",
+      "excerpt": "arXiv:2611.04120v1 Announce Type: new Abstract: Accurately characterizing near-fault ground motions, particularly permanent tectonic displacements and velocity pulses associated with rupture directivity, is essential for…"
+    },
+    {
+      "title": "Shallow lunar fractures dominate the long-lasting seismic coda",
+      "link": "https://arxiv.org/abs/2611.04209",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-04T05:00:00.000Z",
+      "excerpt": "arXiv:2611.04209v1 Announce Type: new Abstract: Lunar seismic records are characterized by long-lasting spindle-shaped coda, which has long been considered to be caused by strong velocity contrasts in a continuous-medium…"
+    },
+    {
+      "title": "GeoSim: Benchmarking Multi-Field Neural Operators for Geodynamics",
+      "link": "https://arxiv.org/abs/2611.04517",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-04T05:00:00.000Z",
+      "excerpt": "arXiv:2611.04517v1 Announce Type: new Abstract: Learning reliable surrogates for geodynamic models requires benchmarks that resolve coupled fields and temporal stability. We present GeoSim, a benchmark of high-resolution…"
+    },
+    {
+      "title": "Separating Weight and Likelihood Tail Effects in Bayesian Neural Groundwater Inversion",
+      "link": "https://arxiv.org/abs/2611.03669",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-04T05:00:00.000Z",
+      "excerpt": "arXiv:2611.03669v1 Announce Type: cross Abstract: Groundwater inversion is commonly built on Gaussian assumptions for both network weights and output errors. The assumptions are convenient, but it is unclear which one sh…"
+    },
+    {
+      "title": "Amplified transport variability in granular slope flows near the critical angle",
+      "link": "https://arxiv.org/abs/2611.04440",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-04T05:00:00.000Z",
+      "excerpt": "arXiv:2611.04440v1 Announce Type: cross Abstract: Mechanical disturbances such as seismic shaking can set a granular slope in motion. Understanding the resulting transport before arrest is important for predicting topogr…"
+    },
+    {
+      "title": "Lagrangian Irreversibility in Stratified Turbulence",
+      "link": "https://arxiv.org/abs/2611.05282",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-04T05:00:00.000Z",
+      "excerpt": "arXiv:2611.05282v1 Announce Type: cross Abstract: Stable stratification reorganizes turbulence, suppressing vertical motion and altering the balance between vortical and strain-dominated flow structures. How these change…"
+    },
+    {
+      "title": "Supershear Rupture Indicator in Near-fault Particle Motion",
+      "link": "https://arxiv.org/abs/2606.10843",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-04T05:00:00.000Z",
+      "excerpt": "arXiv:2606.10843v2 Announce Type: replace Abstract: Earthquake rupture propagation speed is an essential source parameter that fundamentally controls hazard and risk. In this paper, we develop and demonstrate the capabil…"
+    },
+    {
+      "title": "North Atlantic's 'cold blob' may contain climate nuance",
+      "link": "https://phys.org/news/2026-11-north-atlantic-cold-blob-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-04T00:40:06.000Z",
+      "excerpt": "Climate observers have long tied the strength of a major ocean current to water temperatures in the so-called \"cold blob\" in the North Atlantic Ocean. The 965,000-square-mile (2.5 million square kilometers) area south an…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5275: A Compact MMDTC-MMC Hybrid HVDC System for Offshore Wind Power Integration: Topology and Control",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5275",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-04T00:00:00.000Z",
+      "excerpt": "The modular multilevel converter (MMC) is currently the mainstream solution for connecting offshore wind power to high-voltage direct-current (HVDC) grids. However, its large number of submodules and bulky energy-storage…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3556: Advancing Towards Zero Liquid Discharge: Hybrid Membrane and Electro-Oxidation Processes for Petrochemical Wastewater Reuse",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3556",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-04T00:00:00.000Z",
+      "excerpt": "Petrochemical industries consume substantial volumes of water and generate complex wastewaters that require advanced treatment to enable sustainable reuse. This study developed and evaluated a hybrid treatment system int…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3555: Breakthrough Pressure Testing of Subsea Hydrate-Bearing Caps: Methods, Limitations, and Future Perspectives",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3555",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-04T00:00:00.000Z",
+      "excerpt": "The safe production of natural gas in reservoir highly depends upon sealing capacity of the conventional and hydrate-bearing caps, with breakthrough pressure serving as the primary evaluation indicator. This study first…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3554: Comparative Study on Experiment and Numerical Simulation of Annular Multiphase Flow",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3554",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-04T00:00:00.000Z",
+      "excerpt": "Annular gas&amp;ndash;liquid flow is more complex than the flow in circular pipes because the inner and outer walls can support two liquid films. This study addresses the limited quantitative information available for in…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3553: Collaborative Optimization Scheduling Method for Distribution Networks and Microgrids Based on Analytical Target Cascading",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3553",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-04T00:00:00.000Z",
+      "excerpt": "The growing penetration of distributed generation has led to an increasing number of microgrids being integrated into distribution networks, which introduces considerable difficulties in reconciling the divergent economi…"
+    },
+    {
+      "title": "Southern Ocean waters reveal distinct nutrient recycling pathways during decades-long journeys north",
+      "link": "https://phys.org/news/2026-11-southern-ocean-reveal-distinct-nutrient.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-03T23:50:01.000Z",
+      "excerpt": "The Southern Ocean may seem far removed from the North Pacific or the Gulf of Maine, but its waters are linked to all the world's major ocean basins through a vast circulation system."
+    },
+    {
+      "title": "Tijuana River pollution doesn't stay put—it can travel seven times farther than expected",
+      "link": "https://phys.org/news/2026-11-tijuana-river-pollution-doesnt-stay.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-03T23:30:01.000Z",
+      "excerpt": "Waste dumped into the Tijuana River can travel seven times farther than expected before becoming airborne and affecting San Diego's air, at least 20 miles (32 kilometers) from its source, according to new UC Riverside re…"
+    },
+    {
+      "title": "Cooking is a bigger source of harmful air particles than vehicle exhausts in London and Beijing",
+      "link": "https://phys.org/news/2026-11-cooking-bigger-source-air-particles.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-03T23:20:02.000Z",
+      "excerpt": "There have been decades of regulations to make vehicles greener and improve air quality in London and Beijing, as well as a popular shift toward less polluting road transport. Now, total emissions of harmful air pollutan…"
+    },
+    {
+      "title": "Researchers target PFAS with lower-temperature destruction method",
+      "link": "https://phys.org/news/2026-11-pfas-temperature-destruction-method.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-03T20:00:07.000Z",
+      "excerpt": "Removing harmful chemicals from contaminated water is only one step toward their elimination. Once collected in filtration materials, these chemicals must still be destroyed and detoxified to prevent contamination from m…"
+    },
+    {
+      "title": "Global accounting reveals economic toll of ecosystem losses from rising seas",
+      "link": "https://phys.org/news/2026-11-global-accounting-reveals-economic-toll.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-03T20:00:01.000Z",
+      "excerpt": "A global accounting puts the value of ecosystem services that could be lost to sea level rise at well over 100 billion in 2020 international dollars (Int$2020) per year by 2100, according to a study—and the nations that…"
+    },
     {
       "title": "Mapping Kīlauea's magma reservoirs at high resolution",
       "link": "https://phys.org/news/2026-11-klauea-magma-reservoirs-high-resolution.html",
@@ -124,38 +268,6 @@
       "excerpt": "Tree planting provides wood, biomass and climate benefits, but the location where those new forests are established matters. An international study by researchers in Spain, Chile and Finland shows that converting nonfore…"
     },
     {
-      "title": "Many local communities know how to communicate during disasters. Let's learn from them",
-      "link": "https://phys.org/news/2026-11-local-communities-communicate-disasters.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-03T15:00:04.000Z",
-      "excerpt": "It was a frightening time."
-    },
-    {
-      "title": "Tree shade offers critical heat relief for people experiencing unsheltered homelessness",
-      "link": "https://phys.org/news/2026-11-tree-critical-relief-people-experiencing.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-03T13:20:05.000Z",
-      "excerpt": "People experiencing unsheltered homelessness in Salt Lake City face hours of dangerous daytime heat and hot nights that offer little relief, according to a University of Utah study. Researchers also found that tree shade…"
-    },
-    {
-      "title": "New study reveals where drought and extreme heat converge across Oman",
-      "link": "https://phys.org/news/2026-11-reveals-drought-extreme-converge-oman.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-03T12:00:04.000Z",
-      "excerpt": "Drought and extreme heat do not always occur separately. When they coincide, their combined effects can place greater pressure on water resources, agriculture, ecosystems, energy systems and public health."
-    },
-    {
-      "title": "Fire losses to U.S. buildings could nearly triple by 2060 without new protections",
-      "link": "https://phys.org/news/2026-11-losses-triple.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-03T10:00:08.000Z",
-      "excerpt": "Fires in the U.S. are getting faster, larger and more dangerous, but people continue to develop and move into fire-prone regions. New research from the University of Colorado Boulder's Cooperative Institute for Research…"
-    },
-    {
       "title": "Kistos to acquire 30% stake in North Sea’s Abbey and Baker gas fields",
       "link": "https://www.offshore-technology.com/news/kistos-acquire-stake-abbey-baker-gas-fields/",
       "source": "Offshore Technology",
@@ -178,118 +290,6 @@
       "category": "industry",
       "published": "2026-11-03T08:04:47.000Z",
       "excerpt": "A Blackstone-led investor group has agreed to invest $3.1bn for a 49.9% stake in a subsidiary holding Mitsubishi's interest in the LNG Canada project."
-    },
-    {
-      "title": "Benchmark Study for Quantum Statevector Simulators for Scientific Computing",
-      "link": "https://arxiv.org/abs/2611.01176",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2611.01176v1 Announce Type: new Abstract: Quantum circuit simulators are essential for quantum algorithm development, yet systematic runtime benchmarks comparing major frameworks across CPU and GPU backends are lim…"
-    },
-    {
-      "title": "A spatial autocorrelation method for estimating Rayleigh-wave attenuation coefficients from microtremor array measurements",
-      "link": "https://arxiv.org/abs/2611.02359",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2611.02359v1 Announce Type: new Abstract: The velocity and attenuation structures of near-surface soils play an important role in controlling earthquake ground motions. While numerous passive techniques have been d…"
-    },
-    {
-      "title": "Original Insights Into Rock Slope Damage Processes Until Collapse From Passive Seismic Monitoring",
-      "link": "https://arxiv.org/abs/2611.02863",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2611.02863v1 Announce Type: new Abstract: We conducted passive seismic monitoring of the unstable La Praz rock slope (approximately 14,000 m${}^3$) in the French Alps over a period of more than 10 years. During the…"
-    },
-    {
-      "title": "Characterizing landslide dynamics from time-lapse time domain induced polarization and ground-based imaging: a case study of the MontGombert landslide (French, Alps)",
-      "link": "https://arxiv.org/abs/2611.02868",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2611.02868v1 Announce Type: new Abstract: Electrical resistivity tomography (ERT) is widely used to investigate landslide morphology and dynamics. Landslide behavior is strongly influenced by clay content, pore pre…"
-    },
-    {
-      "title": "Mapping rockfall hazard and detecting precursory damage in rock slopes with passive seismic: Lessons from the La Praz case-study",
-      "link": "https://arxiv.org/abs/2611.02869",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2611.02869v1 Announce Type: new Abstract: Repeated passive seismic surveys were conducted over more than a decade on the unstable La Praz rock slope in Savoie, France, which involved an estimated rock volume of app…"
-    },
-    {
-      "title": "Seismic study of soda straws exposed to nearby blasting vibrations",
-      "link": "https://arxiv.org/abs/2611.02873",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2611.02873v1 Announce Type: new Abstract: This study aims to protect an exceptional population of soda straw stalactites from vibrations generated by nearby rock blasting activities. The Choranche Cave, located in…"
-    },
-    {
-      "title": "Environmental seismology: What can we learn on earth surface processes with ambient noise?",
-      "link": "https://arxiv.org/abs/2611.02878",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2611.02878v1 Announce Type: new Abstract: Environmental seismology investigates mechanical vibrations generated by external processes or influenced by phenomena originating outside the solid Earth. It encompasses i…"
-    },
-    {
-      "title": "Damage Assessment of Supporting Pillars in an Underground Cave Using Joint Inversion of Electrical Resistivity and P-wave Velocity, Burgundy (France)",
-      "link": "https://arxiv.org/abs/2611.02881",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2611.02881v1 Announce Type: new Abstract: This study presents an integrated approach combining seismic refraction tomography and electrical resistivity tomography to evaluate the structural integrity of supporting…"
-    },
-    {
-      "title": "Muography Simulations for Carbon Capture and Storage Monitoring",
-      "link": "https://arxiv.org/abs/2611.01668",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2611.01668v1 Announce Type: cross Abstract: Muography can monitor CO2 storage through reservoir density changes, but site-scale simulations are costly: reservoirs can be deep and borehole detectors are small. We ad…"
-    },
-    {
-      "title": "DeepWaveRL: Self-Supervised Full Waveform Inversion via Reinforcement Learning",
-      "link": "https://arxiv.org/abs/2611.03264",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2611.03264v1 Announce Type: cross Abstract: Full Waveform Inversion (FWI) is a fundamental inverse problem in geophysics to estimate subsurface properties, such as velocity, from seismic measurements. Recently, sel…"
-    },
-    {
-      "title": "A Geometry-Informed Neural Operator surrogate of LISFLOOD-FP for rapid pluvial-fluvial flood forecasting: the case of Forl\\`i, Italy",
-      "link": "https://arxiv.org/abs/2611.03381",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2611.03381v1 Announce Type: cross Abstract: Physically based two-dimensional hydraulic models are too slow for real-time inundation forecasting and large ensembles. We present a time-dependent geometry-informed neu…"
-    },
-    {
-      "title": "Community HydroAgent: Formalizing Forecaster Expertise into Skill-Orchestrated Flood Forecasting Workflows",
-      "link": "https://arxiv.org/abs/2607.23983",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-03T05:00:00.000Z",
-      "excerpt": "arXiv:2607.23983v2 Announce Type: replace Abstract: Operational flood forecasting depends on tacit forecaster expertise that is difficult to formalize, audit, and transfer. Although artificial intelligence methods have a…"
-    },
-    {
-      "title": "Study dives into lesser-known climate impacts of global reforestation",
-      "link": "https://phys.org/news/2026-11-lesser-climate-impacts-global-reforestation.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-03T02:40:01.000Z",
-      "excerpt": "Simon Fraser University researchers are zeroing in on how global forestation efforts impact our climate system beyond CO₂ removal in a new study."
-    },
-    {
-      "title": "Climate change is making the tropics hotter",
-      "link": "https://phys.org/news/2026-11-climate-tropics-hotter.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-03T02:00:01.000Z",
-      "excerpt": "A new study finds that tropical areas often thought to be safe from the effects of climate change are actually experiencing significant changes in rainfall and extreme temperature events. The paper, \"Shifting climate in…"
     },
     {
       "title": "Energies, Vol. 19, Pages 5274: A Low-Carbon Control Strategy for a Wind&ndash;Hydrogen&ndash;Ammonia Coupled Thermal Power System",
@@ -380,14 +380,6 @@
       "excerpt": "Network-feasible regulation headroom does not ensure that aggregated resources can deliver a dispatch instruction within its activation window. This study combines joint response calibration with robust linear network co…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5263: Condition-Monitoring-Based Reliability and Profit Optimization of PEM Electrolyser: A Multi-State Semi-Markov Approach with Derated Operation and Logistics Delay",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5263",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-03T00:00:00.000Z",
-      "excerpt": "Proton exchange membrane (PEM) water electrolysis is a key technology for converting renewable electricity into green hydrogen, and the availability of electrolyser stacks directly determines the hydrogen output and econ…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3552: Grid State-Aware Adaptive Switching Between Grid-Following and Grid-Forming Modes Enabled by Fast Online Impedance Estimation",
       "link": "https://www.mdpi.com/2227-9717/14/21/3552",
       "source": "Processes (MDPI)",
@@ -450,38 +442,6 @@
       "category": "processing",
       "published": "2026-11-03T00:00:00.000Z",
       "excerpt": "Paddy grains require impurity removal before storage, and cyclone air separation is the final stage for removing lightweight impurities. In this study, a three-dimensional computational fluid dynamics&amp;ndash;discrete…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3544: Coordinated Planning of Distribution-Side Distributed Generation and Energy Storage Considering Transmission&ndash;Distribution Coupling",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3544",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-03T00:00:00.000Z",
-      "excerpt": "Against the backdrop of the dual carbon goals of carbon peaking and carbon neutrality and the increasing penetration of renewable energy, conventional hierarchical planning methods for transmission and distribution netwo…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3546: Forecast-Error-Driven Multi-Time-Scale Hybrid Scheduling for Rural Integrated Energy Systems",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3546",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-03T00:00:00.000Z",
-      "excerpt": "Rural integrated energy systems (RIESs) suffer from volatile renewable generation, surging agricultural peak loads, and unevenly distributed forecast errors, which severely undermine scheduling robustness and economic ef…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3542: Geochemical Characterization and Source Affinity of Light Oils from the Pinghu Slope Belt, Xihu Sag, East China Sea Shelf Basin",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3542",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-03T00:00:00.000Z",
-      "excerpt": "The Pinghu Slope Belt in the Xihu Sag represents a prolific hydrocarbon province in the East China Sea Shelf Basin, where light oils are primarily sourced from the coal-bearing strata of the Eocene Pinghu Formation. Howe…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3543: Phenolic Profile, Antioxidant Capacity, and Mineral Content of Peel and Pulp from Green and Ripe Vasconcellea jossei Fruits",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3543",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-03T00:00:00.000Z",
-      "excerpt": "Vasconcellea jossei is an Andean fruit species of the Caricaceae family whose chemical composition remains poorly understood. This study aimed to characterize the phenolic composition, antioxidant capacity, and mineral c…"
     },
     {
       "title": "TotalEnergies strikes deal for Lang Lebah and B14 fields in Malaysia",
@@ -874,6 +834,46 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Huiying Tang, Zhicheng Wen, Liehui Zhang, Junsheng Zeng, Xiao He, Jianfa Wu, Jian Zheng"
+    },
+    {
+      "title": "Lithofacies analysis and paleosedimentary evolution of Taiyuan Formation in Southern North China Basin",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009792?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Yanxia Peng, Shaobin Guo"
+    },
+    {
+      "title": "Evaluation of hematite and Micromax-based cement systems for high- density well cementing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009779?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Abdulmalek Ahmed, Ahmed Abdelaal, Salaheldin Elkatatny"
+    },
+    {
+      "title": "Dynamic effect of gas initial desorption in coals with different moisture contents and energy-controlling mechanism for outburst prevention of water injection in coal seams",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011226?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
+    },
+    {
+      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
     }
   ]
 }
