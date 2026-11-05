@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T19:59:40.803Z",
+  "generatedAt": "2026-11-05T07:20:00.548Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 7,
+      "count": 5,
       "error": null
     },
     {
@@ -75,6 +75,110 @@
     }
   ],
   "items": [
+    {
+      "title": "FA-Agent: An extensible multimodal agent framework for first-arrival picking in mountainous seismic data",
+      "link": "https://arxiv.org/abs/2611.06555",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-05T05:00:00.000Z",
+      "excerpt": "arXiv:2611.06555v1 Announce Type: new Abstract: First-arrival traveltimes underpin near-surface velocity modeling and static corrections, but in low signal-to-noise mountainous land data the first arrival is often weak,…"
+    },
+    {
+      "title": "Controls on the deformation and reorientation of mafic enclaves during magma mingling: A computational study",
+      "link": "https://arxiv.org/abs/2611.05575",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-05T05:00:00.000Z",
+      "excerpt": "arXiv:2611.05575v1 Announce Type: cross Abstract: Mafic microgranular enclaves in granitic plutons record magma mingling, and their shapes are often interpreted as a record of the flow that deformed them. We investigate…"
+    },
+    {
+      "title": "From hydrological laws to catchment models: A process-based model matches deep-learning accuracy on three continents",
+      "link": "https://arxiv.org/abs/2611.06382",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-05T05:00:00.000Z",
+      "excerpt": "arXiv:2611.06382v1 Announce Type: cross Abstract: Dooge asked whether hydrology has laws at the catchment scale. We ask whether a low-dimensional system built under physical laws can match the accuracy of neural networks…"
+    },
+    {
+      "title": "A generic framework for extending Miles' approach to wind-wave interactions",
+      "link": "https://arxiv.org/abs/2504.09369",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-05T05:00:00.000Z",
+      "excerpt": "arXiv:2504.09369v3 Announce Type: replace-cross Abstract: Understanding the energy transfer from wind to waves is an important but complex topic, typically based on phenomenology, on heavy numerics, or on technically cha…"
+    },
+    {
+      "title": "Graph-based Automated Discovery of Concise Soil Hydraulic Functions from Data: Beyond Empirical Formulations",
+      "link": "https://arxiv.org/abs/2605.19379",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-05T05:00:00.000Z",
+      "excerpt": "arXiv:2605.19379v2 Announce Type: replace-cross Abstract: Soil hydraulic functions underpin water flow and transport modeling in the vadose zone, yet they are commonly represented by expert-designed formulations such as…"
+    },
+    {
+      "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
+      "link": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-05T01:00:01.000Z",
+      "excerpt": "If you partitioned the entire Earth, from just below the surface to the top of the atmosphere, into 1-kilometer-square chunks, there would be billions of them. Now run each of those cells through a series of complex phys…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5300: Model-Based Positive Generation Gaps and Smart EV Charging Potential: A 2020&ndash;2025 Case Study of Photovoltaics, Wind Power, and Hydropower",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5300",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-05T00:00:00.000Z",
+      "excerpt": "This study compares theoretical annual renewable generation with recorded grid injection from one Polish distribution system operator for 2020&amp;ndash;2025. Across 1513 source-year records, the cumulative positive mode…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5299: Experimental Characterization and Model-Based Altitude-Adaptive Liquid&ndash;Air Coupled Thermal Management of a High-Power PEMFC System in Plateau Environments",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5299",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-05T00:00:00.000Z",
+      "excerpt": "Proton exchange membrane fuel-cell (PEMFC) systems in plateau regions face reduced electrochemical performance because of lower oxygen partial pressure, while radiator heat rejection can be weakened by lower air density.…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5298: Correction: Hasager et al. Rain Erosion Load and Its Effect on Leading-Edge Lifetime and Potential of Erosion-Safe Mode at Wind Turbines in the North Sea and Baltic Sea. Energies 2021, 14, 1959",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5298",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-05T00:00:00.000Z",
+      "excerpt": "There was an error in the original publication [...]"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3567: Coupled Effects of Burial Depth and Surface Double Cracks on the Uplift Bearing Capacity of Strip Anchor Plates in Red Clay",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3567",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-05T00:00:00.000Z",
+      "excerpt": "Prolonged drought can induce shrinkage cracking in near-surface clay foundations, leaving persistent defects that may affect the uplift safety of underground structures before subsequent rainfall events. This study inves…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3568: Investigation of the Cold Working Effect on the Corrosion Resistance of 1.4301 Stainless Steel",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3568",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-05T00:00:00.000Z",
+      "excerpt": "This research investigated the effect of cold working on the corrosion resistance of 1.4301 (X5CrNi18-10, AISI 304) austenitic stainless steel. The test specimens were prepared by cold rolling. The original thickness of…"
+    },
+    {
+      "title": "NOAA, NASA release measurements of 2026 ozone hole",
+      "link": "https://phys.org/news/2026-11-noaa-nasa-ozone-hole.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-04T21:40:16.000Z",
+      "excerpt": "Atypical weather conditions caused the Antarctic ozone hole to grow to an unusually large size in 2026, NOAA and NASA scientists reported today, though they said the protective ozone layer is still on track to recover by…"
+    },
+    {
+      "title": "Northern permafrost greening masks declining plant resilience, study finds",
+      "link": "https://phys.org/news/2026-11-northern-permafrost-greening-masks-declining.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-04T20:00:08.000Z",
+      "excerpt": "An international study jointly led by researchers from the Department of Geography and the Institute for Climate and Carbon Neutrality at the Faculty of Social Sciences, The University of Hong Kong (HKU), has revealed th…"
+    },
     {
       "title": "Long-term temperature records reveal a surprising picture of climate change on Kilimanjaro",
       "link": "https://phys.org/news/2026-11-term-temperature-reveal-picture-climate.html",
@@ -148,12 +252,12 @@
       "excerpt": "Deep beneath Earth's surface, some minerals hold clues to processes that happened millions of years ago. One such mineral is lawsonite, which forms under high pressure and relatively low temperatures. What makes it signi…"
     },
     {
-      "title": "Research reveals accelerating sea-level rise around Ireland",
-      "link": "https://phys.org/news/2026-11-reveals-sea-ireland.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-04T12:20:06.000Z",
-      "excerpt": "A new study led by the ICARUS Climate Research Center at Maynooth University in Ireland has reconstructed a century of Irish sea-level change, revealing a stark acceleration in sea-level rise. The research, titled \"A Cen…"
+      "title": "Moeve to sell stakes in three Algerian oil fields to Pertamina",
+      "link": "https://www.offshore-technology.com/news/moeve-algerian-oil-fields-pertamina/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-11-04T12:53:04.000Z",
+      "excerpt": "Moeve has agreed to sell its entire interests in three non-operated onshore hydrocarbon fields in Algeria’s Berkine Basin to PAEP."
     },
     {
       "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
@@ -162,14 +266,6 @@
       "category": "energy",
       "published": "2026-11-04T10:43:44.000Z",
       "excerpt": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnet…"
-    },
-    {
-      "title": "Toxic air pollution surges in Indian capital",
-      "link": "https://phys.org/news/2026-11-toxic-air-pollution-surges-indian.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-04T10:20:01.000Z",
-      "excerpt": "Toxic air pollution in India's capital, New Delhi, surged on Wednesday to more than 30 times the World Health Organization's recommended daily limit, data from air monitors showed."
     },
     {
       "title": "Oil climbs amid US midterm results and Middle East tensions",
@@ -188,76 +284,12 @@
       "excerpt": "Energy Transfer has approved a final investment decision (FID) for the $1.6bn South Mississippi Pipeline Project in southern Mississippi, US."
     },
     {
-      "title": "Six measures could save 1.6 million lives a year: WHO",
-      "link": "https://phys.org/news/2026-11-million-year.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-04T09:48:48.000Z",
-      "excerpt": "Implementing a few climate and health measures could save nearly 1.6 million lives a year and generate trillions of dollars for the economy, the World Health Organization said Wednesday."
-    },
-    {
       "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
       "link": "https://www.offshore-technology.com/news/cvr-energy-acquire-refineries-marathon-4-2bn/",
       "source": "Offshore Technology",
       "category": "industry",
       "published": "2026-11-04T07:15:23.000Z",
       "excerpt": "CVR Energy to acquire two US refineries and associated marketing assets from Marathon Petroleum for about $4.2bn plus net working capital."
-    },
-    {
-      "title": "Extracting and Characterizing Near-Fault Effects from Strong Motion Observations of the 2022 Chishang Earthquake Sequence",
-      "link": "https://arxiv.org/abs/2611.04120",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-04T05:00:00.000Z",
-      "excerpt": "arXiv:2611.04120v1 Announce Type: new Abstract: Accurately characterizing near-fault ground motions, particularly permanent tectonic displacements and velocity pulses associated with rupture directivity, is essential for…"
-    },
-    {
-      "title": "Shallow lunar fractures dominate the long-lasting seismic coda",
-      "link": "https://arxiv.org/abs/2611.04209",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-04T05:00:00.000Z",
-      "excerpt": "arXiv:2611.04209v1 Announce Type: new Abstract: Lunar seismic records are characterized by long-lasting spindle-shaped coda, which has long been considered to be caused by strong velocity contrasts in a continuous-medium…"
-    },
-    {
-      "title": "GeoSim: Benchmarking Multi-Field Neural Operators for Geodynamics",
-      "link": "https://arxiv.org/abs/2611.04517",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-04T05:00:00.000Z",
-      "excerpt": "arXiv:2611.04517v1 Announce Type: new Abstract: Learning reliable surrogates for geodynamic models requires benchmarks that resolve coupled fields and temporal stability. We present GeoSim, a benchmark of high-resolution…"
-    },
-    {
-      "title": "Separating Weight and Likelihood Tail Effects in Bayesian Neural Groundwater Inversion",
-      "link": "https://arxiv.org/abs/2611.03669",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-04T05:00:00.000Z",
-      "excerpt": "arXiv:2611.03669v1 Announce Type: cross Abstract: Groundwater inversion is commonly built on Gaussian assumptions for both network weights and output errors. The assumptions are convenient, but it is unclear which one sh…"
-    },
-    {
-      "title": "Amplified transport variability in granular slope flows near the critical angle",
-      "link": "https://arxiv.org/abs/2611.04440",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-04T05:00:00.000Z",
-      "excerpt": "arXiv:2611.04440v1 Announce Type: cross Abstract: Mechanical disturbances such as seismic shaking can set a granular slope in motion. Understanding the resulting transport before arrest is important for predicting topogr…"
-    },
-    {
-      "title": "Lagrangian Irreversibility in Stratified Turbulence",
-      "link": "https://arxiv.org/abs/2611.05282",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-04T05:00:00.000Z",
-      "excerpt": "arXiv:2611.05282v1 Announce Type: cross Abstract: Stable stratification reorganizes turbulence, suppressing vertical motion and altering the balance between vortical and strain-dominated flow structures. How these change…"
-    },
-    {
-      "title": "Supershear Rupture Indicator in Near-fault Particle Motion",
-      "link": "https://arxiv.org/abs/2606.10843",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-04T05:00:00.000Z",
-      "excerpt": "arXiv:2606.10843v2 Announce Type: replace Abstract: Earthquake rupture propagation speed is an essential source parameter that fundamentally controls hazard and risk. In this paper, we develop and demonstrate the capabil…"
     },
     {
       "title": "Energies, Vol. 19, Pages 5297: Comparative Assessment of Uncertainty Representation Methods for Bilevel Stochastic Wind Power Investment",
@@ -330,30 +362,6 @@
       "category": "energy",
       "published": "2026-11-04T00:00:00.000Z",
       "excerpt": "In induction motor drive systems employing indirect field-oriented control (IFOC), variations in the rotor time constant lead to inaccurate estimation of the rotor field phase, thereby preventing accurate decoupling of t…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5288: Research on Wind-Induced Fatigue of Substation Disconnect Switchgear Structures",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5288",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-04T00:00:00.000Z",
-      "excerpt": "Substation pillar-type switchgear structures are important electrical equipment in the power transmission and transformation system. These structures are characterized by a large top mass, low overall stiffness, and low…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5287: End-of-Life Management of Photovoltaic Modules: Recycling, Second-Life Applications, and Disposal",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5287",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-04T00:00:00.000Z",
-      "excerpt": "The rapid global expansion of photovoltaic (PV) systems, driven by rising energy demand, is expected to generate substantial module waste at end-of-life, with global PV waste projected to exceed 4 million tonnes by 2030,…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5286: Hybrid Physics&ndash;Data-Driven Digital Twin of a Six-Phase PMSM with Experimentally Identified Parameters and Saturation Maps",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5286",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-04T00:00:00.000Z",
-      "excerpt": "Accurate digital twins (DTs) of multiphase permanent-magnet synchronous machines (PMSMs) remain challenging because nonlinear magnetic saturation, cross-coupling, iron-loss effects, and inverter non-idealities must be re…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3562: Prescriptive Digital Twins and Explainable AI for Human-Centric Industrial Automation",
@@ -436,22 +444,6 @@
       "excerpt": "To enhance excavation quality, optimize cavity-forming efficiency, and mitigate blasting-induced vibrations during tunnel cut blasting, this study investigates the influence of cut-hole inclination angle and millisecond…"
     },
     {
-      "title": "Processes, Vol. 14, Pages 3556: Advancing Towards Zero Liquid Discharge: Hybrid Membrane and Electro-Oxidation Processes for Petrochemical Wastewater Reuse",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3556",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-04T00:00:00.000Z",
-      "excerpt": "Petrochemical industries consume substantial volumes of water and generate complex wastewaters that require advanced treatment to enable sustainable reuse. This study developed and evaluated a hybrid treatment system int…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3555: Breakthrough Pressure Testing of Subsea Hydrate-Bearing Caps: Methods, Limitations, and Future Perspectives",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3555",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-04T00:00:00.000Z",
-      "excerpt": "The safe production of natural gas in reservoir highly depends upon sealing capacity of the conventional and hydrate-bearing caps, with breakthrough pressure serving as the primary evaluation indicator. This study first…"
-    },
-    {
       "title": "Shell to divest North West Shelf stake to XRG for $1.5bn",
       "link": "https://www.offshore-technology.com/news/shell-north-west-shelf-stake-xrg/",
       "source": "Offshore Technology",
@@ -498,14 +490,6 @@
       "category": "industry",
       "published": "2026-11-02T09:53:10.000Z",
       "excerpt": "Eni has commenced gas production from the Maha field, situated in the West Ganal block of the Kutei Basin offshore Indonesia."
-    },
-    {
-      "title": "Chevron reports net income of $9.9bn in Q3 2026",
-      "link": "https://www.offshore-technology.com/news/chevron-net-income-9-9bn-q3-2026/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-11-02T09:36:42.000Z",
-      "excerpt": "Chevron has reported net income of $9.92bn for the third quarter of 2026 (Q3 2026), a 180.4% increase from $3.54bn in the same period of 2025."
     },
     {
       "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
@@ -874,6 +858,22 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Investigation of mixed-wood char gasification kinetics under a simulated gasifier atmosphere using the KIVAN drop tube reactor",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036744?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part B Author(s): Felix Küster, Christoph Scharm, Stefan Guhl, Xin Huang, Zhen Liu, Martin Gräbner, Bernd Meyer"
     }
   ]
 }
