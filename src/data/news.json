@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:39:32.352Z",
+  "generatedAt": "2026-11-08T13:50:17.716Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,12 +76,76 @@
   ],
   "items": [
     {
+      "title": "Energies, Vol. 19, Pages 5364: Enhanced Light Harvesting and Photovoltaic Output in Perovskite Solar Cells via Methyltrimethoxysilane-Modified Porous Silica Anti-Reflective Coatings",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5364",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-08T00:00:00.000Z",
+      "excerpt": "Anti-reflective coatings (ARCs) offer an effective strategy to increase the electrical energy output of perovskite solar cells (PSCs) by improving light harvesting without altering device architecture. Here, MTMS-modifie…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5363: Direct Energy Inputs for Milk Production in Polish Dairy Farms",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5363",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-08T00:00:00.000Z",
+      "excerpt": "Increasing milk production efficiency, along with the ongoing consolidation and mechanization of farms, is making efficient energy use more critical than ever. Therefore, this study aimed to determine the direct energy i…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5362: Optimal Battery Storage Sizing in Energy-Intensive Enterprises with Photovoltaics Considering Distribution Charges",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5362",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-08T00:00:00.000Z",
+      "excerpt": "In recent years, energy-intensive enterprises have faced increasing prices of primary and final energy carriers, combined with significant volatility in electricity market prices. In this regard, own low-cost generation…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5361: Electrical Response of Inclined Composite Insulator Surfaces to Discrete Water Droplets",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5361",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-08T00:00:00.000Z",
+      "excerpt": "Droplets on composite insulator surfaces can change surface conductivity and affect leakage current. In this study, an Adjustable Inclined Plane Test system (AIPT) was developed to examine the effect of inclination on th…"
+    },
+    {
       "title": "Energies, Vol. 19, Pages 5360: Optimization of Hydraulic Fracturing Parameters and Evolution of the In Situ Stress Field During Waterflooding: A Case Study of the Lower Karamay Formation Reservoir in the Bai 21 Well Block",
       "link": "https://www.mdpi.com/1996-1073/19/21/5360",
       "source": "Energies (MDPI)",
       "category": "energy",
       "published": "2026-11-08T00:00:00.000Z",
       "excerpt": "This research investigates strategies for improving oil recovery from the highly heterogeneous conglomerate deposits of the Lower Karamay Formation in the Bai 21 Well Block of the Junggar Basin. Particular attention is g…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3611: Prediction and Risk Control of Interwell Fracturing Interference in Deep Coalbed Methane Reservoirs",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3611",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-08T00:00:00.000Z",
+      "excerpt": "Interwell fracturing interference increasingly affects production as deep coalbed methane development advances towards dense well patterns and large-scale stimulation. Predicting offset-well responses requires relation-s…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3610: Processing and Formulation Strategies for PFAS-Free Food Packaging: Nanocellulose&ndash;Natural Wax Hybrid Coatings for Barrier Applications",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3610",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-08T00:00:00.000Z",
+      "excerpt": "The environmental impacts of fossil-based plastic food packaging and the use of grease-resistant coatings containing per- and polyfluoroalkyl substances (PFAS) are driving the development of bio-based and fluorine-free a…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3609: Multi-Objective Flexible Job Shop Scheduling Minimizing Makespan, Machine Workload, and Energy Consumption",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3609",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-08T00:00:00.000Z",
+      "excerpt": "This study establishes a tri-objective model for the flexible job shop scheduling problem to minimize makespan, total machine workload, and energy consumption. A multi-objective hiking optimization algorithm (MOHOA) is d…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3608: Computational Fluid Dynamics Simulation of Pneumatic Conveying of Radioactive Liquid Sampling Vials",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3608",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-08T00:00:00.000Z",
+      "excerpt": "To determine the motion characteristics of radioactive liquid sampling vials in pneumatic conveying systems in the nuclear industry, computational fluid dynamics (CFD) was employed to perform fluid&amp;ndash;structure in…"
     },
     {
       "title": "Heavy rain can more than double glacier speeds in Alaska",
@@ -162,38 +226,6 @@
       "category": "energy",
       "published": "2026-11-07T00:00:00.000Z",
       "excerpt": "This work presents an integrated experimental and modeling study of post-combustion CO2 capture using polysulfone hollow-fiber membranes in a three-module &amp;laquo;Continuous Membrane Column&amp;raquo; cascade. Polysul…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5353: Analysis of the Possibility of Modifying Selected Combustion Parameters of a Rapeseed Oil with n-Hexane Blend in a Compression Ignition Engine by Changing the Start of Injection of the Second Pilot Injection and the Main Injection",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5353",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-07T00:00:00.000Z",
-      "excerpt": "Rapeseed oil has a viscosity several times higher and a lower cetane number than diesel fuel; therefore, its use in engines with a common rail injection system requires adjustment of the injection control. The addition o…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5351: Electric Vehicle Charging Station with Grid Support and Ancillary Service Capabilities",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5351",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-07T00:00:00.000Z",
-      "excerpt": "This paper presents the power electronics architecture of an electric vehicle (EV) charging station operating as a DC microgrid with an AC grid interface. The grid-interface converter is implemented using an interleaved…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5350: Coordinated Wind&ndash;Storage Frequency Regulation Strategy for Suppressing Frequency Fluctuations",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5350",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-07T00:00:00.000Z",
-      "excerpt": "With increasing renewable energy penetration, maintaining active power balance in power systems has become increasingly challenging. Repeated frequency crossings of the primary frequency regulation deadband may degrade f…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5349: Multi-Terminal Smart Soft Open Point for Reinforcement Deferral in Low-Voltage Networks Under Sudden Load Growth and Transport Electrification",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5349",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-07T00:00:00.000Z",
-      "excerpt": "Rapid electric vehicle adoption can create severe voltage, loading, and service-continuity constraints in low-voltage networks when demand growth is spatially uneven. This study evaluates a multi-terminal Smart Soft Open…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3607: Homogenization of Gas Flow in Deformable Porous Media with Wall-Slip",
@@ -362,38 +394,6 @@
       "category": "processing",
       "published": "2026-11-06T00:00:00.000Z",
       "excerpt": "Early warning of critical process states requires a future safety-boundary target and explicit control of alarm burden. Fault labels and aggregate accuracy do not directly define this objective. We propose consequence-aw…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3598: Fracture Propagation and Reservoir Energization During CO2 Pre-Fracturing in Tight Sandstone Gas Reservoirs: Numerical Simulation and Optimization of Injection Volume and Rate",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3598",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-06T00:00:00.000Z",
-      "excerpt": "CO2 pre-fracturing is a potential stimulation method for the Sulige tight sandstone gas reservoir, where low permeability and limited reservoir pressure constrain gas production. CO2 has attracted interest in tight-reser…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3599: Biochar-Activated Persulfate for the Removal of Triazine Herbicides in Water: Effects of Feedstock, pH, and Scavengers; Reusability; And a Case Study in Real Wastewater",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3599",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-06T00:00:00.000Z",
-      "excerpt": "Simazine and atrazine are widely used triazine herbicides frequently detected in surface water and groundwater due to their chemical stability and resistance to conventional treatment processes. In this study, biochar-ac…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3597: A Large Language Model-Based Manufacturing Execution System for Heat Treatment and Its Evaluation Method",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3597",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-06T00:00:00.000Z",
-      "excerpt": "Quality investigations in heat treatment require inspection results to be linked with processing histories, while conventional manufacturing execution systems distribute these records across separate modules. This study…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3596: RETRACTED: Alqaed et al. Machine Learning-Based Approach for Modeling the Nanofluid Flow in a Solar Thermal Panel in the Presence of Phase Change Materials. Processes 2022, 10, 2291",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3596",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-06T00:00:00.000Z",
-      "excerpt": "The journal retracts the article titled &amp;ldquo;Machine Learning-Based Approach for Modeling the Nanofluid Flow in a Solar Thermal Panel in the Presence of Phase Change Materials&amp;rdquo; [...]"
     },
     {
       "title": "bp raises $1bn through Aker BP share sale",
