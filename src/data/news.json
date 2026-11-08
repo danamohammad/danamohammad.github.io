@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:50:17.716Z",
+  "generatedAt": "2026-11-08T22:26:26.900Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -16,7 +16,7 @@
     {
       "name": "Fuel",
       "ok": true,
-      "count": 94,
+      "count": 98,
       "error": null
     },
     {
@@ -828,6 +828,38 @@
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
     },
     {
+      "title": "Composition and distribution of the fast pyrolysis products from oily sludge pyrolysis fly ash",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037312?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): XinYi Zhao, Jun-Rong Yuan, Qiang Chen, Bao-Kun Shi, Wen-Long Mo, Wei-Dong Gao, Ya-Ya Ma, Hui-Qiang Zheng, Zhi-Hao Ma, Zhi-Xin Li, Xing Fan, Xian-Yo…"
+    },
+    {
+      "title": "Hydroupgrading of unconventional oil enhanced with subcritical steam in a Fixed–Bed reactor over CoMoCe/Al 2 O 3",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036525?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Mengjuan Zhang, Xue Liu, Chao Wang, Hesheng Wang, Zhennan Han, Peng Zheng, Xin Jia, Jiancheng Yang, Kaixuan Li, Jun Pan, Guangwen Xu"
+    },
+    {
+      "title": "Analysis of solid oxide electrolysis and co-electrolysis system operated at elevated pressure",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037646?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Maciej Bąkała"
+    },
+    {
+      "title": "Study of promising compounds of alternative fuels for gas turbine engines (GTE)",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037968?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Alexander A. Molokanov, Zhou Weixing, Igor S. Averkov, Vladimir V. Raznoschikov, Mikhail V. Kuzmin, Boris E. Krisyuk, Leonid S. Yanovskiy, Renat R.…"
+    },
+    {
       "title": "Experimental and kinetic study of the combustion of ammonia/methanol/air premixed flames at elevated pressures and temperatures",
       "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038044?dgcid=rss_sd_all",
       "source": "Fuel",
@@ -842,38 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Yuanjing Liu, Mingyang Zhang, Chenxing Jiang, Yaojun Guo, Yingchun Yuan, Haozhe Guo, Xue Xiao"
-    },
-    {
-      "title": "Effects of particle diameter distribution and concentration on gas-solid two-phase hybrid detonation characteristics",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037324?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Jiamin Guo, Baopeng Luo, Han Xu, Zheng Chen, Zhengxin Zhang, Kang Ma, Jinyang Pan, Chunsheng Weng"
-    },
-    {
-      "title": "Distance-Regime Physics-Guided XGBoost for thermal radiation prediction of jet fires from High-Pressure Hydrogen-Blended natural gas pipelines",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037889?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Huijie Huang, Xu Sun, Jingfa Li, Bo Yu, Xinke Deng, Yanxin Wang, Jiale Xiao"
-    },
-    {
-      "title": "Experimental investigation of gas–solid flow and combustion characteristics in a swirl burner with synergistic recirculation enhancement",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038019?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Chunchao Huang, Pengyang Qin, Yue Lu, Jingjie Wang, Zhengqi Li, Huacai Liu, Su Kun"
-    },
-    {
-      "title": "Temperature-controlled unsupported NiO catalysts derived from nickel nitrate for methane thermocatalysis toward turquoise hydrogen and graphitic carbon",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037415?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Abdulrahman I. Alharthi, Mshari A. Alotaibi, Amani M. Alansi, Saba A. Aladeemy, Talal F. Qahtan"
     }
   ]
 }
