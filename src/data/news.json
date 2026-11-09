@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T22:26:26.900Z",
+  "generatedAt": "2026-11-09T07:07:33.656Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 4,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,78 @@
     }
   ],
   "items": [
+    {
+      "title": "Reconstruction of Global Groundwater Storage Anomaly from GRACE Satellite Gravimetry Using a Physics-Constrained Decomposition LSTM",
+      "link": "https://arxiv.org/abs/2611.08567",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-09T05:00:00.000Z",
+      "excerpt": "arXiv:2611.08567v1 Announce Type: new Abstract: Groundwater is the largest accessible store of freshwater on Earth, yet its depletion has been difficult to quantify globally, because satellite gravimetry senses total wat…"
+    },
+    {
+      "title": "Super-resolved digital terrain models for GEDI geolocation correction: agreement with airborne LiDAR DTM-based corrections at the beam level, not the footprint level",
+      "link": "https://arxiv.org/abs/2611.09854",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-09T05:00:00.000Z",
+      "excerpt": "arXiv:2611.09854v1 Announce Type: cross Abstract: The Global Ecosystem Dynamics Investigation (GEDI) mission measures three-dimensional forest structure with a LiDAR aboard the International Space Station. GEDI observati…"
+    },
+    {
+      "title": "Reconciling advective upwelling with diapycnal downwelling: A transient kinematic perspective on Munk's conundrum",
+      "link": "https://arxiv.org/abs/2502.21006",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-09T05:00:00.000Z",
+      "excerpt": "arXiv:2502.21006v2 Announce Type: replace-cross Abstract: Bottom-intensified turbulent fluxes observed near the seafloor drive abyssal densification and diapycnal downwelling through their vertical divergence. This appea…"
+    },
+    {
+      "title": "U3DWind: A Low Altitude Wind Field Dataset and Benchmark for Urban Air Mobility",
+      "link": "https://arxiv.org/abs/2607.04495",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-09T05:00:00.000Z",
+      "excerpt": "arXiv:2607.04495v2 Announce Type: replace-cross Abstract: Urban Air Mobility (UAM) requires reliable assessment of low-altitude wind hazards, because winds, gusts, and building-induced turbulence have been recognized as…"
+    },
+    {
+      "title": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
+      "source": "ScienceDaily — Geology",
+      "category": "geoscience",
+      "published": "2026-11-09T01:14:33.000Z",
+      "excerpt": "Scientists have discovered that the stickiness of underwater “marine snow” plays a surprisingly important role in how much carbon reaches the deep ocean. Gooier particles resist bacterial breakdown and can transport more…"
+    },
+    {
+      "title": "Radiocarbon analysis uncovers possible traces of hidden earthquakes off Japan's coast",
+      "link": "https://phys.org/news/2026-11-radiocarbon-analysis-uncovers-hidden-earthquakes.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-09T01:00:01.000Z",
+      "excerpt": "Researchers at the University of Tokyo have used a new type of radiocarbon analysis to study a sediment core taken from the Kumano Sea off the coast of Japan. This has revealed multiple \"hidden\" traces of previously unkn…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5365: Experimentally Constrained Kinetic Modeling of Long-Term Permeability and Injectivity Bounds in CO2&ndash;Brine&ndash;Sandstone Systems",
+      "link": "https://www.mdpi.com/1996-1073/19/21/5365",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-09T00:00:00.000Z",
+      "excerpt": "Maintaining injectivity is essential for the success of CO2-enhanced oil recovery (CO2-EOR) and CO2 storage. This study develops a simple, experimentally based framework to evaluate how sandstone reservoir properties evo…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3613: Market-Informed Multi-Step Forecasting of Intraday Net Load with Operational Risk Screening",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3613",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-09T00:00:00.000Z",
+      "excerpt": "The increasing penetration of wind and photovoltaic generation has intensified net-load variability and increased the difficulty of intraday forecasting and operational risk identification. This paper proposes a market-i…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3612: Hydrothermal Synthesis of Hydroxyapatite-Rich Calcium Phosphate from Converter Steel Slag via Sequential Water&ndash;Acetic Acid Leaching",
+      "link": "https://www.mdpi.com/2227-9717/14/21/3612",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-09T00:00:00.000Z",
+      "excerpt": "Converter steel slag contains abundant calcium-bearing phases but remains underutilised because of its heterogeneous composition and the potential co-release of undesirable elements. In this study, a hydroxyapatite-rich…"
+    },
     {
       "title": "Energies, Vol. 19, Pages 5364: Enhanced Light Harvesting and Photovoltaic Output in Perovskite Solar Cells via Methyltrimethoxysilane-Modified Porous Silica Anti-Reflective Coatings",
       "link": "https://www.mdpi.com/1996-1073/19/21/5364",
@@ -220,14 +292,6 @@
       "excerpt": "Pressure buildup in geological CO2 storage depends on how pore volume changes with effective stress, yet the laboratory evidence behind simulator compressibility inputs is often sparse. We test when a constant logarithmi…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5352: Polysulfone Hollow-Fiber Membranes for Post-Combustion CO2 Capture: Fabrication, Process Modeling, and Experimental Validation of a Continuous Membrane Column",
-      "link": "https://www.mdpi.com/1996-1073/19/21/5352",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-07T00:00:00.000Z",
-      "excerpt": "This work presents an integrated experimental and modeling study of post-combustion CO2 capture using polysulfone hollow-fiber membranes in a three-module &amp;laquo;Continuous Membrane Column&amp;raquo; cascade. Polysul…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3607: Homogenization of Gas Flow in Deformable Porous Media with Wall-Slip",
       "link": "https://www.mdpi.com/2227-9717/14/21/3607",
       "source": "Processes (MDPI)",
@@ -324,14 +388,6 @@
       "excerpt": "African governments are using foreign investment, infrastructure projects and conservation schemes to extend their control over land and communities, according to new research spanning 14 countries in sub-Saharan Africa."
     },
     {
-      "title": "Microplastic pollution could be changing the color of the Pacific Ocean",
-      "link": "https://phys.org/news/2026-11-microplastic-pollution-pacific-ocean.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-06T15:20:01.000Z",
-      "excerpt": "Our oceans have effectively become trash dumps where massive quantities of plastic end up. So much so, in fact, that the largest offshore plastic accumulation zone has been labeled the Great Pacific Garbage Patch."
-    },
-    {
       "title": "Understanding the limitations and advantages of OCM for wind turbines",
       "link": "https://www.offshore-technology.com/sponsored/understanding-the-limitations-and-advantages-of-ocm-for-wind-turbines/",
       "source": "Offshore Technology",
@@ -378,22 +434,6 @@
       "category": "processing",
       "published": "2026-11-06T00:00:00.000Z",
       "excerpt": "Severe lost circulation in fractured shale formations limits the safe and efficient implementation of drilling operations, and the cuttings-migration behavior below the gas-injection point, which governs the cuttings-ret…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3601: Unbalanced Few-Shot Diesel Engine Intelligent Fault Diagnosis Based on Successive Multivariate Variational Mode Decomposition and Optimized Deep Hybrid Kernel Extreme Learning Machine",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3601",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-06T00:00:00.000Z",
-      "excerpt": "To address the issues of sample ratio imbalance and scarcity of available failure data in unbalanced few-shot scenarios&amp;mdash;where models tend to favor the class with more samples and are prone to overfitting, there…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3600: Consequence-Aware Tail-Risk Learning for Early Warning of Rare Critical Process States",
-      "link": "https://www.mdpi.com/2227-9717/14/21/3600",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-06T00:00:00.000Z",
-      "excerpt": "Early warning of critical process states requires a future safety-boundary target and explicit control of alarm burden. Fault labels and aggregate accuracy do not directly define this objective. We propose consequence-aw…"
     },
     {
       "title": "bp raises $1bn through Aker BP share sale",
@@ -594,14 +634,6 @@
       "category": "energy",
       "published": "2026-10-05T11:35:24.000Z",
       "excerpt": "Scientists have discovered evidence of altermagnetism in a thin, highly tunable material that could help electronics use electron spin instead of relying only on electrical charge. The unusual magnetic state may enable f…"
-    },
-    {
-      "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
-      "source": "ScienceDaily — Geology",
-      "category": "geoscience",
-      "published": "2026-10-04T12:41:43.000Z",
-      "excerpt": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part of…"
     },
     {
       "title": "Scientists just pushed superconductors beyond their usual current limit",
@@ -842,38 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Mengjuan Zhang, Xue Liu, Chao Wang, Hesheng Wang, Zhennan Han, Peng Zheng, Xin Jia, Jiancheng Yang, Kaixuan Li, Jun Pan, Guangwen Xu"
-    },
-    {
-      "title": "Analysis of solid oxide electrolysis and co-electrolysis system operated at elevated pressure",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037646?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Maciej Bąkała"
-    },
-    {
-      "title": "Study of promising compounds of alternative fuels for gas turbine engines (GTE)",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037968?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Alexander A. Molokanov, Zhou Weixing, Igor S. Averkov, Vladimir V. Raznoschikov, Mikhail V. Kuzmin, Boris E. Krisyuk, Leonid S. Yanovskiy, Renat R.…"
-    },
-    {
-      "title": "Experimental and kinetic study of the combustion of ammonia/methanol/air premixed flames at elevated pressures and temperatures",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038044?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Donghua Fang, Youliu Huang, Cangsu Xu, Zhihao Gu, Hongwei Li, Francis Oppong, Xiaolu Li"
-    },
-    {
-      "title": "The characteristics of particle concentration distribution and vortex distribution in a gas–solid counter flow contact cyclone reactor for MTP",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037002?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Yuanjing Liu, Mingyang Zhang, Chenxing Jiang, Yaojun Guo, Yingchun Yuan, Haozhe Guo, Xue Xiao"
     }
   ]
 }
