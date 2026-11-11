@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:58:48.159Z",
+  "generatedAt": "2026-11-11T07:02:01.743Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 14,
+      "count": 24,
       "error": null
     },
     {
@@ -75,6 +75,206 @@
     }
   ],
   "items": [
+    {
+      "title": "Pooling ETAS triggering parameters across subduction margins: forecast transfer, estimator stability and sequence-limited skill in Mexico",
+      "link": "https://arxiv.org/abs/2611.12890",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12890v1 Announce Type: new Abstract: Pooling earthquake-triggering parameters can reduce estimation variability on margins with few recorded sequences, but its forecast value must be distinguished from the sta…"
+    },
+    {
+      "title": "Applicability of a Thermodynamic Model to Rich-Hydrogen Flammability Assessment in SMR Containments",
+      "link": "https://arxiv.org/abs/2611.12891",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12891v1 Announce Type: new Abstract: Hydrogen combustion remains a critical safety concern during severe accidents in small modular reactors (SMRs). The compact containment can develop rich-hydrogen atmosphere…"
+    },
+    {
+      "title": "First-passage tests of anomalous transport closures in heterogeneous aquifers",
+      "link": "https://arxiv.org/abs/2611.12893",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12893v1 Announce Type: new Abstract: Breakthrough curves (BTCs) record arrival times, but anomalous transport models are often fitted with time-normalized spatial concentration profiles. Here, the effect of th…"
+    },
+    {
+      "title": "D-TINs for Track-Sampled Ice Sheet Surface Reconstruction from Satellite Altimetry Data",
+      "link": "https://arxiv.org/abs/2611.12894",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12894v1 Announce Type: new Abstract: Satellite altimetry samples ice sheets densely along tracks but sparsely across tracks, with frequent gaps in spatial coverage. We study the impact of this irregular suppor…"
+    },
+    {
+      "title": "An Idealized Model of Buoyant Gas Spreading and Silt Release beneath Rough Cave Ceilings",
+      "link": "https://arxiv.org/abs/2611.12895",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12895v1 Announce Type: new Abstract: Gas exhaled by open-circuit divers collects under the ceilings of submerged caves, migrates along the rock, and dislodges loose silt that then falls through the passage, a…"
+    },
+    {
+      "title": "EoSAlign: An Open-Source Software for Calculating, Comparing, and Aligning Pressure Under Extreme Conditions",
+      "link": "https://arxiv.org/abs/2611.12897",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12897v1 Announce Type: new Abstract: Accurate pressure determination is essential in high pressure experiments. Inconsistencies among pressure scales limit direct comparisons and contribute to uncertainty in m…"
+    },
+    {
+      "title": "Bayesian Retrieval of L-Band Absorption by Ice using SMOS Brightness Temperatures over the Antarctic Plateau",
+      "link": "https://arxiv.org/abs/2611.12898",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12898v1 Announce Type: new Abstract: The low absorption of microwaves at L-band in ice enables the retrieval of internal ice sheet parameters from satellite observations. However, knowing the precise value of…"
+    },
+    {
+      "title": "Development of a Long-Term Stable Three-Axis Single-Beam Vector Optically Pumped Magnetometer Using a Buffer-Gas-Free Rubidium Vapor Cell and Direct Absorption Frequency Locking for Unshielded Geomagnetic Monitoring",
+      "link": "https://arxiv.org/abs/2611.12905",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12905v1 Announce Type: new Abstract: Optically pumped magnetometers (OPMs) achieve ultra-high sensitivity, yet sustaining long-term stability in unshielded, dynamic geomagnetic environments remains challenging…"
+    },
+    {
+      "title": "Generative Learning on Manifolds for Probabilistic Seismic Performance Assessment and Structural Identifiability",
+      "link": "https://arxiv.org/abs/2611.12908",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12908v1 Announce Type: new Abstract: Seismic performance assessment relies on computationally expensive nonlinear simulations, limiting uncertainty quantification and inference of structural properties from ob…"
+    },
+    {
+      "title": "Landfalling tropical cyclones perturb Earth's rotation",
+      "link": "https://arxiv.org/abs/2611.12909",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12909v1 Announce Type: new Abstract: Natural disasters that devastate human societies can also alter Earth's rotation. The 2011 $M_w$ 9.1 T\\={o}hoku earthquake, one of the most powerful earthquakes ever record…"
+    },
+    {
+      "title": "Leveraging Large Language Models to Predict Atomic Oxygen Erosion of Polymers in Low Earth Orbit",
+      "link": "https://arxiv.org/abs/2611.12910",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12910v1 Announce Type: new Abstract: Low Earth orbit (LEO), home to most active satellites, is projected to undergo a debris-fragmentation cascade known as Kessler Syndrome. In light of this eventuality, it is…"
+    },
+    {
+      "title": "Trace element distribution in coarse-grained Ca-Al-rich inclusions by femtosecond LA-ICP-MS: Implications for U-Pb chronology",
+      "link": "https://arxiv.org/abs/2611.12914",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-11T05:00:00.000Z",
+      "excerpt": "arXiv:2611.12914v1 Announce Type: new Abstract: Calcium-aluminium-rich inclusions (CAIs) in chondrites are the first solids that formed in the Solar System, as established by U-Pb chronology. After initial condensation,…"
+    },
+    {
+      "title": "Ancient rocks reveal when Earth's tectonic engine 'switched on'",
+      "link": "https://phys.org/news/2026-11-ancient-reveal-earth-tectonic.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-11T00:10:08.000Z",
+      "excerpt": "Scientists have identified a major turning point in Earth's geological history, when the processes shaping the planet's crust changed dramatically and began to resemble the plate tectonics we see today—about 2.5 billion…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5410: Carbon Emission Trading and the Expansion of Renewable Energy: Pathways to Energy Sustainability",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5410",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-11T00:00:00.000Z",
+      "excerpt": "Understanding the policy drivers of green power growth is vital for advancing energy transition and achieving carbon neutrality. This study examines the impact of China&amp;rsquo;s Carbon Emissions Trading Pilots (CETP)…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5409: Experimental and Numerical Assessment of a Vertical Latent Heat Storage Unit: Effects of PCM Container Geometry and Heat Transfer Fluid Velocity",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5409",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-11T00:00:00.000Z",
+      "excerpt": "This study investigates the charging of a vertical latent heat thermal energy storage unit containing a single coaxial paraffin container. Measurements for smooth and internally finned containers are compared with transi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5408: Electric-Field-Based Reconstruction of Transmission-Line Galloping Characteristics Using an Arc-Length Constraint",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5408",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-11T00:00:00.000Z",
+      "excerpt": "Conductor galloping threatens the safe operation of overhead transmission lines, motivating non-contact methods for reconstructing its motion characteristics. However, recovering conductor displacement from electric-fiel…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3639: Liquid Inventory and Conditional Persistence of Finite Slugs Through Smooth Wellbore Inclination Transitions: A Mass-Conservative Reduced-Order Analysis",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3639",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-11T00:00:00.000Z",
+      "excerpt": "The evolution of a finite liquid slug through a changing wellbore inclination depends on both liquid exchange and the distribution of liquid within the slug. A mass-conservative specified-exchange reduced-order model is…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3638: Influence of Depolymerization Conditions on Birch Bark Suberinic Acids Evaluated by Fractional Factorial Design",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3638",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-11T00:00:00.000Z",
+      "excerpt": "Birch (Betula spp.) outer bark is a renewable side stream rich in suberin, a natural polyester that can be depolymerized into suberinic acids (SA) containing hydroxyl, carboxyl, epoxy, and other functionalities relevant…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3637: Enhancing Oil Recovery with Nanoparticle-Enhanced Colloidal Gas Aphron: Mechanisms, Research Progress, and Future Perspectives",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3637",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-11T00:00:00.000Z",
+      "excerpt": "The development of complex and unconventional reservoirs places higher demands on enhanced oil recovery (EOR) technologies. To address issues such as insufficient control of gas flow rate and chemical agent loss, colloid…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3636: Effect of Bamboo Shoot Powder on the Stability of Fermented Dairy Beverages",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3636",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-11T00:00:00.000Z",
+      "excerpt": "Sheep cheese production generates large amounts of whey, which is commonly underutilized despite its nutritional value. The development of whey-based beverages can valorize this by-product; however, whey&amp;rsquo;s low…"
+    },
+    {
+      "title": "Governments are failing to rein in emissions from their own power plants, analysis finds",
+      "link": "https://phys.org/news/2026-11-rein-emissions-power-analysis.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-10T23:40:04.000Z",
+      "excerpt": "World leaders meeting at the annual U.N. climate summit in November 2026 are wrestling with a persistent challenge: how to get countries to follow through on their commitments to reduce greenhouse gas emissions that are…"
+    },
+    {
+      "title": "Seafloor clay reveals past dramatic ice loss in West Antarctica",
+      "link": "https://phys.org/news/2026-11-seafloor-clay-reveals-ice-loss.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-10T22:40:12.000Z",
+      "excerpt": "Scientists have discovered the best evidence yet to show that West Antarctica's most vulnerable ice streams—including its giant Thwaites Glacier—repeatedly collapsed and retreated far inland during natural warm periods o…"
+    },
+    {
+      "title": "Antarctic water analysis reveals unexpected stability in dissolved organic carbon",
+      "link": "https://phys.org/news/2026-11-antarctic-analysis-reveals-unexpected-stability.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-10T21:50:01.000Z",
+      "excerpt": "Researchers have analyzed water samples collected during two expeditions aboard the research icebreaker Polarstern to investigate how life and changing conditions on the Antarctic continental shelf affect carbon carried…"
+    },
+    {
+      "title": "Archives reveal how climate memories may reset with each generation",
+      "link": "https://phys.org/news/2026-11-archives-reveal-climate-memories-reset.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-10T20:20:23.000Z",
+      "excerpt": "The collective memory of floods and droughts influences where people settle, how they build and how they prepare for the next climatic extreme. Over decades, that memory can fade, and communities may return to places tha…"
+    },
+    {
+      "title": "A new method for tracking climate change and air pollution",
+      "link": "https://phys.org/news/2026-11-method-tracking-climate-air-pollution.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-10T20:20:06.000Z",
+      "excerpt": "Two papers by Prof. Thomas A. Weber develop a rank-based method to track environmental change. They apply the idea to follow Geneva's warming climate, and generalize the approach to quantify shifts in spatial air-polluti…"
+    },
     {
       "title": "Airborne imaging explores a mosaic of thawing permafrost",
       "link": "https://phys.org/news/2026-11-airborne-imaging-explores-mosaic-permafrost.html",
@@ -132,22 +332,6 @@
       "excerpt": "Türkiye has announced two additional oil discoveries in its southeastern Gabar region, with President Recep Tayyip Erdogan disclosing the finds as the COP31 climate conference got underway in Antalya."
     },
     {
-      "title": "Turkish province despairs at being Europe's plastic dump",
-      "link": "https://phys.org/news/2026-11-turkish-province-despairs-europe-plastic.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-10T11:40:01.000Z",
-      "excerpt": "At first glance, the canal near which Ibrahim Yildiz grazes his sheep in the southern Adana province appears idyllic, framed by rows of clementine trees—until the mountains of plastic shavings come into view."
-    },
-    {
-      "title": "Bloody spit: Ghana waste dump poses health, environmental 'crisis'",
-      "link": "https://phys.org/news/2026-11-bloody-ghana-dump-poses-health.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-10T11:30:01.000Z",
-      "excerpt": "An acrid haze hung over a sprawling dump in Ghana's capital, Accra, as excavators gouged into mounds of smoldering garbage."
-    },
-    {
       "title": "Oil drops further as Trump eases Middle East conflict fears",
       "link": "https://www.offshore-technology.com/news/oil-drops-trump-eases-middle-east-conflict/",
       "source": "Offshore Technology",
@@ -164,22 +348,6 @@
       "excerpt": "QatarEnergy has agreed to acquire a 25% participating interest in an offshore oil and gas exploration licence in Namibia from Chevron Namibia Exploration II, a subsidiary of Chevron."
     },
     {
-      "title": "Ice core records uncover widespread air pollution from early 20th-century copper production",
-      "link": "https://phys.org/news/2026-11-ice-core-uncover-widespread-air.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-10T10:00:06.000Z",
-      "excerpt": "About a century ago, the Anaconda Copper Mine complex near Butte, Montana, was emitting vast amounts of air pollution into the atmosphere. As small particles of arsenic and other heavy metals were carried by winds over t…"
-    },
-    {
-      "title": "Heat-trapping carbon pollution drops, but scientists cite the Iran war rather than energy progress",
-      "link": "https://phys.org/news/2026-11-carbon-pollution-scientists-cite-iran.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-10T09:23:09.000Z",
-      "excerpt": "Global carbon pollution dropped this year ever so slightly, but it's more because of oil shocks reverberating from the Iran war than anything the world has done to fight climate change, scientists said in a new study."
-    },
-    {
       "title": "Beetaloo Energy secures RL11 licence for Carpentaria shale gas fairway",
       "link": "https://www.offshore-technology.com/news/beetaloo-rl11-carpentaria-shale-gas/",
       "source": "Offshore Technology",
@@ -188,116 +356,12 @@
       "excerpt": "Beetaloo Energy Australia has secured Retention Licence 11 (RL11) from the Northern Territory Department of Mining and Energy for rights over the Carpentaria unconventional shale gas fairway in Australia’s Northern Terri…"
     },
     {
-      "title": "Combining rock typing and NMR logging to estimate permeability in complex carbonate formations",
-      "link": "https://arxiv.org/abs/2611.11150",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2611.11150v1 Announce Type: new Abstract: Estimating intrinsic permeability from nuclear magnetic resonance (NMR) logs is difficult in heterogeneous carbonates because a single calibration may not represent distinc…"
-    },
-    {
-      "title": "HydroTuring: A physics probe benchmark testing mass, energy, and momentum conservation in hydrologic models",
-      "link": "https://arxiv.org/abs/2611.11563",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2611.11563v1 Announce Type: new Abstract: Hydrologic models, including deep learning systems now deployed for operational flood forecasting, are evaluated primarily by how closely their simulated hydrographs match…"
-    },
-    {
-      "title": "Estimating Permeability of Carbonate Rocks from NMR T2 Distribution and Formation Factor Using a Physics-Based Model",
-      "link": "https://arxiv.org/abs/2611.11610",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2611.11610v1 Announce Type: new Abstract: Nuclear magnetic resonance (NMR) logging provides a nondestructive method for characterizing pore structure and fluid distribution in reservoir rocks. Conventional permeabi…"
-    },
-    {
-      "title": "A Sequential Monte Carlo Method for Data Assimilation in Subsurface Flow Systems with Hierarchical Uncertainty",
-      "link": "https://arxiv.org/abs/2611.11681",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2611.11681v1 Announce Type: new Abstract: Subsurface flow systems often involve hierarchical geological uncertainty, meaning both higher-level metaparameters and cell-by-cell properties are uncertain. This leads to…"
-    },
-    {
-      "title": "Robust Implicit Neural Representation for Multiparameter Elastic Full-Waveform Inversion",
-      "link": "https://arxiv.org/abs/2611.11931",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2611.11931v1 Announce Type: new Abstract: Multiparameter elastic full-waveform inversion (EFWI) provides a powerful means of reconstructing subsurface elastic properties, but its practical application remains chall…"
-    },
-    {
-      "title": "Probabilistic wavefield decomposition from array covariance",
-      "link": "https://arxiv.org/abs/2611.12278",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12278v1 Announce Type: new Abstract: Inter-sensor coherence loss carries information about the wavefield that conventional array processing discards. The array-covariance matrix is modelled using a mixture of…"
-    },
-    {
-      "title": "New Astronomical, Meteorological and Geological Study of the \"Torre Spaccata District\" - VII district of the Municipality of Rome",
-      "link": "https://arxiv.org/abs/2611.10201",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2611.10201v1 Announce Type: cross Abstract: This study, part of the NGICS (New Italian City Geological Study) project, analyzes 25 years of multi-disciplinary data to assess long-term environmental, climatic, and g…"
-    },
-    {
-      "title": "Decomposing Earth Embeddings with Sparse Autoencoders",
-      "link": "https://arxiv.org/abs/2611.11398",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2611.11398v1 Announce Type: cross Abstract: Earth observation foundation models produce global metre-resolution embeddings that underpin work across agriculture, ecology, hydrology, and beyond. Yet these embeddings…"
-    },
-    {
-      "title": "Thermochemical Rossby waves in rapid rotation: from swallowtail geometry to nonlinear selection",
-      "link": "https://arxiv.org/abs/2611.11719",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2611.11719v1 Announce Type: cross Abstract: When heat and solute both destabilise a rapidly rotating fluid, do their buoyancies add? Codensity models assume so, giving a straight onset diagonal; spherical shells sh…"
-    },
-    {
-      "title": "Finite temperature and pressure structural relaxations including zero-point motion and anharmonicity",
-      "link": "https://arxiv.org/abs/2611.12736",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12736v1 Announce Type: cross Abstract: At finite temperature and pressure, the equilibrium structure of a crystal minimizes the Gibbs free energy rather than the static Born-Oppenheimer energy. We present WARP…"
-    },
-    {
-      "title": "Parameter-Efficient Transfer Learning for Microseismic Phase Picking Using a Neural Operator",
-      "link": "https://arxiv.org/abs/2512.13197",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2512.13197v3 Announce Type: replace Abstract: Seismic phase picking is fundamental for microseismic monitoring and subsurface imaging. Manual processing is impractical for real-time applications and large sensor ar…"
-    },
-    {
-      "title": "Generative deep learning improves reconstruction of global historical climate records",
-      "link": "https://arxiv.org/abs/2602.16515",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-10T05:00:00.000Z",
-      "excerpt": "arXiv:2602.16515v3 Announce Type: replace Abstract: Instrumental observations from the early twentieth century are sparse and uncertain, limiting estimates of historical climate variability and change. Existing reconstru…"
-    },
-    {
-      "title": "Fossil CO₂ emissions projected to decrease in 2026 amid clean energy growth and Iran conflict",
-      "link": "https://phys.org/news/2026-11-fossil-emissions-decrease-energy-growth.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-10T01:00:05.000Z",
-      "excerpt": "Global carbon emissions from fossil fuels are projected to decrease by 0.4% in 2026—driven by expansion of solar and wind power and the Iran conflict—according to new research by the Global Carbon Project. The 2026 editi…"
-    },
-    {
-      "title": "El Niño 2026–27 as a polycrisis: What happens when health and energy systems fail simultaneously?",
-      "link": "https://phys.org/news/2026-11-el-nio-polycrisis-health-energy.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-10T00:00:11.000Z",
-      "excerpt": "Open any news feed from the past few months, and the disasters arrive in a stream: smoke reaching dangerous levels throughout Canada and flash floods in Ottawa, Montréal and Toronto; heat and drought arriving together on…"
+      "title": "Global fossil fuel emissions set to fall in 2026, but total CO2 keeps rising",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205358.htm",
+      "source": "ScienceDaily — Energy Technology",
+      "category": "energy",
+      "published": "2026-11-10T06:05:25.000Z",
+      "excerpt": "Global fossil fuel emissions are projected to fall in 2026 as renewable energy and electric vehicles gain ground, but rising emissions from deforestation threaten to push total CO2 emissions to a new record. Scientists w…"
     },
     {
       "title": "Energies, Vol. 19, Pages 5407: Do Climate Zones Determine Indoor Temperatures? Evidence from Indoor Temperatures Profiles in Chilean Houses",
@@ -372,30 +436,6 @@
       "excerpt": "Long rural low-voltage feeders are prone to end-of-feeder voltage deviations. Maintaining voltage support during transitions between grid-connected and islanded operation adds a further control challenge. This paper prop…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5398: The Polish Housing Market and EU Energy Standards in Relation to Prices, Mortgages and the Energy Mix",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5398",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-10T00:00:00.000Z",
-      "excerpt": "In Poland, the nearly zero-energy building standard required by the Energy Performance of Buildings Directive became binding at the end of 2020, before an energy crisis and a steep rise in interest rates. A difference-in…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5397: Comparing Structural Interpretability in the Temporal Fusion Transformer and Random Forest: Variable Selection, Attention, and Medium-Scope Explanation in Energy Price Time Series",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5397",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-10T00:00:00.000Z",
-      "excerpt": "The Temporal Fusion Transformer (TFT) is presented as an interpretable-by-design architecture, whose Variable Selection Networks (VSNs) and attention weights are routinely reported in applied work as structural findings.…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5396: Protecting Critical Energy Infrastructure in the Baltic Sea: Energy Security Challenges After 2022",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5396",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-10T00:00:00.000Z",
-      "excerpt": "Energy security after 2022 increasingly depends on maintaining services despite offshore infrastructure disruption. This integrative review examines policy documents, technical studies and four Baltic disruption episodes…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3635: Decision Stability in Operator-Dependent Dimensional Inspection: A Process-Oriented Framework for Data-Driven Quality Control",
       "link": "https://www.mdpi.com/2227-9717/14/22/3635",
       "source": "Processes (MDPI)",
@@ -458,38 +498,6 @@
       "category": "processing",
       "published": "2026-11-10T00:00:00.000Z",
       "excerpt": "Biomass energy utilization can address the growing demand for renewable energy while alleviating environmental pressures. Pyrolysis has emerged as a key thermochemical conversion technology for upgrading biomass into cle…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3628: Construction of a Coal Molecular Model Based on Molecular Simulation and the Effect of Moisture Content on Methane Adsorption",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3628",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-10T00:00:00.000Z",
-      "excerpt": "Low-rank coalbed methane is an important resource of unconventional natural gas in China. Restricted by reservoir water-bearing conditions, the adsorption and occurrence laws of coalbed methane are complex, which limits…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3626: Development and Evaluation of a High-Permeability Sealing Fluid for Open-Hole Sections of Horizontal Wells in Shallow Deepwater Formations",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3626",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-10T00:00:00.000Z",
-      "excerpt": "High-permeability channels in open-hole horizontal wells in shallow deepwater hydrate reservoirs are vulnerable to instability and plugging caused by hydrate dissociation, fines migration, and hydrate reformation. This s…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3625: Physics-Informed Machine Learning for Polymer Drag Reduction: Bridging Laboratory Turbulent Pipe Flow and Field-Scale Crude Oil Pipeline Operation",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3625",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-10T00:00:00.000Z",
-      "excerpt": "Polymeric drag-reducing agents (DRAs) can significantly suppress turbulent friction in crude oil pipelines. However, the design of field dosing strategies still relies on empirical rules because laboratory-scale drag-red…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3624: Study on Feasibility and Performance Optimization of Cemented Paste Backfill Materials Prepared from Coal-Based Solid Waste",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3624",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-10T00:00:00.000Z",
-      "excerpt": "Aiming at the high costs and material shortages in coal mine cemented backfill mining, this study develops a promising coal-based solid waste backfill material considering massive output and the low utilization of solid…"
     },
     {
       "title": "Strathcona to buy Greenfire in deal worth up to $2.05bn",
@@ -722,14 +730,6 @@
       "category": "energy",
       "published": "2026-09-11T12:03:26.000Z",
       "excerpt": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in h…"
-    },
-    {
-      "title": "Raindrops can damage paint with microscopic “lightning”",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005159.htm",
-      "source": "ScienceDaily — Energy Technology",
-      "category": "energy",
-      "published": "2026-09-10T00:44:47.000Z",
-      "excerpt": "Scientists discovered that charged water droplets can damage protective coatings by releasing tiny electrical discharges when they hit a surface. The hidden effect could help explain weathering and lead to tougher coatin…"
     },
     {
       "title": "Hybrid physics-informed modeling for production forecasting: Implications for extrapolation, uncertainty, and explainability",
