@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:50:14.504Z",
+  "generatedAt": "2026-11-12T07:40:41.169Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 24,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,78 @@
     }
   ],
   "items": [
+    {
+      "title": "From Romania to Kazakhstan, summer droughts linked to less winter ice in two rapidly warming seas",
+      "link": "https://phys.org/news/2026-11-romania-kazakhstan-summer-droughts-linked.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-12T05:00:01.000Z",
+      "excerpt": "This summer, with its scarce rainfall and repeated heat waves, witnessed one of the most severe droughts in Europe since 1540. The resulting wildfires across western Europe received considerable media attention, but east…"
+    },
+    {
+      "title": "Indonesia fires burned through nearly 2.9 million hectares: Monitor",
+      "link": "https://phys.org/news/2026-11-indonesia-million-hectares.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-12T03:00:08.000Z",
+      "excerpt": "Fires in Indonesia driven partly by a strong El Niño have burned through 2.88 million hectares (7.1 million acres) so far in 2026, a monitor analyzing satellite imagery told AFP on Wednesday."
+    },
+    {
+      "title": "Microplastics found in wild mammals' blood more than 40 miles from human infrastructure",
+      "link": "https://phys.org/news/2026-11-microplastics-wild-mammals-blood-miles.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-12T00:40:01.000Z",
+      "excerpt": "Animals, like humans, are taking up increasing amounts of tiny plastic particles. Such microplastics are demonstrably hazardous to many species under experimental conditions, and it is suspected that they may also pose a…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5433: Transverse DC Magnetic Treatment of Injection Water for Enhanced Oil Displacement in Clay-Bearing Sands",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5433",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-12T00:00:00.000Z",
+      "excerpt": "Magnetic treatment of injection water has been proposed as a low-cost, chemical-free means of improving waterflooding, but laboratory evidence that links field intensity, pressure, electrokinetic behaviour and oil displa…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5432: Field Evaluation of a Photovoltaic&ndash;Wind Turbine&ndash;Battery DC Microgrid with a Concentrated Solar Thermoelectric Branch",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5432",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-12T00:00:00.000Z",
+      "excerpt": "Microgrids that combine renewable generation with battery storage are being deployed in power systems worldwide to improve supply continuity and to integrate variable renewable energy, yet most evidence on their reliabil…"
+    },
+    {
+      "title": "Clean water, hidden risks: New technology reveals neurotoxicity missed by conventional water quality monitoring",
+      "link": "https://phys.org/news/2026-11-hidden-technology-reveals-neurotoxicity-conventional.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-11T23:40:01.000Z",
+      "excerpt": "A photograph of an orchestra can tell you whether the musicians are on stage and their instruments are intact. But it cannot tell you whether they are playing in harmony. Even when every musician is present, a subtle los…"
+    },
+    {
+      "title": "Record-breaking 2025 Iberian fire season was three times larger due to climate change",
+      "link": "https://phys.org/news/2026-11-iberian-season-larger-due-climate.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-11T21:40:16.000Z",
+      "excerpt": "The latest global State of Wildfires report, co-led by the University of East Anglia, shows that the extreme fire-prone weather experienced across Spain and Portugal in 2025 was three times more likely due to human-cause…"
+    },
+    {
+      "title": "More important than tropical cyclones: Scientists finally track the hidden weather systems behind most tropical rainfall",
+      "link": "https://phys.org/news/2026-11-important-tropical-cyclones-scientists-track.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-11T21:30:01.000Z",
+      "excerpt": "For the first time, researchers in Australia have identified and tracked the weather systems that are collectively more important to rainfall across the tropics than tropical cyclones. The work, published in the journal…"
+    },
+    {
+      "title": "Why similar changes in cloud cover can have different climate effects",
+      "link": "https://phys.org/news/2026-11-similar-cloud-climate-effects.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-11T21:10:01.000Z",
+      "excerpt": "Marine low clouds over the world's eastern subtropical oceans strongly influence Earth's temperature by reflecting sunlight back to space. How these clouds change as the planet warms is one of the biggest uncertainties i…"
+    },
     {
       "title": "From remedy to prevention: Researchers call for proactive approach to protect the human right to water",
       "link": "https://phys.org/news/2026-11-remedy-proactive-approach-human.html",
@@ -116,14 +188,6 @@
       "excerpt": "On May 12, 2023, the authorities ordered the evacuation of the village of Brienz/Brinzauls in the canton of Grisons, as a rapid slide of the slope above the village appeared imminent. However, it took its time. It was no…"
     },
     {
-      "title": "Wonder and ore: A spectacular new view from space maps Australia's mineral wealth",
-      "link": "https://phys.org/news/2026-11-ore-spectacular-view-space-australia.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-11T13:10:06.000Z",
-      "excerpt": "A new tool that uses detailed satellite images to help unlock Australia's mineral wealth has been unveiled."
-    },
-    {
       "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
       "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
       "source": "ScienceDaily — Geology",
@@ -138,38 +202,6 @@
       "category": "industry",
       "published": "2026-11-11T12:32:05.000Z",
       "excerpt": "Amplitude Energy has completed and cased its Annie-2 development well offshore Victoria, Australia, reporting preliminary data that indicates improved reservoir characteristics compared with the original Annie discovery."
-    },
-    {
-      "title": "RipEye flags possible rip currents in beach photos within seconds",
-      "link": "https://phys.org/news/2026-11-ripeye-flags-rip-currents-beach.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-11T12:20:01.000Z",
-      "excerpt": "Rip currents remain one of Australia's deadliest beach hazards, contributing to 47% of the 66 beach drowning deaths recorded in the 2025 National Drowning Report."
-    },
-    {
-      "title": "India pollution monitors overwhelmed by toxic smog",
-      "link": "https://phys.org/news/2026-11-india-pollution-overwhelmed-toxic-smog.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-11T11:20:05.000Z",
-      "excerpt": "India's air pollution monitors were overwhelmed this week by toxic smog so severe that concentrations exceeded their upper measurement limit, equivalent to 66 times the World Health Organization's recommended daily maxim…"
-    },
-    {
-      "title": "El Niño looms over Colombia's battle with fire-prone plant",
-      "link": "https://phys.org/news/2026-11-el-nio-looms-colombia-prone.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-11T10:57:10.000Z",
-      "excerpt": "Colombian farmer Albert Montano razes a beautiful thorny shrub, fearful that its yellow flowers will fuel potent wildfires expected during the El Niño weather pattern."
-    },
-    {
-      "title": "Why land—a scarce resource—is so important for climate protection",
-      "link": "https://phys.org/news/2026-11-scarce-resource-important-climate.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-11T10:00:12.000Z",
-      "excerpt": "A new study quantifies, for the first time, the interrelationships and competing objectives of two major areas of action for reducing greenhouse gas emissions: the phaseout of fossil fuels and measures taken on natural l…"
     },
     {
       "title": "Orlen terminates QatarEnergy LNG deal after force majeure",
@@ -194,110 +226,6 @@
       "category": "industry",
       "published": "2026-11-11T06:52:19.000Z",
       "excerpt": "Diamondback Energy and KKR have agreed to acquire Five Point Infrastructure’s 70% stake in Midland Basin water operator Deep Blue Midland Basin for cash."
-    },
-    {
-      "title": "Pooling ETAS triggering parameters across subduction margins: forecast transfer, estimator stability and sequence-limited skill in Mexico",
-      "link": "https://arxiv.org/abs/2611.12890",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12890v1 Announce Type: new Abstract: Pooling earthquake-triggering parameters can reduce estimation variability on margins with few recorded sequences, but its forecast value must be distinguished from the sta…"
-    },
-    {
-      "title": "Applicability of a Thermodynamic Model to Rich-Hydrogen Flammability Assessment in SMR Containments",
-      "link": "https://arxiv.org/abs/2611.12891",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12891v1 Announce Type: new Abstract: Hydrogen combustion remains a critical safety concern during severe accidents in small modular reactors (SMRs). The compact containment can develop rich-hydrogen atmosphere…"
-    },
-    {
-      "title": "First-passage tests of anomalous transport closures in heterogeneous aquifers",
-      "link": "https://arxiv.org/abs/2611.12893",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12893v1 Announce Type: new Abstract: Breakthrough curves (BTCs) record arrival times, but anomalous transport models are often fitted with time-normalized spatial concentration profiles. Here, the effect of th…"
-    },
-    {
-      "title": "D-TINs for Track-Sampled Ice Sheet Surface Reconstruction from Satellite Altimetry Data",
-      "link": "https://arxiv.org/abs/2611.12894",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12894v1 Announce Type: new Abstract: Satellite altimetry samples ice sheets densely along tracks but sparsely across tracks, with frequent gaps in spatial coverage. We study the impact of this irregular suppor…"
-    },
-    {
-      "title": "An Idealized Model of Buoyant Gas Spreading and Silt Release beneath Rough Cave Ceilings",
-      "link": "https://arxiv.org/abs/2611.12895",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12895v1 Announce Type: new Abstract: Gas exhaled by open-circuit divers collects under the ceilings of submerged caves, migrates along the rock, and dislodges loose silt that then falls through the passage, a…"
-    },
-    {
-      "title": "EoSAlign: An Open-Source Software for Calculating, Comparing, and Aligning Pressure Under Extreme Conditions",
-      "link": "https://arxiv.org/abs/2611.12897",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12897v1 Announce Type: new Abstract: Accurate pressure determination is essential in high pressure experiments. Inconsistencies among pressure scales limit direct comparisons and contribute to uncertainty in m…"
-    },
-    {
-      "title": "Bayesian Retrieval of L-Band Absorption by Ice using SMOS Brightness Temperatures over the Antarctic Plateau",
-      "link": "https://arxiv.org/abs/2611.12898",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12898v1 Announce Type: new Abstract: The low absorption of microwaves at L-band in ice enables the retrieval of internal ice sheet parameters from satellite observations. However, knowing the precise value of…"
-    },
-    {
-      "title": "Development of a Long-Term Stable Three-Axis Single-Beam Vector Optically Pumped Magnetometer Using a Buffer-Gas-Free Rubidium Vapor Cell and Direct Absorption Frequency Locking for Unshielded Geomagnetic Monitoring",
-      "link": "https://arxiv.org/abs/2611.12905",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12905v1 Announce Type: new Abstract: Optically pumped magnetometers (OPMs) achieve ultra-high sensitivity, yet sustaining long-term stability in unshielded, dynamic geomagnetic environments remains challenging…"
-    },
-    {
-      "title": "Generative Learning on Manifolds for Probabilistic Seismic Performance Assessment and Structural Identifiability",
-      "link": "https://arxiv.org/abs/2611.12908",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12908v1 Announce Type: new Abstract: Seismic performance assessment relies on computationally expensive nonlinear simulations, limiting uncertainty quantification and inference of structural properties from ob…"
-    },
-    {
-      "title": "Landfalling tropical cyclones perturb Earth's rotation",
-      "link": "https://arxiv.org/abs/2611.12909",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12909v1 Announce Type: new Abstract: Natural disasters that devastate human societies can also alter Earth's rotation. The 2011 $M_w$ 9.1 T\\={o}hoku earthquake, one of the most powerful earthquakes ever record…"
-    },
-    {
-      "title": "Leveraging Large Language Models to Predict Atomic Oxygen Erosion of Polymers in Low Earth Orbit",
-      "link": "https://arxiv.org/abs/2611.12910",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12910v1 Announce Type: new Abstract: Low Earth orbit (LEO), home to most active satellites, is projected to undergo a debris-fragmentation cascade known as Kessler Syndrome. In light of this eventuality, it is…"
-    },
-    {
-      "title": "Trace element distribution in coarse-grained Ca-Al-rich inclusions by femtosecond LA-ICP-MS: Implications for U-Pb chronology",
-      "link": "https://arxiv.org/abs/2611.12914",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-11T05:00:00.000Z",
-      "excerpt": "arXiv:2611.12914v1 Announce Type: new Abstract: Calcium-aluminium-rich inclusions (CAIs) in chondrites are the first solids that formed in the Solar System, as established by U-Pb chronology. After initial condensation,…"
-    },
-    {
-      "title": "Ancient rocks reveal when Earth's tectonic engine 'switched on'",
-      "link": "https://phys.org/news/2026-11-ancient-reveal-earth-tectonic.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-11T00:10:08.000Z",
-      "excerpt": "Scientists have identified a major turning point in Earth's geological history, when the processes shaping the planet's crust changed dramatically and began to resemble the plate tectonics we see today—about 2.5 billion…"
     },
     {
       "title": "Energies, Vol. 19, Pages 5431: Strategic Benchmarking of Renewable Energy Transitions Across OECD Countries: An Explainable Machine-Learning Framework and a Strategic Gap Priority Index for T&uuml;rkiye",
@@ -378,22 +306,6 @@
       "category": "energy",
       "published": "2026-11-11T00:00:00.000Z",
       "excerpt": "Artificial intelligence (AI) is increasingly reshaping the new energy industry, yet its relationship with enterprise resilience remains insufficiently understood. Using 54 Chinese A-share listed new energy enterprises fr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5422: Techno-Economic Evaluation of Multi-Well Production in Gas Hydrate Deposits: Impact of Boundary Layer Permeability",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5422",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-11T00:00:00.000Z",
-      "excerpt": "The permeability of boundary layers in gas hydrate deposits is a critical factor influencing production performance, yet its impact has not been fully evaluated from a techno-economic perspective. This study developed a…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5421: Geomorphology-Guided Optimization of Hybrid Solar&ndash;Wind Systems: A Model with Comparative Evidence in Colombia",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5421",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-11T00:00:00.000Z",
-      "excerpt": "Geomorphological stratification of the territory is rarely integrated explicitly into sizing models for hybrid solar&amp;ndash;wind energy matrices, even though relief modulates both resources in opposite ways. This work…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3652: Limits of Curtailed Wind Utilization by Ferry-Borne Tourist Electric Vehicles: A Milos Island Case Study",
@@ -490,14 +402,6 @@
       "category": "processing",
       "published": "2026-11-11T00:00:00.000Z",
       "excerpt": "Ungurahua fruits (Oenocarpus bataua var. bataua) come from a palm tree native to the Amazon rainforest. While this fruit has a chemical profile high in monounsaturated fatty acids (MUFAs) and low in saturated fatty acids…"
-    },
-    {
-      "title": "Governments are failing to rein in emissions from their own power plants, analysis finds",
-      "link": "https://phys.org/news/2026-11-rein-emissions-power-analysis.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-10T23:40:04.000Z",
-      "excerpt": "World leaders meeting at the annual U.N. climate summit in November 2026 are wrestling with a persistent challenge: how to get countries to follow through on their commitments to reduce greenhouse gas emissions that are…"
     },
     {
       "title": "Türkiye reveals two new oil fields as COP31 opens in Antalya",
@@ -874,6 +778,102 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Huiying Tang, Zhicheng Wen, Liehui Zhang, Junsheng Zeng, Xiao He, Jianfa Wu, Jian Zheng"
+    },
+    {
+      "title": "Lithofacies analysis and paleosedimentary evolution of Taiyuan Formation in Southern North China Basin",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009792?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Yanxia Peng, Shaobin Guo"
+    },
+    {
+      "title": "Evaluation of hematite and Micromax-based cement systems for high- density well cementing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009779?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Abdulmalek Ahmed, Ahmed Abdelaal, Salaheldin Elkatatny"
+    },
+    {
+      "title": "Dynamic effect of gas initial desorption in coals with different moisture contents and energy-controlling mechanism for outburst prevention of water injection in coal seams",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011226?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
+    },
+    {
+      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Improvement and innovation of numerical simulation method for microemulsion flooding in ultra-low permeability reservoirs",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038068?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Hanzhehui Zhang"
+    },
+    {
+      "title": "Engineering Bifunctional NiFeCo-LDH/g-C 3 N 4 heterojunctions for enhanced charge separation and sustainable hydrogen generation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037725?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Kotesh Kumar Mandari, Babu Bathula, Misook Kang"
+    },
+    {
+      "title": "Effects of initial temperature on the flame instability, pressure evolution, and reaction kinetics of hydrogen-blended natural gas/air mixtures at different hydrogen ratios",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038664?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Shoutong Diao, Haitao Li, Dong Yang, Baisheng Nie, Jiachen Wang, Yihao Yao, Minggao Yu"
+    },
+    {
+      "title": "Experimental investigation of the combustion characteristics of Al-Li alloy powders in a powder-fueled water ramjet engine",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038883?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Maoxing Guo, Jianxin Hu, Lian Duan, Linsong Gao, Yan Cao, Rubin Fu"
+    },
+    {
+      "title": "Amine-enriched pyrimidine-based ionic polymer for CO 2 cycloaddition with epoxides under ambient pressure",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038755?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Chao Shi, Yuanyu Ge, Tianxin Xu, Mingxin Zou, Shiwen Liu, Feifei You, Jian Qi"
+    },
+    {
+      "title": "Theoretical and kinetic investigation of H-abstraction by NH 2 from alkylcyclohexanes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038597?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Yingjian Wang, Lixiang Meng, Jundong Zhang, Daoyi Lu, Genghao Yu, Dong Chen, Longde Wang"
     }
   ]
 }
