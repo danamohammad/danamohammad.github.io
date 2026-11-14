@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:59:21.033Z",
+  "generatedAt": "2026-11-14T06:58:25.280Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 11,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 5487: Experimental Evaluation of Surfactant Drag Reducing Agents for Use in District Heating and Cooling Networks",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5487",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-14T00:00:00.000Z",
+      "excerpt": "Drag reducing agents (DRAs) can reduce the pressure losses in turbulent pipeflow in district heating and cooling networks (DHCNs), which can reduce the operational costs in current networks and allow for reduced investme…"
+    },
+    {
+      "title": "Same farms, different answers: When nitrogen pollution estimates don't add up",
+      "link": "https://phys.org/news/2026-11-farms-nitrogen-pollution-dont.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-13T23:00:07.000Z",
+      "excerpt": "To reduce nitrogen pollution stemming from synthetic fertilizer and livestock waste, California's Central Valley relies on five data sets to estimate surplus nitrogen. However, most parts of the United States use just on…"
+    },
     {
       "title": "Ancient rocks reveal a dramatic journey from deep inside Earth",
       "link": "https://phys.org/news/2026-11-ancient-reveal-journey-deep-earth.html",
@@ -164,14 +180,6 @@
       "excerpt": "What's the best way to protect ourselves against climate change? The default is to reach for concrete and steel to build seawalls, dikes, dams and drainage systems. These can work. But they are expensive and inflexible.…"
     },
     {
-      "title": "Helping Montreal and other cities keep more institutional and commercial food waste out of the dump",
-      "link": "https://phys.org/news/2026-11-montreal-cities-commercial-food-dump.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-13T12:20:08.000Z",
-      "excerpt": "Businesses and institutions in just 6% of Montreal's mapped area account for about 100,000 metric tons (110,000 tons) of food waste sent to landfill each year—half of the total amount from nonhousehold sources in the cit…"
-    },
-    {
       "title": "Superheated magma could fuel towering lava fountains",
       "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
       "source": "ScienceDaily — Geology",
@@ -202,94 +210,6 @@
       "category": "industry",
       "published": "2026-11-13T07:56:08.000Z",
       "excerpt": "ExxonMobil, through its subsidiary ExxonMobil Guyana, has reached a final investment decision (FID) to move forward with the development of the Longtail field, located offshore Guyana."
-    },
-    {
-      "title": "Fragility of Aeolian Ripples",
-      "link": "https://arxiv.org/abs/2611.14739",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-13T05:00:00.000Z",
-      "excerpt": "arXiv:2611.14739v1 Announce Type: new Abstract: Sand surfaces exposed to the wind are covered by aeolian sand waves of diverse wavelengths, from centimetres for small ripples to decameters for dunes. Sand dunes can be sa…"
-    },
-    {
-      "title": "Data-driven Reconstruction of the Phase Dynamics for the El Ni\\~{n}o-Southern Oscillation Reveals Seasonality and Statistical Synchronization with the Annual Cycle",
-      "link": "https://arxiv.org/abs/2611.14868",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-13T05:00:00.000Z",
-      "excerpt": "arXiv:2611.14868v1 Announce Type: new Abstract: In this study, we treat the El Ni\\~{n}o-Southern Oscillation (ENSO) as a rhythmic system periodically forced by the annual cycle. We examine ENSO event seasonality and sync…"
-    },
-    {
-      "title": "Advancing global water cycle science with the upcoming MAGIC satellite mission through data assimilation",
-      "link": "https://arxiv.org/abs/2611.15421",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-13T05:00:00.000Z",
-      "excerpt": "arXiv:2611.15421v1 Announce Type: new Abstract: The GRACE and GRACE-FO missions provide unique global measurements of terrestrial water storage anomalies (TWSA) from space since 2003. However, in order to spatially downs…"
-    },
-    {
-      "title": "Resolving Radiogenic Heterogeneity in the Earth's Mantle with Multi-Site Geo-neutrino Measurements",
-      "link": "https://arxiv.org/abs/2611.16715",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-13T05:00:00.000Z",
-      "excerpt": "arXiv:2611.16715v1 Announce Type: new Abstract: We present a global fit to geo-neutrino measurements at four underground sites (Kamioka, Gran Sasso, Sudbury, Jiangmen), combining signal rates with site-specific predictio…"
-    },
-    {
-      "title": "A Transferable Pretrained 3D Model for Impedance Inversion with Sparse-Well Prior Conditioning",
-      "link": "https://arxiv.org/abs/2611.14922",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-13T05:00:00.000Z",
-      "excerpt": "arXiv:2611.14922v1 Announce Type: cross Abstract: Deep-learning-based seismic impedance inversion commonly requires retraining for each target survey, which may generalize poorly beyond the conditioning locations when we…"
-    },
-    {
-      "title": "A Diffusive T-Matrix Unifying the Electric and Magnetic Polarizability Tensors in Conducting Layered Media",
-      "link": "https://arxiv.org/abs/2611.15090",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-13T05:00:00.000Z",
-      "excerpt": "arXiv:2611.15090v1 Announce Type: cross Abstract: Electromagnetic induction is used to detect and classify buried and submerged objects, such as unexploded ordnance in soil and on the seabed. A small object is commonly d…"
-    },
-    {
-      "title": "Imputing Missing Near-Surface Air Temperature using Graph Attention Networks with Distance-Aware Edge Features",
-      "link": "https://arxiv.org/abs/2611.15598",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-13T05:00:00.000Z",
-      "excerpt": "arXiv:2611.15598v1 Announce Type: cross Abstract: We introduce a graph attention network for reconstructing near-surface air temperature fields from incomplete observations. The model represents each grid cell as a node…"
-    },
-    {
-      "title": "Constructive Reuse of Free-Surface Ghost Wavefields in Marine Seismic Data: A Propagation-Based Framework",
-      "link": "https://arxiv.org/abs/2602.07759",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-13T05:00:00.000Z",
-      "excerpt": "arXiv:2602.07759v4 Announce Type: replace Abstract: Recent advances in marine seismic acquisition and processing have substantially improved the decomposition of free surface ghost wavefields. Building upon these develop…"
-    },
-    {
-      "title": "Field-Deployable Hybrid Gravimetry: Projecting Absolute Accuracy Across a Remote 24km$^2$ Survey via Daily Quantum Calibration",
-      "link": "https://arxiv.org/abs/2602.10557",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-13T05:00:00.000Z",
-      "excerpt": "arXiv:2602.10557v2 Announce Type: replace Abstract: Hybrid gravimetry combines the mobility of relative gravimeters with the long-term stability of an absolute reference. Following our previous demonstration of this conc…"
-    },
-    {
-      "title": "Automatic Knowledge Graph Construction and Query for Earthquake Catalogs",
-      "link": "https://arxiv.org/abs/2607.24984",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-13T05:00:00.000Z",
-      "excerpt": "arXiv:2607.24984v2 Announce Type: replace Abstract: In recent years, the number of events in earthquake catalogs has significantly increased due to the utilization of more effective deep learning based detectors and phas…"
-    },
-    {
-      "title": "Tidal potential measured with distant optical clocks",
-      "link": "https://arxiv.org/abs/2611.14293",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-13T05:00:00.000Z",
-      "excerpt": "arXiv:2611.14293v2 Announce Type: replace-cross Abstract: Fibre-linked optical clocks sense tidal changes of the gravitational potential, but separating overlapping tidal components and quantifying their precision remain…"
     },
     {
       "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
@@ -386,14 +306,6 @@
       "category": "energy",
       "published": "2026-11-13T00:00:00.000Z",
       "excerpt": "Urban digitalization requires site-specific evidence to determine where intelligent sensing, edge processing, warning actuation and energy management functions are justified. This repeated cross-sectional field study qua…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5477: Relative Prices of New Dwellings in the European Union After the Nearly Zero-Energy Building Requirement",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5477",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-13T00:00:00.000Z",
-      "excerpt": "From the end of 2020, every new building in the European Union had to be a nearly zero-energy building (nZEB). Afterwards, new-dwelling prices grew faster than existing-dwelling prices in most countries. The European Cen…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3671: Distribution Shape of Objective Function-Oriented Probabilistic Constrained Multi-Objective Stochastic Optimization with Its Application to an Ironmaking Process in a Blast Furnace",
@@ -874,6 +786,94 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Yanxia Peng, Shaobin Guo"
+    },
+    {
+      "title": "Evaluation of hematite and Micromax-based cement systems for high- density well cementing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522009779?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Abdulmalek Ahmed, Ahmed Abdelaal, Salaheldin Elkatatny"
+    },
+    {
+      "title": "Dynamic effect of gas initial desorption in coals with different moisture contents and energy-controlling mechanism for outburst prevention of water injection in coal seams",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011226?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Chaojie Wang, Xiaowei Li, Lutan Liu, Zexiang Tang, Changhang Xu"
+    },
+    {
+      "title": "New insights into Upper Cretaceous hydrocarbon traps of platform-basin flanks in the Sahel Eastern Tunisian petroleum province: Inferred optimal hydrocarbon reserves accumulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010841?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Mourad Bédir, Amina Mabrouk El Asmi"
+    },
+    {
+      "title": "Hole cleaning and wet-granular rheology of rock cutting beds: Impact of drilling fluid composition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522011196?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Microemulsion-intensified lignin hydrogenolysis using in situ H 2 from ethanol aqueous phase reforming",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038007?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Jinrong Liang, Juanhua Kong, Yun Tian, Kejia Wu, Wentao Mu, Xuehui Li"
+    },
+    {
+      "title": "Mechanistic insights into the role of Co in the activity and stability of sulfide CoMo/Al 2 O 3 catalysts for Water Gas Shift reaction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038135?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Weitao Zhao, Françoise Maugé, Laetitia Oliviero"
+    },
+    {
+      "title": "Improving the efficiency of the combustion process of low-reactivity coal using metallurgical waste",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612603560X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): A.D. Misyukova, M.E. Makareikin, K.B. Larionov"
+    },
+    {
+      "title": "Engineering Pt-integrated BaMnO 3 /rGO nanohybrids for enhanced methanol oxidation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126037749?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Saranvignesh Alagarsamy, Vinitha Mariyappan, Shen-Ming Chen, Yong-Song Chen"
+    },
+    {
+      "title": "Poplar catkin-derived porous carbon for enhanced ammonia borane thermal dehydrogenation via synergistic nanoconfinement and surface anchoring",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038834?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Wenlong Lv, Xiaojing Wei, Haiyan Song, Yanan Feng, Zhuhe Zhai, Shengqiang Chen, Xianggen Chen, Yafei Zhao, Bing Zhang"
+    },
+    {
+      "title": "Waste derived carbon–silica supported Ni–NiO heterojunction for stable alkaline hydrogen evolution: experimental and DFT insights",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126036586?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Tehreem Ayaz, Mudassir Habib, Muhammad Zeeshan, Xiuchen Qiao"
     }
   ]
 }
