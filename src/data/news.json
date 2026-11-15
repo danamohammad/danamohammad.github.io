@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:43:02.714Z",
+  "generatedAt": "2026-11-15T07:07:18.536Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Processes, Vol. 14, Pages 3673: Transient Multiphase Flow Nested-Closure Extended Physics-Informed Neural Network (TM-NC-XPINN): Boundary-Supervised Reconstruction of Gas&ndash;Liquid Pipe Flow",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3673",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-15T00:00:00.000Z",
+      "excerpt": "We investigate a physics-constrained neural network for reconstructing transient gas&amp;ndash;liquid pipe flow under prescribed initial and boundary conditions. The method combines phase mass and mixture momentum equati…"
+    },
     {
       "title": "Some of the oldest rocks ever discovered shed light on Earth's early history",
       "link": "https://phys.org/news/2026-11-oldest-earth-early-history.html",
@@ -394,14 +402,6 @@
       "category": "processing",
       "published": "2026-11-13T00:00:00.000Z",
       "excerpt": "This research introduces a staged sorption-enhanced gasification and reforming process for converting biomass into hydrogen with an accompanying CO2-capture pathway, using wheat straw as feedstock. Renewable hydrogen fro…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3662: An IoT-Enabled Smart Waste Management System for Al-Duqm: A Sensor-Level Accuracy Validation, Cost and Energy Analysis, and Comparative Review of Enabling Technologies",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3662",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-13T00:00:00.000Z",
-      "excerpt": "Smart waste management needs fill-level sensing that is accurate, affordable and reported in a reproducible way. This paper presents an IoT-enabled smart waste management system (SWMS) designed for the Special Economic Z…"
     },
     {
       "title": "Impact Oil & Gas completes split of Namibian and South African assets",
