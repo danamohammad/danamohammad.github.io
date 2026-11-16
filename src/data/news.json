@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T19:04:28.442Z",
+  "generatedAt": "2026-11-16T07:13:06.630Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": false,
-      "count": 0,
-      "error": "no items parsed"
+      "ok": true,
+      "count": 1,
+      "error": null
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,86 @@
     }
   ],
   "items": [
+    {
+      "title": "Resolving Radiogenic Heterogeneity in the Earth's Mantle with Multi-Site Geo-neutrino Measurements",
+      "link": "https://arxiv.org/abs/2611.16715",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-16T05:00:00.000Z",
+      "excerpt": "arXiv:2611.16715v2 Announce Type: replace Abstract: We present a global fit to geo-neutrino measurements at four underground sites (Kamioka, Gran Sasso, Sudbury, Jiangmen), combining signal rates with site-specific predi…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5514: Thermal Analysis of Hydraulic System of Domestic Solar Water Heater with Parabolic Dish Concentrator",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5514",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-16T00:00:00.000Z",
+      "excerpt": "The high cost of solar thermal collectors and installation constraints motivate the development of a simple, affordable domestic solar water heater (DSWH) suitable for urban environments and based on a parabolic dish con…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5513: Energy Management Optimization for an Island Microgrid with Renewable Energy, Storage, and Demand Response",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5513",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-16T00:00:00.000Z",
+      "excerpt": "This paper aims to optimize an energy management system for a microgrid that is powered by sustainable energy sources, integrating solar photovoltaic, wind turbines, diesel generators, battery storage, and demand respons…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5512: Conductive Heat Transfer and Deep Meteoric Groundwater Circulation in a Passive-Margin Sedimentary Geothermal System: The Lower Cretaceous Reservoir of the Tarfaya&ndash;La&acirc;youne&ndash;Dakhla Basin, Southern Morocco",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5512",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-16T00:00:00.000Z",
+      "excerpt": "Passive-margin sedimentary aquifers represent widespread low to medium enthalpy geothermal resources, but their assessment is commonly limited by sparse and heterogeneous subsurface data. We integrate bottom-hole tempera…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5511: Integrated Energy System Design for Indoor Swimming Pool Modernisation: A Comparative Techno-Economic Assessment of Three Case Studies",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5511",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-16T00:00:00.000Z",
+      "excerpt": "Indoor swimming pools are energy-intensive public buildings in which heating, ventilation, domestic hot water production and pool-related electricity demand interact with each other. The economic performance of energy mo…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5509: Modeling and Applicability of Nonlinear RDDS for Controlled Closing of 550 kV SF6 Circuit Breakers",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5509",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-16T00:00:00.000Z",
+      "excerpt": "In the controlled closing of high voltage circuit breakers, the electrical making instant depends on how dielectric strength changes as the contacts approach. For a 550 kV SF6 circuit breaker, scaled contact breakdown te…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5510: Biogas&nbsp;for Small-Scale Cassava Processing: A Techno-Economic Assessment in Mozambique",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5510",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-16T00:00:00.000Z",
+      "excerpt": "Small-scale cassava processing in rural Mozambique relies heavily on firewood, LPG, and electricity, while cassava waste is largely discarded rather than used for energy production. This study evaluates the technical and…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3681: Bearing Fault Diagnosis Method Based on Knowledge Graph and Multimodal Data Fusion",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3681",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-16T00:00:00.000Z",
+      "excerpt": "Effective bearing fault diagnosis methods are crucial for the diagnosis and maintenance of modern industrial equipment. Relying solely on equipment failure mechanisms or data-driven approaches makes it difficult to addre…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3680: Reaction-Front-Regulated GLDA&ndash;Citric Acid Chelating Fluid for Selective Cleat Demineralization and Conductivity Retention Under Effective Stress in Deep Coal of the Ordos Basin",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3680",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-16T00:00:00.000Z",
+      "excerpt": "Mineral-filled cleats are an important constraint on fluid transport in deep coal reservoirs, yet aggressive acid stimulation can cause localized overreaction, fines generation, and rapid conductivity loss under high eff…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3679: Retention of Vitamins A, B2, and B6 in Extruded Dog Food: Effects of Grinding, Extrusion Conditions, and Drying",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3679",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-16T00:00:00.000Z",
+      "excerpt": "Extruded dog foods undergo physicochemical transformations that may enhance nutritional value but also promote vitamin degradation. This study evaluates the effects of grinding, preconditioning, extrusion at three specif…"
+    },
     {
       "title": "The experiments improving our understanding of volcanic tsunamis",
       "link": "https://phys.org/news/2026-11-volcanic-tsunamis.html",
@@ -146,22 +226,6 @@
       "category": "energy",
       "published": "2026-11-15T00:00:00.000Z",
       "excerpt": "Multi-effect distillation with thermal vapor compression (MED-TVC) is widely used for seawater desalination, but the mixing process in the steam ejector is associated with exergy destruction. This study investigates a si…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5502: Capacity and Operation Planning of Distributed Photovoltaic and Energy Storage with Screening-Based Site Assessment and Coordinated Reactive Power Compensation in Distribution Networks",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5502",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-15T00:00:00.000Z",
-      "excerpt": "High penetration of distributed photovoltaic (PV) generation complicates coordinated PV&amp;ndash;energy storage system (ESS) planning and network operation, especially where discrete and continuous reactive-power device…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5501: Using Archetypes for Urban Building Energy Modelling: Application of AssessCity Tool",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5501",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-15T00:00:00.000Z",
-      "excerpt": "Urban Building Energy Modelling (UBEM) is widely recognized as an effective methodology for advancing sustainable urban development and improving energy management, given that buildings account for a significant share of…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3675: Numerical Simulation of Gas&ndash;Water Production Dynamics and Interwell Interference in Inclined Coal Seams on the Southern Margin of the Junggar Basin",
@@ -236,38 +300,6 @@
       "excerpt": "California was bracing Friday for a storm series packing heavy rain and surf that could once again flood coastal communities and potentially send monster waves pounding shores."
     },
     {
-      "title": "Energies, Vol. 19, Pages 5500: Combustion Characteristics in the Two-Phase Flow Field of a GCH4-LOx Small Thrust Chamber with Liquid Film-Cooling",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5500",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-14T00:00:00.000Z",
-      "excerpt": "Numerical simulation was performed to investigate the combustion performance of a GCH4-LOx small thrust chamber under various film-cooling supply conditions. The behavior of liquid oxygen, utilized as both the primary ox…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5499: Dual-Layer Physics-Residual-Constraint-Driven SAE-Mini-Transformer: DC-Side Fault Diagnosis of Photovoltaic Arrays for Edge Terminals",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5499",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-14T00:00:00.000Z",
-      "excerpt": "Direct current-side (DC-side) faults, including string open circuits, string short circuits, string underperformance, sensor faults, and partial shading, threaten the safe operation of photovoltaic (PV) plants. Existing…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5497: Performance Evaluation of Multi-Objective Optimization Techniques for a Hybrid EV Charging Station",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5497",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-14T00:00:00.000Z",
-      "excerpt": "Electric Vehicles (EVs) have become a global trend due to their environmental benefits, which reduce the dependency of the transport sector on fossil fuels. The rise of EVs has led to the adoption of an effective infrast…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5498: Photovoltaic Self-Consumption by an Air-Source Heat Pump: Daily-Balance Error and a Simultaneity Correction Derived from Hourly Measurements in a Single House",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5498",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-14T00:00:00.000Z",
-      "excerpt": "Daily and monthly balances ignore the hourly simultaneity of photovoltaic (PV) output and heat pump consumption. Hourly output of four PV systems was combined with the measured consumption of an air-source heat pump in a…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3672: CT-Based 3D Reconstruction and CDEM Simulation of Mechanical Behavior in Conglomerates",
       "link": "https://www.mdpi.com/2227-9717/14/22/3672",
       "source": "Processes (MDPI)",
@@ -332,6 +364,14 @@
       "excerpt": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiment…"
     },
     {
+      "title": "Egypt’s EGPC agrees 50-well programme preparations with Halliburton",
+      "link": "https://www.offshore-technology.com/news/egypts-egpc-50-well-programme-halliburton/",
+      "source": "Offshore Technology",
+      "category": "industry",
+      "published": "2026-11-13T11:54:15.000Z",
+      "excerpt": "The EGPC has signed an agreement with Halliburton to prepare a 50-well drilling programme over 18 months using unconventional techniques."
+    },
+    {
       "title": "SLB wins Vår Energi integrated drilling services deal on NCS",
       "link": "https://www.offshore-technology.com/news/slb-wins-var-energi-drilling-services-ncs/",
       "source": "Offshore Technology",
@@ -378,30 +418,6 @@
       "category": "processing",
       "published": "2026-11-13T00:00:00.000Z",
       "excerpt": "Injection molding (IM) quality optimization involves coupled process variables, nonlinear quality responses, and a limited budget for physical trials. Numerical optimizers can use measured process data effectively, but t…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3669: Power-Circle Vulnerability Assessment and Two-Stage IPSO-Based Multi-STATCOM Allocation for Fine Voltage Regulation in Distribution Networks",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3669",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-13T00:00:00.000Z",
-      "excerpt": "A two-stage improved particle swarm optimization (IPSO) framework is proposed for multi-STATCOM siting and sizing in radial distribution networks, together with a power-circle external-tangency margin for independent ele…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3668: Fault Response and Spatial Grounding Current Distribution Characteristics of Multipoint-Grounded GIL-Overhead Line Hybrid Transmission Systems Under High-Resistivity Soil Conditions",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3668",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-13T00:00:00.000Z",
-      "excerpt": "The transient responses of GIL-overhead line hybrid transmission systems during lightning and short-circuit faults directly affect insulation performance, equipment thermal stability, and grounding safety, particularly u…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3667: Flow-Loop Investigation and DAS-Based Flow-Rate Prediction for Gas&ndash;Water Two-Phase Flow Under Near-Horizontal High-Rate Gas-Well Conditions",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3667",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-13T00:00:00.000Z",
-      "excerpt": "Gas&amp;ndash;water two-phase flow at high gas rates and low water cuts generates complex acoustic responses, necessitating experimental calibration for distributed acoustic sensing (DAS)-based flow-rate estimation. Near…"
     },
     {
       "title": "Impact Oil & Gas completes split of Namibian and South African assets",
@@ -458,14 +474,6 @@
       "category": "industry",
       "published": "2026-11-11T12:32:05.000Z",
       "excerpt": "Amplitude Energy has completed and cased its Annie-2 development well offshore Victoria, Australia, reporting preliminary data that indicates improved reservoir characteristics compared with the original Annie discovery."
-    },
-    {
-      "title": "Orlen terminates QatarEnergy LNG deal after force majeure",
-      "link": "https://www.offshore-technology.com/news/orlen-terminates-qatarenergy-lng-deal/",
-      "source": "Offshore Technology",
-      "category": "industry",
-      "published": "2026-11-11T09:27:50.000Z",
-      "excerpt": "Orlen has terminated one of its two long-term liquefied natural gas (LNG) supply contracts with QatarEnergy, following an ongoing force majeure event that prevented the supplier from fulfilling its delivery obligations."
     },
     {
       "title": "Global fossil fuel emissions set to fall in 2026, but total CO2 keeps rising",
@@ -866,14 +874,6 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Baizhen Song, Shengtao Yuan, Yu Zhang, Xin Wang, Siqi Zhang, Zhuliang Zhou, Shuhao Bi, Mengjia Dou, Ping Lu, Haitao Hu, Qiang Zhou"
-    },
-    {
-      "title": "Differential responses of pore-fracture structures and gas diffusion to high-energy electric detonation in deep coal and shale",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038111?dgcid=rss_sd_all",
-      "source": "Fuel",
-      "category": "processing",
-      "published": null,
-      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Haixia He, Baisheng Nie, Ying Mu, Tuo Chen, Song Bao, Dongping Zhou, Zhengpeng Duan"
     }
   ]
 }
