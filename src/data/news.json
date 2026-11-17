@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:28:45.462Z",
+  "generatedAt": "2026-11-17T08:26:10.212Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 1,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,110 @@
     }
   ],
   "items": [
+    {
+      "title": "How enhanced rock weathering can speed up carbon capture",
+      "link": "https://phys.org/news/2026-11-weathering-carbon-capture.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-17T02:20:01.000Z",
+      "excerpt": "Water flooded the pasture, spilling from an irrigation pipe tucked alongside a hill at the Sierra Foothill Research and Extension Center, a University of California research facility located about 20 miles (32 kilometers…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5550: Design and Performance Analysis of an Electromagnetic Load-Reduction Thrust Bearing System for Large Hydro-Generators",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5550",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-17T00:00:00.000Z",
+      "excerpt": "As hydro-generator units trend toward higher capacity and rotational speed, conventional thrust bearings face increasing challenges in terms of friction loss, pad temperature, and oil-film reliability. This paper present…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5551: Assessing Sustainable Competitive-Advantage Potential in Energy Service Companies: A Capability-Based Framework Under Energy Performance Contracting",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5551",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-17T00:00:00.000Z",
+      "excerpt": "Energy service companies (ESCOs) are central to energy performance contracting (EPC), yet firm-level differences in competitive capacity remain less studied than market barriers, contracts, and policy. This study develop…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5549: History-Dependent Demand Response Scheduling for Active Distribution Networks with High Photovoltaic Penetration",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5549",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-17T00:00:00.000Z",
+      "excerpt": "High penetrations of distributed photovoltaic (PV) generation require demand-side flexibility that remains deliverable across successive dispatch intervals in active distribution networks. Conventional fixed-capacity shi…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3696: Valorization of Cocoa Shell and Spelt Chaff as Oleogelators Using High-Voltage Electrical Treatment&mdash;Rheology and Texture",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3696",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-17T00:00:00.000Z",
+      "excerpt": "The aim of this study was to evaluate the potential of two fiber-rich food industry by-products, cocoa bean shell (CS) and spelt chaff, as oleogelators for the production of oleogels, and to assess whether high-voltage e…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3695: Facies-Constrained Static Flow Unit Characterization in Daqing Reservoirs Through Quantitative Reanalysis",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3695",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-17T00:00:00.000Z",
+      "excerpt": "Facies labels alone can conceal flow-capacity contrasts in mature sandstone reservoirs. We quantitatively reanalyze 26 existing static flow unit class summaries from nine sandbody categories in two Daqing blocks with a c…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3694: Two-Step Bioleaching of Phosphorus from Steel Slag Using an Aspergillus niger-Burkholderia sp. Co-Culture",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3694",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-17T00:00:00.000Z",
+      "excerpt": "Phosphorus can restrict steel slag recycling in ironmaking and steelmaking. Screening of fungal&amp;ndash;bacterial combinations and inoculum volume ratios identified an Aspergillus niger X1&amp;ndash;Burkholderia sp. P2…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3693: Determination of the Optimal DC/AC Ratio of a 10 MWe Licensed Commercial Photovoltaic Power Plant: A Financial Analysis for Efficient AC Capacity Utilization",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3693",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-17T00:00:00.000Z",
+      "excerpt": "In grids with limited transformer and transmission&amp;ndash;distribution capacity, the licensed power of solar plants is defined on the AC side, and capacity overshoot is not permitted. Since photovoltaic (PV) panels ra…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3692: Performance and Optimization of a Solar-Assisted Air-Source Heat Pump System for Wellhead Heating in a High-Pressure Gas Field of Northwestern China",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3692",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-17T00:00:00.000Z",
+      "excerpt": "Wellhead heating is indispensable for high-pressure gas wells because the temperature drop caused by two-stage throttling brings the gas close to the hydrate formation temperature. The existing air-source heat pump (ASHP…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3691: Sustainable Removal of Safranin Dye Using Moroccan Natural Clay: Insights from Experimental and Molecular Modeling Studies",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3691",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-17T00:00:00.000Z",
+      "excerpt": "Water contamination by organic dyes is a major environmental concern, making their removal from wastewater essential. This study aims to evaluate the adsorption of a cationic dye, Safranin (Sfr), on Chefchaouen natural c…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3689: Carbon Flow Attribution in Regional Manufacturing Supply Chains: A Case Study of Guizhou, China",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3689",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-17T00:00:00.000Z",
+      "excerpt": "Regional manufacturing emissions are generated at production sites, but are transmitted through intermediate inputs to final products, regions, and uses. This study applies an environmentally extended multi-regional inpu…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3690: Gas&ndash;Solid Two-Phase Flow Characteristics and Separation Performance of a Cyclone Desander",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3690",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-17T00:00:00.000Z",
+      "excerpt": "Balancing separation efficiency and pressure loss is essential for sand removal at shale gas wellheads. A double-cone cyclone desander was investigated using numerical simulations coupling a Reynolds stress model with a…"
+    },
+    {
+      "title": "Why marine climate refugia matter for safeguarding the world's oceans",
+      "link": "https://phys.org/news/2026-11-marine-climate-refugia-safeguarding-world.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-16T22:40:01.000Z",
+      "excerpt": "The ocean is changing rapidly. Warming, acidification, oxygen loss, sea-level rise and the intensification of extreme events are transforming marine ecosystems, leading to species shifts and mass mortality events. Howeve…"
+    },
     {
       "title": "COP 31: Who qualifies for loss and damage funding? Why country borders are a poor guide",
       "link": "https://phys.org/news/2026-11-cop-loss-funding-country-borders.html",
@@ -156,22 +260,6 @@
       "excerpt": "The slow-moving lava of an effusive volcanic eruption can transform a landscape. But escaping gases, cloud cover, accessibility issues and limited local resources can make monitoring the development of a flow field dange…"
     },
     {
-      "title": "Groundwater's annual cycle is shifting: 50-year study in Finland reveals contrasting outcomes in the north and south",
-      "link": "https://phys.org/news/2026-11-groundwater-annual-shifting-year-finland.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-16T16:40:06.000Z",
-      "excerpt": "The annual cycle of Finland's groundwater has changed over the past 50 years, shows a long-term study by the University of Oulu and the Finnish Environment Institute. The findings provide a valuable reference point for e…"
-    },
-    {
-      "title": "U.S. hyperscale data centers' combined electricity use rivals that of some states",
-      "link": "https://phys.org/news/2026-11-hyperscale-centers-combined-electricity-rivals.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-16T16:00:01.000Z",
-      "excerpt": "Over the course of a year, hyperscale data centers (HDCs)—the largest and most powerful class of data centers, supporting services such as cloud computing, large language model training and global deployment of artificia…"
-    },
-    {
       "title": "China to lead global polypropylene capacity growth through 2030",
       "link": "https://www.offshore-technology.com/analyst-comment/china-global-polypropylene-capacity-growth-2030/",
       "source": "Offshore Technology",
@@ -202,14 +290,6 @@
       "category": "industry",
       "published": "2026-11-16T07:05:35.000Z",
       "excerpt": "Shell Egypt, a subsidiary of Shell, has commenced gas production from the Mina West field, located in the North East El Amriya concession in the Mediterranean Sea."
-    },
-    {
-      "title": "Resolving Radiogenic Heterogeneity in the Earth's Mantle with Multi-Site Geo-neutrino Measurements",
-      "link": "https://arxiv.org/abs/2611.16715",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-16T05:00:00.000Z",
-      "excerpt": "arXiv:2611.16715v2 Announce Type: replace Abstract: We present a global fit to geo-neutrino measurements at four underground sites (Kamioka, Gran Sasso, Sudbury, Jiangmen), combining signal rates with site-specific predi…"
     },
     {
       "title": "Energies, Vol. 19, Pages 5548: Design Rules for Coordinating MPPT and CC&ndash;CV Charging of LiFePO4 Batteries in Low-Cost Digital Chargers: A Simulation Study",
@@ -284,30 +364,6 @@
       "excerpt": "Integrating post-combustion CO2 capture (PCC) with natural gas combined-cycle (NGCC) power generation requires consideration of both power-cycle performance and capture-process requirements. This study develops an Aspen…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5540: Evaluation of Provincial Electricity Price Cap Regulation Effects in China Based on a Multi-Attribute Decision-Making Model",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5540",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-16T00:00:00.000Z",
-      "excerpt": "Electricity price caps are widely used to limit extreme price movements in China&amp;rsquo;s provincial spot markets, yet their regulatory performance varies across market environments. This study develops a multidimensi…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5538: AI&ndash;Optimization Coupling in Hybrid Renewable Energy Systems: A Critical Review and Design Framework for Uncertainty, Constraints, and Risk-Aware Scheduling",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5538",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-16T00:00:00.000Z",
-      "excerpt": "Hybrid renewable energy systems (HRESs) increasingly combine artificial intelligence (AI) with mathematical optimization, but existing surveys often foreground algorithm families rather than the decision architecture by…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5536: Robust Adaptive Extended Kalman Filtering for State of Charge Estimation Under Short-Term Current Measurement Loss",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5536",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-16T00:00:00.000Z",
-      "excerpt": "Short-term current measurement loss disrupts charge integration and voltage prediction, challenging state of charge (SOC) estimation. We establish a strictly causal reconstruction and robust adaptive extended Kalman filt…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3688: Kerosene Fraction from Polyethylene by Pressurized Thermal Pyrolysis and Hydroisomerization over a Pt/SAPO-11 Catalyst",
       "link": "https://www.mdpi.com/2227-9717/14/22/3688",
       "source": "Processes (MDPI)",
@@ -338,70 +394,6 @@
       "category": "processing",
       "published": "2026-11-16T00:00:00.000Z",
       "excerpt": "Aiming at the engineering problems of low metering accuracy and frequent tank overflow in conventional metering separators caused by the high foam content characteristics of produced fluid from CO2 flooding, this paper d…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3684: Multi-Task Prediction of Reservoir Properties from Well Logs Using Bounded Density-Based Loss Weighting",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3684",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-16T00:00:00.000Z",
-      "excerpt": "Accurate prediction of porosity, permeability, and water saturation is important for oil and gas reservoir evaluation. Uneven label distributions can limit regression performance for sparsely represented values. This stu…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3683: Numerical Simulation Study on Hydraulic Fracturing Development via Radial Wells in Gas Hydrate Reservoirs with Varying Initial Saturations",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3683",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-16T00:00:00.000Z",
-      "excerpt": "Natural gas hydrate is a potentially efficient clean energy resource, and fracturing-based production has been demonstrated to be an effective method for hydrate recovery. This study focuses on a clayey silt hydrate rese…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3682: Enhanced Disturbance-Rejection Generalized Predictive Control for a Large-Delay Boiler Water Dosing Process",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3682",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-16T00:00:00.000Z",
-      "excerpt": "Boiler water phosphate dosing is characterized by large transport delays, model uncertainty, and external disturbances, making accurate concentration regulation challenging. This paper proposes an extended-state-observer…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3681: Bearing Fault Diagnosis Method Based on Knowledge Graph and Multimodal Data Fusion",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3681",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-16T00:00:00.000Z",
-      "excerpt": "Effective bearing fault diagnosis methods are crucial for the diagnosis and maintenance of modern industrial equipment. Relying solely on equipment failure mechanisms or data-driven approaches makes it difficult to addre…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3680: Reaction-Front-Regulated GLDA&ndash;Citric Acid Chelating Fluid for Selective Cleat Demineralization and Conductivity Retention Under Effective Stress in Deep Coal of the Ordos Basin",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3680",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-16T00:00:00.000Z",
-      "excerpt": "Mineral-filled cleats are an important constraint on fluid transport in deep coal reservoirs, yet aggressive acid stimulation can cause localized overreaction, fines generation, and rapid conductivity loss under high eff…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3679: Retention of Vitamins A, B2, and B6 in Extruded Dog Food: Effects of Grinding, Extrusion Conditions, and Drying",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3679",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-16T00:00:00.000Z",
-      "excerpt": "Extruded dog foods undergo physicochemical transformations that may enhance nutritional value but also promote vitamin degradation. This study evaluates the effects of grinding, preconditioning, extrusion at three specif…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3675: Numerical Simulation of Gas&ndash;Water Production Dynamics and Interwell Interference in Inclined Coal Seams on the Southern Margin of the Junggar Basin",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3675",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-15T00:00:00.000Z",
-      "excerpt": "In dip-aligned well groups in inclined coal reservoirs, pressure interference and effective gas-phase flow connectivity follow different temporal trajectories. Distinguishing them is essential for interpreting production…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3678: Spray-Drying Effects on the Physicochemical Characteristics of Anthocyanin&ndash;Zein&ndash;Gum Arabic Microcapsules Produced by Liquid&ndash;Liquid Dispersion",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3678",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-15T00:00:00.000Z",
-      "excerpt": "Anthocyanins are natural pigments known for their red color and are often used as powdered food colorants. However, they can be unstable under light and heat. This study evaluated how inlet air temperature and zein-to-gu…"
     },
     {
       "title": "Superheated magma could fuel towering lava fountains",
@@ -874,6 +866,14 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Mujun Chen, Xuyao Qi, Dexin Xu, Qiang Zeng, Weidong Lu, Yaqi Qin"
+    },
+    {
+      "title": "Isomerization of bicycloalkanes over lay zeolite for high-performance aviation fuels",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038676?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part C Author(s): Hui Kang, Jiachun Su, Chengxiang Shi, Chengjie Liu, Peini Wang, Lun Pan, Zhen-Feng Huang, Xiangwen Zhang, Ji-Jun Zou"
     }
   ]
 }
