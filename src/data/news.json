@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T20:56:39.107Z",
+  "generatedAt": "2026-11-20T07:42:41.153Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -58,7 +58,7 @@
     {
       "name": "arXiv — Geophysics",
       "ok": true,
-      "count": 6,
+      "count": 4,
       "error": null
     },
     {
@@ -76,6 +76,182 @@
   ],
   "items": [
     {
+      "title": "Data centers damage air quality long-distance, study reveals",
+      "link": "https://phys.org/news/2026-11-centers-air-quality-distance-reveals.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-20T05:13:51.000Z",
+      "excerpt": "The rapid expansion of data centers for artificial intelligence causes negative health and air quality impacts in regions far from where the brick-and-mortar facilities are located, according to a new study by MIT resear…"
+    },
+    {
+      "title": "SR-Agent: An Advanced Intelligent Agent for Seismic Data Restoration",
+      "link": "https://arxiv.org/abs/2611.25466",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-20T05:00:00.000Z",
+      "excerpt": "arXiv:2611.25466v1 Announce Type: new Abstract: Field seismic data often suffer from multiple degradations, including noise contamination, incomplete geometry, low-frequency loss, and reduced spatial resolution, requirin…"
+    },
+    {
+      "title": "Evaluation of machine-learning and deep-learning SPEI drought forecasts against persistence across timescales and lead times in Bangladesh",
+      "link": "https://arxiv.org/abs/2611.25075",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-20T05:00:00.000Z",
+      "excerpt": "arXiv:2611.25075v1 Announce Type: cross Abstract: Bangladesh, home to nearly 178 million people, is highly vulnerable to recurring droughts that threaten food security and rural livelihoods. Machine-learning and deep-lea…"
+    },
+    {
+      "title": "Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators",
+      "link": "https://arxiv.org/abs/2611.25130",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-20T05:00:00.000Z",
+      "excerpt": "arXiv:2611.25130v1 Announce Type: cross Abstract: Temporal prediction of seismic velocity fields beyond the time interval represented in training remains challenging for neural operator models. This study develops a coup…"
+    },
+    {
+      "title": "From FAIR to AWARE: Data Readiness for Agentic AI in the Earth Sciences",
+      "link": "https://arxiv.org/abs/2611.25209",
+      "source": "arXiv — Geophysics",
+      "category": "preprints",
+      "published": "2026-11-20T05:00:00.000Z",
+      "excerpt": "arXiv:2611.25209v1 Announce Type: cross Abstract: Artificial intelligence in the Earth sciences is beginning to act: prototype agents already search archives, run simulations and draft analyses. Scientific data were cura…"
+    },
+    {
+      "title": "How nature-based solutions are failing informal settlements",
+      "link": "https://phys.org/news/2026-11-nature-based-solutions-settlements.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-20T03:40:02.000Z",
+      "excerpt": "New research from UCT says nature-based solutions for climate adaptation must move beyond participation to power-sharing partnerships that recognize lived experiences and relationships with nature."
+    },
+    {
+      "title": "Extreme weather poses growing risks to global oil and natural gas shipping, new IEA report finds",
+      "link": "https://phys.org/news/2026-11-extreme-weather-poses-global-oil.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-20T03:20:06.000Z",
+      "excerpt": "Extreme weather events are posing significant risks to international oil and natural gas shipping, with the potential to damage critical infrastructure, disrupt major trade routes and threaten energy security, according…"
+    },
+    {
+      "title": "Innovative technology offers a bold new vision for monitoring ocean health",
+      "link": "https://phys.org/news/2026-11-technology-bold-vision-ocean-health.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-20T02:20:06.000Z",
+      "excerpt": "On an early October morning, as MBARI's research vessel Paragon left Moss Landing with three robots loaded on its deck, Monterey Bay was showing off."
+    },
+    {
+      "title": "Climate communication that resonates must be based on empathy",
+      "link": "https://phys.org/news/2026-11-climate-communication-resonates-based-empathy.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-20T01:00:01.000Z",
+      "excerpt": "Climate change is a global reality, but people often encounter it through different local realities. For some, it enters everyday life through social media feeds, news reports, scientific findings and public discussion.…"
+    },
+    {
+      "title": "NEPTUNE poised to replace Navy's global weather model, improving forecasts over open ocean",
+      "link": "https://phys.org/news/2026-11-neptune-poised-navy-global-weather.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-20T00:40:07.000Z",
+      "excerpt": "The U.S. Naval Research Laboratory-developed Navy Environmental Prediction sysTem Utilizing a Nonhydrostatic Engine, known as NEPTUNE, is poised to become an operational Navy weather prediction capability, providing impr…"
+    },
+    {
+      "title": "Putting Google's AI hurricane model to the test",
+      "link": "https://phys.org/news/2026-11-google-ai-hurricane.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-20T00:40:01.000Z",
+      "excerpt": "A week before Hurricane Melissa slammed into Jamaica last fall, the forecast models couldn't agree on where it was headed or how strong it would get. One got it right—an AI model from Google DeepMind, which called both t…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5615: 238Pu Production by Minor Actinide Transmutation in a Thorium-Based Molten Salt Reactor",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5615",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-20T00:00:00.000Z",
+      "excerpt": "Advanced nuclear energy systems are increasingly being developed for applications beyond electricity generation, including high-temperature heat supply, resource utilization, waste transmutation, and radioisotope product…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5613: A Digital Engineering Framework for Undervoltage Risk Screening in Renewable-Rich Smart-City Distribution Networks",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5613",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-20T00:00:00.000Z",
+      "excerpt": "Deeper penetration of renewable energy sources is seen as a vital component in the transition toward smarter, cleaner, and more intelligent cities, but injection of renewable energy sources directly into the electrical d…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5612: Analysis of Current Distribution in an Electrode System Considering the Conditions of Electromagnetic Field Formation",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5612",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-20T00:00:00.000Z",
+      "excerpt": "The spatial distribution of electric current is an important characteristic of the electrical state of electrolytic systems and influences the conditions under which an electromagnetic field is formed. In this paper, we…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5611: Generative AI Architectures for Next-Generation Peer-to-Peer Energy Markets: A Review",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5611",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-20T00:00:00.000Z",
+      "excerpt": "The growing diffusion of renewable energy sources, storage systems, and distributed energy resources is fostering a transformation in electricity markets, characterized by increasingly active participation by end users.…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5610: Correction: Tsai, W.-H. Balancing Profit and Environmental Sustainability with Carbon Emissions Management and Industry 4.0 Technologies. Energies 2023, 16, 6175",
+      "link": "https://www.mdpi.com/1996-1073/19/22/5610",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-20T00:00:00.000Z",
+      "excerpt": "The following note has been added to the original publication [...]"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3728: Assessment of the Operating Life of an Oil Field Based on the Hydrodynamic Modeling Method",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3728",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-20T00:00:00.000Z",
+      "excerpt": "A three-dimensional finite-difference model is developed to evaluate reservoir-pressure support by an injection&amp;ndash;production well pair. Selected inputs from the Kyrtaelskoye field define a 500 &amp;times; 200 &am…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3727: Influence of Ultrasonic Irradiation Time on Pore Structure Evolution of Weakly Caking Coal",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3727",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-20T00:00:00.000Z",
+      "excerpt": "Aiming at the challenges of gas (CH4) drainage difficulties and reservoir stimulation in deep low-permeability coal seams, taking the No. 2 coal sample from Shuanglong Coal Mine as the research object, a high-power ultra…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3726: Deep Eutectic Solvents for Curcuminoids: Solvent Design, Extraction, Process Integration, and Translational Challenges",
+      "link": "https://www.mdpi.com/2227-9717/14/22/3726",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-20T00:00:00.000Z",
+      "excerpt": "Curcuminoids are major bioactive compounds of turmeric with broad potential applications in the pharmaceutical, nutraceutical, and food industries, yet poor aqueous solubility, limited chemical stability, and low oral bi…"
+    },
+    {
+      "title": "Britain should treat healthy seas as essential infrastructure, say scientists",
+      "link": "https://phys.org/news/2026-11-britain-healthy-seas-essential-infrastructure.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-19T23:40:02.000Z",
+      "excerpt": "Researchers are calling for lasting investment in healthy seas to support food security, protect coastlines and strengthen economic resilience."
+    },
+    {
+      "title": "Ethiopian volcano's mysterious methane outburst may have a culprit—magma that never erupted",
+      "link": "https://phys.org/news/2026-11-ethiopian-volcano-mysterious-methane-outburst.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-19T22:00:09.000Z",
+      "excerpt": "Experts were puzzled when satellite observations showed a volcano in Ethiopia emitting huge quantities of methane despite not erupting, but a team of researchers led by the University of Bristol believe they have discove…"
+    },
+    {
+      "title": "New research explains how far people will go for a day at the park",
+      "link": "https://phys.org/news/2026-11-people-day.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-19T21:00:15.000Z",
+      "excerpt": "A park two miles (3.2 kilometers) from home might seem close enough for a Saturday outing. In metropolitan Detroit, though, park visits had already fallen to about half their modeled peak by that distance. In metropolita…"
+    },
+    {
       "title": "How tiger worms could help tackle the global sanitation problem",
       "link": "https://phys.org/news/2026-11-tiger-worms-tackle-global-sanitation.html",
       "source": "Phys.org — Earth",
@@ -84,92 +260,12 @@
       "excerpt": "Michael Templeton is professor of public health engineering in the Department of Civil and Environmental Engineering at Imperial College London and co-chair of the Imperial Global Development Lab Advisory Board. He holds…"
     },
     {
-      "title": "Data centers damage air quality long-distance, study reveals",
-      "link": "https://phys.org/news/2026-11-centers-air-quality-distance-reveals.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-19T19:20:09.000Z",
-      "excerpt": "The rapid expansion of data centers for artificial intelligence causes negative health and air quality impacts in regions far from where the brick-and-mortar facilities are located, according to a new study by MIT resear…"
-    },
-    {
       "title": "Weight-loss drugs could reduce deaths and ease pressure on agricultural land by 2050",
       "link": "https://phys.org/news/2026-11-weight-loss-drugs-deaths-ease.html",
       "source": "Phys.org — Earth",
       "category": "geoscience",
       "published": "2026-11-19T18:40:15.000Z",
       "excerpt": "New research from the University of Aberdeen suggests weight-loss medications could deliver a double benefit, improving people's health while also helping the environment."
-    },
-    {
-      "title": "Artificial wetland near Valencia traps 36% of incoming microplastics, study finds",
-      "link": "https://phys.org/news/2026-11-artificial-wetland-valencia-incoming-microplastics.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-19T18:00:10.000Z",
-      "excerpt": "The Tancat de la Pipa, an artificial wetland designed as a \"green filter\" for the Albufera de València, reduces microplastic pollution in the natural lagoon by 36%, according to research conducted by the Institute of Wat…"
-    },
-    {
-      "title": "Microplastics make up 1 in 100 airborne particles sampled at four Michigan schools",
-      "link": "https://phys.org/news/2026-11-microplastics-airborne-particles-sampled-michigan.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-19T16:20:01.000Z",
-      "excerpt": "One in 100 of the tiny particles hanging in the air we breathe in Michigan is a microplastic, according to a University of Michigan study. The study tested the air for microplastics in four locations across lower Michiga…"
-    },
-    {
-      "title": "Phantom forests: How low-integrity offsets lead to policy failure",
-      "link": "https://phys.org/news/2026-11-phantom-forests-offsets-policy-failure.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-19T16:00:27.000Z",
-      "excerpt": "Australia's Safeguard Mechanism (SGM) is failing to reduce emissions and drive decarbonization in the industrial and mining sectors because of an overreliance on cheap, low-integrity offsets, according to a new report ti…"
-    },
-    {
-      "title": "Why fierce tropical downpours thrive in a relatively dry atmosphere",
-      "link": "https://phys.org/news/2026-11-fierce-tropical-downpours-dry-atmosphere.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-19T15:40:05.000Z",
-      "excerpt": "Twenty years of weather radar observations around Darwin have helped researchers investigate a surprising feature of tropical rain: the fiercest local downpours tend to occur when the surrounding atmosphere is relatively…"
-    },
-    {
-      "title": "Key EU committee backs EU-wide restrictions on 'forever chemicals'",
-      "link": "https://phys.org/news/2026-11-key-eu-committee-wide-restrictions.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-19T15:05:13.000Z",
-      "excerpt": "The European Chemicals Agency (ECHA) said on Thursday that a second committee of experts had backed EU-wide restrictions on so-called \"forever chemicals,\" citing risks to the environment and health."
-    },
-    {
-      "title": "Study identifies factors that exacerbated the 2024 flash flood in l'Horta Sud",
-      "link": "https://phys.org/news/2026-11-factors-exacerbated-lhorta-sud.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-19T15:00:13.000Z",
-      "excerpt": "The severity of the flooding experienced by l'Horta Sud on Oct. 29, 2024, can be explained by a combination of exceptional rainfall, near-simultaneous rises in several ravines and a heavily urbanized area, according to a…"
-    },
-    {
-      "title": "A blue desert: Researchers record decrease in phytoplankton in Monterey Bay due to El Niño",
-      "link": "https://phys.org/news/2026-11-blue-decrease-phytoplankton-monterey-bay.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-19T14:40:10.000Z",
-      "excerpt": "MBARI's advanced technologies continuously monitor the oceanographic and biological conditions in Monterey Bay. These instruments and the decades of data they have collected are invaluable as MBARI scientists work to und…"
-    },
-    {
-      "title": "Brazil's approach to deforestation delivers major reductions in Amazon forest loss",
-      "link": "https://phys.org/news/2026-11-brazil-approach-deforestation-major-reductions.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-19T14:20:05.000Z",
-      "excerpt": "A new study finds that a Brazilian policy aimed at reducing deforestation appears to be remarkably effective and has significantly reduced forest loss in the Brazilian Amazon. The largest reductions occurred on private l…"
-    },
-    {
-      "title": "What we eat matters more for the climate footprint than where it's grown",
-      "link": "https://phys.org/news/2026-11-climate-footprint-grown.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-19T13:40:15.000Z",
-      "excerpt": "A new study from NTNU's Industrial Ecology Programme examines the proportion of greenhouse gas emissions from transportation compared with food production."
     },
     {
       "title": "Gas pipelines to lead oil and gas pipeline length additions in India by 2030",
@@ -202,54 +298,6 @@
       "category": "industry",
       "published": "2026-11-19T07:26:06.000Z",
       "excerpt": "EnQuest Group has agreed to sell its UK upstream business and related infrastructure to NEO NEXT+ Energy Upstream UK in a deal valued at up to $960m."
-    },
-    {
-      "title": "Machine-learned acceleration of earthquake sequence simulations",
-      "link": "https://arxiv.org/abs/2611.23561",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-19T05:00:00.000Z",
-      "excerpt": "arXiv:2611.23561v1 Announce Type: new Abstract: Earthquake sequence simulations involve slow interseismic processes and rapid dynamic ruptures. During interseismic periods, a numerical solver can take large time steps ef…"
-    },
-    {
-      "title": "A State-Level Assessment of Space Weather Impact on the Virginia Power Grid: From Vulnerability to Mitigation Strategies",
-      "link": "https://arxiv.org/abs/2611.23791",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-19T05:00:00.000Z",
-      "excerpt": "arXiv:2611.23791v1 Announce Type: new Abstract: Contemporary methodologies exist for assessing the nationwide impacts of geomagnetically induced currents (GICs), such as the Coupled Space Weather Impact Model (C-SWIM), w…"
-    },
-    {
-      "title": "HydroMind: A Checkable Agent for Autonomous Hydrological Research",
-      "link": "https://arxiv.org/abs/2611.23323",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-19T05:00:00.000Z",
-      "excerpt": "arXiv:2611.23323v1 Announce Type: cross Abstract: General-purpose coding agents have written code for hydrological and Earth-system models. In these studies the researchers decided in advance how the model would be evalu…"
-    },
-    {
-      "title": "MAIC-2 v2.3: A Fortran program for simulating the surface temperature, atmospheric water transport and surface glaciation of the planet Mars",
-      "link": "https://arxiv.org/abs/2611.23643",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-19T05:00:00.000Z",
-      "excerpt": "arXiv:2611.23643v1 Announce Type: cross Abstract: The Mars Atmosphere-Ice Coupler MAIC-2 is a computationally efficient, zonally-averaged model designed to simulate Martian surface temperature, atmospheric water transpor…"
-    },
-    {
-      "title": "A probabilistic analysis of the Brumadinho tailings dam-breach using uncertainty quantification and global sensitivity analysis",
-      "link": "https://arxiv.org/abs/2611.24172",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-19T05:00:00.000Z",
-      "excerpt": "arXiv:2611.24172v1 Announce Type: cross Abstract: On 25th January 2019, Dam B1 in Brumadinho, Brazil, suddenly collapsed and produced a catastrophic tailings flow with severe human, environmental and infrastructural cons…"
-    },
-    {
-      "title": "Assessing the enrichment of heat-producing elements in deep-mantle structures using a directional geoneutrino detector",
-      "link": "https://arxiv.org/abs/2606.15680",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-19T05:00:00.000Z",
-      "excerpt": "arXiv:2606.15680v2 Announce Type: replace Abstract: Determining the spatial distribution of heat-producing elements (HPEs) within the Earth is critical for understanding the planet's thermal and chemical evolution. A cen…"
     },
     {
       "title": "Energies, Vol. 19, Pages 5609: Digital Twin Technologies for High-Voltage Power Transmission Networks: A Bibliometric Analysis (2016&ndash;2025) and a Research Perspective on a Physics-Informed Framework for Corona-Discharge and Transmission-Loss Diagnostics",
@@ -306,46 +354,6 @@
       "category": "energy",
       "published": "2026-11-19T00:00:00.000Z",
       "excerpt": "Photovoltaic (PV) systems of several hundred kilowatts increasingly operate in low-voltage (LV) microgrids, yet field data on their power quality (PQ) and switching are scarce. We report Class A measurements (105 days in…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5602: GeoDENs: A Dynamic Simulation Framework for Sizing and Techno-Economic and Environmental Assessment of 5GDHC Networks Based on Shallow Geothermal Energy",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5602",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-19T00:00:00.000Z",
-      "excerpt": "Fifth-generation district heating and cooling (5GDHC) networks based on shallow geothermal energy (SGE) benefit from complementary heating and cooling demands and shared ground heat exchangers, requiring design tools tha…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5601: Co-Production of Advanced Biofuels and Tailored Biochar from Organic Waste: Thermochemical Reactor Engineering, Activation Mechanisms, and Community-Scale Applications",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5601",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-19T00:00:00.000Z",
-      "excerpt": "The allocation of waste carbon between a fuel intermediate and a durable or functional char determines whether thermochemical co-production adds value. This narrative review examines reactor selection, fuel upgrading, ch…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5600: Delayed Load Frequency Regulation via a Load-Disturbance-Integrated Integral Sliding Manifold",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5600",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-19T00:00:00.000Z",
-      "excerpt": "The increasing penetration of renewable energy sources has significantly reduced system inertia and intensified frequency fluctuations, while communication-induced input delays (ITDs), parameter uncertainties, and practi…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5599: Research on Underwater Electric Field-Coupled Wireless Charging System",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5599",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-19T00:00:00.000Z",
-      "excerpt": "Underwater equipment is widely utilized in marine exploration, where energy supply limitations remain an important factor constraining its endurance, operational range, and performance efficiency. Traditional wired and b…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5598: Short-Term Response Analysis of Multistage Cavity Completion in Deep Coalbed Methane Horizontal Wells",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5598",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-19T00:00:00.000Z",
-      "excerpt": "Coalbed methane (CBM), as a key component of unconventional natural gas resources, holds substantial strategic value in the context of the ongoing energy transition toward low-carbon systems. In recent years, significant…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3725: Multi-Scale Computational Fluid Dynamics (CFD) and Reduced-Order Modeling (ROM) of Metal Membrane Modules for Blue Hydrogen Production and Carbon Capture, Utilization, and Storage (CCUS)",
@@ -474,30 +482,6 @@
       "category": "industry",
       "published": "2026-11-18T07:57:15.000Z",
       "excerpt": "SBM Offshore has won contracts from ExxonMobil Guyana, a subsidiary of ExxonMobil, to build and install a floating production, storage and offloading vessel (FPSO) for the Longtail development project offshore Guyana."
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3716: Microalgal-Bacterial Nitrogen Removal Dynamics in Tannery Wastewater",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3716",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-18T00:00:00.000Z",
-      "excerpt": "Effluent from anaerobic digestion of tannery effluent contains high concentrations of ammonia and residual organics and requires tertiary remediation before discharge. The aim of this study was to gain insight into micro…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3715: Dynamic Free-Surface Response of an Aircraft Lubricating Oil Tank Under Constant Acceleration Using SPH",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3715",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-18T00:00:00.000Z",
-      "excerpt": "Oil redistribution during aircraft maneuvers can expose the oil-supply port and compromise lubrication. This study investigates free-surface dynamics in an aircraft lubricating oil tank based on actual tank geometry with…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3713: Physicochemical, Rheological, and Sensory Characterization of Pistachio&ndash;Pumpkin Seed Composite Pastes",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3713",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-18T00:00:00.000Z",
-      "excerpt": "This study investigated the physicochemical, rheological, and sensory characteristics of composite pastes formulated with pistachio kernel paste (PKP) and pumpkin seed paste (PSP) at varying ratios: 100:0, 0:100, 90:10,…"
     },
     {
       "title": "Shell begins gas production from Rosmari and Marjoram fields",
@@ -874,6 +858,22 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "Efficient lignocellulose fractionation in 3 min using a lignin-derived deep eutectic solvent for enhanced enzymatic saccharification",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126039621?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part D Author(s): Shaojie Zhang, Ting Wang, Yubin Fei, Jinyuan Cheng, Xuelian Zhou, Caoxing Huang, Chen Huang"
+    },
+    {
+      "title": "Monolithic Amine-Modified honeycomb adsorbents with polyethylene glycol Promoter for Low-Temperature regenerable CO 2 capture",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126039785?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part D Author(s): Yinghao Zhang, Meng Zhao, Ping Yang, Liang Huang, Yanshan Gao, Qianwen Zheng, Noeldris lópez lópez, Qiang Wang"
     }
   ]
 }
