@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T20:41:16.932Z",
+  "generatedAt": "2026-11-21T07:39:28.113Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 4,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,46 @@
     }
   ],
   "items": [
+    {
+      "title": "What makes rock deep beneath continents break away and sink?",
+      "link": "https://phys.org/news/2026-11-deep-beneath-continents.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-21T04:20:01.000Z",
+      "excerpt": "We usually picture mountain building as rock being pushed upward. But deep beneath some mountain belts and volcanic arcs, the opposite can happen: dense rock at the base of the crust can become unstable, break away and s…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5642: Multi-Output Performance Prediction of a Vapor-Compression Chiller Using a Genetic-Algorithm-Optimized Artificial Neural Network",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5642",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-21T00:00:00.000Z",
+      "excerpt": "Mechanistic models of vapor-compression refrigeration systems couple refrigerant state changes, heat transfer and fluid flow, and are therefore difficult to construct and solve. This work examines whether a multi-output…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3745: Production Heterogeneity and Separation Facility Operating Indicators in a Mature Heavy Oil System: A Statistical Baseline from the Gorisht-Kocul Field in Albania",
+      "link": "https://www.mdpi.com/2227-9717/14/23/3745",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-21T00:00:00.000Z",
+      "excerpt": "Legacy heavy oil facilities seldom publish process data, and thus the response of chemical and fuel use to a high water cut is poorly documented. This study establishes a statistical baseline for the Gorisht-Kocul heavy…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3744: Mechanistic Insights into the Effect of Stirring Intensity on Bulk Micro-Nanobubble-Enhanced Quartz Flotation",
+      "link": "https://www.mdpi.com/2227-9717/14/23/3744",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-21T00:00:00.000Z",
+      "excerpt": "Bulk micro-nanobubbles (BMNBs) have shown great potential for enhancing fine particle flotation; however, the evolution of BMNB-induced structures under different hydrodynamic conditions remains unclear. In this study, t…"
+    },
+    {
+      "title": "'Forever' chemicals? Don't be so sure, says engineer",
+      "link": "https://phys.org/news/2026-11-chemicals-dont.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-20T22:40:02.000Z",
+      "excerpt": "Inside the disinfection room of Baltimore's Ashburton water filtration plant, 14 University of Maryland students clad in hard hats peered up at six towering vats of bleach used to treat water that flows from the distant…"
+    },
     {
       "title": "Hazardous glacial lakes need reservoir-style safety oversight, says researcher",
       "link": "https://phys.org/news/2026-11-hazardous-glacial-lakes-reservoir-style.html",
@@ -154,54 +194,6 @@
       "category": "geoscience",
       "published": "2026-11-20T16:50:01.000Z",
       "excerpt": "In the desert, winter snow may seem like a temporary visitor, but its effects can last long after the snow melts. By supplying water to dry ecosystems, snowfall helps sustain biological soil crusts (biocrusts), thin livi…"
-    },
-    {
-      "title": "Tokyo's hidden methane: Survey pinpoints nearly 100 hot spots",
-      "link": "https://phys.org/news/2026-11-tokyo-hidden-methane-survey-hot.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-20T16:00:05.000Z",
-      "excerpt": "Carbon dioxide (CO₂) has been the poster child of climate change, but another culprit could be flying just under the radar. Methane is a potent greenhouse gas with a global warming potential approximately 84 times greate…"
-    },
-    {
-      "title": "From paper to rayon: The wood pulp behind everyday goods is putting Indonesia's forests at risk",
-      "link": "https://phys.org/news/2026-11-paper-rayon-wood-pulp-everyday.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-20T14:40:12.000Z",
-      "excerpt": "Rayon, the soft, breathable fabric many people have come to love, is often derived from wood pulp. Wood pulp is made by breaking wood down into its fibers, which can then be pressed into paper or spun into thread. Much o…"
-    },
-    {
-      "title": "SR-Agent: An Advanced Intelligent Agent for Seismic Data Restoration",
-      "link": "https://arxiv.org/abs/2611.25466",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-20T05:00:00.000Z",
-      "excerpt": "arXiv:2611.25466v1 Announce Type: new Abstract: Field seismic data often suffer from multiple degradations, including noise contamination, incomplete geometry, low-frequency loss, and reduced spatial resolution, requirin…"
-    },
-    {
-      "title": "Evaluation of machine-learning and deep-learning SPEI drought forecasts against persistence across timescales and lead times in Bangladesh",
-      "link": "https://arxiv.org/abs/2611.25075",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-20T05:00:00.000Z",
-      "excerpt": "arXiv:2611.25075v1 Announce Type: cross Abstract: Bangladesh, home to nearly 178 million people, is highly vulnerable to recurring droughts that threaten food security and rural livelihoods. Machine-learning and deep-lea…"
-    },
-    {
-      "title": "Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators",
-      "link": "https://arxiv.org/abs/2611.25130",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-20T05:00:00.000Z",
-      "excerpt": "arXiv:2611.25130v1 Announce Type: cross Abstract: Temporal prediction of seismic velocity fields beyond the time interval represented in training remains challenging for neural operator models. This study develops a coup…"
-    },
-    {
-      "title": "From FAIR to AWARE: Data Readiness for Agentic AI in the Earth Sciences",
-      "link": "https://arxiv.org/abs/2611.25209",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-20T05:00:00.000Z",
-      "excerpt": "arXiv:2611.25209v1 Announce Type: cross Abstract: Artificial intelligence in the Earth sciences is beginning to act: prototype agents already search archives, run simulations and draft analyses. Scientific data were cura…"
     },
     {
       "title": "Energies, Vol. 19, Pages 5641: System-Level Optimization of Hybrid Diode&ndash;Thyristor Fault Current Limiters for Multi-Terminal HVDC Protection",
@@ -292,14 +284,6 @@
       "excerpt": "This study evaluates how photovoltaic&amp;ndash;thermal (PVT) domestic hot water (DHW) preheating tank configurations affect the energy performance and operational CO2 emissions of a residential air-source heat pump (ASH…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5630: Electric-Vehicle Flexibility and Hydrogen Storage in Renewable Capacity Planning for an Export-Oriented Municipality",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5630",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-20T00:00:00.000Z",
-      "excerpt": "Municipalities with renewables far above local demand plan generation, hydrogen and electric-vehicle (EV) charging together, yet whether EV flexibility and hydrogen add value independently or compete is unclear. We study…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3741: Generative-Prior-Constrained Resistance Inversion and Full-Network State Reconstruction for Mine Ventilation Under Sparse Monitoring",
       "link": "https://www.mdpi.com/2227-9717/14/22/3741",
       "source": "Processes (MDPI)",
@@ -378,22 +362,6 @@
       "category": "processing",
       "published": "2026-11-20T00:00:00.000Z",
       "excerpt": "Perovskite solar cells depend on precursor coordination, crystallization, grain-boundary chemistry, and interfacial degradation. This systematic review, conducted according to PRISMA 2020, evaluates plant-derived seconda…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3733: Reexamining the Technological and Physiological Relevance of Dietary Fiber Physicochemical Properties",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3733",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-20T00:00:00.000Z",
-      "excerpt": "Dietary fiber (DF) physicochemical properties are widely used to explain food-processing behavior and physiological effects, although the relationships between these properties and functional outcomes are not always stra…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3732: A Condition Assessment and Decision-Making Model for UHV Transformers Driven by a Domain Knowledge Graph and Multidimensional Capability",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3732",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-20T00:00:00.000Z",
-      "excerpt": "To address the challenges of poor data quality, reliance on manual intervention, and coarse evaluation granularity in the operation and maintenance of ultra-high-voltage (UHV) transformers, a condition assessment and dec…"
     },
     {
       "title": "Gas pipelines to lead oil and gas pipeline length additions in India by 2030",
@@ -874,6 +842,38 @@
       "category": "processing",
       "published": null,
       "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part D Author(s): Shanjian Zhang, Kang Zhou, Yingjie Chen, Qingjun Du, Yongge Liu, Bei Wei, Jian Hou"
+    },
+    {
+      "title": "Formulation of surrogates aimed at emulating the sooting propensity of wood-derived pyrolysis oils",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038354?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part D Author(s): Carl Rainville, Romain Lemaire, Brice Martial Kamdem, Jasmine Hertzog, Vincent Carré, Sébastien Menanteau"
+    },
+    {
+      "title": "Mechanistic insights into the regulation of targeted pyrolysis products from cellulose, xylan and lignin under joule heating",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126038445?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part D Author(s): Mengyu Jin, Yuanbo Song, Mohamed E.A. EI-sayed, Islam A. Abdelhafeez, Meng Xia, Yalei Zhang, Zheng Shen"
+    },
+    {
+      "title": "Highly efficient construction of ordered mesoporous carbon with abundant framework pyrrolic-N sites enhances Cu-catalyzed methanol oxidative carbonylation to dimethyl carbonate",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126039232?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part D Author(s): Hanchao Yao, Huiling Zheng, Huaimao Kang, Fanhui Meng, Zhong Li"
+    },
+    {
+      "title": "Prediction of diesel engine performance and emissions characteristics using plastic-derived fuel blends enhanced with nanoparticles through LM-ANN",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126039335?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part D Author(s): Md. Alamgir Hossain, Md. Emdadul Hoque, Md. Rasel Ahmed, Yingai Jin"
     }
   ]
 }
