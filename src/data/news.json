@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:44:37.835Z",
+  "generatedAt": "2026-11-22T07:24:12.988Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -75,6 +75,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Energies, Vol. 19, Pages 5654: Adaptive Ensemble Forecasting of Ultra-Short-Term Offshore Wind Power with Reinforcement-Learning-Based Local Error Correction",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5654",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-22T00:00:00.000Z",
+      "excerpt": "Ultra-short-term offshore wind power forecasting is challenged by coupled multi-source inputs and unstable local errors during extreme fluctuations. This study develops an adaptive ensemble forecasting system with reinfo…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5655: Public Acceptance of Nuclear Energy in Southeastern Poland in the Context of Paul Slovic&rsquo;s Risk Theory and the Presence of Selected Radioactive Elements in the Environment",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5655",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-22T00:00:00.000Z",
+      "excerpt": "Radionuclides of anthropogenic origin remain a significant issue in the context of food safety and can influence the public perception of nuclear energy, even at the current low levels of population exposure. This study…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5651: Correlates of Generation Z Attitudes Towards Renewable Energy Sources: Evidence from Italy, Lithuania, Morocco and Poland",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5651",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-22T00:00:00.000Z",
+      "excerpt": "Renewable energy sources are central to decarbonisation, and social support for their expansion is linked to how citizens understand and evaluate the energy transition. This study examines attitudes towards renewable ene…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5652: Modulation of Gas Hydrate Formation Kinetics and Morphology by Silica Particles: Insights from Multiscale Observations",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5652",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-22T00:00:00.000Z",
+      "excerpt": "Mineral particles are ubiquitous in hydrate-bearing sediments and significantly influence hydrate formation and distribution. Here, high-pressure visualization and in situ micro-CT were combined to examine gas hydrate fo…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3748: One-Day-Ahead Forecasting of Tight Gas Production and Model Interpretation in the X Gas Field",
+      "link": "https://www.mdpi.com/2227-9717/14/23/3748",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-22T00:00:00.000Z",
+      "excerpt": "Tight gas reservoirs are characterized by strong heterogeneity and complex nonlinear temporal behavior in gas production. This study focuses on a tight gas reservoir in the X Gas Field of the Ordos Basin and utilizes a d…"
+    },
     {
       "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses",
       "link": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html",
@@ -154,14 +194,6 @@
       "category": "energy",
       "published": "2026-11-21T00:00:00.000Z",
       "excerpt": "This study examines whether enriching the raw gas re-injected for pressure maintenance with CO2 can increase in situ CO2 storage in a high-pressure sour carbonate reservoir (Field X) without a dedicated external anthropo…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5642: Multi-Output Performance Prediction of a Vapor-Compression Chiller Using a Genetic-Algorithm-Optimized Artificial Neural Network",
-      "link": "https://www.mdpi.com/1996-1073/19/23/5642",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-21T00:00:00.000Z",
-      "excerpt": "Mechanistic models of vapor-compression refrigeration systems couple refrigerant state changes, heat transfer and fluid flow, and are therefore difficult to construct and solve. This work examines whether a multi-output…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3747: Probabilistic Component Failure Modeling and Risk Ranking for Distribution Systems Under Compound Typhoon&ndash;Rainstorm Disasters",
@@ -276,30 +308,6 @@
       "excerpt": "New research from NIHR School of Public Health Research, published in the Lancet Planetary Health, provides new insights into how taking action on climate can impact young people's climate change distress, mental health…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5641: System-Level Optimization of Hybrid Diode&ndash;Thyristor Fault Current Limiters for Multi-Terminal HVDC Protection",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5641",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-20T00:00:00.000Z",
-      "excerpt": "Voltage source converter (VSC)-based high-voltage direct current (HVDC) systems face a critical challenge during DC-side faults and require rapid fault current limitation to ensure effective system protection. Convention…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5640: Household Renewable Energy Investment Intentions Under Early AI Adoption: Economic Motivations, Entrepreneurial Competencies, and Financial Risk",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5640",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-20T00:00:00.000Z",
-      "excerpt": "Household intentions to invest in renewable energy sources (RESs) are associated with expected economic benefits, individual decision-making competencies, and perceived investment risk. The increasing availability of art…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5639: Experimental Hardware-in-the-Loop Assessment of Automatic Voltage Regulator Mismatch Effects in Parallel-Operating Shipboard Generators",
-      "link": "https://www.mdpi.com/1996-1073/19/22/5639",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-20T00:00:00.000Z",
-      "excerpt": "Parallel operation of synchronous generators in a shipboard power system requires properly coordinated Automatic Voltage Regulators (AVRs). AVR mismatch can cause unequal reactive power sharing and increased generator cu…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3741: Generative-Prior-Constrained Resistance Inversion and Full-Network State Reconstruction for Mine Ventilation Under Sparse Monitoring",
       "link": "https://www.mdpi.com/2227-9717/14/22/3741",
       "source": "Processes (MDPI)",
@@ -354,14 +362,6 @@
       "category": "processing",
       "published": "2026-11-20T00:00:00.000Z",
       "excerpt": "Transient stability assessment must identify instability and its likely sources despite incomplete and delayed phasor measurement unit (PMU) data. This study develops a physics-guided graph-temporal framework that jointl…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3736: Dynamic Optimization of Water Kefir Fermentation Through a Temperature-Dependent Two-State Kinetic Model",
-      "link": "https://www.mdpi.com/2227-9717/14/22/3736",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-20T00:00:00.000Z",
-      "excerpt": "Water kefir is a probiotic beverage produced by a consortium of yeasts and lactic acid bacteria (LAB) whose activity depends on temperature. We developed a temperature-dependent kinetic model of water kefir fermented wit…"
     },
     {
       "title": "Gas pipelines to lead oil and gas pipeline length additions in India by 2030",
