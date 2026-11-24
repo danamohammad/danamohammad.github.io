@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:05:07.263Z",
+  "generatedAt": "2026-11-24T02:16:47.301Z",
   "sources": {
     "manual": {
       "ok": true,
@@ -9,19 +9,19 @@
     "orcid": {
       "ok": true,
       "count": 7,
-      "lastSuccess": "2026-11-23T13:05:04.430Z",
+      "lastSuccess": "2026-11-24T02:16:44.730Z",
       "error": null
     },
     "crossref": {
-      "ok": false,
+      "ok": true,
       "count": 4,
-      "lastSuccess": "2026-11-21T20:55:16.952Z",
-      "error": "HTTP 429"
+      "lastSuccess": "2026-11-24T02:16:46.004Z",
+      "error": null
     },
     "zenodo": {
       "ok": true,
       "count": 0,
-      "lastSuccess": "2026-11-23T13:05:07.244Z",
+      "lastSuccess": "2026-11-24T02:16:47.123Z",
       "error": null,
       "note": "no records deposited under this ORCID yet"
     },
@@ -60,7 +60,7 @@
       "pdf": null,
       "type": "article",
       "abstract": null,
-      "citations": null,
+      "citations": 8,
       "source": "orcid"
     },
     {
@@ -509,7 +509,7 @@
       "url": "https://doi.org/10.3390/en15186833",
       "pdf": null,
       "type": "article",
-      "abstract": null,
+      "abstract": "Asphaltene are large molecular crude constituents and their existence is related to numerous problems. However, nanofluids have proven to be a very stable and effective way of dealing with asphaltene agglomerations. This research addresses the effectiveness of nanofluids as compared to traditional and available (FLOW-X) commercial inhibitors. The synthesis and characterization of two green NPs and",
       "citations": 16,
       "source": "scholar"
     },
