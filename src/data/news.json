@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:53:18.307Z",
+  "generatedAt": "2026-11-27T09:00:54.286Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -57,9 +57,9 @@
     },
     {
       "name": "arXiv — Geophysics",
-      "ok": true,
-      "count": 7,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "no items parsed"
     },
     {
       "name": "Phys.org — Earth",
@@ -75,6 +75,78 @@
     }
   ],
   "items": [
+    {
+      "title": "Harvard’s tiny UV light chip could help shrink quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
+      "source": "ScienceDaily — Energy Technology",
+      "category": "energy",
+      "published": "2026-11-27T03:22:20.000Z",
+      "excerpt": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light than previous comparable approaches by efficiently converting red light into UV. The breakthrough could unlock s…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5754: Occurrence of a Large Temporary Overvoltage Due to a Phase Interruption in a 220 kV Line",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5754",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-27T00:00:00.000Z",
+      "excerpt": "The paper details the occurrence of a severe temporary overvoltage (TOV) in an existing Italian HV/MV system where a radially operated 180 km, 220 kV overhead line experienced an asymmetrical phase conductor break. The r…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5753: A Review of Virtual Power Plant Technology and Practice Development in China: Progress, Challenges, and Outlook",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5753",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-27T00:00:00.000Z",
+      "excerpt": "As a key vehicle for resource integration in the construction of new power systems, the virtual power plant (VPP) in China has moved beyond the demonstration and pilot stage and entered a critical transition toward stand…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5752: Multi-Objective Scheduling of Data Center Microgrids Considering IT&ndash;Cooling Physical Coupling and Attention-Enhanced Mixture-of-Experts",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5752",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-27T00:00:00.000Z",
+      "excerpt": "Data center sustainability combines workload scheduling, information technology (IT) equipment, cooling, and energy storage into a constrained multi-objective optimization problem. Existing soft actor-critic with mixture…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5750: Parametric CFD Analysis of Annular Groove Geometry on Nucleation Dynamics and Thermal Resistance in Thermosyphon Heat Pipes",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5750",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-27T00:00:00.000Z",
+      "excerpt": "Annular grooves are widely proposed as a passive enhancement for two-phase closed thermosyphons, yet the literature reports their effect almost exclusively through global thermal metrics, leaving the underlying vapor-gen…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5751: Integrated One-Dimensional and CFD Modelling of a Radiant Platen Superheater in Industrial Boiler Conditions",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5751",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-27T00:00:00.000Z",
+      "excerpt": "Accurate prediction of thermal and flow phenomena in radiant platen steam superheaters is essential for ensuring the safe and efficient operation of industrial steam boilers. This task remains challenging due to the stro…"
+    },
+    {
+      "title": "Energies, Vol. 19, Pages 5748: Correction: Patel et al. Mission-Profile-Aware Physics-of-Failure Reliability Assessment and Quantitative FMEA of a 10 kW Solid-State Transformer. Energies 2026, 19, 4520",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5748",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-27T00:00:00.000Z",
+      "excerpt": "In the original publication [...]"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3821: A Single Ultrasonic Time-of-Flight Uniquely Determines Surface Heat Flux and Temperature Field: Proof and Temperature Field Experiment",
+      "link": "https://www.mdpi.com/2227-9717/14/23/3821",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-27T00:00:00.000Z",
+      "excerpt": "Ultrasonic time-of-flight (TOF) is sensitive to the temperature along its propagation path, which offers a non-intrusive route to sense the thermal state inside solid structures. However, existing ultrasonic thermometry…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3820: Selective Adsorption of Uranium from High Acid and High Chloride Zirconium Leach Liquor",
+      "link": "https://www.mdpi.com/2227-9717/14/23/3820",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-27T00:00:00.000Z",
+      "excerpt": "Uranium associated with zircon sand enters zirconium leach liquor during acid leaching and can subsequently migrate into downstream process streams. Its direct recovery from industrial leach liquor is challenging because…"
+    },
     {
       "title": "5G interference can alter high-impact weather forecasts",
       "link": "https://phys.org/news/2026-11-5g-high-impact-weather.html",
@@ -164,62 +236,6 @@
       "excerpt": "Equinor has revised its 2026 production growth guidance back to approximately 3%, reversing a recent upgrade, after temporary shut-ins and operational difficulties at three fields."
     },
     {
-      "title": "Basin-Scale Nonlinear Dynamics of Thermohaline Ocean Circulation. Part I: Theory",
-      "link": "https://arxiv.org/abs/2611.33383",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-26T05:00:00.000Z",
-      "excerpt": "arXiv:2611.33383v1 Announce Type: new Abstract: Earth's thermohaline ocean circulation may support multiple equilibria and abrupt transitions. Similar bifurcation structures for different ocean models suggest common unde…"
-    },
-    {
-      "title": "APEX: Agentic Platform for Ensemble eXploration",
-      "link": "https://arxiv.org/abs/2611.33450",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-26T05:00:00.000Z",
-      "excerpt": "arXiv:2611.33450v1 Announce Type: new Abstract: Ensemble-based methods provide a practical framework for history matching, prediction, and optimization of subsurface models. In methodological studies, however, performanc…"
-    },
-    {
-      "title": "Ion and electron temperature recovery for Irkutsk incoherent scatter measurements",
-      "link": "https://arxiv.org/abs/2611.33902",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-26T05:00:00.000Z",
-      "excerpt": "arXiv:2611.33902v1 Announce Type: new Abstract: Recovering ion and electron plasma temperatures from Irkutsk Incoherent Scatter Radar (IISR) data is a challenge due to rapid Faraday rotation, which significantly distorts…"
-    },
-    {
-      "title": "Full-waveform inversion with adaptive anisotropic Gaussian primitives",
-      "link": "https://arxiv.org/abs/2611.34441",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-26T05:00:00.000Z",
-      "excerpt": "arXiv:2611.34441v1 Announce Type: new Abstract: Reparameterizing the velocity model has emerged as an effective way to regularize full-waveform inversion (FWI) and reduce its sensitivity to the starting model. Existing p…"
-    },
-    {
-      "title": "Weak buoyancy and cold lithospheres decouple interior melting from seafloor volcanism on icy ocean worlds",
-      "link": "https://arxiv.org/abs/2611.33478",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-26T05:00:00.000Z",
-      "excerpt": "arXiv:2611.33478v1 Announce Type: cross Abstract: On icy ocean worlds, deep silicate melting can generate sufficient pressure to open fractures while magma freezes before reaching the ocean. We identify a coupled transpo…"
-    },
-    {
-      "title": "LatENSO v1.0: a learned latent state of the tropical Pacific for seasonal ENSO operators and forecasting",
-      "link": "https://arxiv.org/abs/2611.34296",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-26T05:00:00.000Z",
-      "excerpt": "arXiv:2611.34296v1 Announce Type: cross Abstract: Here we present LatENSO v1.0, a machine-learning forecast system for the El Ni\\~no-Southern Oscillation (ENSO) built around a learned, 32-dimensional state of the tropica…"
-    },
-    {
-      "title": "The linear Boltzmann equation in column experiments of porous media",
-      "link": "https://arxiv.org/abs/1908.00726",
-      "source": "arXiv — Geophysics",
-      "category": "preprints",
-      "published": "2026-11-26T05:00:00.000Z",
-      "excerpt": "arXiv:1908.00726v2 Announce Type: replace Abstract: The use of the linear Boltzmann equation is proposed for transport in porous media in a column. By column experiments, we show that the breakthrough curve is reproduced…"
-    },
-    {
       "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
       "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
       "source": "ScienceDaily — Geology",
@@ -282,54 +298,6 @@
       "category": "energy",
       "published": "2026-11-26T00:00:00.000Z",
       "excerpt": "Hydrogen-powered forklifts represent an important application of hydrogen energy and have attracted considerable attention. Metal hydrides (MHs), which are effective hydrogen storage media with high volumetric capacity,…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5742: On Metallurgical Coke Reactivity and Blast Furnace Raceway Behavior: A CFD and Response Surface Study",
-      "link": "https://www.mdpi.com/1996-1073/19/23/5742",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-26T00:00:00.000Z",
-      "excerpt": "The blast furnace remains a major ironmaking route and a significant source of greenhouse gas emissions. Reducing coke consumption requires understanding how coke properties and gas&amp;ndash;solid transport affect conve…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5740: An Integrated Machine Learning Framework for Wind Speed Forecasting and Energy Estimation with Cross-Site Evaluation",
-      "link": "https://www.mdpi.com/1996-1073/19/23/5740",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-26T00:00:00.000Z",
-      "excerpt": "Wind speed (WS) and wind energy (WE) prediction are key to the proper operation of a power system (PS) and the integration of wind turbines. Existing research, however, has primarily focused on prediction accuracy and fe…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5738: A Multiwinding-Transformer-Based Current Redistribution Equalizer for Series-Connected SOEC Stack Towers",
-      "link": "https://www.mdpi.com/1996-1073/19/23/5738",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-26T00:00:00.000Z",
-      "excerpt": "Series-connected solid oxide electrolysis stacks carry a common supply current even when their gas flows and contact resistances differ. We propose a current redistribution equalizer that injects current through four sec…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5739: Smart Load Management System for Residential Energy Optimization: Design, Implementation and Validation",
-      "link": "https://www.mdpi.com/1996-1073/19/23/5739",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-26T00:00:00.000Z",
-      "excerpt": "The increasing adoption of high-power residential appliances and electric vehicles has significantly increased household electricity demand, leading to higher peak loads, increased electricity costs, and greater stress o…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5736: System Value and Investor Incentives for Planned Nuclear Power in Uzbekistan: A Capacity-Expansion and Cournot Analysis",
-      "link": "https://www.mdpi.com/1996-1073/19/23/5736",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-26T00:00:00.000Z",
-      "excerpt": "Uzbekistan began building its first nuclear plant, at Farish, in 2026 while moving from a single-buyer model to a wholesale electricity market. Part of the plant&amp;rsquo;s value may accrue to the single buyer, which pr…"
-    },
-    {
-      "title": "Energies, Vol. 19, Pages 5737: Bias-Aware State-of-Charge Estimation with Causal Residual Learning for Battery Energy Storage Systems",
-      "link": "https://www.mdpi.com/1996-1073/19/23/5737",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-26T00:00:00.000Z",
-      "excerpt": "Accurate state-of-charge (SOC) estimation is essential for reliable battery energy storage system (BESS) operation. For lithium iron phosphate (LFP) batteries, the flat open-circuit-voltage characteristic weakens voltage…"
     },
     {
       "title": "Processes, Vol. 14, Pages 3819: Pilot-Scale Integration of Reverse Demulsification, Coalescence and Membrane Polishing for Heavy-Crude Desalter Effluent",
@@ -410,22 +378,6 @@
       "category": "processing",
       "published": "2026-11-26T00:00:00.000Z",
       "excerpt": "Energetic charges must be removed from the casings of retired munitions and solid rocket motors before disposal and resource recovery. Water jet technology has been used for energetic-material fragmentation and charge wa…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3810: Unsupervised Physics-Informed Neural Network for Distribution Line Parameter Identification Under AMI Measurement Conditions",
-      "link": "https://www.mdpi.com/2227-9717/14/23/3810",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-26T00:00:00.000Z",
-      "excerpt": "Estimating line resistance and reactance from advanced metering infrastructure (AMI) measurements is difficult when branch voltage drops are comparable to measurement noise. This study evaluates an unsupervised physics-i…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3808: A Graph-Assisted Fusion LSTM Method for Multi-Step Prediction of Reheater Wall Tube Temperature",
-      "link": "https://www.mdpi.com/2227-9717/14/23/3808",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-26T00:00:00.000Z",
-      "excerpt": "As renewable penetration increases and deep peak-shaving operation becomes routine, reheater wall temperature is increasingly affected by load variation, combustion adjustment, steam parameter fluctuations, and multivari…"
     },
     {
       "title": "Draining peatlands leaves a long legacy of warming",
@@ -684,14 +636,6 @@
       "excerpt": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a tunable beam of plasma capable of transmitting radio waves. The technology could revolutionize wireless communi…"
     },
     {
-      "title": "Physicists just found the ‘ghost’ of superconductivity",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
-      "source": "ScienceDaily — Energy Technology",
-      "category": "energy",
-      "published": "2026-10-07T12:34:39.000Z",
-      "excerpt": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly, thes…"
-    },
-    {
       "title": "Comment to paper by Ferreira et al.",
       "link": "https://www.sciencedirect.com/science/article/pii/S2949891026005725?dgcid=rss_sd_all",
       "source": "Geoenergy Science and Engineering",
@@ -874,6 +818,62 @@
       "category": "reservoir",
       "published": null,
       "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Camilo Pedrosa, Arild Saasen, Jan David Ytrehus"
+    },
+    {
+      "title": "Design and performance study of a two-stage inline gas-liquid cyclone separator with large range of inlet gas volume fraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0920410522010701?dgcid=rss_sd_all",
+      "source": "Journal of Petroleum Science and Engineering",
+      "category": "reservoir",
+      "published": null,
+      "excerpt": "Publication date: January 2023 Source: Journal of Petroleum Science and Engineering, Volume 220, Part B Author(s): Qiang-qiang Wang, Jia-qing Chen, Chun-sheng Wang, Yi-peng Ji, Chao Shang, Ming Zhang, Yi Shi, Guo-dong Di…"
+    },
+    {
+      "title": "A quantitative study relating surfactant concentration to middle-phase microemulsion phase behavior and oil recovery factor",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126041578?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part E Author(s): Moyi Li, Yiwei Fang, Guangzhi Liao, Zhengdong Lei, Yan Zhang, Xuezhi Zhao, Yujun Feng"
+    },
+    {
+      "title": "Coal rank-dependent evolution of pore structure and coalbed methane (CBM) transport in anthracite and coking coal under hot steam injection",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126040652?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part E Author(s): Minghao Chu, He Li, Quanle Zou, Yi Lu, Wei Yang, Jiexin Lu, Shiliang Shi, Yidu Hong"
+    },
+    {
+      "title": "An omni-mechanistic dynamic model framework for circulating fluidized bed power plants",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126041529?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part E Author(s): Xiannan Hu, David Pallarès, Diana Carolina Guio Perez, Haowen Wu, Tuo Zhou, Man Zhang, Hairui Yang"
+    },
+    {
+      "title": "Numerical investigation of boron-particle combustion characteristics in a scramjet combustor under O 2 /H 2 O conditions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126041207?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part E Author(s): Shulong Yang, Xibo Wang, Pengfei Ji, Jingbo Wang"
+    },
+    {
+      "title": "Accelerated crystallization of coal gangue-derived ZSM-5 through enhanced heat transfer and its influence on acid-site evolution",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0016236126041724?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part E Author(s): Yuxia Zhu, Jianbo Wang, Yunfei Xu, Nini Zhai, Jiaming Yan, Qian Zhu, Yinghui Sun, Ying Li, Jie Bai"
+    },
+    {
+      "title": "Valorization of underutilized plastic pyrolysis gas for hydrogen production: Integrated thermodynamic and experimental study of steam reforming",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001623612604130X?dgcid=rss_sd_all",
+      "source": "Fuel",
+      "category": "processing",
+      "published": null,
+      "excerpt": "Publication date: March 2027 Source: Fuel, Volume 431, Part E Author(s): Ji-Hyeon Gong, Jung-Hun Kim, Min-Ju Kim, Jaewon Cha, Seungki Back, Doyeon Lee, Min-Jun Kim, Kyung-Won Jeon, Jae-Oh Shim, Won-Jun Jang"
     }
   ]
 }
