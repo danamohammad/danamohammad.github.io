@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:36:21.334Z",
+  "generatedAt": "2026-11-28T08:22:57.633Z",
   "sources": [
     {
       "name": "Geoenergy Science and Engineering",
@@ -76,6 +76,62 @@
   ],
   "items": [
     {
+      "title": "Energies, Vol. 19, Pages 5772: Adaptive Multi-Model Forecasting of Transformer Dissolved Gases from Short Monitoring Histories",
+      "link": "https://www.mdpi.com/1996-1073/19/23/5772",
+      "source": "Energies (MDPI)",
+      "category": "energy",
+      "published": "2026-11-28T00:00:00.000Z",
+      "excerpt": "Short dissolved-gas histories are useful for transformer condition assessment, but they make record cleaning and predictor selection uncertain. We present a data-constrained forecasting pipeline that combines operating-s…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3842: Membrane Separation for Helium Recovery from Boil-Off Gas: Process Design and Aspen Plus HYSYS Simulation",
+      "link": "https://www.mdpi.com/2227-9717/14/23/3842",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-28T00:00:00.000Z",
+      "excerpt": "Helium is a scarce, non-renewable resource. Boil-off gas (BOG) from liquefied natural gas facilities offers a secondary helium source. This study developed a membrane-based helium pre-concentration process by integrating…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3841: Production and Physicochemical Characterization of Exopolysaccharide from Cryptococcus laurentii BNM 0525",
+      "link": "https://www.mdpi.com/2227-9717/14/23/3841",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-28T00:00:00.000Z",
+      "excerpt": "Exopolysaccharides (EPSs) are high-molecular-weight macromolecules with diverse physicochemical properties that make them attractive for applications in the food, pharmaceutical, biomedical, cosmetic, and environmental s…"
+    },
+    {
+      "title": "Processes, Vol. 14, Pages 3840: Citric-Acid-Derived Carbon Dots as Multifunctional Lubricating Additives for Water-Based Drilling Fluids",
+      "link": "https://www.mdpi.com/2227-9717/14/23/3840",
+      "source": "Processes (MDPI)",
+      "category": "processing",
+      "published": "2026-11-28T00:00:00.000Z",
+      "excerpt": "The simultaneous control of friction, filter-cake adhesion, wear, and corrosion remains a major challenge for water-based drilling fluids (WBDFs) under high-temperature and high-salinity conditions. Herein, citric-acid-d…"
+    },
+    {
+      "title": "Rocks under the lens: A simple microscope opens new possibilities for quantitative rock analysis",
+      "link": "https://phys.org/news/2026-11-lens-simple-microscope-possibilities-quantitative.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-27T23:20:10.000Z",
+      "excerpt": "Rocks hold a wealth of information about Earth's history. The size, shape and orientation of the mineral grains that make them up can reveal how rocks formed, deformed and changed deep beneath the surface. However, colle…"
+    },
+    {
+      "title": "Fiber-optic sensing unearths surprising complexity in small California earthquake",
+      "link": "https://phys.org/news/2026-11-fiber-optic-unearths-complexity-small.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-27T22:40:01.000Z",
+      "excerpt": "More than 20,000 earthquakes are located worldwide each year, but the vast majority of those are small—many too small to be felt by humans. Scientists have historically assumed most of these small earthquakes break as sm…"
+    },
+    {
+      "title": "Why a warmer atmosphere doesn't guarantee more water in rivers",
+      "link": "https://phys.org/news/2026-11-warmer-atmosphere-doesnt-rivers.html",
+      "source": "Phys.org — Earth",
+      "category": "geoscience",
+      "published": "2026-11-27T21:40:04.000Z",
+      "excerpt": "Austria experienced an exceptional drought in 2026. From the start of the year until the end of October, rainfall was around a third lower than the long-term average. The consequences are low river flows and groundwater…"
+    },
+    {
       "title": "The world is experiencing a string of abnormally hot days—and records are being shattered",
       "link": "https://phys.org/news/2026-11-world-experiencing-abnormally-hot-days.html",
       "source": "Phys.org — Earth",
@@ -146,30 +202,6 @@
       "category": "geoscience",
       "published": "2026-11-27T18:20:05.000Z",
       "excerpt": "In contrast to the 2025 seasonal ozone hole above Antarctica, which was the fifth smallest since 1992, this year's ozone hole ranks as one of the largest in 48 years, based on long-term atmospheric observations, includin…"
-    },
-    {
-      "title": "Q&A: What matters most to homeowners facing flooding?",
-      "link": "https://phys.org/news/2026-11-qa-homeowners.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-27T16:20:15.000Z",
-      "excerpt": "The annual amount of precipitation and the frequency of extreme events have increased in Pennsylvania in recent decades, and both are expected to continue increasing, leading to a higher flood risk. Most climate risk stu…"
-    },
-    {
-      "title": "Brazil loses up to 75 days of rainy season as extreme heat threatens food production",
-      "link": "https://phys.org/news/2026-11-brazil-days-rainy-season-extreme.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-27T15:40:11.000Z",
-      "excerpt": "Parts of Brazil have lost up to 75 days of their rainy season over the past three decades, while extreme heat is becoming increasingly common across millions of hectares of farmland, according to new research involving T…"
-    },
-    {
-      "title": "Internet cables double as seismic sensors to map earthquake faults in fine detail",
-      "link": "https://phys.org/news/2026-11-internet-cables-seismic-sensors-earthquake.html",
-      "source": "Phys.org — Earth",
-      "category": "geoscience",
-      "published": "2026-11-27T14:48:24.000Z",
-      "excerpt": "Along the rugged spine of New Zealand's South Island lies the Alpine Fault, a major tectonic boundary between the Australian and Pacific plates. The fault last unleashed a major earthquake in 1717, and geoscientists esti…"
     },
     {
       "title": "Forte reports up to 5.8bbbl of prospective oil at Harrier, Alaska",
@@ -300,14 +332,6 @@
       "excerpt": "Extra-high voltage submarine cables serve as a vital component for new energy grid integration and island power grids, and reliable diagnosis of their grounding faults is of great significance to the safe and stable oper…"
     },
     {
-      "title": "Energies, Vol. 19, Pages 5760: Technology Readiness and Energy Productive Capacity: Aggregate and Component Threshold Evidence",
-      "link": "https://www.mdpi.com/1996-1073/19/23/5760",
-      "source": "Energies (MDPI)",
-      "category": "energy",
-      "published": "2026-11-27T00:00:00.000Z",
-      "excerpt": "Economies with comparable energy infrastructure can differ in their capacity to turn energy services into productive activity, making technological capabilities an important economic policy concern. This study compares a…"
-    },
-    {
       "title": "Processes, Vol. 14, Pages 3839: An Overview of Unconventional Photovoltaic Applications and the Numerical Methods Used in Their Design and Optimization",
       "link": "https://www.mdpi.com/2227-9717/14/23/3839",
       "source": "Processes (MDPI)",
@@ -378,30 +402,6 @@
       "category": "processing",
       "published": "2026-11-27T00:00:00.000Z",
       "excerpt": "This study evaluates natural zeolite from the Chankanay deposit modified with cobalt (ZMC) and nickel (ZMN) ions as an alternative to conventional metal naphthenate adhesion promoters in isoprene rubber compounds bonded…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3831: Integrated Thermo-Oxidative Processing of Sewage Sludge for Energy and Mineral Resource Recovery: A Comparative Study",
-      "link": "https://www.mdpi.com/2227-9717/14/23/3831",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-27T00:00:00.000Z",
-      "excerpt": "The management of sludge from wastewater treatment plants presents both an environmental challenge and an opportunity for resource recovery. This study presents a comparative characterization of two sludge samples, N1 an…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3830: Non-Thermal Pretreatments for Hot-Air Drying of Whole Black Chokeberry (Aronia melanocarpa): Comparison of Cold Plasma and Indirect Ultrasound",
-      "link": "https://www.mdpi.com/2227-9717/14/23/3830",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-27T00:00:00.000Z",
-      "excerpt": "Whole black chokeberries, with their surface wax and firm structure, dry slowly. Atmospheric-pressure cold plasma for 150 or 300 s (CP2.5 and CP5) and indirect ultrasound for 30 min (IUS) were compared before hot-air dry…"
-    },
-    {
-      "title": "Processes, Vol. 14, Pages 3827: Technical&ndash;Economic Limits and Block-Level Development Sequencing for Production Replacement in a Mature High-Water-Cut Oilfield",
-      "link": "https://www.mdpi.com/2227-9717/14/23/3827",
-      "source": "Processes (MDPI)",
-      "category": "processing",
-      "published": "2026-11-27T00:00:00.000Z",
-      "excerpt": "Production replacement in mature high-water-cut oilfields requires decisions about how long existing units can continue operating and when replacement stages should enter production. This study examined these decisions i…"
     },
     {
       "title": "Repsol, Eni jointly commit $2bn to Venezuelan PDVSA ventures",
